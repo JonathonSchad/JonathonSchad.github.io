@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>CNSE UGSA - Home</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,6 +19,8 @@
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link rel="shortcut icon" href="assets/images/favicon.png" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,94 +32,93 @@
 </head>
 
 <body>
-
+  <header class="banner hidden-xs">
+    <div class="container">
+      <div class="col-sm-10">
+        <img class="img-responsive" src="assets/images/logo_white.png">
+      </div>
+      <div class="col-sm-2 hidden-xs social-bar">
+        <a href="https://twitter.com/CnseUgsa" class="btn btn-lg btn-social-icon"><span class="fa fa-twitter"></span></a>
+        <a href="https://www.facebook.com/ugsacnse?fref=ts" class="btn btn-lg btn-social-icon"><span class="fa fa-facebook"></span></a>
+      </div>
+    </div>
+  </header>
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button type="button col-xs-2" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand hidden-xs" href="index.html"><span class="glyphicon glyphicon-home"></span></a>
+                <a class="visible-xs col-xs-10" href="index.html"><img class="img-responsive xs-logo" src="assets/images/logo_white.png"></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="services.html">Services</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
-                    </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Government<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="portfolio-1-col.html">1 Column Portfolio</a>
+                                <a href="eboard.html">Executive Board</a>
                             </li>
                             <li>
-                                <a href="portfolio-2-col.html">2 Column Portfolio</a>
+                                <a href="committees.html">Committees</a>
                             </li>
                             <li>
-                                <a href="portfolio-3-col.html">3 Column Portfolio</a>
+                                <a href="documents.html">Governing Documents</a>
                             </li>
                             <li>
-                                <a href="portfolio-4-col.html">4 Column Portfolio</a>
-                            </li>
-                            <li>
-                                <a href="portfolio-item.html">Single Portfolio Item</a>
+                                <a href="minutes.html">Meeting Minutes</a>
                             </li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Organizations<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="blog-home-1.html">Blog Home 1</a>
+                                <a href="organizations.html">List of Active Organizations</a>
                             </li>
                             <li>
-                                <a href="blog-home-2.html">Blog Home 2</a>
-                            </li>
-                            <li>
-                                <a href="blog-post.html">Blog Post</a>
+                                <a href="forms.html">Organization Forms</a>
                             </li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Resources<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="full-width.html">Full Width Page</a>
+                                <a href="internships.html">Internships</a>
                             </li>
                             <li>
-                                <a href="sidebar.html">Sidebar Page</a>
+                                <a href="career_services.html">Career Services</a>
                             </li>
                             <li>
-                                <a href="faq.html">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="404.html">404</a>
-                            </li>
-                            <li>
-                                <a href="pricing.html">Pricing Table</a>
+                                <a href="p2p.html">P2P Mentoring</a>
                             </li>
                         </ul>
                     </li>
+                    <li>
+                        <a href="newspaper.html">Newspaper</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav nav-pills visible-xs">
+                  <li><a href="https://twitter.com/CnseUgsa" class="btn btn-link"><span class="fa fa-twitter"></span></a></li>
+                  <li><a href="https://www.facebook.com/ugsacnse?fref=ts" class="btn btn-link"><span class="fa fa-facebook"></span></a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
-    </nav>
+      </nav>
+    </header>
 
     <!-- Header Carousel -->
+
     <header id="myCarousel" class="carousel slide">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -129,21 +130,21 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                <a href="executive_board.html"><div class="fill" style="background-image:url('assets/images/eboard.jpg');"></div></a>
                 <div class="carousel-caption">
-                    <h2>Caption 1</h2>
+                    <h2>Meet your 2015-2016 UGSA Executive Board</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+                <a href="newspaper.html"><div class="fill" style="background-image:url('assets/images/newspaper.jpg');"></div></a>
                 <div class="carousel-caption">
-                    <h2>Caption 2</h2>
+                    <h2>NEW: CNSE UGSA Newspaper</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                <a href="organization.html"><div class="fill" style="background-image:url('assets/images/clubs.jpg');"></div></a>
                 <div class="carousel-caption">
-                    <h2>Caption 3</h2>
+                    <h2>Learn about the student organizations at CNSE</h2>
                 </div>
             </div>
         </div>
@@ -164,128 +165,264 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Welcome to Modern Business
+                  CNSE Undergraduate Student Association
                 </h1>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i> Bootstrap v3.2.0</h4>
+                        <h4><i class="glyphicon glyphicon-envelope"></i> Contact your UGSA representative</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <p>Each CNSE class is representated by two elected class representatives. Do you have a comment or concern you would like your representative to address? Contact them now using our online form.</p>
+                        <a href="contact.html" class="btn btn-primary">Contact Representative</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i> Free &amp; Open Source</h4>
+                        <h4><i class="glyphicon glyphicon-info-sign"></i> About UGSA</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <p>The CNSE UGSA was established in 2014 to serve as the voice of the undergraduate students that are located at the Albany site of SUNY Polytechnic Institute. CNSE UGSA works closely with univeristy admistration and the Utica site SA to better the college experience for all students.</p>
+                        <a href="faq.html" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i> Easy to Use</h4>
+                        <h4><i class="glyphicon glyphicon-calendar"></i> Upcoming Events</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <p>Learn about what events UGSA, Residential Life, and the Office of Student Affairs has planned.</p>
+                        <a href="calendar.html" class="btn btn-primary">View Calendar</a>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Portfolio Section -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Portfolio Heading</h2>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
-                </a>
             </div>
         </div>
         <!-- /.row -->
 
         <!-- Features Section -->
+        <div class="well">
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Modern Business Features</h2>
+                <h2>Spring 2016 Executive Board Meetings</h2>
+                <h5><i>Posted January 26, 2016 by Jonathon Schad</i></h3>
+            </div>
+            <div class="col-md-12">
+                <p>The CNSE UGSA will be conducting executive board meetings on Fridays starting at 12:30pm. Meetings will be biweekly starting the first week of February. Meetings are open to all CNSE undergraduate students and a open forum is provided at the end of each meeting to address and concerns or questions brought by any students in attendence.</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>CNSE Laser Tag Event</h2>
+                <h5><i>Posted January 23, 2016 by Jonathon Schad</i></h3>
             </div>
             <div class="col-md-6">
-                <p>The Modern Business template by Start Bootstrap includes:</p>
-                <ul>
-                    <li><strong>Bootstrap v3.2.0</strong>
-                    </li>
-                    <li>jQuery v1.11.0</li>
-                    <li>Font Awesome v4.1.0</li>
-                    <li>Working PHP contact form with validation</li>
-                    <li>Unstyled page elements for easy customization</li>
-                    <li>17 HTML pages</li>
-                </ul>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                <p>The CNSE UGSA, in association with the Office of Student Affairs and Residential Life, is planning a night of lasertag on April 6th at Zero Gravity located on Central Avenue in Albany. There is no cost to attend for CNSE students. Transportation will be provided to and from Zero Gravity. Exact time of the event and a link to RSVP will be provided soon.</p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/700x450" alt="">
+                <img class="img-responsive" src="assets/images/laser.jpg" alt="">
             </div>
+        </div>
+
+        <hr>
+
+        <!-- Pictures Sections -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Pictures from Fall 2015 Paintball Event</h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_1">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_1.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_1.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_2">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_2.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_2.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_3">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_3.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_3.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_4">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_4.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_4.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_5">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_5.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_5.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#paint_6">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/paintball/paint_6.jpg" alt="">
+                </a>
+            </div>
+            <div id="paint_6" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/paintball/paint_6.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Pictures from Fall 2015 Welcome Back Event and Club Social</h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_1">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_1.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_1.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_2">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_2.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_2.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_3">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_3.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_3.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_4">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_4.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_4.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_5">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_5.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_5.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html" data-toggle="modal" data-target="#social_6">
+                    <img class="img-responsive img-portfolio img-hover" src="assets/images/social_and_block_party/social_6.jpg" alt="">
+                </a>
+            </div>
+            <div id="social_6" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <img src="assets/images/social_and_block_party/social_6.jpg" class="img-responsive">
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
         </div>
         <!-- /.row -->
-
-        <hr>
-
-        <!-- Call to Action Section -->
-        <div class="well">
-            <div class="row">
-                <div class="col-md-8">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
-                </div>
-                <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
-                </div>
-            </div>
-        </div>
-
-        <hr>
 
         <!-- Footer -->
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; CNSE UGSA 2016</p>
                 </div>
             </div>
         </footer>
@@ -298,6 +435,8 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/picture.js"></script>
 
     <!-- Script to Activate the Carousel -->
     <script>

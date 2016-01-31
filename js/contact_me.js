@@ -1,6 +1,6 @@
 /*
   Jquery Validation using jqBootstrapValidation
-   example is taken from jqBootstrapValidation docs 
+   example is taken from jqBootstrapValidation docs
   */
 $(function() {
 
@@ -14,7 +14,7 @@ $(function() {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
             var name = $("input#name").val();
-            var phone = $("input#phone").val();
+            var class_year = $("input#class").val();
             var email = $("input#email").val();
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
@@ -27,7 +27,7 @@ $(function() {
                 type: "POST",
                 data: {
                     name: name,
-                    phone: phone,
+                    class_year: class_year,
                     email: email,
                     message: message
                 },

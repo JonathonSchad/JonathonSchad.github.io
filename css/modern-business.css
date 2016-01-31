@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 0px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 .img-portfolio {
@@ -21,6 +21,97 @@ body {
 
 .img-hover:hover {
     opacity: 0.8;
+}
+
+.panel {
+  border-color:  #EDA900;
+}
+
+.panel > .panel-heading {
+    background-color: #EDA900;
+    color: #002C73;
+}
+
+.btn-primary {
+    background-color: #294E8A;
+    color: #FFFFFF;
+}
+
+.btn-primary:hover {
+    background: #002C73;
+    color: #FFFFFF;
+}
+
+.btn-social-icon {
+    color: #FFFFFF;
+}
+
+.btn-social-icon:hover {
+    color: #EDA900;
+}
+
+.banner {
+    background: #002C73;
+    padding: 10px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.navbar-static-top {
+  background-color: #EDA900;
+}
+
+.navbar-static-top .navbar-nav > li > a {
+    color: #FFFFFF;
+}
+
+.navbar-static-top .navbar-nav > li > a:hover {
+    background-color: #002C73;
+    color: #FFFFFF;
+}
+
+.navbar-static-top .navbar-header .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-static-top .navbar-brand:hover {
+    color: #002C73;
+}
+
+.navbar-static-top .navbar-nav > .active > a,
+.navbar-static-top .navbar-nav > .active > a:hover,
+.navbar-static-top .navbar-nav > .active > a:focus {
+    color: #FFFFFF;
+    background-color: #002C73;
+}
+.navbar-static-top .navbar-nav > .open > a,
+.navbar-static-top .navbar-nav > .open > a:hover,
+.navbar-static-top .navbar-nav > .open > a:focus {
+    color: #FFFFFF;
+    background-color: #002C73;
+}
+
+.navbar-static-top .navbar-nav > .dropdown > a .caret {
+    border-top-color: #EDA900;
+    border-bottom-color: #EDA900;
+}
+
+.xs-logo {
+  padding: 10px;
+}
+
+hr {
+border-color: #002C73;
+}
+
+.well {
+  border-color: #EDA900;
 }
 
 /* Home Page Carousel */
@@ -91,3 +182,31 @@ footer {
         height: 70%;
     }
 }
+
+@media (max-width: 550px) {
+     .big-container {
+         display: none;
+     }
+ }
+ @media (min-width: 550px) {
+     .small-container {
+         display: none;
+     }
+ }
+ /* Responsive iFrame */
+ .responsive-iframe-container {
+     position: relative;
+     padding-bottom: 56.25%;
+     padding-top: 30px;
+     height: 0;
+     overflow: hidden;
+ }
+ .responsive-iframe-container iframe,
+ .vresponsive-iframe-container object,
+ .vresponsive-iframe-container embed {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+ }
