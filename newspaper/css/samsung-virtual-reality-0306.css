@@ -1,7 +1,7 @@
 .version.samsung_virtual_reality_0306 /* version checker */
 {
-	color: #000000;
-	background-color: #C1F8C4;
+	color: #00001C;
+	background-color: #0047B8;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 499.53765450000014px;
+	min-height: 499.5376544999999px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
