@@ -189,9 +189,8 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Picture-Caption
 {
-	font-family: open-sans, sans-serif;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-size: 11px;
-	font-weight: 400;
 	padding: 0px;
 }
 
