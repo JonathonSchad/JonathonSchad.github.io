@@ -1,51 +1,51 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="cnseugas.com/newspaper" resolutions="1x" timestamp="1459546189286">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="cnseugsa.com/newspaper.html,cnseugsa.com/newspaper/index.html" resolutions="1x" timestamp="1459782355483">
   <folder name="css">
     <file name="site_global.css" crc="3893506878"/>
-    <file name="master_section-pages.css" crc="3860874848" ref="world-news:life---local:science---technology:opinions"/>
-    <file name="master_other-pages.css" crc="4225251077" ref="world-news:index:archives:contact-us:life---local:science---technology:opinions:about-us"/>
-    <file name="master_articles.css" crc="3824293076" ref="samsung-virtual-reality-0306:political-insights-from-political-websites-0330:apple-vs.-the-fbi-0323:introducing-the-cnse-herald-0301:obama-goes-to-cuba-0330:bloody-bloody-andrew-jackson-0315:african-drumming-0301:zika-0311:oscarssowhite-0306:mythbusters-comes-to-an-end-0323:presidential-profiles-0306:entering-cnse-0301:middle-states-accreditation-0301:women-s-history-month-0308:student-space-opens-0330:brokered-convention-0323:why-do-gen-eds-matter-0311:hb2-vote-0301:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:female-libido-drug-0308:super-tuesday-0308:noodles---company-review-0306:uaceas-0311:boaty-mcboatface-0401:merrick-garland-0401:college-of-arts-and-science-0401:kuwait-dna-testing-0401:restaurant-week-0401:brussels-bombing-0401:middle-states-0401"/>
-    <file name="samsung-virtual-reality-0306.css" crc="469780408" ref="samsung-virtual-reality-0306"/>
-    <file name="political-insights-from-political-websites-0330.css" crc="3986960795" ref="political-insights-from-political-websites-0330"/>
-    <file name="apple-vs_-the-fbi-0323.css" crc="109920026" ref="apple-vs.-the-fbi-0323"/>
-    <file name="introducing-the-cnse-herald-0301.css" crc="216951866" ref="introducing-the-cnse-herald-0301"/>
-    <file name="obama-goes-to-cuba-0330.css" crc="88439069" ref="obama-goes-to-cuba-0330"/>
-    <file name="world-news.css" crc="64129000" ref="world-news"/>
-    <file name="bloody-bloody-andrew-jackson-0315.css" crc="337469049" ref="bloody-bloody-andrew-jackson-0315"/>
-    <file name="african-drumming-0301.css" crc="101699428" ref="african-drumming-0301"/>
-    <file name="index.css" crc="445674397" ref="index"/>
-    <file name="zika-0311.css" crc="454543919" ref="zika-0311"/>
-    <file name="oscarssowhite-0306.css" crc="18160112" ref="oscarssowhite-0306"/>
-    <file name="mythbusters-comes-to-an-end-0323.css" crc="298021392" ref="mythbusters-comes-to-an-end-0323"/>
-    <file name="presidential-profiles-0306.css" crc="255908792" ref="presidential-profiles-0306"/>
-    <file name="entering-cnse-0301.css" crc="25699625" ref="entering-cnse-0301"/>
-    <file name="archives.css" crc="381191112" ref="archives"/>
-    <file name="middle-states-accreditation-0301.css" crc="148130088" ref="middle-states-accreditation-0301"/>
-    <file name="women-s-history-month-0308.css" crc="211641712" ref="women-s-history-month-0308"/>
-    <file name="student-space-opens-0330.css" crc="4196390242" ref="student-space-opens-0330"/>
-    <file name="contact-us.css" crc="3842960139" ref="contact-us"/>
-    <file name="brokered-convention-0323.css" crc="366852660" ref="brokered-convention-0323"/>
-    <file name="why-do-gen-eds-matter-0311.css" crc="311401781" ref="why-do-gen-eds-matter-0311"/>
-    <file name="hb2-vote-0301.css" crc="3882053983" ref="hb2-vote-0301"/>
-    <file name="your-life-in-graduate-school-0301.css" crc="4177636671" ref="your-life-in-graduate-school-0301"/>
-    <file name="life---local.css" crc="387331419" ref="life---local"/>
-    <file name="laser-guided-interstellar-travel-0301.css" crc="4141132652" ref="laser-guided-interstellar-travel-0301"/>
-    <file name="mooplans-0306.css" crc="4131124059" ref="mooplans-0306"/>
-    <file name="changing-face-of-grief-0330.css" crc="3769232634" ref="changing-face-of-grief-0330"/>
-    <file name="things-to-do-around-albany-0326.css" crc="4270013212" ref="things-to-do-around-albany-0326"/>
-    <file name="female-libido-drug-0308.css" crc="87101391" ref="female-libido-drug-0308"/>
-    <file name="super-tuesday-0308.css" crc="11182091" ref="super-tuesday-0308"/>
-    <file name="noodles---company-review-0306.css" crc="14920574" ref="noodles---company-review-0306"/>
-    <file name="uaceas-0311.css" crc="409294572" ref="uaceas-0311"/>
-    <file name="science---technology.css" crc="3980168360" ref="science---technology"/>
-    <file name="opinions.css" crc="4109084135" ref="opinions"/>
-    <file name="about-us.css" crc="285155966" ref="about-us"/>
-    <file name="boaty-mcboatface-0401.css" crc="3947921486" ref="boaty-mcboatface-0401"/>
-    <file name="merrick-garland-0401.css" crc="278954824" ref="merrick-garland-0401"/>
-    <file name="college-of-arts-and-science-0401.css" crc="4058944630" ref="college-of-arts-and-science-0401"/>
-    <file name="kuwait-dna-testing-0401.css" crc="3799839403" ref="kuwait-dna-testing-0401"/>
-    <file name="restaurant-week-0401.css" crc="3758124145" ref="restaurant-week-0401"/>
-    <file name="brussels-bombing-0401.css" crc="489974622" ref="brussels-bombing-0401"/>
-    <file name="middle-states-0401.css" crc="185659989" ref="middle-states-0401"/>
+    <file name="master_section-pages.css" crc="4265323781" ref="world-news:life---local:science---technology:opinions"/>
+    <file name="master_other-pages.css" crc="327132141" ref="world-news:index:archives:contact-us:life---local:science---technology:opinions:about-us"/>
+    <file name="master_articles.css" crc="4008634127" ref="samsung-virtual-reality-0306:political-insights-from-political-websites-0330:apple-vs.-the-fbi-0323:introducing-the-cnse-herald-0301:obama-goes-to-cuba-0330:boaty-mcboatface-0401:bloody-bloody-andrew-jackson-0315:african-drumming-0301:zika-0311:oscarssowhite-0306:mythbusters-comes-to-an-end-0323:presidential-profiles-0306:entering-cnse-0301:middle-states-accreditation-0301:women-s-history-month-0308:merrick-garland-0401:student-space-opens-0330:college-of-arts-and-science-0401:brokered-convention-0323:why-do-gen-eds-matter-0311:kuwait-dna-testing-0401:hb2-vote-0301:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:restaurant-week-0401:female-libido-drug-0308:super-tuesday-0308:noodles---company-review-0306:uaceas-0311:brussels-bombing-0401:middle-states-0401"/>
+    <file name="samsung-virtual-reality-0306.css" crc="68456036" ref="samsung-virtual-reality-0306"/>
+    <file name="political-insights-from-political-websites-0330.css" crc="4274720148" ref="political-insights-from-political-websites-0330"/>
+    <file name="apple-vs_-the-fbi-0323.css" crc="3976198706" ref="apple-vs.-the-fbi-0323"/>
+    <file name="introducing-the-cnse-herald-0301.css" crc="4174055483" ref="introducing-the-cnse-herald-0301"/>
+    <file name="obama-goes-to-cuba-0330.css" crc="4058998337" ref="obama-goes-to-cuba-0330"/>
+    <file name="boaty-mcboatface-0401.css" crc="4279285782" ref="boaty-mcboatface-0401"/>
+    <file name="world-news.css" crc="3927465656" ref="world-news"/>
+    <file name="bloody-bloody-andrew-jackson-0315.css" crc="392895108" ref="bloody-bloody-andrew-jackson-0315"/>
+    <file name="african-drumming-0301.css" crc="4073824060" ref="african-drumming-0301"/>
+    <file name="index.css" crc="422250269" ref="index"/>
+    <file name="zika-0311.css" crc="4227126118" ref="zika-0311"/>
+    <file name="oscarssowhite-0306.css" crc="408616828" ref="oscarssowhite-0306"/>
+    <file name="mythbusters-comes-to-an-end-0323.css" crc="4173582917" ref="mythbusters-comes-to-an-end-0323"/>
+    <file name="presidential-profiles-0306.css" crc="3877423261" ref="presidential-profiles-0306"/>
+    <file name="entering-cnse-0301.css" crc="477672949" ref="entering-cnse-0301"/>
+    <file name="archives.css" crc="4231303319" ref="archives"/>
+    <file name="middle-states-accreditation-0301.css" crc="276220402" ref="middle-states-accreditation-0301"/>
+    <file name="women-s-history-month-0308.css" crc="4192494125" ref="women-s-history-month-0308"/>
+    <file name="merrick-garland-0401.css" crc="527154319" ref="merrick-garland-0401"/>
+    <file name="student-space-opens-0330.css" crc="265913365" ref="student-space-opens-0330"/>
+    <file name="college-of-arts-and-science-0401.css" crc="4268674496" ref="college-of-arts-and-science-0401"/>
+    <file name="contact-us.css" crc="396718557" ref="contact-us"/>
+    <file name="brokered-convention-0323.css" crc="218272518" ref="brokered-convention-0323"/>
+    <file name="why-do-gen-eds-matter-0311.css" crc="4173894971" ref="why-do-gen-eds-matter-0311"/>
+    <file name="kuwait-dna-testing-0401.css" crc="470122740" ref="kuwait-dna-testing-0401"/>
+    <file name="hb2-vote-0301.css" crc="4005705468" ref="hb2-vote-0301"/>
+    <file name="your-life-in-graduate-school-0301.css" crc="38766057" ref="your-life-in-graduate-school-0301"/>
+    <file name="life---local.css" crc="4180534268" ref="life---local"/>
+    <file name="laser-guided-interstellar-travel-0301.css" crc="3793866565" ref="laser-guided-interstellar-travel-0301"/>
+    <file name="mooplans-0306.css" crc="504918162" ref="mooplans-0306"/>
+    <file name="changing-face-of-grief-0330.css" crc="438329939" ref="changing-face-of-grief-0330"/>
+    <file name="things-to-do-around-albany-0326.css" crc="371573224" ref="things-to-do-around-albany-0326"/>
+    <file name="restaurant-week-0401.css" crc="4101570395" ref="restaurant-week-0401"/>
+    <file name="female-libido-drug-0308.css" crc="115152580" ref="female-libido-drug-0308"/>
+    <file name="super-tuesday-0308.css" crc="4076081151" ref="super-tuesday-0308"/>
+    <file name="noodles---company-review-0306.css" crc="4256347547" ref="noodles---company-review-0306"/>
+    <file name="uaceas-0311.css" crc="3876512416" ref="uaceas-0311"/>
+    <file name="brussels-bombing-0401.css" crc="4216367489" ref="brussels-bombing-0401"/>
+    <file name="middle-states-0401.css" crc="60983324" ref="middle-states-0401"/>
+    <file name="science---technology.css" crc="3887997405" ref="science---technology"/>
+    <file name="opinions.css" crc="4081876016" ref="opinions"/>
+    <file name="about-us.css" crc="443629277" ref="about-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:world-news:life---local:science---technology:about-us:contact-us:brokered-convention-0323:opinions:archives:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:things-to-do-around-albany-0326:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401"/>
@@ -66,11 +66,14 @@
     <file name="form-u1754.php" crc="21562850" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="heraldlogo.png" crc="4213052452" seo="true" ref="index:world-news:life---local:science---technology:about-us:contact-us:opinions:archives"/>
+    <file name="heraldlogo.png" crc="305504738" seo="true" ref="index:world-news:life---local:science---technology:about-us:contact-us:opinions:archives"/>
     <file name="uaceas.jpg" crc="3951192128" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:things-to-do-around-albany-0326"/>
     <file name="cnsezen.jpg" crc="200415321" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:things-to-do-around-albany-0326"/>
+    <file name="750x-1-crop-u2711.jpg" crc="3758255106" ref="index"/>
+    <file name="download _op_3_cp__1458141894329_973815_ver10-crop-u3040.jpg" crc="98584478" ref="index"/>
+    <file name="obamacastro-crop-u7338.png" crc="224595473" ref="index"/>
     <file name="cnsezen-crop-u8005.jpg" crc="3991004462" ref="index"/>
     <file name="cnsezen-crop-u8057.jpg" crc="3991004462" ref="index"/>
     <file name="cnsezen-crop-u8082.jpg" crc="3991004462" ref="index"/>
@@ -78,7 +81,8 @@
     <file name="cnsezen-crop-u8132.jpg" crc="3991004462" ref="index"/>
     <file name="cnsezen-crop-u8157.jpg" crc="3991004462" ref="index"/>
     <file name="cnsezen-crop-u8182.jpg" crc="3991004462" ref="index"/>
-    <file name="21-mythbustersw1200h630354x186.jpg" crc="415441635" seo="true" ref="index"/>
+    <file name="rw_-_logo-crop-u12797.jpg" crc="35092879" ref="index"/>
+    <file name="sunypi_cas_seal_2882-crop-u7413.jpg" crc="45155050" ref="index"/>
     <file name="the-new-york-state-museum193x144.jpg" crc="301279299" seo="true" ref="index"/>
     <file name="building exterior summer216x144.jpg" crc="132914679" seo="true" ref="index"/>
     <file name="img_6563217x144.jpg" crc="239393720" seo="true" ref="index"/>
@@ -87,9 +91,17 @@
     <file name="photo1jpg192x144.jpg" crc="276407458" seo="true" ref="index"/>
     <file name="peache-1190x163.jpg" crc="3758980540" seo="true" ref="index"/>
     <file name="javas summer 2008217x144.jpg" crc="4258181534" seo="true" ref="index"/>
+    <file name="21-mythbustersw1200h630354x186.jpg" crc="415441635" seo="true" ref="index"/>
+    <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85-crop-u4532.jpg" crc="4163115962" ref="index"/>
     <file name="capture-crop-u4522.jpg" crc="4252229568" ref="index"/>
     <file name="640x360_60201c00-yumqk291x164.jpg" crc="498409051" seo="true" ref="index"/>
+    <file name="750x-1-crop-u4552.jpg" crc="3868073855" ref="world-news"/>
+    <file name="download _op_3_cp__1458141894329_973815_ver10-crop-u7522.jpg" crc="511242475" ref="world-news"/>
+    <file name="obamacastro-crop-u4577.png" crc="4194301994" ref="world-news"/>
+    <file name="rw_-_logo-crop-u12689.jpg" crc="4224160500" ref="life---local"/>
+    <file name="sunypi_cas_seal_2882-crop-u7571.jpg" crc="102111595" ref="life---local"/>
     <file name="capture196x130.jpg" crc="143208468" seo="true" ref="science---technology"/>
+    <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85189x107.jpg" crc="4078386602" seo="true" ref="science---technology"/>
     <file name="640x360_60201c00-yumqk189x107.jpg" crc="3789316154" seo="true" ref="science---technology"/>
     <file name="group-crop-u1505.jpg" crc="3951577099" ref="about-us"/>
     <file name="u1770-17.png" crc="3904437901" ref="contact-us"/>
@@ -98,6 +110,10 @@
     <file name="u1770-17-fs.png" crc="450571855" ref="contact-us"/>
     <file name="heraldlogo-small-crop-u8219.png" crc="3965059941" ref="brokered-convention-0323:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:things-to-do-around-albany-0326:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401"/>
     <file name="706x410q70brooks-romney-vs-trump.jpg" crc="3788756913" seo="true" ref="brokered-convention-0323"/>
+    <file name="750x-1188x113.jpg" crc="3860026666" seo="true" ref="brokered-convention-0323"/>
+    <file name="sunypi_cas_seal_2882-crop-u13074.jpg" crc="54527432" ref="brokered-convention-0323:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:things-to-do-around-albany-0326:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401"/>
+    <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85-crop-u13082.jpg" crc="4101340401" ref="brokered-convention-0323:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:things-to-do-around-albany-0326:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401"/>
+    <file name="21-mythbustersw1200h630-crop-u13100.jpg" crc="4210410110" ref="brokered-convention-0323:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:things-to-do-around-albany-0326:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401"/>
     <file name="21-mythbustersw1200h630-crop-u6003.jpg" crc="4106830659" ref="opinions"/>
     <file name="gty_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg" crc="3966930038" seo="true" ref="super-tuesday-0308"/>
     <file name="the-new-york-state-museum.jpg" crc="214809021" seo="true" ref="things-to-do-around-albany-0326"/>
@@ -127,64 +143,52 @@
     <file name="andrew3-crop-u7245.jpg" crc="3772200266" ref="bloody-bloody-andrew-jackson-0315"/>
     <file name="21-mythbustersw1200h630-crop-u7297.jpg" crc="4027196261" ref="mythbusters-comes-to-an-end-0323"/>
     <file name="obamacastro-crop-u7368.png" crc="4227822578" ref="obama-goes-to-cuba-0330"/>
-    <file name="750x-1-crop-u2711.jpg" crc="3758255106" ref="index"/>
-    <file name="download _op_3_cp__1458141894329_973815_ver10-crop-u3040.jpg" crc="98584478" ref="index"/>
-    <file name="obamacastro-crop-u7338.png" crc="224595473" ref="index"/>
-    <file name="rw_-_logo-crop-u12797.jpg" crc="35092879" ref="index"/>
-    <file name="sunypi_cas_seal_2882-crop-u7413.jpg" crc="45155050" ref="index"/>
-    <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85-crop-u4532.jpg" crc="4163115962" ref="index"/>
-    <file name="750x-1-crop-u4552.jpg" crc="3868073855" ref="world-news"/>
-    <file name="download _op_3_cp__1458141894329_973815_ver10-crop-u7522.jpg" crc="511242475" ref="world-news"/>
-    <file name="obamacastro-crop-u4577.png" crc="4194301994" ref="world-news"/>
-    <file name="rw_-_logo-crop-u12689.jpg" crc="4224160500" ref="life---local"/>
-    <file name="sunypi_cas_seal_2882-crop-u7571.jpg" crc="102111595" ref="life---local"/>
-    <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85189x107.jpg" crc="4078386602" seo="true" ref="science---technology"/>
     <file name="750x-1-crop-u12346.jpg" crc="22184570" ref="brussels-bombing-0401"/>
     <file name="download _op_3_cp__1458141894329_973815_ver10-crop-u12391.jpg" crc="4237528051" ref="merrick-garland-0401"/>
     <file name="boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85-crop-u12440.jpg" crc="49331390" ref="boaty-mcboatface-0401"/>
     <file name="rw_-_logo-crop-u12463.jpg" crc="51391503" ref="restaurant-week-0401"/>
     <file name="sunypi_cas_seal_2882-crop-u12632.jpg" crc="105353067" ref="college-of-arts-and-science-0401"/>
   </folder>
-  <file name="index.html" crc="4247675526" seo="true" mt="1459546086114" redirect="true"/>
-  <file name="world-news.html" crc="510903478" seo="true" mt="1459545732219" redirect="true"/>
-  <file name="life---local.html" crc="3849024997" seo="true" mt="1459545732208" redirect="true"/>
-  <file name="science---technology.html" crc="3903584648" seo="true" mt="1459545872514" redirect="true"/>
-  <file name="about-us.html" crc="325776241" seo="true" mt="1459545732152" redirect="true"/>
-  <file name="contact-us.html" crc="3871703582" seo="true" mt="1459545732150" redirect="true"/>
-  <file name="brokered-convention-0323.html" crc="250941383" seo="true" mt="1459545732215" redirect="true"/>
-  <file name="opinions.html" crc="325543269" seo="true" mt="1459545732178" redirect="true"/>
-  <file name="archives.html" crc="4141021300" seo="true" mt="1459545732221" redirect="true"/>
-  <file name="super-tuesday-0308.html" crc="4167527468" seo="true" mt="1459545732213" redirect="true"/>
-  <file name="presidential-profiles-0306.html" crc="4263074426" seo="true" mt="1459545732211" redirect="true"/>
-  <file name="hb2-vote-0301.html" crc="185658969" seo="true" mt="1459545732209" redirect="true"/>
-  <file name="things-to-do-around-albany-0326.html" crc="174186999" seo="true" mt="1459545732206" redirect="true"/>
-  <file name="uaceas-0311.html" crc="3764962015" seo="true" mt="1459545732204" redirect="true"/>
-  <file name="mooplans-0306.html" crc="83859773" seo="true" mt="1459545732198" redirect="true"/>
-  <file name="noodles---company-review-0306.html" crc="154576876" seo="true" mt="1459545732196" redirect="true"/>
-  <file name="african-drumming-0301.html" crc="4147427061" seo="true" mt="1459545732202" redirect="true"/>
-  <file name="middle-states-accreditation-0301.html" crc="228904505" seo="true" mt="1459545732200" redirect="true"/>
-  <file name="laser-guided-interstellar-travel-0301.html" crc="4146193329" seo="true" mt="1459545732189" redirect="true"/>
-  <file name="female-libido-drug-0308.html" crc="4114855637" seo="true" mt="1459545732185" redirect="true"/>
-  <file name="zika-0311.html" crc="258012895" seo="true" mt="1459545732183" redirect="true"/>
-  <file name="changing-face-of-grief-0330.html" crc="500626688" seo="true" mt="1459545732181" redirect="true"/>
-  <file name="samsung-virtual-reality-0306.html" crc="4193030233" seo="true" mt="1459545732187" redirect="true"/>
-  <file name="introducing-the-cnse-herald-0301.html" crc="347519444" seo="true" mt="1459545732177" redirect="true"/>
-  <file name="your-life-in-graduate-school-0301.html" crc="4045427629" seo="true" mt="1459545732174" redirect="true"/>
-  <file name="entering-cnse-0301.html" crc="4135828618" seo="true" mt="1459545732172" redirect="true"/>
-  <file name="oscarssowhite-0306.html" crc="466446222" seo="true" mt="1459545732170" redirect="true"/>
-  <file name="women-s-history-month-0308.html" crc="4087348538" seo="true" mt="1459545732167" redirect="true"/>
-  <file name="why-do-gen-eds-matter-0311.html" crc="3779717907" seo="true" mt="1459545732165" redirect="true"/>
-  <file name="bloody-bloody-andrew-jackson-0315.html" crc="236133748" seo="true" mt="1459545732162" redirect="true"/>
-  <file name="apple-vs.-the-fbi-0323.html" crc="3944901119" seo="true" mt="1459545732160" redirect="true"/>
-  <file name="mythbusters-comes-to-an-end-0323.html" crc="227989078" seo="true" mt="1459545732157" redirect="true"/>
-  <file name="political-insights-from-political-websites-0330.html" crc="18310434" seo="true" mt="1459545732155" redirect="true"/>
-  <file name="obama-goes-to-cuba-0330.html" crc="4180191065" seo="true" mt="1459545732218" redirect="true"/>
-  <file name="student-space-opens-0330.html" crc="3863657117" seo="true" mt="1459545732194" redirect="true"/>
-  <file name="brussels-bombing-0401.html" crc="151073191" seo="true" mt="1459532926551" redirect="true"/>
-  <file name="merrick-garland-0401.html" crc="402705894" seo="true" mt="1459541143651" redirect="true"/>
-  <file name="boaty-mcboatface-0401.html" crc="141417813" seo="true" mt="1459533494488" redirect="true"/>
-  <file name="restaurant-week-0401.html" crc="3907661003" seo="true" mt="1459541014124" redirect="true"/>
-  <file name="kuwait-dna-testing-0401.html" crc="170469632" seo="true" mt="1459541262049" redirect="true"/>
-  <file name="middle-states-0401.html" crc="141785969" seo="true" mt="1459541700833" redirect="true"/>
-  <file name="college-of-arts-and-science-0401.html" crc="436067251" seo="true" mt="1459543081712" redirect="true"/>
+  <file name="index.html" crc="4230665034" seo="true" mt="1459782054925" redirect="true"/>
+  <file name="world-news.html" crc="3963116285" seo="true" mt="1459780764408" redirect="true"/>
+  <file name="life---local.html" crc="4013919164" seo="true" mt="1459780764408" redirect="true"/>
+  <file name="science---technology.html" crc="4064612737" seo="true" mt="1459780764408" redirect="true"/>
+  <file name="about-us.html" crc="4212026947" seo="true" mt="1459780321258" redirect="true"/>
+  <file name="contact-us.html" crc="511595263" seo="true" mt="1459780321258" redirect="true"/>
+  <file name="brokered-convention-0323.html" crc="3888732737" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="opinions.html" crc="4287410302" seo="true" mt="1459780764408" redirect="true"/>
+  <file name="archives.html" crc="169627345" seo="true" mt="1459780321258" redirect="true"/>
+  <file name="super-tuesday-0308.html" crc="3772102848" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="presidential-profiles-0306.html" crc="3940447169" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="hb2-vote-0301.html" crc="4034872505" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="things-to-do-around-albany-0326.html" crc="4287022942" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="uaceas-0311.html" crc="4162502206" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="mooplans-0306.html" crc="381818914" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="noodles---company-review-0306.html" crc="196564492" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="african-drumming-0301.html" crc="3917591022" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="middle-states-accreditation-0301.html" crc="266006155" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="laser-guided-interstellar-travel-0301.html" crc="3936566617" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="female-libido-drug-0308.html" crc="4119121428" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="zika-0311.html" crc="3781285418" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="changing-face-of-grief-0330.html" crc="3871720641" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="samsung-virtual-reality-0306.html" crc="263614459" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="introducing-the-cnse-herald-0301.html" crc="210103249" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="your-life-in-graduate-school-0301.html" crc="58619100" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="entering-cnse-0301.html" crc="461772176" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="oscarssowhite-0306.html" crc="3827217881" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="women-s-history-month-0308.html" crc="73721026" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="why-do-gen-eds-matter-0311.html" crc="4271752887" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="bloody-bloody-andrew-jackson-0315.html" crc="359445972" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="apple-vs.-the-fbi-0323.html" crc="284461277" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="mythbusters-comes-to-an-end-0323.html" crc="3912618295" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="political-insights-from-political-websites-0330.html" crc="4119282026" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="obama-goes-to-cuba-0330.html" crc="477860363" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="student-space-opens-0330.html" crc="109768035" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="brussels-bombing-0401.html" crc="492963165" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="merrick-garland-0401.html" crc="346356529" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="boaty-mcboatface-0401.html" crc="98490375" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="restaurant-week-0401.html" crc="498098934" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="kuwait-dna-testing-0401.html" crc="189708624" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="middle-states-0401.html" crc="4121345448" seo="true" mt="1459782213726" redirect="true"/>
+  <file name="college-of-arts-and-science-0401.html" crc="4163467209" seo="true" mt="1459782213726" redirect="true"/>
 </manifest>
