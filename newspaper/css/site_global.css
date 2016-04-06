@@ -179,14 +179,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Article-Highlight
-{
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-	font-size: 14px;
-	text-align: justify;
-	padding: 0px;
-}
-
 .Picture-Caption
 {
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
@@ -203,11 +195,10 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Article-Body
+.Article-Highlight,.Article-Body
 {
-	font-family: open-sans, sans-serif;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-size: 14px;
-	font-weight: 400;
 	text-align: justify;
 	padding: 0px;
 }

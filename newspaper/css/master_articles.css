@@ -204,26 +204,29 @@
 	filter: alpha(opacity=70);
 }
 
-#u13100
-{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-}
-
-#u13100:hover
-{
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-}
-
-#u13066.MuseLinkActive,#u13074.MuseLinkActive,#u13082.MuseLinkActive,#u13100.MuseLinkActive
+#u13066.MuseLinkActive,#u13074.MuseLinkActive,#u13082.MuseLinkActive
 {
 	opacity: 0.51;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=51)";
 	filter: alpha(opacity=51);
+}
+
+#u13126-4
+{
+	background-color: transparent;
+	line-height: 18px;
+}
+
+#u1164.MuseMenuActive #u1167-4 p,#u1171.MuseMenuActive #u1173-4 p,#u1206.MuseMenuActive #u1209-4 p,#u1227.MuseMenuActive #u1229-4 p,#u4109.MuseMenuActive #u4112-4 p,#u1250.MuseMenuActive #u1253-4 p,#u1271.MuseMenuActive #u1274-4 p,#u13126-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u13126-2
+{
+	font-size: 15px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
 #u13112-4
@@ -232,7 +235,7 @@
 	line-height: 17px;
 }
 
-#u1164.MuseMenuActive #u1167-4 p,#u1171.MuseMenuActive #u1173-4 p,#u1206.MuseMenuActive #u1209-4 p,#u1227.MuseMenuActive #u1229-4 p,#u4109.MuseMenuActive #u4112-4 p,#u1250.MuseMenuActive #u1253-4 p,#u1271.MuseMenuActive #u1274-4 p,#u13112-4:hover p
+#u13112-4:hover p
 {
 	color: #EDA900;
 	visibility: inherit;
@@ -262,25 +265,13 @@
 	visibility: inherit;
 }
 
-#u13126-4
-{
-	background-color: transparent;
-	line-height: 17px;
-}
-
-#u13126-4:hover p
-{
-	color: #EDA900;
-	visibility: inherit;
-}
-
-#u13112-4.MuseLinkActive p,#u13120-4.MuseLinkActive p,#u13123-4.MuseLinkActive p,#u13126-4.MuseLinkActive p
+#u13126-4.MuseLinkActive p,#u13112-4.MuseLinkActive p,#u13120-4.MuseLinkActive p,#u13123-4.MuseLinkActive p
 {
 	color: #000000;
 	visibility: inherit;
 }
 
-#u13112-2,#u13120-2,#u13123-2,#u13126-2
+#u13112-2,#u13120-2,#u13123-2
 {
 	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;

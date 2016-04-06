@@ -1,7 +1,7 @@
 .version.presidential_profiles_0306 /* version checker */
 {
-	color: #0000E7;
-	background-color: #1CC89D;
+	color: #0000FE;
+	background-color: #044705;
 }
 
 #muse_css_mq
@@ -22,6 +22,12 @@
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -17px;
+	width: 100%;
 }
 
 #u1157
@@ -368,7 +374,7 @@
 
 #u6312-4
 {
-	z-index: 149;
+	z-index: 147;
 	min-height: 23px;
 	background-color: transparent;
 	line-height: 17px;
@@ -380,7 +386,7 @@
 
 #u6315-4
 {
-	z-index: 153;
+	z-index: 151;
 	min-height: 23px;
 	background-color: transparent;
 	line-height: 17px;
@@ -392,7 +398,7 @@
 
 #u6320-4
 {
-	z-index: 157;
+	z-index: 155;
 	min-height: 66px;
 	background-color: transparent;
 	line-height: 31px;
@@ -404,7 +410,7 @@
 
 #u6316-4
 {
-	z-index: 289;
+	z-index: 287;
 	min-height: 26px;
 	background-color: transparent;
 	line-height: 17px;
@@ -416,7 +422,7 @@
 
 #u6341
 {
-	z-index: 293;
+	z-index: 291;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
@@ -430,7 +436,7 @@
 
 #u6317-128
 {
-	z-index: 161;
+	z-index: 159;
 	min-height: 2477px;
 	background-color: transparent;
 	text-align: justify;
@@ -494,8 +500,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 4.69%;
-	left: 2.09%;
+	width: 6.78%;
 }
 
 #u13047
@@ -505,7 +510,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 65.11%;
+	width: 66.88%;
 	left: 32.82%;
 }
 
@@ -517,7 +522,7 @@
 
 #u13158-4
 {
-	z-index: 133;
+	z-index: 131;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -527,7 +532,7 @@
 
 #u13161-4
 {
-	z-index: 137;
+	z-index: 135;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -537,7 +542,7 @@
 
 #u13164-4
 {
-	z-index: 141;
+	z-index: 139;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -547,7 +552,7 @@
 
 #u13167-4
 {
-	z-index: 145;
+	z-index: 143;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -586,6 +591,12 @@
 	margin: -1px -10000px -1px 0%;
 }
 
+#u13066_img
+{
+	padding-right: 1px;
+	width: 99.47%;
+}
+
 #u13074
 {
 	z-index: 111;
@@ -622,29 +633,30 @@
 	margin: -1px -10000px -1px 0%;
 }
 
-#u13100
+#u13082.MuseLinkActive
 {
-	z-index: 115;
-	margin-bottom: -1px;
+	min-height: 0px;
+	width: 19.48%;
+	margin: -1px -10000px -1px 0%;
+}
+
+#u13126-4
+{
+	z-index: 127;
+	min-height: 29px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	width: 19.48%;
+	width: 19.69%;
 	left: 78.34%;
 }
 
-#u13082.MuseLinkActive,#u13100:hover
+#u13126-4:hover
 {
-	min-height: 0px;
-	width: 19.48%;
-	margin: -1px -10000px -1px 0%;
-}
-
-#u13100.MuseLinkActive
-{
-	min-height: 0px;
-	width: 19.48%;
-	margin: -1px -10000px -1px 0%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 19.69%;
+	margin: 0px -10000px 0px 0%;
 }
 
 #pu13112-4
@@ -655,7 +667,7 @@
 
 #u13112-4
 {
-	z-index: 117;
+	z-index: 115;
 	min-height: 29px;
 	position: relative;
 	margin-right: -10000px;
@@ -663,7 +675,7 @@
 	left: 2.09%;
 }
 
-#u13112-4:hover
+#u13126-4.MuseLinkActive,#u13112-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -674,7 +686,7 @@
 
 #u13120-4
 {
-	z-index: 121;
+	z-index: 119;
 	min-height: 29px;
 	position: relative;
 	margin-right: -10000px;
@@ -693,7 +705,7 @@
 
 #u13123-4
 {
-	z-index: 125;
+	z-index: 123;
 	min-height: 29px;
 	position: relative;
 	margin-right: -10000px;
@@ -710,26 +722,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u13126-4
-{
-	z-index: 129;
-	min-height: 29px;
-	position: relative;
-	margin-right: -10000px;
-	width: 19.69%;
-	left: 78.34%;
-}
-
-#u13123-4.MuseLinkActive,#u13126-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 29px;
-	width: 19.69%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u13126-4.MuseLinkActive
+#u13123-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -992,7 +985,7 @@ body
 	min-width: 320px;
 }
 
-#u8219_img,#u13066_img,#u13074_img,#u13082_img,#u13100_img
+#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }
