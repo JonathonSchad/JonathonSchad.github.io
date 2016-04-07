@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "webpro.js", "musewpdisclosure.js", "jquery.watch.js", "brussels-bombing-0401.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "webpro.js", "musewpdisclosure.js", "jquery.watch.js", "jquery.museresponsive.js", "brussels-bombing-0401.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -13,8 +13,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?197411065"/>
-  <link rel="stylesheet" type="text/css" href="css/master_articles.css?334371677"/>
-  <link rel="stylesheet" type="text/css" href="css/brussels-bombing-0401.css?3914743008" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_articles.css?4062369934"/>
+  <link rel="stylesheet" type="text/css" href="css/brussels-bombing-0401.css?227550346" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_articles.css?321525473"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_brussels-bombing-0401.css?3888270671" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -40,57 +45,158 @@
 </script>
 
   
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="browser_width grpelem" id="u14311-bw">
-    <div class="clearfix" id="u14311"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u14322" href="index.html"><!-- image --><img class="block" id="u14322_img" src="../images/heraldlogo-small-crop-u14322.png" alt="" data-image-width="165" data-image-height="42"/></a>
-     <ul class="AccordionWidget clearfix grpelem" id="accordionu14122"><!-- vertical box -->
-      <li class="AccordionPanel borderbox clearfix colelem" id="u14123"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u14124-4"><!-- content --><div id="u14124-3"><p>Menu</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u14125"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu14161"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem" id="u14162"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14165" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14167-4"><!-- content --><p>Home</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14169"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14172" href="world-news.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14174-4"><!-- content --><p>World News</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14206"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14209" href="life---local.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14210-4"><!-- content --><p>Life &amp; Local</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14227"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14228" href="science---technology.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14231-4"><!-- content --><p>Science &amp; Technology</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14248"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14249" href="opinions.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14251-4"><!-- content --><p>Opinions</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14269"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14270" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14272-4"><!-- content --><p>About Us</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14290"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14291" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14293-4"><!-- content --><p>Contact Us</p></div></a></div></nav></div></li>
-     </ul>
-    </div>
-   </div>
-   <div class="verticalspacer"></div>
-   <div class="browser_width grpelem" id="u14000-bw">
-    <div class="clearfix" id="u14000"><!-- group -->
-     <nav class="MenuBar clearfix grpelem" id="menuu14391"><!-- vertical box -->
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14392"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14395" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14397-4"><!-- content --><p>Home</p></div></a>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="321"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="browser_width colelem" id="u14311-bw">
+      <div class="clearfix" id="u14311"><!-- group -->
+       <a class="nonblock nontext clip_frame grpelem" id="u14322" href="index.html"><!-- image --><img class="block temp_no_img_src" id="u14322_img" data-orig-src="../images/heraldlogo-small-crop-u14322.png" alt="" data-image-width="165" data-image-height="42" src="../images/blank.gif"/></a>
+       <ul class="AccordionWidget clearfix grpelem" id="accordionu14122"><!-- vertical box -->
+        <li class="AccordionPanel borderbox clearfix colelem" id="u14123"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u14124-4"><!-- content --><div id="u14124-3" class="shared_content" data-content-guid="u14124-3_content"><p>Menu</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u14125"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu14161"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem" id="u14162"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14165" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14167-4"><!-- content --><p class="shared_content" data-content-guid="u14167-4_0_content">Home</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14169"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14172" href="world-news.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14174-4"><!-- content --><p class="shared_content" data-content-guid="u14174-4_0_content">World News</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14206"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14209" href="life---local.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14210-4"><!-- content --><p class="shared_content" data-content-guid="u14210-4_0_content">Life &amp; Local</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14227"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14228" href="science---technology.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14231-4"><!-- content --><p class="shared_content" data-content-guid="u14231-4_0_content">Science &amp; Technology</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14248"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14249" href="opinions.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14251-4"><!-- content --><p class="shared_content" data-content-guid="u14251-4_0_content">Opinions</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14269"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14270" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14272-4"><!-- content --><p class="shared_content" data-content-guid="u14272-4_0_content">About Us</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u14290"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14291" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14293-4"><!-- content --><p class="shared_content" data-content-guid="u14293-4_0_content">Contact Us</p></div></a></div></nav></div></li>
+       </ul>
       </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14399"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14402" href="world-news.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14404-4"><!-- content --><p>World News</p></div></a>
+     </div>
+     <div class="clip_frame colelem" id="u19825"><!-- image -->
+      <img class="block temp_no_img_src" id="u19825_img" data-orig-src="../images/750x-1-crop-u19825.jpg" alt="" data-image-width="380" data-image-height="221" src="../images/blank.gif"/>
+     </div>
+     <div class="Picture-Caption clearfix colelem shared_content" id="u19828-6" data-content-guid="u19828-6_content"><!-- content -->
+      <p id="u19828-2">Brussels airport in Zaventem damaged by two suicide bombers early on the morning of March 22nd</p>
+      <p id="u19828-4">Bloomberg</p>
+     </div>
+     <div class="Article-Title clearfix colelem shared_content" id="u19827-4" data-content-guid="u19827-4_content"><!-- content -->
+      <p>Devastation in Brussels</p>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu19830-4" data-content-guid="pu19830-4_content"><!-- group -->
+      <div class="Author-Name clearfix grpelem" id="u19830-4"><!-- content -->
+       <p>By Jacqueline Elwood</p>
       </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14436"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14439" href="life---local.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14440-4"><!-- content --><p>Life &amp; Local</p></div></a>
+      <div class="Date-Heading clearfix grpelem" id="u19824-4"><!-- content -->
+       <p>1 April 2016</p>
       </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14457"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14460" href="science---technology.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14463-4"><!-- content --><p>Science &amp; Technology</p></div></a>
-      </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14478"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14481" href="opinions.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14484-4"><!-- content --><p>Opinions</p></div></a>
-      </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14499"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14502" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14504-4"><!-- content --><p>About Us</p></div></a>
-      </div>
-      <div class="MenuItemContainer borderbox clearfix colelem" id="u14520"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14521" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14524-4"><!-- content --><p>Contact Us</p></div></a>
-      </div>
-     </nav>
-     <div class="clearfix grpelem" id="pu14542"><!-- column -->
-      <div class="colelem" id="u14542"><!-- custom html -->
-       
+     </div>
+     <div class="Article-Body clearfix colelem shared_content" id="u19829-43" data-content-guid="u19829-43_content"><!-- content -->
+      <p>On March 22nd, the citizens of Brussels became the victims of an ISIS attack that left 32 people dead and 300 more injured. This is the second major terrorist attack in Europe within the last year. Investigations are currently ongoing as to what transpired and who was involved in the Tuesday morning attack.</p>
+      <p>&nbsp;</p>
+      <p>Early in the morning on March 22nd, two suicide bombers, identified later to be Najim Laachraoui and Ibrahim El Bakraoui, attacked the departure lounge of the Brussels Airport in Zaventem.&nbsp; The attack resulted in the death of at least 10 people. There was a third bomb left at the airport by another suspect.&nbsp; This bomb detonated because of unstable explosives. No one was injured since security forces had already secured the scene.</p>
+      <p>&nbsp;</p>
+      <p>About an hour after the attacks at the airport, Khalid El Bakraoui, the brother of Ibrahim El Bakraoui, detonated a suicide bomb in the second car of a train at the Maelbeek metro station.</p>
+      <p>&nbsp;</p>
+      <p>The identity of the third suspect in the airport attacks is still under investigation. Belgian authorities arrested Fayçal Cheffou on March 24th under suspicion that he was the third airport attacker.&nbsp; Cheffou was released Monday due to lack of evidence. In a telephone interview, Eric Van der Sijpt, a spokesman for the prosecutor’s office, explained the release of Cheffou.</p>
+      <p>&nbsp;</p>
+      <p>“We’re not saying that he’s innocent. That we do not do. It’s that he’s no longer needed in prison.&nbsp; But there are two different things. Preventative custody has nothing to do with the actual investigations or the charges brought.”</p>
+      <p>&nbsp;</p>
+      <p>Mounting unrest has been building in Brussels following the attacks. Evidence that the authorities ignored or misinterpreted signs that could have prevented the attacks has spawned public outrage. Several unverified reports have surfaced that warned Belgian authorities in advance of the attacks planned against the Brussels airport.</p>
+      <p>&nbsp;</p>
+      <p>According to Skai TV in Greece, a map and layout of the Brussels airport were found in January 2015.&nbsp; The map was found on a computer and USB drive in a flat in Athens. The Paris attacks ringleader, Abdelhamid Abaaoud, had occupied the flat.</p>
+      <p>&nbsp;</p>
+      <p>French daily Le Monde reported handwritten notes and attack plans found on the Athens computer hard drive. They noted that the details matched the bombing of the Brussels airport.</p>
+      <p>&nbsp;</p>
+      <p>U.S. intelligence officials stated that they were not surprised that Brussels was attacked.&nbsp; One U.S. counterterrorism official even stated, “The Belgians have been sitting on a ticking time bomb.”</p>
+      <p>&nbsp;</p>
+      <p>Counterterrorism officials have focused on Belgium for years. Large numbers of Belgian foreign fighters have left to join ISIS and other terrorist groups in Syria and Iraq – more per capita than any other country in the European Union.</p>
+      <p>&nbsp;</p>
+      <p>Thomas Joscelyn, senior fellow at the Foundation for Defense of Democracies and senior editor of The Long War Journal, commented on Fox News about the attacks.</p>
+      <p>&nbsp;</p>
+      <p>“If you talk to any Belgian counterterrorism or intelligence officials, no one – no one – is surprised by this. You can go all the way back to 2014 to Belgian authorities saying this was coming. They’ve launched a series of counterterrorism raids because they know that known terrorists are operating on their soil.&nbsp; This is the least surprising outcome that you could see.”</p>
+      <p>&nbsp;</p>
+      <p>The Belgian authorities are hard at work trying to piece together the events from that morning.&nbsp; The Brussels airport is still closed but hopes to partially open the airport soon. The Brussles Airport has been sending out updates through their Twitter feed on the status of reopening the airport.</p>
+      <p>&nbsp;</p>
+      <p>Arnaud Feist, the director of the Brussels airport, stated that temporary facilities are being put in place.&nbsp; These would be designed to process about 800 travelers per hour, only about 20 percent of normal operation.&nbsp; According to Feist, it could take months before the airport is fully operational again.</p>
+     </div>
+     <div class="verticalspacer shared_content" data-content-guid="page_position_content_6_content"></div>
+     <div class="browser_width colelem" id="u14000-bw">
+      <div class="clearfix" id="u14000"><!-- group -->
+       <nav class="MenuBar clearfix grpelem" id="menuu14391"><!-- vertical box -->
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14392"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14395" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14397-4"><!-- content --><p class="shared_content" data-content-guid="u14397-4_0_content">Home</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14399"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14402" href="world-news.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14404-4"><!-- content --><p class="shared_content" data-content-guid="u14404-4_0_content">World News</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14436"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14439" href="life---local.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14440-4"><!-- content --><p class="shared_content" data-content-guid="u14440-4_0_content">Life &amp; Local</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14457"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14460" href="science---technology.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14463-4"><!-- content --><p class="shared_content" data-content-guid="u14463-4_0_content">Science &amp; Technology</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14478"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14481" href="opinions.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14484-4"><!-- content --><p class="shared_content" data-content-guid="u14484-4_0_content">Opinions</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14499"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14502" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14504-4"><!-- content --><p class="shared_content" data-content-guid="u14504-4_0_content">About Us</p></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem" id="u14520"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u14521" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u14524-4"><!-- content --><p class="shared_content" data-content-guid="u14524-4_0_content">Contact Us</p></div></a>
+        </div>
+       </nav>
+       <div class="clearfix grpelem shared_content" id="pu14542" data-content-guid="pu14542_content"><!-- column -->
+        <div class="colelem" id="u14542"><!-- custom html -->
+         
 <div class="g-plusone" data-action="share" data-size="standard" data-annotation="bubble" data-width="109" data-href="http://https://plus.google.com/u/0/107840533091625320016/posts"></div>
 
 </div>
-      <div class="colelem" id="u14543"><!-- custom html -->
-       
+        <div class="colelem" id="u14543"><!-- custom html -->
+         
 <a href="https://twitter.com/CNSEHerald" class="twitter-follow-button" data-lang="en" data-show-screen-name="false" data-size="medium"></a>
 
 </div>
-      <div class="colelem" id="u14544"><!-- custom html -->
-       
+        <div class="colelem" id="u14544"><!-- custom html -->
+         
 <div class="fb-like" data-href="http://https://www.facebook.com/The-CNSE-Herald-485504404975735/" data-send="false" data-width="102" data-show-faces="false" data-colorscheme="light" data-layout="button_count" data-action="like"></div>
 
 </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="browser_width colelem temp_no_id" data-orig-id="u14311-bw">
+      <div class="clearfix temp_no_id" data-orig-id="u14311"><!-- group -->
+       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="index.html" data-orig-id="u14322"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/heraldlogo-small-crop-u14322.png" alt="" data-image-width="139" data-image-height="36" data-orig-id="u14322_img" src="../images/blank.gif"/></a>
+       <ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu14122"><!-- vertical box -->
+        <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u14123"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem temp_no_id" data-orig-id="u14124-4"><!-- content --><span class="placeholder" data-placeholder-for="u14124-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u14125"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu14161"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14162"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u14165"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14167-4"><!-- content --><span class="placeholder" data-placeholder-for="u14167-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14169"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="world-news.html" data-orig-id="u14172"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14174-4"><!-- content --><span class="placeholder" data-placeholder-for="u14174-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14206"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="life---local.html" data-orig-id="u14209"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14210-4"><!-- content --><span class="placeholder" data-placeholder-for="u14210-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14227"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="science---technology.html" data-orig-id="u14228"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14231-4"><!-- content --><span class="placeholder" data-placeholder-for="u14231-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14248"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="opinions.html" data-orig-id="u14249"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14251-4"><!-- content --><span class="placeholder" data-placeholder-for="u14251-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14269"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-us.html" data-orig-id="u14270"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14272-4"><!-- content --><span class="placeholder" data-placeholder-for="u14272-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14290"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="contact-us.html" data-orig-id="u14291"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14293-4"><!-- content --><span class="placeholder" data-placeholder-for="u14293-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
+       </ul>
+      </div>
+     </div>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u19825"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="../images/750x-1-crop-u198252.jpg" alt="" data-image-width="320" data-image-height="187" data-orig-id="u19825_img" src="../images/blank.gif"/>
+     </div>
+     <span class="Picture-Caption clearfix colelem placeholder" data-placeholder-for="u19828-6_content"><!-- placeholder node --></span>
+     <span class="Article-Title clearfix colelem placeholder" data-placeholder-for="u19827-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu19830-4_content"><!-- placeholder node --></span>
+     <span class="Article-Body clearfix colelem placeholder" data-placeholder-for="u19829-43_content"><!-- placeholder node --></span>
+     <span class="verticalspacer placeholder" data-placeholder-for="page_position_content_6_content"><!-- placeholder node --></span>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u14000-bw">
+      <div class="clearfix temp_no_id" data-orig-id="u14000"><!-- group -->
+       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu14391"><!-- vertical box -->
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14392"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u14395"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14397-4"><!-- content --><span class="placeholder" data-placeholder-for="u14397-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14399"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="world-news.html" data-orig-id="u14402"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14404-4"><!-- content --><span class="placeholder" data-placeholder-for="u14404-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14436"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="life---local.html" data-orig-id="u14439"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14440-4"><!-- content --><span class="placeholder" data-placeholder-for="u14440-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14457"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="science---technology.html" data-orig-id="u14460"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14463-4"><!-- content --><span class="placeholder" data-placeholder-for="u14463-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14478"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="opinions.html" data-orig-id="u14481"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14484-4"><!-- content --><span class="placeholder" data-placeholder-for="u14484-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14499"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-us.html" data-orig-id="u14502"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14504-4"><!-- content --><span class="placeholder" data-placeholder-for="u14504-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+        <div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u14520"><!-- horizontal box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="contact-us.html" data-orig-id="u14521"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u14524-4"><!-- content --><span class="placeholder" data-placeholder-for="u14524-4_0_content"><!-- placeholder node --></span></div></a>
+        </div>
+       </nav>
+       <span class="clearfix grpelem placeholder" data-placeholder-for="pu14542_content"><!-- placeholder node --></span>
+      </div>
      </div>
     </div>
    </div>
@@ -108,6 +214,7 @@
   <script src="../scripts/webpro.js?329496574" type="text/javascript"></script>
   <script src="../scripts/musewpdisclosure.js?4234230767" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?4244854265" type="text/javascript"></script>
+  <script src="../scripts/jquery.museresponsive.js?3895133147" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -119,9 +226,9 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#accordionu14122', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu14122 */
-Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#accordionu14122', ['#bp_infinity', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu14122 */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
