@@ -229,6 +229,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Sidebar-Headings
+{
+	color: #002C73;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-size: 17px;
+	font-weight: normal;
+	text-align: center;
+	padding: 0px;
+}
+
 .Character-Style
 {
 	color: #4F4F4F;

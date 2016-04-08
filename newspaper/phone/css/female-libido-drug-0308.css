@@ -1,7 +1,7 @@
 .version.female_libido_drug_0308 /* version checker */
 {
-	color: #0000F4;
-	background-color: #DEDEF6;
+	color: #000008;
+	background-color: #C058BA;
 }
 
 .js body
@@ -145,6 +145,85 @@
 	min-height: 42px;
 }
 
+#u24845
+{
+	left: -2px;
+	border-style: solid;
+	z-index: 106;
+	background-color: transparent;
+	border-width: 1px;
+	position: relative;
+	border-color: #000000;
+}
+
+#u24848-6
+{
+	position: relative;
+	line-height: 8px;
+	font-size: 7px;
+	background-color: transparent;
+	z-index: 112;
+	min-height: 25px;
+}
+
+#u24848-2
+{
+	font-style: normal;
+}
+
+#u24848-4
+{
+	font-style: italic;
+}
+
+#u24850-4
+{
+	position: relative;
+	line-height: 18px;
+	font-size: 15px;
+	background-color: transparent;
+	margin-top: 2px;
+	z-index: 108;
+	min-height: 29px;
+}
+
+#page_position_content,#u24845_img,#pu24847-4
+{
+	width: 100%;
+}
+
+#u24847-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	position: relative;
+	z-index: 137;
+	min-height: 20px;
+}
+
+#u24851-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	font-weight: normal;
+	position: relative;
+	z-index: 102;
+	min-height: 23px;
+}
+
+#u24849-19
+{
+	line-height: 14px;
+	font-size: 12px;
+	background-color: transparent;
+	position: relative;
+	z-index: 118;
+}
+
 #u14000
 {
 	padding-bottom: 3px;
@@ -271,11 +350,6 @@ body
 	position: relative;
 }
 
-.verticalspacer
-{
-	min-height: 402px;
-}
-
 @media (min-width: 321px)
 {
 	#muse_css_mq
@@ -308,6 +382,49 @@ body
 	{
 		width: 92.77%;
 		left: 6.58%;
+	}
+
+	#u24845
+	{
+		width: 100.27%;
+		margin-left: 0.14%;
+	}
+
+	#u24848-6
+	{
+		margin-top: 3px;
+		width: 96.58%;
+		margin-left: 0.79%;
+	}
+
+	#u24850-4
+	{
+		width: 95.27%;
+		margin-left: 2.11%;
+	}
+
+	#pu24847-4
+	{
+		margin-top: 9px;
+	}
+
+	#u24847-4
+	{
+		width: 29.22%;
+		left: 6.06%;
+	}
+
+	#u24851-4
+	{
+		width: 32.64%;
+		left: 60.79%;
+	}
+
+	#u24849-19
+	{
+		min-height: 858px;
+		width: 87.37%;
+		margin-left: 6.06%;
 	}
 
 	#menuu14391
@@ -360,6 +477,51 @@ body
 	{
 		width: 91.02%;
 		left: 4.8%;
+	}
+
+	#u24845
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u24848-6
+	{
+		margin-top: 4px;
+		width: 96.57%;
+		margin-left: 0.94%;
+	}
+
+	#u24850-4
+	{
+		width: 95.32%;
+		margin-left: 2.19%;
+	}
+
+	#pu24847-4
+	{
+		margin-top: 7px;
+	}
+
+	#u24847-4
+	{
+		width: 29.07%;
+		left: 6.25%;
+	}
+
+	#u24851-4
+	{
+		width: 32.5%;
+		left: 60.94%;
+	}
+
+	#u24849-19
+	{
+		min-height: 1002px;
+		top: -1px;
+		margin-bottom: -1px;
+		width: 87.5%;
+		margin-left: 6.25%;
 	}
 
 	#menuu14391

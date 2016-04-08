@@ -10,6 +10,7 @@
 
 	#page
 	{
+		min-height: 570px;
 		max-width: 380px;
 	}
 
@@ -28,6 +29,74 @@
 	{
 		width: 92.77%;
 		left: 6.58%;
+	}
+
+	#u25171-4
+	{
+		width: 95.27%;
+		margin-left: 2.37%;
+	}
+
+	#pu25172-4
+	{
+		margin-top: 2px;
+	}
+
+	#u25172-4
+	{
+		width: 29.22%;
+		left: 6.32%;
+	}
+
+	#u25169-4
+	{
+		width: 32.64%;
+		left: 61.06%;
+	}
+
+	#u25170-10
+	{
+		min-height: 433px;
+		margin-top: 13px;
+		width: 87.37%;
+		margin-left: 6.32%;
+	}
+
+	#u25177
+	{
+		margin-top: 1px;
+		width: 86.85%;
+		margin-left: 6.06%;
+	}
+
+	#u25186-6
+	{
+		top: -1px;
+		margin-bottom: -1px;
+		width: 87.37%;
+		margin-left: 6.32%;
+	}
+
+	#u25196-7
+	{
+		min-height: 381px;
+		margin-top: 11px;
+		width: 87.37%;
+		margin-left: 6.32%;
+	}
+
+	#u25202
+	{
+		top: -1px;
+		margin-bottom: -1px;
+		width: 87.37%;
+		margin-left: 6.06%;
+	}
+
+	#u25211-6
+	{
+		margin-top: 3px;
+		margin-left: 6.06%;
 	}
 
 	#menuu14391

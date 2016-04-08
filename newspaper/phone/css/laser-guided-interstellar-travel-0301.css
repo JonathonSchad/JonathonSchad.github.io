@@ -1,7 +1,7 @@
 .version.laser_guided_interstellar_travel_0301 /* version checker */
 {
-	color: #0000F4;
-	background-color: #DEDEF6;
+	color: #0000FF;
+	background-color: #343DAE;
 }
 
 .js body
@@ -145,6 +145,76 @@
 	min-height: 42px;
 }
 
+#u24785
+{
+	left: -2px;
+	border-style: solid;
+	z-index: 106;
+	background-color: transparent;
+	border-width: 1px;
+	position: relative;
+	border-color: #000000;
+}
+
+#u24784-4
+{
+	position: relative;
+	line-height: 8px;
+	font-size: 7px;
+	background-color: transparent;
+	min-height: 25px;
+	z-index: 113;
+	font-style: italic;
+}
+
+#u24787-5
+{
+	position: relative;
+	line-height: 18px;
+	font-size: 15px;
+	background-color: transparent;
+	margin-top: 2px;
+	z-index: 108;
+	min-height: 29px;
+}
+
+#page_position_content,#pu24788-4
+{
+	width: 100%;
+}
+
+#u24788-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	position: relative;
+	z-index: 145;
+	min-height: 20px;
+}
+
+#u24782-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	font-weight: normal;
+	position: relative;
+	z-index: 102;
+	min-height: 23px;
+}
+
+#u24783-28
+{
+	line-height: 14px;
+	font-size: 12px;
+	background-color: transparent;
+	position: relative;
+	z-index: 117;
+}
+
 #u14000
 {
 	padding-bottom: 3px;
@@ -271,11 +341,6 @@ body
 	position: relative;
 }
 
-.verticalspacer
-{
-	min-height: 402px;
-}
-
 @media (min-width: 321px)
 {
 	#muse_css_mq
@@ -308,6 +373,54 @@ body
 	{
 		width: 92.77%;
 		left: 6.58%;
+	}
+
+	#u24785
+	{
+		width: 100.27%;
+		margin-left: 0.14%;
+	}
+
+	#u24785_img
+	{
+		width: 100%;
+	}
+
+	#u24784-4
+	{
+		margin-top: 3px;
+		width: 96.58%;
+		margin-left: 0.79%;
+	}
+
+	#u24787-5
+	{
+		width: 95.27%;
+		margin-left: 2.11%;
+	}
+
+	#pu24788-4
+	{
+		margin-top: 2px;
+	}
+
+	#u24788-4
+	{
+		width: 29.22%;
+		left: 6.06%;
+	}
+
+	#u24782-4
+	{
+		width: 32.64%;
+		left: 60.79%;
+	}
+
+	#u24783-28
+	{
+		min-height: 1108px;
+		width: 87.37%;
+		margin-left: 6.06%;
 	}
 
 	#menuu14391
@@ -360,6 +473,54 @@ body
 	{
 		width: 91.02%;
 		left: 4.8%;
+	}
+
+	#u24785
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u24785_img
+	{
+		width: 100.32%;
+	}
+
+	#u24784-4
+	{
+		margin-top: 4px;
+		width: 96.57%;
+		margin-left: 0.94%;
+	}
+
+	#u24787-5
+	{
+		width: 95.32%;
+		margin-left: 2.19%;
+	}
+
+	#pu24788-4
+	{
+		margin-top: 7px;
+	}
+
+	#u24788-4
+	{
+		width: 40.94%;
+		left: 6.25%;
+	}
+
+	#u24782-4
+	{
+		width: 32.5%;
+		left: 60.94%;
+	}
+
+	#u24783-28
+	{
+		min-height: 1261px;
+		width: 87.5%;
+		margin-left: 6.25%;
 	}
 
 	#menuu14391

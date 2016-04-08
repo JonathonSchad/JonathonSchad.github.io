@@ -1,7 +1,7 @@
 .version.boaty_mcboatface_0401 /* version checker */
 {
-	color: #0000F4;
-	background-color: #DEDEF6;
+	color: #000017;
+	background-color: #FB0422;
 }
 
 .js body
@@ -21,8 +21,9 @@
 	background-image: none;
 	width: 100%;
 	border-width: 0px;
+	padding-bottom: 0px;
 	z-index: 1;
-	min-height: 570px;
+	min-height: 569.9999999999998px;
 }
 
 #u14322
@@ -143,6 +144,75 @@
 {
 	z-index: 2;
 	min-height: 42px;
+}
+
+#u24925
+{
+	border-style: solid;
+	z-index: 106;
+	background-color: transparent;
+	border-width: 1px;
+	position: relative;
+	border-color: #000000;
+}
+
+#u24924-4
+{
+	position: relative;
+	line-height: 8px;
+	font-size: 7px;
+	background-color: transparent;
+	min-height: 25px;
+	z-index: 112;
+	font-style: italic;
+}
+
+#u24923-4
+{
+	position: relative;
+	line-height: 18px;
+	font-size: 15px;
+	background-color: transparent;
+	margin-top: 2px;
+	z-index: 108;
+	min-height: 29px;
+}
+
+#page_position_content,#pu24921-4
+{
+	width: 100%;
+}
+
+#u24921-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	position: relative;
+	z-index: 162;
+	min-height: 20px;
+}
+
+#u24922-4
+{
+	margin-right: -10000px;
+	line-height: 12px;
+	font-size: 10px;
+	background-color: transparent;
+	font-weight: normal;
+	position: relative;
+	z-index: 102;
+	min-height: 23px;
+}
+
+#u24927-46
+{
+	line-height: 14px;
+	font-size: 12px;
+	background-color: transparent;
+	position: relative;
+	z-index: 116;
 }
 
 #u14000
@@ -271,11 +341,6 @@ body
 	position: relative;
 }
 
-.verticalspacer
-{
-	min-height: 402px;
-}
-
 @media (min-width: 321px)
 {
 	#muse_css_mq
@@ -308,6 +373,55 @@ body
 	{
 		width: 92.77%;
 		left: 6.58%;
+	}
+
+	#u24925
+	{
+		width: 100%;
+		margin-left: 0%;
+		left: -1px;
+	}
+
+	#u24925_img
+	{
+		width: 100%;
+	}
+
+	#u24924-4
+	{
+		margin-top: 6px;
+		width: 96.58%;
+		margin-left: 0.79%;
+	}
+
+	#u24923-4
+	{
+		width: 95.27%;
+		margin-left: 2.11%;
+	}
+
+	#pu24921-4
+	{
+		margin-top: 2px;
+	}
+
+	#u24921-4
+	{
+		width: 29.22%;
+		left: 6.06%;
+	}
+
+	#u24922-4
+	{
+		width: 32.64%;
+		left: 60.79%;
+	}
+
+	#u24927-46
+	{
+		min-height: 1138px;
+		width: 87.37%;
+		margin-left: 6.06%;
 	}
 
 	#menuu14391
@@ -360,6 +474,56 @@ body
 	{
 		width: 91.02%;
 		left: 4.8%;
+	}
+
+	#u24925
+	{
+		width: 99.69%;
+		margin-left: 0.16%;
+		left: -2px;
+	}
+
+	#u24925_img
+	{
+		width: 100.32%;
+	}
+
+	#u24924-4
+	{
+		width: 96.57%;
+		margin-left: 0.94%;
+	}
+
+	#u24923-4
+	{
+		width: 95.32%;
+		margin-left: 2.19%;
+	}
+
+	#pu24921-4
+	{
+		margin-top: 10px;
+	}
+
+	#u24921-4
+	{
+		width: 29.07%;
+		left: 6.25%;
+	}
+
+	#u24922-4
+	{
+		width: 32.5%;
+		left: 60.94%;
+	}
+
+	#u24927-46
+	{
+		min-height: 969px;
+		top: -1px;
+		margin-bottom: -1px;
+		width: 87.5%;
+		margin-left: 6.25%;
 	}
 
 	#menuu14391
