@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #5F8FEB;
+	color: #0000F7;
+	background-color: #A00902;
 }
 
 #muse_css_mq
@@ -515,11 +515,6 @@
 	position: relative;
 }
 
-#u2191_img
-{
-	margin: -48px 1px -295px -1px;
-}
-
 #u24665
 {
 	z-index: 114;
@@ -544,12 +539,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-}
-
-#u24690_img
-{
-	padding-left: 20px;
-	padding-right: 20px;
 }
 
 #u2199

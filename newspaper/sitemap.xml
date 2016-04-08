@@ -277,6 +277,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.cnseugsa.com/newspaper.html/images/uaceas.jpg</loc>
+    <lastmod>2016-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.cnseugsa.com/newspaper.html/images/cnsezen.jpg</loc>
+    <lastmod>2016-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.cnseugsa.com/newspaper.html/phone/radovan-karadzic-0404.html</loc>
     <lastmod>2016-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -297,12 +309,6 @@
   <url>
     <loc>http://www.cnseugsa.com/newspaper.html/phone/moo-plans-0306.html</loc>
     <lastmod>2016-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.cnseugsa.com/newspaper.html/phone/changing-facr-of-grief-0330.html</loc>
-    <lastmod>2016-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -449,6 +455,7 @@
     <lastmod>2016-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.cnseugsa.com/newspaper.html/phone/changing-face-of-grief-0330.html"/>
   </url>
   <url>
     <loc>http://www.cnseugsa.com/newspaper.html/samsung-virtual-reality-0306.html</loc>

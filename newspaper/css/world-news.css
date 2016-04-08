@@ -1,7 +1,7 @@
 .version.world_news /* version checker */
 {
-	color: #0000F6;
-	background-color: #F7955E;
+	color: #0000E3;
+	background-color: #A09FC8;
 }
 
 #muse_css_mq
@@ -1392,11 +1392,16 @@
 #u24113
 {
 	z-index: 106;
-	padding-top: 15px;
-	padding-bottom: 21px;
 	margin-top: 25px;
 	position: relative;
 	width: 98.86%;
+}
+
+#u24113_position_content
+{
+	margin-bottom: -24px;
+	padding-top: 15px;
+	width: 100%;
 }
 
 #pu24125
@@ -1445,6 +1450,13 @@
 	margin-left: 9.83%;
 }
 
+#u24131:hover
+{
+	min-height: 0px;
+	width: 78.33%;
+	margin: 16px 0px 0px 9.826589595375722%;
+}
+
 #u24141-4
 {
 	z-index: 119;
@@ -1468,7 +1480,7 @@
 #u24147-4
 {
 	z-index: 135;
-	min-height: 36px;
+	min-height: 81px;
 	position: relative;
 	width: 45.96%;
 	margin-left: 51.16%;
@@ -1714,7 +1726,7 @@
 {
 	z-index: 51;
 	min-height: 196px;
-	margin-top: 1px;
+	margin-top: 23px;
 }
 
 .html
