@@ -129,6 +129,11 @@
 	cursor: pointer;
 }
 
+#u29955,#u29957,#u29959
+{
+	display: block;
+}
+
 #u13045-4
 {
 	background-color: transparent;
@@ -297,7 +302,14 @@
 	font-weight: normal;
 }
 
-#u8219,#u1161,#u1168,#u1205,#u1226,#u4106,#u1247,#u1268,#u1040,#u1043
+#menuu1011
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u8219,#u1161,#u1168,#u1205,#u1226,#u4106,#u1247,#u1268,#u29954,#u29956,#u29958,#u1040,#u1043
 {
 	background-color: transparent;
 }
@@ -434,13 +446,6 @@
 	background-color: transparent;
 	color: #F5F5F5;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-}
-
-#menuu1011,#u1055,#u12820,#u12825
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 }
 
 

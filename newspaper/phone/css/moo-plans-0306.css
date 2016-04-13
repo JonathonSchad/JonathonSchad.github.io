@@ -1,7 +1,7 @@
 .version.moo_plans_0306 /* version checker */
 {
-	color: #00001D;
-	background-color: #A45FF4;
+	color: #000004;
+	background-color: #C389B0;
 }
 
 #muse_css_mq
@@ -225,7 +225,7 @@
 {
 	z-index: 105;
 	height: 113px;
-	background: transparent url("../../images/mooplans.png") no-repeat left top;
+	background: transparent url("../../images/mooplans-u27947-fr.png") no-repeat left top;
 	background-size: contain;
 }
 

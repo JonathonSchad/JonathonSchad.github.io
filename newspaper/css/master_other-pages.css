@@ -178,6 +178,13 @@
 	font-weight: normal;
 }
 
+#menuu676,#menuu816
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
 #u680.MuseMenuActive,#u845,#u848
 {
 	background-color: transparent;
@@ -317,11 +324,14 @@
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 
-#menuu676,#menuu816,#u12845,#u12846,#u12847
+#u29981,#u29983,#u29985
 {
-	border-width: 0px;
-	border-color: transparent;
 	background-color: transparent;
+}
+
+#u29982,#u29984,#u29986
+{
+	display: block;
 }
 
 

@@ -1,7 +1,7 @@
 .version.professors_spotlight_susan_sharfstein /* version checker */
 {
-	color: #0000EF;
-	background-color: #EA5813;
+	color: #00000B;
+	background-color: #53F8D7;
 }
 
 #muse_css_mq
@@ -479,7 +479,7 @@
 
 #u26713
 {
-	z-index: 106;
+	z-index: 109;
 	height: 499px;
 	background: transparent url("../images/nanohigh%20class%20visit%20-%205.jpg") no-repeat left top;
 	background-size: cover;
@@ -487,13 +487,13 @@
 
 #u26713-bw
 {
-	z-index: 106;
+	z-index: 109;
 	height: 499px;
 }
 
 #u24169-11
 {
-	z-index: 207;
+	z-index: 210;
 	min-height: 108px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -509,9 +509,17 @@
 	padding-left: 30px;
 }
 
-#u24169-4,#u24169-5,#u24169-9
+#u24169-4,#u24169-5
 {
 	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u24169-9
+{
+	font-size: 16px;
+	line-height: 19px;
 	padding-right: 30px;
 	padding-left: 30px;
 }
@@ -524,21 +532,23 @@
 
 #u24169-11-bw
 {
-	z-index: 207;
+	z-index: 210;
 	min-height: 108px;
-	margin-top: 391px;
+	margin-top: 390px;
 }
 
 #u26717-4
 {
-	z-index: 218;
+	z-index: 221;
 	min-height: 28px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	position: relative;
-	width: 22.19%;
-	margin-left: 2.09%;
+}
+
+#u26717-2
+{
+	padding-left: 20px;
 }
 
 #u26717
@@ -546,27 +556,38 @@
 	font-style: italic;
 }
 
+#u26717-4-bw
+{
+	z-index: 221;
+	min-height: 28px;
+}
+
 #u24166-100
 {
-	z-index: 107;
+	z-index: 110;
 	min-height: 2451px;
 	background-color: transparent;
-	margin-top: 35px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.84%;
 }
 
 #u24166-2,#u24166-3,#u24166-5,#u24166-6,#u24166-8,#u24166-9,#u24166-11,#u24166-12,#u24166-14,#u24166-15,#u24166-17,#u24166-18,#u24166-20,#u24166-21,#u24166-23,#u24166-24,#u24166-26,#u24166-27,#u24166-29,#u24166-30,#u24166-32,#u24166-33,#u24166-35,#u24166-36,#u24166-38,#u24166-39,#u24166-41,#u24166-42,#u24166-44,#u24166-45,#u24166-47,#u24166-49,#u24166-50,#u24166-52,#u24166-53,#u24166-55,#u24166-56,#u24166-58,#u24166-59,#u24166-61,#u24166-62,#u24166-64,#u24166-65,#u24166-67,#u24166-68,#u24166-70,#u24166-71,#u24166-73,#u24166-74,#u24166-76,#u24166-77,#u24166-79,#u24166-80,#u24166-82,#u24166-83,#u24166-85,#u24166-86,#u24166-88,#u24166-89,#u24166-91,#u24166-92,#u24166-94,#u24166-95,#u24166-97
 {
 	line-height: 17px;
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u24166-100-bw
+{
+	z-index: 110;
+	min-height: 2451px;
+	margin-top: 35px;
 }
 
 #u814
 {
 	z-index: 51;
-	min-height: 196px;
-	padding-bottom: 19px;
+	min-height: 195px;
+	padding-bottom: 20px;
 }
 
 #u176_align_to_page,#u814_align_to_page
@@ -765,43 +786,58 @@
 	left: 42.09%;
 }
 
-#pu12845
-{
-	margin-right: -10000px;
-	margin-top: 116px;
-	width: 11.36%;
-	margin-left: 89.17%;
-}
-
-#u12845
+#u29981
 {
 	z-index: 103;
-	width: 109px;
-	min-height: 28px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 145px;
+	width: 5.21%;
+	left: 80.21%;
 }
 
-#u12846
+#u29982
 {
 	z-index: 104;
-	width: 87px;
-	min-height: 24px;
-	position: relative;
+	width: 100%;
 }
 
-#u12847
+#u29983
 {
 	z-index: 105;
-	width: 102px;
-	min-height: 24px;
-	margin-top: 4px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 146px;
+	width: 5.11%;
+	left: 86.46%;
+}
+
+#u29984
+{
+	z-index: 106;
+	width: 100%;
+}
+
+#u29985
+{
+	z-index: 107;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 145px;
+	width: 5.21%;
+	left: 92.71%;
+}
+
+#u29986
+{
+	z-index: 108;
+	width: 100%;
 }
 
 #u814-bw
 {
 	z-index: 51;
-	min-height: 196px;
+	min-height: 195px;
 }
 
 .html

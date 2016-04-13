@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #FDC145;
+	color: #00000C;
+	background-color: #226FC1;
 }
 
 #muse_css_mq
@@ -277,7 +277,7 @@
 	opacity: 0.65;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
 	filter: alpha(opacity=65);
-	background: transparent url("../../images/79692_radovan-poster_iff.jpg") no-repeat right center;
+	background: transparent url("../../images/cassidy-panama-papers-american-names-1200.jpg") no-repeat right center;
 	background-size: cover;
 }
 
@@ -336,7 +336,8 @@
 	opacity: 0.65;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
 	filter: alpha(opacity=65);
-	background: transparent url("../../images/cnsezen.jpg") no-repeat left top;
+	background: transparent url("../../images/laser%20tag%202.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #u26628-bw
@@ -405,7 +406,7 @@
 	opacity: 0.65;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
 	filter: alpha(opacity=65);
-	background: transparent url("../../images/1458651119_great_barrier_reef.jpg") no-repeat center center;
+	background: transparent url("../../images/3-d-printing-drug_sham.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -738,4 +739,5 @@ body
 {
 	width: 380px;
 }
+
 
