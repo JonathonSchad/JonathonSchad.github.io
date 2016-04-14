@@ -1,7 +1,7 @@
 .version.obama_goes_to_cuba_0330 /* version checker */
 {
-	color: #0000E1;
-	background-color: #8E1417;
+	color: #000017;
+	background-color: #106EE8;
 }
 
 #muse_css_mq
@@ -442,6 +442,20 @@
 	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u29870-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u29870-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
 }
 
 #u29870-2

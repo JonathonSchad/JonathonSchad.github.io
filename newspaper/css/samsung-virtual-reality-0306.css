@@ -1,7 +1,7 @@
 .version.samsung_virtual_reality_0306 /* version checker */
 {
-	color: #000005;
-	background-color: #D2983F;
+	color: #000002;
+	background-color: #E647BF;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 777px;
+	min-height: 776.9876544999997px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -372,183 +373,287 @@
 	min-height: 55px;
 }
 
-#pu7025-4
+#u30877-4
 {
-	margin-top: 15px;
+	z-index: 180;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u30877-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30877-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30877-2
+{
+	padding-left: 10px;
+}
+
+#u30877-4-bw
+{
+	z-index: 180;
+	min-height: 46px;
+}
+
+#u30878-11
+{
+	z-index: 184;
+	min-height: 108px;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u30878,#u30878-3
+{
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30878-4,#u30878-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30878-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30878-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30878-11-bw
+{
+	z-index: 184;
+	min-height: 108px;
+	margin-top: 24px;
+}
+
+#u30879
+{
+	z-index: 195;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 41.15%;
+}
+
+#u30880
+{
+	z-index: 196;
+	display: block;
 	width: 100%;
 }
 
-#u7025-4
+#u30881
 {
-	z-index: 150;
-	min-height: 23px;
+	z-index: 197;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 17.82%;
-	left: 10.94%;
+	margin-top: 1px;
+	width: 5.11%;
+	left: 47.5%;
 }
 
-#u7023-4
+#u30882
 {
-	z-index: 154;
-	min-height: 23px;
+	z-index: 198;
+	display: block;
+	width: 100%;
+}
+
+#u30883
+{
+	z-index: 199;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
+	width: 5.21%;
+	left: 53.65%;
 }
 
-#u7028-4
+#u30884
 {
-	z-index: 158;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 31px;
-	margin-top: 71px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
+	z-index: 200;
+	display: block;
+	width: 100%;
 }
 
-#u7026-4
+#u30876
 {
-	z-index: 169;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	width: 21.78%;
-	margin-left: 10.94%;
-}
-
-#u7024
-{
-	z-index: 173;
+	z-index: 179;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
 	background-color: transparent;
-	margin-top: 13px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
 	border-width: 1px 0px 0px;
 }
 
-#u7027-7
+#u30876-bw
 {
-	z-index: 162;
+	z-index: 179;
+	margin-top: 19px;
+	height: 19px;
+}
+
+#u7027-10
+{
+	z-index: 150;
 	min-height: 213px;
 	background-color: transparent;
-	text-align: justify;
-	font-family: open-sans, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
-#ppu7045
+#u7027-2,#u7027-3,#u7027-5,#u7027-6
 {
-	margin-top: 5px;
-	width: 100%;
+	text-align: justify;
+	padding-right: 110px;
+	padding-left: 110px;
+	font-family: open-sans, sans-serif;
 }
 
-#pu7045
+#u7027-8
 {
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 43.75%;
-	margin-left: 12.82%;
+	line-height: 17px;
+	padding-right: 110px;
+	padding-left: 110px;
+	font-family: open-sans, sans-serif;
 }
 
-#u7045
+#u7027-10-bw
 {
-	z-index: 174;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
-	width: 99.53%;
+	z-index: 150;
+	min-height: 213px;
+	margin-top: 33px;
+}
+
+#u30912
+{
+	z-index: 201;
+	height: 307px;
+	background: transparent url("../images/zuckwalks-u30912-fr.jpg") no-repeat center top;
+	background-size: contain;
+}
+
+#u30912-bw
+{
+	z-index: 201;
+	margin-top: 7px;
+	height: 307px;
 }
 
 #u7058-6
 {
-	z-index: 187;
+	z-index: 167;
+	min-height: 26px;
 	background-color: transparent;
 	line-height: 13px;
-	top: -1px;
-	margin-bottom: -1px;
-	position: relative;
-	width: 99.53%;
-	margin-left: 0.24%;
+	text-align: center;
+}
+
+#u7058-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 #u7058-4
 {
-	text-align: left;
+	padding-right: 20px;
+	padding-left: 20px;
 	font-style: italic;
 }
 
-#u7052-4
+#u7058-6-bw
 {
-	z-index: 176;
-	min-height: 283px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	width: 26.15%;
-	left: 60.84%;
+	z-index: 167;
+	min-height: 26px;
+	margin-top: 7px;
 }
 
 #u7055-7
 {
-	z-index: 180;
+	z-index: 160;
+	min-height: 255px;
 	background-color: transparent;
 	line-height: 17px;
-	margin-top: 4px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
 }
 
-#u7061
+#u7055-2,#u7055-3,#u7055-5
 {
-	z-index: 193;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-top: 14px;
-	position: relative;
-	width: 62.4%;
-	margin-left: 18.65%;
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u7055-7-bw
+{
+	z-index: 160;
+	min-height: 255px;
+	margin-top: 16px;
+}
+
+#u30915
+{
+	z-index: 202;
+	height: 335px;
+	background: transparent url("../images/bfnp2a1iyaajy5u.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u30915-bw
+{
+	z-index: 202;
+	margin-top: 12px;
+	height: 335px;
 }
 
 #u7071-6
 {
-	z-index: 195;
+	z-index: 173;
 	min-height: 67px;
 	background-color: transparent;
 	line-height: 13px;
-	margin-top: 1px;
-	position: relative;
-	width: 20.84%;
-	margin-left: 18.75%;
+	text-align: center;
 }
 
 #u7071-4
 {
 	font-style: italic;
+}
+
+#u7071-6-bw
+{
+	z-index: 173;
+	min-height: 67px;
+	margin-top: 6px;
 }
 
 #pu29954
@@ -639,7 +744,7 @@
 	left: 32.82%;
 }
 
-#pu13158-4
+#pu30879,#pu13158-4
 {
 	margin-top: 24px;
 	width: 100%;
@@ -1071,7 +1176,7 @@ body
 	min-width: 320px;
 }
 
-#u7045_img,#u7061_img,#u8219_img,#u13074_img,#u13082_img
+#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

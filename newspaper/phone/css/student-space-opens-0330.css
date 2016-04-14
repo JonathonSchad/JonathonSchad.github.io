@@ -1,7 +1,7 @@
 .version.student_space_opens_0330 /* version checker */
 {
-	color: #0000F2;
-	background-color: #92283D;
+	color: #000005;
+	background-color: #84AA18;
 }
 
 .js body
@@ -129,16 +129,15 @@
 	z-index: 4;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	margin-right: -10000px;
-	position: relative;
-	z-index: 54;
+	z-index: 103;
+	height: 42px;
 }
 
 #u21524-9
 {
-	z-index: 105;
+	z-index: 104;
 	background-color: transparent;
 	min-height: 29px;
 }
@@ -167,7 +166,7 @@
 
 #u21523-31
 {
-	z-index: 114;
+	z-index: 113;
 	background-color: transparent;
 	line-height: 14px;
 	font-size: 12px;
@@ -189,12 +188,12 @@
 {
 	margin-right: -10000px;
 	position: relative;
-	z-index: 99;
+	z-index: 97;
 }
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
@@ -202,12 +201,12 @@
 {
 	margin-right: -10000px;
 	position: relative;
-	z-index: 101;
+	z-index: 99;
 }
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
@@ -215,12 +214,12 @@
 {
 	margin-right: -10000px;
 	position: relative;
-	z-index: 103;
+	z-index: 101;
 }
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -238,7 +237,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -291,7 +290,7 @@
 #menuu14391-bw
 {
 	margin-top: 3px;
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -323,14 +322,9 @@ body
 		max-width: 380px;
 	}
 
-	#u14322
-	{
-		width: 43.16%;
-	}
-
 	#u21524-9-bw
 	{
-		z-index: 105;
+		z-index: 104;
 		min-height: 29px;
 		margin-top: 19px;
 	}
@@ -342,7 +336,7 @@ body
 
 	#u21523-31-bw
 	{
-		z-index: 114;
+		z-index: 113;
 		min-height: 1269px;
 		margin-top: 25px;
 	}
@@ -365,11 +359,6 @@ body
 		left: 56.85%;
 	}
 
-	#u14322_img
-	{
-		width: 100.61%;
-	}
-
 }
 
 @media (max-width: 320px)
@@ -389,11 +378,6 @@ body
 		min-height: 564px;
 		padding-bottom: 6px;
 		max-width: 320px;
-	}
-
-	#u14322
-	{
-		width: 43.13%;
 	}
 
 	#u21524-9
@@ -436,11 +420,6 @@ body
 	body
 	{
 		min-width: 320px;
-	}
-
-	#u14322_img
-	{
-		width: 100.73%;
 	}
 
 }

@@ -1,7 +1,7 @@
 .version.professors_spotlight_susan_sharfstein /* version checker */
 {
-	color: #0000F3;
-	background-color: #D9716B;
+	color: #0000F9;
+	background-color: #C8B859;
 }
 
 #page
@@ -14,11 +14,6 @@
 	background-color: transparent;
 	width: 100%;
 	max-width: 380px;
-}
-
-#pu14557
-{
-	width: 100%;
 }
 
 .js body
@@ -201,19 +196,20 @@
 	margin-top: 8px;
 }
 
-#u14613
+#u31407,#u31407-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
-	margin-left: 28.43%;
-	left: -108px;
+	z-index: 103;
+	height: 43px;
+}
+
+#pu14557,#pu26680
+{
+	width: 100%;
 }
 
 #u26680
 {
-	z-index: 105;
+	z-index: 104;
 	height: 187px;
 	background: transparent url("../../images/nanohigh%20class%20visit%20-%205.jpg") no-repeat center center;
 	background-size: cover;
@@ -221,13 +217,13 @@
 
 #u26680-bw
 {
-	z-index: 105;
+	z-index: 104;
 	height: 187px;
 }
 
 #u26684-9
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 44px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -259,14 +255,14 @@
 
 #u26684-9-bw
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 44px;
 	margin-top: 140px;
 }
 
 #u26685-4
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 8px;
@@ -282,14 +278,14 @@
 
 #u26685-4-bw
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	margin-top: 1px;
 }
 
 #u26686-100
 {
-	z-index: 119;
+	z-index: 118;
 	min-height: 4175px;
 	background-color: transparent;
 }
@@ -309,12 +305,12 @@
 
 #u26686-100-bw
 {
-	z-index: 119;
+	z-index: 118;
 	min-height: 4175px;
 	margin-top: 9px;
 }
 
-#pu26680,#pu14558
+#pu14558
 {
 	margin-top: 1px;
 	width: 100%;
@@ -328,7 +324,7 @@
 
 #menuu14615
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -447,14 +443,14 @@
 
 #menuu14615-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
 
 #u27134
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 94px;
@@ -464,13 +460,13 @@
 
 #u27135
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27136
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 94px;
@@ -480,13 +476,13 @@
 
 #u27137
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27138
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 94px;
@@ -496,7 +492,7 @@
 
 #u27139
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -509,11 +505,6 @@ body
 {
 	position: relative;
 	min-width: 318px;
-}
-
-#u14613_img
-{
-	width: 100.61%;
 }
 
 

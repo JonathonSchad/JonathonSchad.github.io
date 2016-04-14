@@ -1,7 +1,7 @@
 .version.laser_tag_event_0413 /* version checker */
 {
-	color: #0000F8;
-	background-color: #7C8040;
+	color: #000007;
+	background-color: #3949EA;
 }
 
 #muse_css_mq
@@ -432,9 +432,9 @@
 	margin-top: 387px;
 }
 
-#u30290-4
+#u30783-4
 {
-	z-index: 187;
+	z-index: 188;
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 34px;
@@ -444,14 +444,28 @@
 	font-weight: 300;
 }
 
-#u30290-2
+#u30783-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30783-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u30783-2
 {
 	padding-left: 10px;
 }
 
-#u30290-4-bw
+#u30783-4-bw
 {
-	z-index: 187;
+	z-index: 188;
 	min-height: 46px;
 }
 
@@ -498,7 +512,7 @@
 
 #u30325
 {
-	z-index: 191;
+	z-index: 187;
 	height: 439px;
 	background: transparent url("../images/laser%20tag.jpg") no-repeat center top;
 	background-size: contain;
@@ -506,7 +520,7 @@
 
 #u30325-bw
 {
-	z-index: 191;
+	z-index: 187;
 	height: 439px;
 }
 

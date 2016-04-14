@@ -1,7 +1,7 @@
 .version.panama_papers_0413 /* version checker */
 {
-	color: #00000D;
-	background-color: #52F103;
+	color: #0000EA;
+	background-color: #C96267;
 }
 
 #muse_css_mq
@@ -201,12 +201,10 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
 }
 
 #pu14311,#pu30561
@@ -216,7 +214,7 @@
 
 #u30561
 {
-	z-index: 105;
+	z-index: 104;
 	height: 186px;
 	background: transparent url("../../images/cassidy-panama-papers-american-names-1200.jpg") no-repeat left top;
 	background-size: cover;
@@ -224,13 +222,13 @@
 
 #u30561-bw
 {
-	z-index: 105;
+	z-index: 104;
 	height: 186px;
 }
 
 #u30563-9
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -262,14 +260,14 @@
 
 #u30563-9-bw
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	margin-top: 138px;
 }
 
 #u30562-6
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	background-color: transparent;
 }
@@ -293,14 +291,14 @@
 
 #u30562-6-bw
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	margin-top: 6px;
 }
 
 #u30560-84
 {
-	z-index: 121;
+	z-index: 120;
 	min-height: 938px;
 	background-color: transparent;
 	line-height: 14px;
@@ -327,7 +325,7 @@
 
 #u30560-84-bw
 {
-	z-index: 121;
+	z-index: 120;
 	min-height: 938px;
 	margin-top: 24px;
 }
@@ -340,7 +338,7 @@
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -349,13 +347,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.27%;
@@ -364,13 +362,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -379,7 +377,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -397,7 +395,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -516,7 +514,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -530,11 +528,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

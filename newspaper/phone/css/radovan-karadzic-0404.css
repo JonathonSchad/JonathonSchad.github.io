@@ -1,7 +1,7 @@
 .version.radovan_karadzic_0404 /* version checker */
 {
-	color: #00001E;
-	background-color: #723AB3;
+	color: #0000F2;
+	background-color: #EA4F6B;
 }
 
 #muse_css_mq
@@ -206,17 +206,15 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
 }
 
 #u20165-9
 {
-	z-index: 105;
+	z-index: 104;
 	min-height: 29px;
 	background-color: transparent;
 }
@@ -245,14 +243,14 @@
 
 #u20165-9-bw
 {
-	z-index: 105;
+	z-index: 104;
 	min-height: 29px;
 	margin-top: 17px;
 }
 
 #u20163-7
 {
-	z-index: 114;
+	z-index: 113;
 	min-height: 222px;
 	background-color: transparent;
 	line-height: 14px;
@@ -261,14 +259,14 @@
 
 #u20163-7-bw
 {
-	z-index: 114;
+	z-index: 113;
 	min-height: 222px;
 	margin-top: 15px;
 }
 
 #u26938
 {
-	z-index: 182;
+	z-index: 181;
 	height: 401px;
 	background: transparent url("../../images/balkan-wars.jpg") no-repeat center bottom;
 	background-size: contain;
@@ -276,13 +274,13 @@
 
 #u26938-bw
 {
-	z-index: 182;
+	z-index: 181;
 	height: 401px;
 }
 
 #u20310-6
 {
-	z-index: 170;
+	z-index: 169;
 	min-height: 24px;
 	background-color: transparent;
 	line-height: 12px;
@@ -291,13 +289,13 @@
 
 #u20310-6-bw
 {
-	z-index: 170;
+	z-index: 169;
 	min-height: 24px;
 }
 
 #u20314-30
 {
-	z-index: 121;
+	z-index: 120;
 	min-height: 712px;
 	background-color: transparent;
 	line-height: 14px;
@@ -311,14 +309,14 @@
 
 #u20314-30-bw
 {
-	z-index: 121;
+	z-index: 120;
 	min-height: 712px;
 	margin-top: 12px;
 }
 
 #u26946
 {
-	z-index: 183;
+	z-index: 182;
 	height: 447px;
 	background: transparent url("../../images/79692_radovan-poster_iff-u26946-fr.jpg") no-repeat center bottom;
 	background-size: contain;
@@ -326,14 +324,14 @@
 
 #u26946-bw
 {
-	z-index: 183;
+	z-index: 182;
 	margin-top: 4px;
 	height: 447px;
 }
 
 #u20329-6
 {
-	z-index: 176;
+	z-index: 175;
 	min-height: 48px;
 	background-color: transparent;
 	line-height: 12px;
@@ -355,14 +353,14 @@
 
 #u20329-6-bw
 {
-	z-index: 176;
+	z-index: 175;
 	min-height: 48px;
 	margin-top: 8px;
 }
 
 #u20333-19
 {
-	z-index: 151;
+	z-index: 150;
 	min-height: 542px;
 	background-color: transparent;
 	line-height: 14px;
@@ -377,7 +375,7 @@
 
 #u20333-19-bw
 {
-	z-index: 151;
+	z-index: 150;
 	min-height: 542px;
 	margin-top: 11px;
 }
@@ -390,7 +388,7 @@
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -399,13 +397,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.27%;
@@ -414,13 +412,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -429,7 +427,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -447,7 +445,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -566,7 +564,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -580,11 +578,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

@@ -1,7 +1,7 @@
 .version.introducing_the_cnse_herald_0301 /* version checker */
 {
-	color: #00001F;
-	background-color: #A10B70;
+	color: #00000F;
+	background-color: #BAECFE;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 776.9499999999996px;
+	min-height: 776.8999999999996px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -373,91 +373,186 @@
 	min-height: 55px;
 }
 
-#pu7081-4
+#u31351-4
 {
-	margin-top: 15px;
+	z-index: 194;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u31351-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u31351-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u31351-2
+{
+	padding-left: 10px;
+}
+
+#u31351-4-bw
+{
+	z-index: 194;
+	min-height: 46px;
+}
+
+#u30920-11
+{
+	z-index: 177;
+	min-height: 108px;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u30920,#u30920-3
+{
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30920-4,#u30920-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30920-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30920-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30920-11-bw
+{
+	z-index: 177;
+	min-height: 108px;
+	margin-top: 24px;
+}
+
+#pu30921
+{
+	margin-top: 24px;
 	width: 100%;
 }
 
-#u7081-4
-{
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 10.94%;
-}
-
-#u7079-4
-{
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#u7084-4
-{
-	z-index: 158;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 31px;
-	margin-top: 60px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
-}
-
-#u7082-4
+#u30921
 {
 	z-index: 188;
-	min-height: 26px;
 	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
 	position: relative;
-	width: 21.78%;
-	margin-left: 10.94%;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 41.15%;
 }
 
-#u7080
+#u30922
+{
+	z-index: 189;
+	display: block;
+	width: 100%;
+}
+
+#u30923
+{
+	z-index: 190;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	width: 5.11%;
+	left: 47.5%;
+}
+
+#u30924
+{
+	z-index: 191;
+	display: block;
+	width: 100%;
+}
+
+#u30925
 {
 	z-index: 192;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 53.65%;
+}
+
+#u30926
+{
+	z-index: 193;
+	display: block;
+	width: 100%;
+}
+
+#u30918
+{
+	z-index: 176;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
 	background-color: transparent;
-	margin-top: 13px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
 	border-width: 1px 0px 0px;
+}
+
+#u30918-bw
+{
+	z-index: 176;
+	margin-top: 19px;
+	height: 19px;
 }
 
 #u7083-26
 {
-	z-index: 162;
-	min-height: 497px;
+	z-index: 150;
+	min-height: 440px;
 	background-color: transparent;
 	text-align: justify;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
 #u7083-8,#u7083-10
 {
 	font-weight: 700;
+}
+
+#u7083-2,#u7083-3,#u7083-5,#u7083-6,#u7083-12,#u7083-13,#u7083-18,#u7083-19,#u7083-21,#u7083-22,#u7083-24
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u7083-26-bw
+{
+	z-index: 150;
+	min-height: 440px;
 }
 
 #pu29954
@@ -513,7 +608,7 @@
 
 #pu13045-4
 {
-	margin-top: 32px;
+	margin-top: 33px;
 	width: 100%;
 }
 
@@ -550,7 +645,7 @@
 
 #pu13158-4
 {
-	margin-top: 24px;
+	margin-top: 23px;
 	width: 100%;
 }
 
@@ -695,7 +790,7 @@
 
 #pu13112-4
 {
-	margin-top: 10px;
+	margin-top: 11px;
 	width: 100%;
 }
 
@@ -966,7 +1061,7 @@
 {
 	z-index: 2;
 	min-height: 235px;
-	margin-top: 17px;
+	margin-top: 16px;
 }
 
 .html

@@ -1,7 +1,7 @@
 .version.things_to_do_around_albany_0326 /* version checker */
 {
-	color: #0000E5;
-	background-color: #69FFB7;
+	color: #0000E6;
+	background-color: #697B4D;
 }
 
 #muse_css_mq
@@ -382,6 +382,20 @@
 	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u30376-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30376-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
 }
 
 #u30376-2

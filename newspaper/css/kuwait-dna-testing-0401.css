@@ -1,7 +1,7 @@
 .version.kuwait_dna_testing_0401 /* version checker */
 {
-	color: #0000E7;
-	background-color: #62D7D4;
+	color: #0000FD;
+	background-color: #5543B1;
 }
 
 #muse_css_mq
@@ -373,97 +373,188 @@
 	min-height: 55px;
 }
 
-#pu12507-4
+#u31324-4
 {
-	margin-top: 15px;
+	z-index: 210;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u31324-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u31324-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u31324-2
+{
+	padding-left: 10px;
+}
+
+#u31324-4-bw
+{
+	z-index: 210;
+	min-height: 46px;
+}
+
+#u31208-11
+{
+	z-index: 193;
+	min-height: 108px;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u31208,#u31208-3
+{
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31208-4,#u31208-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31208-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31208-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u31208-11-bw
+{
+	z-index: 193;
+	min-height: 108px;
+	margin-top: 24px;
+}
+
+#u31209
+{
+	z-index: 204;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 41.15%;
+}
+
+#u31210
+{
+	z-index: 205;
+	display: block;
 	width: 100%;
 }
 
-#u12507-4
+#u31211
 {
-	z-index: 150;
-	min-height: 23px;
+	z-index: 206;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 10.94%;
+	margin-top: 1px;
+	width: 5.11%;
+	left: 47.5%;
 }
 
-#u12509-4
+#u31212
 {
-	z-index: 154;
-	min-height: 23px;
+	z-index: 207;
+	display: block;
+	width: 100%;
+}
+
+#u31213
+{
+	z-index: 208;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
+	width: 5.21%;
+	left: 53.65%;
 }
 
-#u12508-4
+#u31214
 {
-	z-index: 158;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 31px;
-	text-align: left;
-	margin-top: 60px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
+	z-index: 209;
+	display: block;
+	width: 100%;
 }
 
-#u12505-6
+#u31206
 {
-	z-index: 204;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	width: 21.78%;
-	margin-left: 10.94%;
-}
-
-#u12506
-{
-	z-index: 210;
+	z-index: 192;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
 	background-color: transparent;
-	margin-top: 13px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
 	border-width: 1px 0px 0px;
+}
+
+#u31206-bw
+{
+	z-index: 192;
+	margin-top: 19px;
+	height: 19px;
 }
 
 #u12504-42
 {
-	z-index: 162;
-	min-height: 1070px;
+	z-index: 150;
+	min-height: 1016px;
 	background-color: transparent;
 	text-align: justify;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
+}
+
+#u12504-17
+{
+	font-style: italic;
 }
 
 #u12504-2,#u12504-3,#u12504-5,#u12504-6,#u12504-8,#u12504-9,#u12504-11,#u12504-12,#u12504-14,#u12504-15,#u12504-19,#u12504-20,#u12504-22,#u12504-23,#u12504-25,#u12504-26,#u12504-28,#u12504-29,#u12504-31,#u12504-32,#u12504-34,#u12504-35,#u12504-37
 {
-	font-style: normal;
+	padding-right: 110px;
+	padding-left: 110px;
 }
 
-#u12505-3,#u12504-17,#u12504-38,#u12504-40
+#u12504-38,#u12504-40
 {
+	padding-right: 110px;
+	padding-left: 110px;
 	font-style: italic;
+}
+
+#u12504-42-bw
+{
+	z-index: 150;
+	min-height: 1016px;
+	margin-top: 10px;
 }
 
 #pu29954
@@ -554,7 +645,7 @@
 	left: 32.82%;
 }
 
-#pu13158-4
+#pu31209,#pu13158-4
 {
 	margin-top: 24px;
 	width: 100%;

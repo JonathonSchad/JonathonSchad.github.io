@@ -1,7 +1,7 @@
 .version.college_of_arts___sciences_0401 /* version checker */
 {
-	color: #000017;
-	background-color: #399D61;
+	color: #00000C;
+	background-color: #84783C;
 }
 
 #muse_css_mq
@@ -206,12 +206,10 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
 }
 
 #pu28324
@@ -222,18 +220,18 @@
 
 #u28324
 {
-	z-index: 105;
+	z-index: 104;
 	height: 302px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
-	background: transparent url("../../images/sunypi_cas_seal_2882.jpg") no-repeat right center;
+	background: transparent url("../../images/sunypi_cas_seal_2882-u28324-fr.jpg") no-repeat right center;
 	background-size: cover;
 }
 
 #u21470-9
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -265,14 +263,14 @@
 
 #u21470-9-bw
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	margin-top: 236px;
 }
 
 #u21468-4
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 8px;
@@ -288,14 +286,14 @@
 
 #u21468-4-bw
 {
-	z-index: 115;
+	z-index: 114;
 	min-height: 25px;
 	margin-top: 12px;
 }
 
 #u21469-43
 {
-	z-index: 119;
+	z-index: 118;
 	min-height: 969px;
 	background-color: transparent;
 	line-height: 14px;
@@ -326,7 +324,7 @@
 
 #u21469-43-bw
 {
-	z-index: 119;
+	z-index: 118;
 	min-height: 969px;
 	margin-top: 11px;
 }
@@ -339,7 +337,7 @@
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -348,13 +346,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.27%;
@@ -363,13 +361,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -378,7 +376,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -396,7 +394,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -515,7 +513,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -529,11 +527,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

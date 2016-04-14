@@ -1,7 +1,7 @@
 .version.laser_guided_interstellar_travel_0301 /* version checker */
 {
-	color: #000015;
-	background-color: #2F2106;
+	color: #0000E1;
+	background-color: #80E259;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 776.9499999999998px;
+	min-height: 776.9499999999996px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -373,116 +373,144 @@
 	min-height: 55px;
 }
 
-#pu6882-4
+#u30867
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 182;
+	height: 496px;
+	background: transparent url("../images/interstellar-adrian-mann-ucsb.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u6882-4
+#u30867-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 17.3%;
-	left: 10.94%;
+	z-index: 182;
+	height: 496px;
 }
 
-#u6879-4
+#u30868-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#u6877
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 78.23%;
-	left: 10.84%;
-}
-
-#u6883
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 183;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 325px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u6881-4
+#u30868,#u30868-3
 {
-	z-index: 161;
-	min-height: 41px;
-	background-color: transparent;
 	line-height: 31px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 349px;
-	width: 62.19%;
-	left: 19.38%;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
-#u6880-4
+#u30868-4,#u30868-5
 {
-	z-index: 197;
-	min-height: 26px;
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30868-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30868-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30868-11-bw
+{
+	z-index: 183;
+	min-height: 108px;
+	margin-top: 387px;
+}
+
+#u30869-4
+{
+	z-index: 194;
+	min-height: 46px;
 	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 401px;
-	width: 21.78%;
-	left: 21.78%;
+	line-height: 34px;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u30869-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30869-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30869-2
+{
+	padding-left: 10px;
+}
+
+#u30869-4-bw
+{
+	z-index: 194;
+	min-height: 46px;
 }
 
 #u6876-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	margin-top: 1px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
+}
+
+#u6876-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u6876-4-bw
+{
+	z-index: 150;
+	min-height: 25px;
+	margin-top: 11px;
 }
 
 #u6884-28
 {
-	z-index: 169;
-	min-height: 963px;
+	z-index: 154;
+	min-height: 769px;
 	background-color: transparent;
 	line-height: 17px;
+}
+
+#u6884-2,#u6884-3,#u6884-5,#u6884-6,#u6884-11,#u6884-12,#u6884-14,#u6884-15,#u6884-17,#u6884-18,#u6884-20,#u6884-23,#u6884-26
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u6884-28-bw
+{
+	z-index: 154;
+	min-height: 769px;
 	margin-top: 11px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
 #pu29954
@@ -536,7 +564,7 @@
 	width: 100%;
 }
 
-#pu6877,#pu13045-4
+#pu13045-4
 {
 	margin-top: 32px;
 	width: 100%;
@@ -1005,7 +1033,7 @@ body
 	min-width: 320px;
 }
 
-#u6877_img,#u8219_img,#u13074_img,#u13082_img
+#pu30867,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

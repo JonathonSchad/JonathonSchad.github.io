@@ -1,7 +1,7 @@
 .version.changing_face_of_grief_0330 /* version checker */
 {
-	color: #0000E6;
-	background-color: #A0F81E;
+	color: #00000D;
+	background-color: #A8F77F;
 }
 
 #muse_css_mq
@@ -372,115 +372,144 @@
 	min-height: 55px;
 }
 
-#pu7004-4
+#u30840
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 208;
+	height: 496px;
+	background: transparent url("../images/capture.jpg") no-repeat center bottom;
+	background-size: cover;
 }
 
-#u7004-4
+#u30840-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 17.3%;
-	left: 10.94%;
+	z-index: 208;
+	height: 496px;
 }
 
-#u7006-4
+#u30841-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#u7008
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 66.25%;
-	left: 16.78%;
-}
-
-#u7002
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 209;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 300px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u7001-4
+#u30841,#u30841-3
 {
-	z-index: 161;
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30841-4,#u30841-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30841-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30841-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30841-11-bw
+{
+	z-index: 209;
+	min-height: 108px;
+	margin-top: 387px;
+}
+
+#u30842-4
+{
+	z-index: 220;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 31px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 324px;
-	width: 62.19%;
-	left: 19.59%;
+	line-height: 34px;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
 }
 
-#u7007-4
+#u30842-4:hover
 {
-	z-index: 223;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 370px;
-	width: 21.78%;
-	left: 21.78%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30842-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30842-2
+{
+	padding-left: 10px;
+}
+
+#u30842-4-bw
+{
+	z-index: 220;
+	min-height: 46px;
 }
 
 #u7005-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	position: relative;
-	width: 42.82%;
-	margin-left: 16.88%;
+}
+
+#u7005-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u7005-4-bw
+{
+	z-index: 150;
+	min-height: 25px;
+	margin-top: 14px;
 }
 
 #u7003-54
 {
-	z-index: 169;
+	z-index: 154;
 	min-height: 1531px;
 	background-color: transparent;
 	line-height: 17px;
-	margin-top: 17px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
+}
+
+#u7003-2,#u7003-3,#u7003-5,#u7003-6,#u7003-8,#u7003-9,#u7003-11,#u7003-12,#u7003-14,#u7003-15,#u7003-17,#u7003-18,#u7003-20,#u7003-21,#u7003-23,#u7003-24,#u7003-26,#u7003-27,#u7003-29,#u7003-30,#u7003-32,#u7003-33,#u7003-35,#u7003-36,#u7003-38,#u7003-39,#u7003-41,#u7003-42,#u7003-44,#u7003-45,#u7003-47,#u7003-48,#u7003-50,#u7003-51
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u7003-54-bw
+{
+	z-index: 154;
+	min-height: 1531px;
+	margin-top: 14px;
 }
 
 #pu29954
@@ -534,7 +563,7 @@
 	width: 100%;
 }
 
-#pu7008,#pu13045-4
+#pu13045-4
 {
 	margin-top: 32px;
 	width: 100%;
@@ -1003,7 +1032,7 @@ body
 	min-width: 320px;
 }
 
-#u7008_img,#u8219_img,#u13074_img,#u13082_img
+#pu30840,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

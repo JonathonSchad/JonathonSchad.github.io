@@ -1,7 +1,7 @@
 .version.noodles___company_0306 /* version checker */
 {
-	color: #0000EA;
-	background-color: #F935FA;
+	color: #000008;
+	background-color: #5AD065;
 }
 
 #muse_css_mq
@@ -206,17 +206,15 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
 }
 
 #u21534-9
 {
-	z-index: 105;
+	z-index: 104;
 	min-height: 29px;
 	background-color: transparent;
 }
@@ -245,14 +243,14 @@
 
 #u21534-9-bw
 {
-	z-index: 105;
+	z-index: 104;
 	min-height: 29px;
 	margin-top: 23px;
 }
 
 #u21536-22
 {
-	z-index: 114;
+	z-index: 113;
 	min-height: 760px;
 	background-color: transparent;
 }
@@ -275,7 +273,7 @@
 
 #u21536-22-bw
 {
-	z-index: 114;
+	z-index: 113;
 	min-height: 760px;
 	margin-top: 21px;
 }
@@ -288,7 +286,7 @@
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -297,13 +295,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.27%;
@@ -312,13 +310,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -327,7 +325,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -345,7 +343,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -464,7 +462,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -478,11 +476,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

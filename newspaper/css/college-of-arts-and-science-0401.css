@@ -1,7 +1,7 @@
 .version.college_of_arts_and_science_0401 /* version checker */
 {
-	color: #0000E9;
-	background-color: #61BBF4;
+	color: #0000FF;
+	background-color: #F3CF34;
 }
 
 #muse_css_mq
@@ -373,114 +373,110 @@
 	min-height: 55px;
 }
 
-#pu12629-4
+#u30721
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 197;
+	height: 496px;
+	background: transparent url("../images/sunypi_cas_seal_2882.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u12629-4
+#u30721-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 10.94%;
+	z-index: 197;
+	height: 496px;
 }
 
-#u12634-4
+#u30722-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#pu12632
-{
-	margin-top: 21px;
-	width: 100%;
-}
-
-#u12632
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 45%;
-	left: 27.4%;
-}
-
-#u12632_img
-{
-	padding-top: 1px;
-	padding-bottom: 1px;
-	width: 100%;
-}
-
-#u12636
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 198;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 325px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u12630-4
+#u30722,#u30722-3
 {
-	z-index: 161;
-	min-height: 66px;
-	background-color: transparent;
 	line-height: 31px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 335px;
-	width: 62.19%;
-	left: 19.38%;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
-#u12635-4
+#u30722-4,#u30722-5
 {
-	z-index: 212;
-	min-height: 26px;
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30722-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30722-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30722-11-bw
+{
+	z-index: 198;
+	min-height: 108px;
+	margin-top: 387px;
+}
+
+#u30780-4
+{
+	z-index: 209;
+	min-height: 46px;
 	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 401px;
-	width: 21.78%;
-	left: 21.78%;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u30780-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30780-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u30780-2
+{
+	padding-left: 10px;
+}
+
+#u30780-4-bw
+{
+	z-index: 209;
+	min-height: 46px;
 }
 
 #u12631-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	margin-top: 1px;
 	position: relative;
 	width: 78.23%;
 	margin-left: 10.94%;
@@ -488,7 +484,7 @@
 
 #u12628-43
 {
-	z-index: 169;
+	z-index: 154;
 	min-height: 1000px;
 	background-color: transparent;
 	line-height: 17px;
@@ -1023,7 +1019,7 @@ body
 	min-width: 320px;
 }
 
-#u8219_img,#u13074_img,#u13082_img
+#pu30721,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

@@ -1,7 +1,7 @@
 .version.bloody_bloody_andrew_jackson_0315 /* version checker */
 {
-	color: #000019;
-	background-color: #D7AD4F;
+	color: #000007;
+	background-color: #887CD1;
 }
 
 #muse_css_mq
@@ -206,23 +206,153 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
+}
+
+#pu32063
+{
+	margin-top: 1px;
+	width: 100%;
+}
+
+#u32063
+{
+	z-index: 104;
+	height: 187px;
+	background: transparent url("../../images/andrew3.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u32063-bw
+{
+	z-index: 104;
+	height: 187px;
+}
+
+#u32064-10
+{
+	z-index: 105;
+	min-height: 29px;
+	background-color: #F5F5F5;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+}
+
+#u32064-3
+{
+	font-size: 15px;
+	text-align: center;
+	line-height: 18px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u32064,#u32064-4
+{
+	font-size: 15px;
+	line-height: 18px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u32064-8
+{
+	font-size: 10px;
+	line-height: 12px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u32064-6
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u32064-10-bw
+{
+	z-index: 105;
+	min-height: 29px;
+	margin-top: 85px;
+}
+
+#u32065-7
+{
+	z-index: 115;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 8px;
+	font-size: 7px;
+	font-style: italic;
+}
+
+#u32065
+{
+	font-style: normal;
+}
+
+#u32065-3,#u32065-5
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u32065-7-bw
+{
+	z-index: 115;
+	min-height: 25px;
+	margin-top: 16px;
+}
+
+#u32066-80
+{
+	z-index: 122;
+	min-height: 1108px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u32066-2,#u32066-3,#u32066-13,#u32066-14,#u32066-20,#u32066-21,#u32066-25,#u32066-26,#u32066-32,#u32066-33,#u32066-39,#u32066-40,#u32066-46,#u32066-47,#u32066-53,#u32066-54,#u32066-62,#u32066-63,#u32066-75
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u32066-5,#u32066-7,#u32066-9,#u32066-11,#u32066-16,#u32066-18,#u32066-23,#u32066-28,#u32066-30,#u32066-35,#u32066-37,#u32066-42,#u32066-44,#u32066-49,#u32066-51,#u32066-56,#u32066-58,#u32066-60,#u32066-65,#u32066-67,#u32066-69,#u32066-71,#u32066-73
+{
+	font-style: italic;
+}
+
+#u32066-76,#u32066-78
+{
+	padding-right: 30px;
+	padding-left: 30px;
+	font-style: italic;
+}
+
+#u32066-80-bw
+{
+	z-index: 122;
+	min-height: 1108px;
+	margin-top: 12px;
 }
 
 #pu27076
 {
-	margin-top: 351px;
+	margin-top: 7px;
 	width: 100%;
 }
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -231,13 +361,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.27%;
@@ -246,13 +376,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -261,7 +391,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -279,7 +409,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -398,7 +528,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -412,11 +542,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

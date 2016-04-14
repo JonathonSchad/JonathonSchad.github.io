@@ -186,6 +186,12 @@
 	cursor: pointer;
 }
 
+#u31407
+{
+	background: transparent url("../../images/heraldlogo-small.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u14558
 {
 	background-color: #002C73;
@@ -198,7 +204,7 @@
 	background-color: transparent;
 }
 
-#u14592.MuseMenuActive,#u14613,#u14658,#u14661
+#u14592.MuseMenuActive,#u14658,#u14661
 {
 	background-color: transparent;
 }
@@ -367,4 +373,6 @@
 {
 	display: block;
 }
+
+
 

@@ -1,7 +1,7 @@
 .version.merrick_garland_0401 /* version checker */
 {
-	color: #0000F9;
-	background-color: #768138;
+	color: #00001C;
+	background-color: #94D868;
 }
 
 #muse_css_mq
@@ -433,7 +433,7 @@
 	margin-top: 387px;
 }
 
-#u30236-4
+#u30753-4
 {
 	z-index: 197;
 	min-height: 46px;
@@ -445,12 +445,26 @@
 	font-weight: 300;
 }
 
-#u30236-2
+#u30753-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30753-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30753-2
 {
 	padding-left: 10px;
 }
 
-#u30236-4-bw
+#u30753-4-bw
 {
 	z-index: 197;
 	min-height: 46px;

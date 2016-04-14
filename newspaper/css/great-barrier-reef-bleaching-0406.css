@@ -1,7 +1,7 @@
-.version.great_barrier_reef_bleaching_0404 /* version checker */
+.version.great_barrier_reef_bleaching_0406 /* version checker */
 {
-	color: #0000E4;
-	background-color: #BE5274;
+	color: #00001B;
+	background-color: #DBEA2C;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 777px;
+	min-height: 776.9999999999995px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -372,128 +373,149 @@
 	min-height: 55px;
 }
 
-#pu17762-4
+#u30822
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 176;
+	height: 496px;
+	background: transparent url("../images/1458651119_great_barrier_reef.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u17762-4
+#u30822-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 17.3%;
-	left: 10.94%;
+	z-index: 176;
+	height: 496px;
 }
 
-#u17757-4
+#u30823-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#pu17754
-{
-	margin-top: 21px;
-	width: 100%;
-}
-
-#u17754
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 78.23%;
-	left: 10.84%;
-}
-
-#u17760
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 177;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 311px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u17759-4
+#u30823,#u30823-3
 {
-	z-index: 161;
-	min-height: 37px;
-	background-color: transparent;
-	line-height: 29px;
-	font-size: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 334px;
-	width: 62.19%;
-	left: 19.59%;
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
-#u17761-4
+#u30823-4,#u30823-5
 {
-	z-index: 191;
-	min-height: 26px;
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30823-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30823-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30823-11-bw
+{
+	z-index: 177;
+	min-height: 108px;
+	margin-top: 387px;
+}
+
+#u30824-4
+{
+	z-index: 188;
+	min-height: 46px;
 	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 381px;
-	width: 21.78%;
-	left: 21.78%;
+	line-height: 34px;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u30824-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30824-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30824-2
+{
+	padding-left: 10px;
+}
+
+#u30824-4-bw
+{
+	z-index: 188;
+	min-height: 46px;
 }
 
 #u17758-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
+}
+
+#u17758-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u17758-4-bw
+{
+	z-index: 150;
+	min-height: 25px;
 	margin-top: 8px;
-	position: relative;
-	width: 42.82%;
-	margin-left: 10.94%;
 }
 
 #u17756-22
 {
-	z-index: 169;
-	min-height: 660px;
+	z-index: 154;
+	min-height: 574px;
 	background-color: transparent;
 	line-height: 17px;
-	margin-top: 16px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
 #u17756-4,#u17756-6
 {
 	font-style: italic;
+}
+
+#u17756-2,#u17756-3,#u17756-8,#u17756-9,#u17756-11,#u17756-12,#u17756-14,#u17756-15,#u17756-17,#u17756-18,#u17756-20
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u17756-22-bw
+{
+	z-index: 154;
+	min-height: 574px;
+	margin-top: 16px;
 }
 
 #pu29954
@@ -1016,7 +1038,7 @@ body
 	min-width: 320px;
 }
 
-#u17754_img,#u8219_img,#u13074_img,#u13082_img
+#pu30822,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

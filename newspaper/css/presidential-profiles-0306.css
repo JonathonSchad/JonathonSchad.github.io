@@ -1,7 +1,7 @@
 .version.presidential_profiles_0306 /* version checker */
 {
-	color: #0000E4;
-	background-color: #4BA0E1;
+	color: #000003;
+	background-color: #AE9413;
 }
 
 #muse_css_mq
@@ -373,9 +373,9 @@
 	min-height: 55px;
 }
 
-#u29884-4
+#u30744-4
 {
-	z-index: 279;
+	z-index: 296;
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 34px;
@@ -385,20 +385,34 @@
 	font-weight: 300;
 }
 
-#u29884-2
+#u30744-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30744-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30744-2
 {
 	padding-left: 10px;
 }
 
-#u29884-4-bw
+#u30744-4-bw
 {
-	z-index: 279;
+	z-index: 296;
 	min-height: 46px;
 }
 
 #u29892-11
 {
-	z-index: 283;
+	z-index: 279;
 	min-height: 108px;
 	background-color: transparent;
 	text-align: center;
@@ -434,14 +448,14 @@
 
 #u29892-11-bw
 {
-	z-index: 283;
+	z-index: 279;
 	min-height: 108px;
 	margin-top: 24px;
 }
 
 #u29900
 {
-	z-index: 294;
+	z-index: 290;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -451,14 +465,14 @@
 
 #u29901
 {
-	z-index: 295;
+	z-index: 291;
 	display: block;
 	width: 100%;
 }
 
 #u29902
 {
-	z-index: 296;
+	z-index: 292;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -469,14 +483,14 @@
 
 #u29903
 {
-	z-index: 297;
+	z-index: 293;
 	display: block;
 	width: 100%;
 }
 
 #u29904
 {
-	z-index: 298;
+	z-index: 294;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -486,7 +500,7 @@
 
 #u29905
 {
-	z-index: 299;
+	z-index: 295;
 	display: block;
 	width: 100%;
 }

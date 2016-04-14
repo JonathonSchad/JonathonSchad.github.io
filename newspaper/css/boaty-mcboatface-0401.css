@@ -1,7 +1,7 @@
 .version.boaty_mcboatface_0401 /* version checker */
 {
-	color: #0000EC;
-	background-color: #75A9C5;
+	color: #000011;
+	background-color: #3A56BF;
 }
 
 #muse_css_mq
@@ -372,123 +372,152 @@
 	min-height: 55px;
 }
 
-#pu12445-4
+#u30831
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 200;
+	height: 496px;
+	background: transparent url("../images/boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u12445-4
+#u30831-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 17.3%;
-	left: 10.94%;
+	z-index: 200;
+	height: 496px;
 }
 
-#u12448-4
+#u30832-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#pu12440
-{
-	margin-top: 21px;
-	width: 100%;
-}
-
-#u12440
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 78.23%;
-	left: 10.84%;
-}
-
-#u12443
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 201;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 311px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u12447-4
+#u30832
 {
-	z-index: 161;
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30832-3
+{
+	font-size: 24px;
+	line-height: 29px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30832-4,#u30832-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30832-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30832-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30832-11-bw
+{
+	z-index: 201;
+	min-height: 108px;
+	margin-top: 360px;
+}
+
+#u30833-4
+{
+	z-index: 212;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 29px;
-	font-size: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 319px;
-	width: 62.19%;
-	left: 19.59%;
+	line-height: 34px;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
 }
 
-#u12446-4
+#u30833-4:hover
 {
-	z-index: 215;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 381px;
-	width: 21.78%;
-	left: 21.78%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30833-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30833-2
+{
+	padding-left: 10px;
+}
+
+#u30833-4-bw
+{
+	z-index: 212;
+	min-height: 46px;
 }
 
 #u12444-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	margin-top: 8px;
-	position: relative;
-	width: 42.82%;
-	margin-left: 10.94%;
+}
+
+#u12444-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u12444-4-bw
+{
+	z-index: 150;
+	min-height: 25px;
+	margin-top: 19px;
 }
 
 #u12442-46
 {
-	z-index: 169;
+	z-index: 154;
 	min-height: 1053px;
 	background-color: transparent;
 	line-height: 17px;
+}
+
+#u12442-2,#u12442-3,#u12442-5,#u12442-6,#u12442-11,#u12442-12,#u12442-14,#u12442-15,#u12442-17,#u12442-18,#u12442-20,#u12442-21,#u12442-23,#u12442-24,#u12442-26,#u12442-27,#u12442-29,#u12442-30,#u12442-32,#u12442-33,#u12442-35,#u12442-36,#u12442-38,#u12442-39,#u12442-41,#u12442-42,#u12442-44
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u12442-46-bw
+{
+	z-index: 154;
+	min-height: 1053px;
 	margin-top: 16px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
 #pu29954
@@ -1011,7 +1040,7 @@ body
 	min-width: 320px;
 }
 
-#u12440_img,#u8219_img,#u13074_img,#u13082_img
+#pu30831,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

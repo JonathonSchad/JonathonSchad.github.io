@@ -1,7 +1,7 @@
 .version.uaceas_0311 /* version checker */
 {
-	color: #000019;
-	background-color: #886FA8;
+	color: #000015;
+	background-color: #A0AAC0;
 }
 
 #muse_css_mq
@@ -442,6 +442,20 @@
 	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u30413-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30413-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
 }
 
 #u30413-2

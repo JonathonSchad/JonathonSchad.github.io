@@ -1,7 +1,7 @@
-.version.opiod_problems_in_the_united_states_0404 /* version checker */
+.version.opiod_problems_in_the_united_states_0406 /* version checker */
 {
-	color: #00000F;
-	background-color: #1F7022;
+	color: #000000;
+	background-color: #40067D;
 }
 
 #muse_css_mq
@@ -12,12 +12,11 @@
 #page
 {
 	z-index: 1;
-	min-height: 776.5499999999997px;
+	min-height: 777px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -373,126 +372,153 @@
 	min-height: 55px;
 }
 
-#pu17795-4
+#u31312
 {
-	margin-top: 15px;
-	width: 100%;
+	z-index: 177;
+	height: 496px;
+	background: transparent url("../images/just-out-new-guidelines-on-how-to-treat-opioid-addiction-800x560.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u17795-4
+#u31312-bw
 {
-	z-index: 150;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 17.3%;
-	left: 10.94%;
+	z-index: 177;
+	height: 496px;
 }
 
-#u17796-4
+#u31313-11
 {
-	z-index: 154;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
-}
-
-#pu17788
-{
-	margin-top: 32px;
-	width: 100%;
-}
-
-#u17788
-{
-	z-index: 158;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	width: 78.23%;
-	left: 10.84%;
-}
-
-#u17792
-{
-	z-index: 160;
-	height: 101px;
+	z-index: 178;
+	min-height: 108px;
 	background-color: #F5F5F5;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 300px;
-	width: 65.21%;
-	left: 17.4%;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
 }
 
-#u17793-4
+#u31313,#u31313-3
 {
-	z-index: 161;
-	min-height: 47px;
-	background-color: transparent;
 	line-height: 31px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 325px;
-	width: 62.19%;
-	left: 19.38%;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
-#u17790-6
+#u31313-4,#u31313-5
 {
-	z-index: 192;
-	min-height: 26px;
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31313-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31313-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u31313-11-bw
+{
+	z-index: 178;
+	min-height: 108px;
+	margin-top: 387px;
+}
+
+#u31314-4
+{
+	z-index: 189;
+	min-height: 46px;
 	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 360px;
-	width: 21.78%;
-	left: 21.78%;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u31314-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u31314-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u31314-2
+{
+	padding-left: 10px;
+}
+
+#u31314-4-bw
+{
+	z-index: 189;
+	min-height: 46px;
 }
 
 #u17791-4
 {
-	z-index: 165;
+	z-index: 150;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 13px;
 	font-style: italic;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
+}
+
+#u17791-2
+{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#u17791-4-bw
+{
+	z-index: 150;
+	min-height: 25px;
+	margin-top: 14px;
 }
 
 #u17794-23
 {
-	z-index: 169;
+	z-index: 154;
 	min-height: 740px;
 	background-color: transparent;
 	line-height: 17px;
-	margin-top: 20px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
 }
 
-#u17790-3,#u17794-19,#u17794-21
+#u17794-2,#u17794-3,#u17794-5,#u17794-6,#u17794-8,#u17794-9,#u17794-11,#u17794-12,#u17794-14,#u17794-15,#u17794-17,#u17794-18
 {
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u17794-19,#u17794-21
+{
+	padding-right: 110px;
+	padding-left: 110px;
 	font-style: italic;
+}
+
+#u17794-23-bw
+{
+	z-index: 154;
+	min-height: 740px;
+	margin-top: 14px;
 }
 
 #pu29954
@@ -521,7 +547,6 @@
 	z-index: 146;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 	width: 5.11%;
 	left: 47.5%;
 }
@@ -549,7 +574,7 @@
 
 #pu13045-4
 {
-	margin-top: 33px;
+	margin-top: 32px;
 	width: 100%;
 }
 
@@ -586,7 +611,7 @@
 
 #pu13158-4
 {
-	margin-top: 23px;
+	margin-top: 24px;
 	width: 100%;
 }
 
@@ -731,7 +756,7 @@
 
 #pu13112-4
 {
-	margin-top: 11px;
+	margin-top: 10px;
 	width: 100%;
 }
 
@@ -1002,7 +1027,7 @@
 {
 	z-index: 2;
 	min-height: 235px;
-	margin-top: 16px;
+	margin-top: 17px;
 }
 
 .html
@@ -1016,7 +1041,7 @@ body
 	min-width: 320px;
 }
 
-#u17788_img,#u8219_img,#u13074_img,#u13082_img
+#pu31312,#u8219_img,#u13074_img,#u13082_img
 {
 	width: 100%;
 }

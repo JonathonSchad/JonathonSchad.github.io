@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #226FC1;
+	color: #0000F0;
+	background-color: #E8D5CC;
 }
 
 #muse_css_mq
@@ -18,6 +18,11 @@
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+}
+
+#pu14557
+{
+	width: 0.01px;
 }
 
 .js body
@@ -200,58 +205,84 @@
 	margin-top: 8px;
 }
 
-#u14613
+#u31407,#u31407-bw
 {
-	z-index: 54;
-	width: 164px;
+	z-index: 103;
+	height: 43px;
+}
+
+#slideshowu32107
+{
+	z-index: 104;
+	width: 0.01px;
+	height: 252px;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u26186
+#u32111
+{
+	position: absolute;
+	width: 380px;
+	height: 252px;
+	background-color: transparent;
+}
+
+#u32111popup
 {
 	z-index: 105;
-	height: 252px;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
-	background: transparent url("../../images/nanohigh%20class%20visit%20-%205.jpg") no-repeat left top;
 }
 
-#u26186-bw
-{
-	z-index: 105;
-	height: 252px;
-}
-
-#u25935-4
+#u32112
 {
 	z-index: 106;
-	min-height: 80px;
+	width: 380px;
+	height: 252px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32109popup
+{
+	z-index: 108;
+}
+
+#u32110-4
+{
+	z-index: 109;
+	width: 360px;
+	min-height: 72px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
+	padding: 10px;
+	line-height: 31px;
 	color: #F5F5F5;
-	text-align: left;
-	font-size: 24px;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u25935-2
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
 {
-	padding-right: 12px;
-	padding-left: 10px;
+	cursor: pointer;
 }
 
-#u25935-4-bw
+.SSSlideLoading /* slideshowFreeStyle */
 {
-	z-index: 106;
-	min-height: 80px;
+	background: url("../../images/loading.gif") no-repeat center center;
 }
 
 #u26645-4
 {
-	z-index: 133;
+	z-index: 237;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -265,47 +296,143 @@
 
 #u26645-4-bw
 {
-	z-index: 133;
+	z-index: 237;
 	min-height: 32px;
-	margin-top: 220px;
+	margin-top: -32px;
+	margin-bottom: -32px;
 }
 
-#u26581
-{
-	z-index: 110;
-	height: 210px;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
-	background: transparent url("../../images/cassidy-panama-papers-american-names-1200.jpg") no-repeat right center;
-	background-size: cover;
-}
-
-#u26581-bw
-{
-	z-index: 110;
-	height: 210px;
-}
-
-#u26604-4
+#slideshowu32159
 {
 	z-index: 113;
-	min-height: 80px;
+	width: 0.01px;
+	height: 208px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u32166popup
+{
+	z-index: 114;
+}
+
+#u32167
+{
+	z-index: 115;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32350
+{
+	z-index: 117;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32375
+{
+	z-index: 119;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32169popup
+{
+	z-index: 121;
+}
+
+#u32170-4
+{
+	z-index: 122;
+	width: 360px;
+	min-height: 84px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
+	padding: 10px;
+	line-height: 31px;
+	color: #F5F5F5;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u26604-4-bw
+#u32362-4
 {
-	z-index: 113;
-	min-height: 80px;
+	z-index: 126;
+	width: 360px;
+	min-height: 84px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 28px;
+	color: #F5F5F5;
+	font-size: 20px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32387-4
+{
+	z-index: 130;
+	width: 360px;
+	min-height: 84px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 31px;
+	color: #F5F5F5;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32163-4popup
+{
+	z-index: 134;
+}
+
+#u32174-4popup
+{
+	z-index: 138;
 }
 
 #u26642-4
 {
-	z-index: 137;
+	z-index: 241;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -319,36 +446,193 @@
 
 #u26642-4-bw
 {
-	z-index: 137;
+	z-index: 241;
 	min-height: 32px;
-	margin-top: 178px;
+	margin-top: -31px;
+	margin-bottom: -31px;
 }
 
-#pu14557,#pu26581,#pu26628
+#slideshowu32251
 {
+	z-index: 142;
 	width: 0.01px;
+	height: 208px;
+	position: relative;
 }
 
-#u26628
+#u32254popup
 {
-	z-index: 141;
-	height: 227px;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
-	background: transparent url("../../images/laser%20tag%202.jpg") no-repeat left top;
-	background-size: cover;
+	z-index: 143;
 }
 
-#u26628-bw
+#u32255
 {
-	z-index: 141;
-	height: 227px;
+	z-index: 144;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32547
+{
+	z-index: 146;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32572
+{
+	z-index: 148;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32258
+{
+	position: absolute;
+	width: 380px;
+	background-color: transparent;
+	top: 2px;
+}
+
+#u32258popup
+{
+	z-index: 150;
+}
+
+#u32259-4
+{
+	z-index: 151;
+	width: 360px;
+	min-height: 72px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 31px;
+	color: #F5F5F5;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32559-4
+{
+	z-index: 155;
+	width: 360px;
+	min-height: 72px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 25px;
+	color: #F5F5F5;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32584-4
+{
+	z-index: 159;
+	width: 360px;
+	min-height: 72px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 25px;
+	color: #F5F5F5;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32263-4
+{
+	position: absolute;
+	width: 14px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #323232;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	border-radius: 0px 55px 55px 0px ;
+	padding: 10px;
+	line-height: 39px;
+	color: #F5F5F5;
+	text-align: center;
+	font-size: 28px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 99px;
+}
+
+#u32263-4popup
+{
+	z-index: 163;
+}
+
+#u32260-4
+{
+	position: absolute;
+	width: 14px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #323232;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	border-radius: 55px 0px 0px 55px ;
+	padding: 10px;
+	line-height: 39px;
+	color: #F5F5F5;
+	text-align: center;
+	font-size: 28px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 99px;
+	left: 346px;
+}
+
+#u32260-4popup
+{
+	z-index: 167;
 }
 
 #u26639-4
 {
-	z-index: 142;
+	z-index: 245;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -362,83 +646,144 @@
 
 #u26639-4-bw
 {
-	z-index: 142;
+	z-index: 245;
 	min-height: 32px;
-	margin-top: 195px;
+	margin-top: -30px;
+	margin-bottom: -30px;
 }
 
-#u26649-4
+#slideshowu32293
 {
-	z-index: 146;
-	min-height: 80px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 29px;
-	letter-spacing: 0px;
-}
-
-#u26604-2,#u26649-2
-{
-	font-size: 24px;
-	text-align: left;
-	padding-right: 10px;
-	padding-left: 10px;
-	color: #F5F5F5;
-}
-
-#u26649-4-bw
-{
-	z-index: 146;
-	min-height: 80px;
-}
-
-#pu26592
-{
+	z-index: 171;
 	width: 0.01px;
-	margin-top: -2px;
+	height: 208px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
 }
 
-#u26592
+#u32300popup
 {
-	z-index: 111;
-	height: 210px;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
-	background: transparent url("../../images/3-d-printing-drug_sham.jpg") no-repeat center center;
-	background-size: cover;
+	z-index: 172;
 }
 
-#u26592-bw
+#u32301
 {
-	z-index: 111;
-	height: 210px;
+	z-index: 173;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u26619-4
+#u32497
 {
-	z-index: 117;
-	min-height: 80px;
+	z-index: 175;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32522
+{
+	z-index: 177;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32297popup
+{
+	z-index: 179;
+}
+
+#u32298-4
+{
+	z-index: 180;
+	width: 360px;
+	min-height: 62px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
-	text-align: left;
-	letter-spacing: 0px;
+	padding: 10px;
+	line-height: 31px;
 	color: #F5F5F5;
-	font-size: 24px;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u26619-4-bw
+#u32509-4
 {
-	z-index: 117;
-	min-height: 80px;
+	z-index: 184;
+	width: 360px;
+	min-height: 62px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 31px;
+	color: #F5F5F5;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32534-4
+{
+	z-index: 188;
+	width: 360px;
+	min-height: 62px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 25px;
+	color: #F5F5F5;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32303-4popup
+{
+	z-index: 192;
+}
+
+#u32299-4popup
+{
+	z-index: 196;
 }
 
 #u26625-4
 {
-	z-index: 125;
+	z-index: 229;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -452,51 +797,201 @@
 
 #u26625-4-bw
 {
-	z-index: 125;
+	z-index: 229;
 	min-height: 32px;
-	margin-top: 178px;
+	margin-top: -31px;
+	margin-bottom: -31px;
 }
 
-#u26652
+#slideshowu32395
 {
-	z-index: 112;
-	height: 210px;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
-	background: transparent url("../../images/just-out-new-guidelines-on-how-to-treat-opioid-addiction-800x560.jpg") no-repeat center center;
-	background-size: cover;
+	z-index: 200;
+	width: 0.01px;
+	height: 208px;
+	margin-top: 1px;
+	position: relative;
 }
 
-#u26652-bw
+#u32166,#u32254,#u32300,#u32405
 {
-	z-index: 112;
-	height: 210px;
+	position: absolute;
+	width: 380px;
+	height: 208px;
+	background-color: transparent;
 }
 
-#u26655-4
+#u32405popup
 {
-	z-index: 121;
-	min-height: 80px;
+	z-index: 201;
+}
+
+#u32406
+{
+	z-index: 202;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32597
+{
+	z-index: 204;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32622
+{
+	z-index: 206;
+	width: 380px;
+	height: 208px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32109,#u32169,#u32297,#u32407
+{
+	position: absolute;
+	width: 380px;
+	background-color: transparent;
+}
+
+#u32407popup
+{
+	z-index: 208;
+}
+
+#u32408-4
+{
+	z-index: 209;
+	width: 360px;
+	min-height: 50px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
-	text-align: left;
-	letter-spacing: 0px;
+	padding: 10px;
+	line-height: 31px;
 	color: #F5F5F5;
-	font-size: 24px;
+	font-size: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u26655-4-bw
+#u32609-4
 {
-	z-index: 121;
-	min-height: 80px;
+	z-index: 213;
+	width: 360px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 25px;
+	color: #F5F5F5;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32634-4
+{
+	z-index: 217;
+	width: 360px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 25px;
+	color: #F5F5F5;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u32163-4,#u32303-4,#u32400-4
+{
+	position: absolute;
+	width: 14px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #323232;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	border-radius: 0px 55px 55px 0px ;
+	padding: 10px;
+	line-height: 39px;
+	color: #F5F5F5;
+	text-align: center;
+	font-size: 28px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 97px;
+}
+
+#u32400-4popup
+{
+	z-index: 221;
+}
+
+#u32174-4,#u32299-4,#u32399-4
+{
+	position: absolute;
+	width: 14px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #323232;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	border-radius: 55px 0px 0px 55px ;
+	padding: 10px;
+	line-height: 39px;
+	color: #F5F5F5;
+	text-align: center;
+	font-size: 28px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 97px;
+	left: 346px;
+}
+
+#u32399-4popup
+{
+	z-index: 225;
 }
 
 #u26658-4
 {
-	z-index: 129;
+	z-index: 233;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -508,7 +1003,7 @@
 	font-size: 18px;
 }
 
-#u26645-2,#u26642-2,#u26639-2,#u26619-2,#u26625-2,#u26655-2,#u26658-2
+#u26645-2,#u26642-2,#u26639-2,#u26625-2,#u26658-2
 {
 	padding-right: 10px;
 	padding-left: 10px;
@@ -516,12 +1011,13 @@
 
 #u26658-4-bw
 {
-	z-index: 129;
+	z-index: 233;
 	min-height: 32px;
-	margin-top: 178px;
+	margin-top: -32px;
+	margin-bottom: -32px;
 }
 
-#pu26186,#pu26652,#pu14558
+#pu14558
 {
 	width: 0.01px;
 	margin-top: 1px;
@@ -535,7 +1031,7 @@
 
 #menuu14615
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -654,14 +1150,14 @@
 
 #menuu14615-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
 
 #u27134
 {
-	z-index: 99;
+	z-index: 97;
 	width: 29px;
 	position: relative;
 	margin-right: -10000px;
@@ -671,27 +1167,27 @@
 
 #u27135
 {
-	z-index: 100;
+	z-index: 98;
 }
 
 #u27136
 {
-	z-index: 101;
+	z-index: 99;
 	width: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 95px;
+	margin-top: 94px;
 	left: 317px;
 }
 
 #u27137
 {
-	z-index: 102;
+	z-index: 100;
 }
 
 #u27138
 {
-	z-index: 103;
+	z-index: 101;
 	width: 29px;
 	position: relative;
 	margin-right: -10000px;
@@ -701,7 +1197,7 @@
 
 #u27139
 {
-	z-index: 104;
+	z-index: 102;
 }
 
 .html
@@ -739,5 +1235,4 @@ body
 {
 	width: 380px;
 }
-
 

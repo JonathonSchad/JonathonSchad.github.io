@@ -1,7 +1,7 @@
 .version._3d_printed_drug_0413 /* version checker */
 {
-	color: #0000E1;
-	background-color: #C92841;
+	color: #0000E5;
+	background-color: #5995EF;
 }
 
 #muse_css_mq
@@ -443,6 +443,20 @@
 	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u30352-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30352-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
 }
 
 #u30352-2

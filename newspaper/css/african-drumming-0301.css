@@ -1,7 +1,7 @@
 .version.african_drumming_0301 /* version checker */
 {
-	color: #0000E0;
-	background-color: #5F5154;
+	color: #0000F2;
+	background-color: #0823A7;
 }
 
 #muse_css_mq
@@ -433,7 +433,7 @@
 	margin-top: 387px;
 }
 
-#u30422-4
+#u30762-4
 {
 	z-index: 192;
 	min-height: 46px;
@@ -445,12 +445,26 @@
 	font-weight: 300;
 }
 
-#u30422-2
+#u30762-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30762-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u30762-2
 {
 	padding-left: 10px;
 }
 
-#u30422-4-bw
+#u30762-4-bw
 {
 	z-index: 192;
 	min-height: 46px;

@@ -1,7 +1,7 @@
 .version.laser_guided_interstellar_travel_0301 /* version checker */
 {
-	color: #000002;
-	background-color: #AED2D1;
+	color: #00001F;
+	background-color: #8DFC30;
 }
 
 #muse_css_mq
@@ -207,12 +207,10 @@
 	margin-top: 8px;
 }
 
-#u14322
+#u31415,#u31415-bw
 {
-	z-index: 54;
-	position: relative;
-	margin-right: -10000px;
-	width: 43.16%;
+	z-index: 103;
+	height: 42px;
 }
 
 #pu28570
@@ -223,7 +221,7 @@
 
 #u28570
 {
-	z-index: 105;
+	z-index: 104;
 	height: 187px;
 	background: transparent url("../../images/interstellar-adrian-mann-ucsb.jpg") no-repeat left top;
 	background-size: cover;
@@ -231,13 +229,13 @@
 
 #u28570-bw
 {
-	z-index: 105;
+	z-index: 104;
 	height: 187px;
 }
 
 #u24787-10
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -269,14 +267,14 @@
 
 #u24787-10-bw
 {
-	z-index: 106;
+	z-index: 105;
 	min-height: 29px;
 	margin-top: 120px;
 }
 
 #u24784-4
 {
-	z-index: 116;
+	z-index: 115;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 8px;
@@ -292,14 +290,14 @@
 
 #u24784-4-bw
 {
-	z-index: 116;
+	z-index: 115;
 	min-height: 25px;
 	margin-top: 12px;
 }
 
 #u24783-28
 {
-	z-index: 120;
+	z-index: 119;
 	min-height: 1108px;
 	background-color: transparent;
 	line-height: 14px;
@@ -314,7 +312,7 @@
 
 #u24783-28-bw
 {
-	z-index: 120;
+	z-index: 119;
 	min-height: 1108px;
 	margin-top: 12px;
 }
@@ -327,7 +325,7 @@
 
 #u27076
 {
-	z-index: 99;
+	z-index: 97;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -336,13 +334,13 @@
 
 #u27077
 {
-	z-index: 100;
+	z-index: 98;
 	width: 100%;
 }
 
 #u27078
 {
-	z-index: 101;
+	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -352,13 +350,13 @@
 
 #u27079
 {
-	z-index: 102;
+	z-index: 100;
 	width: 100%;
 }
 
 #u27080
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	width: 10.53%;
@@ -367,7 +365,7 @@
 
 #u27081
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
@@ -385,7 +383,7 @@
 
 #menuu14391
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 }
 
@@ -504,7 +502,7 @@
 
 #menuu14391-bw
 {
-	z-index: 56;
+	z-index: 54;
 	min-height: 120px;
 	margin-top: 3px;
 }
@@ -518,11 +516,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-#u14322_img
-{
-	width: 100.61%;
 }
 
 

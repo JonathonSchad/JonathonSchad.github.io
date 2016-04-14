@@ -1,7 +1,7 @@
 .version.radovan_karadzic_0406 /* version checker */
 {
-	color: #0000F6;
-	background-color: #DA3085;
+	color: #0000FB;
+	background-color: #39ABA4;
 }
 
 #muse_css_mq
@@ -372,9 +372,9 @@
 	min-height: 55px;
 }
 
-#u30169-4
+#u30756-4
 {
-	z-index: 224;
+	z-index: 243;
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 34px;
@@ -384,20 +384,34 @@
 	font-weight: 300;
 }
 
-#u30169-2
+#u30756-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30756-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30756-2
 {
 	padding-left: 10px;
 }
 
-#u30169-4-bw
+#u30756-4-bw
 {
-	z-index: 224;
+	z-index: 243;
 	min-height: 46px;
 }
 
 #u30170-11
 {
-	z-index: 228;
+	z-index: 224;
 	min-height: 108px;
 	background-color: transparent;
 	text-align: center;
@@ -433,14 +447,14 @@
 
 #u30170-11-bw
 {
-	z-index: 228;
+	z-index: 224;
 	min-height: 108px;
 	margin-top: 24px;
 }
 
 #u30171
 {
-	z-index: 239;
+	z-index: 235;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -450,14 +464,14 @@
 
 #u30172
 {
-	z-index: 240;
+	z-index: 236;
 	display: block;
 	width: 100%;
 }
 
 #u30173
 {
-	z-index: 241;
+	z-index: 237;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -468,14 +482,14 @@
 
 #u30174
 {
-	z-index: 242;
+	z-index: 238;
 	display: block;
 	width: 100%;
 }
 
 #u30175
 {
-	z-index: 243;
+	z-index: 239;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -485,7 +499,7 @@
 
 #u30176
 {
-	z-index: 244;
+	z-index: 240;
 	display: block;
 	width: 100%;
 }
@@ -598,7 +612,7 @@
 
 #u30202
 {
-	z-index: 245;
+	z-index: 241;
 	height: 402px;
 	background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
 	background-size: contain;
@@ -606,13 +620,13 @@
 
 #u30202-bw
 {
-	z-index: 245;
+	z-index: 241;
 	height: 402px;
 }
 
 #u30210
 {
-	z-index: 246;
+	z-index: 242;
 	height: 468px;
 	border-width: 0px;
 	border-color: transparent;
@@ -622,7 +636,7 @@
 
 #u30210-bw
 {
-	z-index: 246;
+	z-index: 242;
 	margin-top: 454px;
 	height: 468px;
 }

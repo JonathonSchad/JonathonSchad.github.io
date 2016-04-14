@@ -1,7 +1,7 @@
 .version.political_insights_from_political_websites_0330 /* version checker */
 {
-	color: #00000C;
-	background-color: #7D1BA3;
+	color: #000004;
+	background-color: #45AD2B;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 776.9499999999996px;
+	min-height: 776.8999999999996px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -373,97 +373,189 @@
 	min-height: 55px;
 }
 
-#pu7325-4
+#u31327-4
 {
-	margin-top: 15px;
+	z-index: 190;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u31327-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u31327-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u31327-2
+{
+	padding-left: 10px;
+}
+
+#u31327-4-bw
+{
+	z-index: 190;
+	min-height: 46px;
+}
+
+#u31172-11
+{
+	z-index: 173;
+	min-height: 108px;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u31172,#u31172-3
+{
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31172-4,#u31172-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31172-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u31172-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u31172-11-bw
+{
+	z-index: 173;
+	min-height: 108px;
+	margin-top: 24px;
+}
+
+#pu31173
+{
+	margin-top: 24px;
 	width: 100%;
 }
 
-#u7325-4
+#u31173
 {
-	z-index: 150;
-	min-height: 23px;
+	z-index: 184;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 10.94%;
+	width: 5.21%;
+	left: 41.15%;
 }
 
-#u7321-4
+#u31174
 {
-	z-index: 154;
-	min-height: 23px;
+	z-index: 185;
+	display: block;
+	width: 100%;
+}
+
+#u31175
+{
+	z-index: 186;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
+	margin-top: 1px;
+	width: 5.11%;
+	left: 47.5%;
 }
 
-#u7322-4
-{
-	z-index: 158;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 31px;
-	text-align: left;
-	margin-top: 60px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
-}
-
-#u7320-6
-{
-	z-index: 181;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	width: 21.78%;
-	margin-left: 10.94%;
-}
-
-#u7324
+#u31176
 {
 	z-index: 187;
+	display: block;
+	width: 100%;
+}
+
+#u31177
+{
+	z-index: 188;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 53.65%;
+}
+
+#u31178
+{
+	z-index: 189;
+	display: block;
+	width: 100%;
+}
+
+#u31170
+{
+	z-index: 172;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
 	background-color: transparent;
-	margin-top: 13px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
 	border-width: 1px 0px 0px;
 }
 
-#u7323-19
+#u31170-bw
 {
-	z-index: 162;
+	z-index: 172;
+	margin-top: 19px;
+	height: 19px;
+}
+
+#u7323-22
+{
+	z-index: 150;
 	min-height: 868px;
 	background-color: transparent;
 	text-align: justify;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
-#u7323-2,#u7323-3,#u7323-5,#u7323-6,#u7323-8,#u7323-9,#u7323-11,#u7323-12,#u7323-14
+#u7323-2,#u7323-3,#u7323-8,#u7323-9,#u7323-11,#u7323-12,#u7323-14,#u7323-15,#u7323-17
 {
-	font-style: normal;
+	padding-right: 110px;
+	padding-left: 110px;
 }
 
-#u7320-3,#u7323-15,#u7323-17
+#u7323-18,#u7323-20
 {
+	padding-right: 110px;
+	padding-left: 110px;
 	font-style: italic;
+}
+
+#u7323-22-bw
+{
+	z-index: 150;
+	min-height: 868px;
+	margin-top: 8px;
 }
 
 #pu29954
@@ -519,7 +611,7 @@
 
 #pu13045-4
 {
-	margin-top: 32px;
+	margin-top: 33px;
 	width: 100%;
 }
 
@@ -556,7 +648,7 @@
 
 #pu13158-4
 {
-	margin-top: 24px;
+	margin-top: 23px;
 	width: 100%;
 }
 
@@ -701,7 +793,7 @@
 
 #pu13112-4
 {
-	margin-top: 10px;
+	margin-top: 11px;
 	width: 100%;
 }
 
@@ -972,7 +1064,7 @@
 {
 	z-index: 2;
 	min-height: 235px;
-	margin-top: 17px;
+	margin-top: 16px;
 }
 
 .html

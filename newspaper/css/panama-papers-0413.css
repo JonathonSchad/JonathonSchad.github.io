@@ -1,7 +1,7 @@
 .version.panama_papers_0413 /* version checker */
 {
-	color: #00001B;
-	background-color: #F023F6;
+	color: #000013;
+	background-color: #2CE9E2;
 }
 
 #muse_css_mq
@@ -433,7 +433,7 @@
 	margin-top: 387px;
 }
 
-#u30260-4
+#u30759-4
 {
 	z-index: 252;
 	min-height: 46px;
@@ -445,12 +445,26 @@
 	font-weight: 300;
 }
 
-#u30260-2
+#u30759-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30759-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30759-2
 {
 	padding-left: 10px;
 }
 
-#u30260-4-bw
+#u30759-4-bw
 {
 	z-index: 252;
 	min-height: 46px;

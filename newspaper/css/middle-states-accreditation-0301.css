@@ -1,7 +1,7 @@
 .version.middle_states_accreditation_0301 /* version checker */
 {
-	color: #00000A;
-	background-color: #5B9649;
+	color: #000007;
+	background-color: #136881;
 }
 
 #muse_css_mq
@@ -433,7 +433,7 @@
 	margin-top: 387px;
 }
 
-#u30449-4
+#u30765-4
 {
 	z-index: 301;
 	min-height: 46px;
@@ -445,12 +445,26 @@
 	font-weight: 300;
 }
 
-#u30449-2
+#u30765-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30765-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u30765-2
 {
 	padding-left: 10px;
 }
 
-#u30449-4-bw
+#u30765-4-bw
 {
 	z-index: 301;
 	min-height: 46px;

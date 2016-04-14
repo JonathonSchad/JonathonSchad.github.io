@@ -1,7 +1,7 @@
 .version.hb2_vote_0301 /* version checker */
 {
-	color: #0000E1;
-	background-color: #E4447C;
+	color: #0000EB;
+	background-color: #A53E40;
 }
 
 #muse_css_mq
@@ -372,9 +372,9 @@
 	min-height: 55px;
 }
 
-#u30037-4
+#u30747-4
 {
-	z-index: 172;
+	z-index: 189;
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 34px;
@@ -384,20 +384,34 @@
 	font-weight: 300;
 }
 
-#u30037-2
+#u30747-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u30747-4:hover p
+{
+	color: #002C73;
+	visibility: inherit;
+}
+
+#u30747-2
 {
 	padding-left: 10px;
 }
 
-#u30037-4-bw
+#u30747-4-bw
 {
-	z-index: 172;
+	z-index: 189;
 	min-height: 46px;
 }
 
 #u30038-11
 {
-	z-index: 176;
+	z-index: 172;
 	min-height: 108px;
 	background-color: transparent;
 	text-align: center;
@@ -433,14 +447,14 @@
 
 #u30038-11-bw
 {
-	z-index: 176;
+	z-index: 172;
 	min-height: 108px;
 	margin-top: 24px;
 }
 
 #u30039
 {
-	z-index: 187;
+	z-index: 183;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -450,14 +464,14 @@
 
 #u30040
 {
-	z-index: 188;
+	z-index: 184;
 	display: block;
 	width: 100%;
 }
 
 #u30041
 {
-	z-index: 189;
+	z-index: 185;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -468,14 +482,14 @@
 
 #u30042
 {
-	z-index: 190;
+	z-index: 186;
 	display: block;
 	width: 100%;
 }
 
 #u30043
 {
-	z-index: 191;
+	z-index: 187;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -485,7 +499,7 @@
 
 #u30044
 {
-	z-index: 192;
+	z-index: 188;
 	display: block;
 	width: 100%;
 }

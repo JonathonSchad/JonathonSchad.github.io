@@ -1,7 +1,7 @@
 .version.your_life_in_graduate_school_0301 /* version checker */
 {
-	color: #0000E6;
-	background-color: #17FA0C;
+	color: #00000F;
+	background-color: #937473;
 }
 
 #muse_css_mq
@@ -12,12 +12,11 @@
 #page
 {
 	z-index: 1;
-	min-height: 776.9499999999998px;
+	min-height: 777px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -373,91 +372,188 @@
 	min-height: 55px;
 }
 
-#pu7117-4
+#u31348-4
 {
-	margin-top: 15px;
+	z-index: 198;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 34px;
+	color: #323232;
+	font-size: 28px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u31348-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	margin: 0px;
+}
+
+#u31348-4:hover p
+{
+	color: #EDA900;
+	visibility: inherit;
+}
+
+#u31348-2
+{
+	padding-left: 10px;
+}
+
+#u31348-4-bw
+{
+	z-index: 198;
+	min-height: 46px;
+}
+
+#u30956-11
+{
+	z-index: 181;
+	min-height: 108px;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u30956,#u30956-3
+{
+	line-height: 31px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30956-4,#u30956-5
+{
+	line-height: 14px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30956-9
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#u30956-7
+{
+	color: #EDA900;
+	font-weight: bold;
+}
+
+#u30956-11-bw
+{
+	z-index: 181;
+	min-height: 108px;
+	margin-top: 24px;
+}
+
+#u30957
+{
+	z-index: 192;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 5.21%;
+	left: 41.15%;
+}
+
+#u30958
+{
+	z-index: 193;
+	display: block;
 	width: 100%;
 }
 
-#u7117-4
+#u30959
 {
-	z-index: 150;
-	min-height: 23px;
+	z-index: 194;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 10.94%;
+	margin-top: 1px;
+	width: 5.11%;
+	left: 47.5%;
 }
 
-#u7120-4
+#u30960
 {
-	z-index: 154;
-	min-height: 23px;
+	z-index: 195;
+	display: block;
+	width: 100%;
+}
+
+#u30961
+{
+	z-index: 196;
 	background-color: transparent;
-	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
-	width: 12.92%;
-	left: 76.15%;
+	width: 5.21%;
+	left: 53.65%;
 }
 
-#u7119-4
+#u30962
 {
-	z-index: 158;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 31px;
-	margin-top: 60px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
+	z-index: 197;
+	display: block;
+	width: 100%;
 }
 
-#u7115-6
+#u30954
 {
-	z-index: 192;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 17px;
-	font-size: 14px;
-	position: relative;
-	width: 21.78%;
-	margin-left: 10.94%;
-}
-
-#u7116
-{
-	z-index: 198;
+	z-index: 180;
 	height: 19px;
 	border-style: solid;
 	border-color: #002C73;
 	background-color: transparent;
-	margin-top: 13px;
-	position: relative;
-	width: 78.23%;
-	margin-left: 10.94%;
 	border-width: 1px 0px 0px;
+}
+
+#u30954-bw
+{
+	z-index: 180;
+	margin-top: 19px;
+	height: 19px;
 }
 
 #u7118-30
 {
-	z-index: 162;
-	min-height: 1125px;
+	z-index: 150;
+	min-height: 1049px;
 	background-color: transparent;
 	text-align: justify;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
-	position: relative;
-	width: 74.07%;
-	margin-left: 12.92%;
 }
 
-#u7115-3,#u7118-8,#u7118-13,#u7118-24,#u7118-25,#u7118-26,#u7118-28
+#u7118-8,#u7118-13
 {
 	font-style: italic;
+}
+
+#u7118-2,#u7118-3,#u7118-5,#u7118-6,#u7118-10,#u7118-11,#u7118-15,#u7118-16,#u7118-18,#u7118-19,#u7118-21,#u7118-22
+{
+	padding-right: 110px;
+	padding-left: 110px;
+}
+
+#u7118-24,#u7118-25,#u7118-26,#u7118-28
+{
+	padding-right: 110px;
+	padding-left: 110px;
+	font-style: italic;
+}
+
+#u7118-30-bw
+{
+	z-index: 150;
+	min-height: 1049px;
+	margin-top: 20px;
 }
 
 #pu29954
@@ -548,7 +644,7 @@
 	left: 32.82%;
 }
 
-#pu13158-4
+#pu30957,#pu13158-4
 {
 	margin-top: 24px;
 	width: 100%;
