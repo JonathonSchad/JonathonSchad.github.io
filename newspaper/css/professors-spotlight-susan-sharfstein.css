@@ -1,7 +1,7 @@
 .version.professors_spotlight_susan_sharfstein /* version checker */
 {
-	color: #00000B;
-	background-color: #53F8D7;
+	color: #00000A;
+	background-color: #CF67E8;
 }
 
 #muse_css_mq
@@ -23,23 +23,6 @@
 	margin-right: auto;
 }
 
-#u176
-{
-	z-index: 2;
-	min-height: 79px;
-	padding-bottom: 2px;
-}
-
-#u179
-{
-	z-index: 3;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 2px;
-	width: 70.53%;
-	left: 1.25%;
-}
-
 .js body
 {
 	visibility: hidden;
@@ -50,21 +33,27 @@
 	visibility: visible;
 }
 
-#u176-bw
+#u176,#u176-bw
 {
 	z-index: 2;
-	min-height: 79px;
+	height: 81px;
+}
+
+#u32889,#u32889-bw
+{
+	z-index: 107;
+	height: 81px;
 }
 
 #u1492-3,#u1492-3-bw
 {
-	z-index: 5;
+	z-index: 3;
 	min-height: 33px;
 }
 
 #menuu676
 {
-	z-index: 8;
+	z-index: 6;
 	width: 658px;
 	position: relative;
 	margin-right: -10000px;
@@ -479,7 +468,7 @@
 
 #u26713
 {
-	z-index: 109;
+	z-index: 108;
 	height: 499px;
 	background: transparent url("../images/nanohigh%20class%20visit%20-%205.jpg") no-repeat left top;
 	background-size: cover;
@@ -487,13 +476,13 @@
 
 #u26713-bw
 {
-	z-index: 109;
+	z-index: 108;
 	height: 499px;
 }
 
 #u24169-11
 {
-	z-index: 210;
+	z-index: 209;
 	min-height: 108px;
 	background-color: #F5F5F5;
 	opacity: 0.7;
@@ -532,14 +521,14 @@
 
 #u24169-11-bw
 {
-	z-index: 210;
+	z-index: 209;
 	min-height: 108px;
 	margin-top: 390px;
 }
 
 #u26717-4
 {
-	z-index: 221;
+	z-index: 220;
 	min-height: 28px;
 	background-color: transparent;
 	line-height: 13px;
@@ -558,13 +547,13 @@
 
 #u26717-4-bw
 {
-	z-index: 221;
+	z-index: 220;
 	min-height: 28px;
 }
 
 #u24166-100
 {
-	z-index: 110;
+	z-index: 109;
 	min-height: 2451px;
 	background-color: transparent;
 }
@@ -578,52 +567,39 @@
 
 #u24166-100-bw
 {
-	z-index: 110;
+	z-index: 109;
 	min-height: 2451px;
 	margin-top: 35px;
 }
 
-#u814
+#pu176,#pu1492-3,#pu26713,#pu814
 {
-	z-index: 51;
-	min-height: 195px;
-	padding-bottom: 20px;
+	width: 100%;
 }
 
-#u176_align_to_page,#u814_align_to_page
+#u814,#u814-bw
 {
-	margin-left: auto;
-	margin-right: auto;
-	position: relative;
-}
-
-#pu815-4
-{
-	margin-right: -10000px;
-	margin-top: 6px;
-	width: 19.69%;
-	margin-left: 4.69%;
+	z-index: 49;
+	height: 215px;
 }
 
 #u815-4
 {
-	z-index: 52;
+	z-index: 50;
 	min-height: 26px;
-	position: relative;
-	width: 100%;
+}
+
+#u815-4-bw
+{
+	z-index: 50;
+	min-height: 26px;
+	margin-top: 6px;
 }
 
 #menuu816
 {
-	z-index: 56;
-	position: relative;
-	width: 95.24%;
-}
-
-#u845
-{
-	position: relative;
-	width: 100%;
+	z-index: 54;
+	min-height: 131px;
 }
 
 #u848
@@ -631,17 +607,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u851-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u853
@@ -649,17 +621,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u855-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u841
@@ -667,17 +635,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u843-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u820
@@ -685,17 +649,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u821-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u4067
@@ -703,17 +663,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u4070-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u825
@@ -721,24 +677,13 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u827-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
-}
-
-#u852,#u838,#u817,#u4064,#u824,#u831
-{
-	margin-top: 2px;
-	position: relative;
-	width: 100%;
 }
 
 #u832
@@ -746,24 +691,19 @@
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
 }
 
 #u848.MuseMenuActive,#u853.MuseMenuActive,#u841.MuseMenuActive,#u820.MuseMenuActive,#u4067.MuseMenuActive,#u825.MuseMenuActive,#u832.MuseMenuActive
 {
 	min-height: 14px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
+	margin: 0px 0px 0px 0%;
 }
 
 #u834-4
 {
 	min-height: 14px;
 	position: relative;
-	margin-right: -10000px;
 	top: 1px;
-	width: 100%;
 }
 
 #u848.MuseMenuActive #u851-4,#u853.MuseMenuActive #u855-4,#u841.MuseMenuActive #u843-4,#u820.MuseMenuActive #u821-4,#u4067.MuseMenuActive #u4070-4,#u825.MuseMenuActive #u827-4,#u832.MuseMenuActive #u834-4
@@ -771,24 +711,37 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u852,#u838,#u817,#u4064,#u824,#u831
+{
+	margin-top: 2px;
+}
+
+#menuu816-bw
+{
+	z-index: 54;
+	min-height: 131px;
+	margin-top: 32px;
 }
 
 #u1693-4
 {
-	z-index: 99;
+	z-index: 97;
 	min-height: 21px;
-	position: relative;
-	margin-right: -10000px;
+}
+
+#u1693-4-bw
+{
+	z-index: 97;
+	min-height: 21px;
 	margin-top: 174px;
-	width: 21.67%;
-	left: 42.09%;
 }
 
 #u29981
 {
-	z-index: 103;
+	z-index: 101;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 145px;
@@ -798,13 +751,13 @@
 
 #u29982
 {
-	z-index: 104;
+	z-index: 102;
 	width: 100%;
 }
 
 #u29983
 {
-	z-index: 105;
+	z-index: 103;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 146px;
@@ -814,13 +767,13 @@
 
 #u29984
 {
-	z-index: 106;
+	z-index: 104;
 	width: 100%;
 }
 
 #u29985
 {
-	z-index: 107;
+	z-index: 105;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 145px;
@@ -830,14 +783,8 @@
 
 #u29986
 {
-	z-index: 108;
+	z-index: 106;
 	width: 100%;
-}
-
-#u814-bw
-{
-	z-index: 51;
-	min-height: 195px;
 }
 
 .html
@@ -851,8 +798,4 @@ body
 	min-width: 320px;
 }
 
-#pu1492-3,#pu26713,#u179_img
-{
-	width: 100%;
-}
 

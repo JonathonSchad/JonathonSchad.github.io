@@ -1,3 +1,9 @@
+#u32889
+{
+	background: transparent url("../images/heraldlogo.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u1492-3
 {
 	border-style: solid;
@@ -6,7 +12,7 @@
 	background-color: #EDA900;
 }
 
-#u179,#u705,#u708
+#u705,#u708
 {
 	background-color: transparent;
 }
@@ -163,11 +169,6 @@
 	background-color: #002C73;
 }
 
-#u176_align_to_page,#u814_align_to_page
-{
-	max-width: 960px;
-}
-
 #u815-4
 {
 	background-color: transparent;
@@ -175,7 +176,12 @@
 	color: #F5F5F5;
 	font-size: 18px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
+}
+
+#u815-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #menuu676,#menuu816
@@ -203,6 +209,12 @@
 	font-weight: 400;
 }
 
+#u851-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
+}
+
 #u852,#u853
 {
 	background-color: transparent;
@@ -219,6 +231,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u855-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #u838,#u841
@@ -239,6 +257,12 @@
 	font-weight: 400;
 }
 
+#u843-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
+}
+
 #u817,#u820
 {
 	background-color: transparent;
@@ -255,6 +279,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u821-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #u4064,#u4067
@@ -275,6 +305,12 @@
 	font-weight: 400;
 }
 
+#u4070-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
+}
+
 #u824,#u825
 {
 	background-color: transparent;
@@ -291,6 +327,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u827-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #u831,#u832
@@ -317,11 +359,23 @@
 	visibility: inherit;
 }
 
+#u834-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
+}
+
 #u1693-4
 {
 	background-color: transparent;
+	text-align: center;
 	color: #F5F5F5;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#u1693-2
+{
+	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #u29981,#u29983,#u29985
@@ -333,5 +387,4 @@
 {
 	display: block;
 }
-
 

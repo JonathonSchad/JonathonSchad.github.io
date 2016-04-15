@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #E8D5CC;
+	color: #000005;
+	background-color: #A98F35;
 }
 
 #muse_css_mq
@@ -465,7 +465,7 @@
 	z-index: 143;
 }
 
-#u32255
+#u34142
 {
 	z-index: 144;
 	width: 380px;
@@ -480,7 +480,7 @@
 	position: relative;
 }
 
-#u32547
+#u34192
 {
 	z-index: 146;
 	width: 380px;
@@ -495,7 +495,7 @@
 	position: relative;
 }
 
-#u32572
+#u34167
 {
 	z-index: 148;
 	width: 380px;
@@ -523,11 +523,11 @@
 	z-index: 150;
 }
 
-#u32259-4
+#u34154-4
 {
 	z-index: 151;
 	width: 360px;
-	min-height: 72px;
+	min-height: 93px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -541,36 +541,36 @@
 	position: relative;
 }
 
-#u32559-4
+#u34204-4
 {
 	z-index: 155;
 	width: 360px;
-	min-height: 72px;
+	min-height: 93px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 25px;
+	line-height: 31px;
 	color: #F5F5F5;
-	font-size: 18px;
+	font-size: 22px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: bold;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u32584-4
+#u34179-4
 {
 	z-index: 159;
 	width: 360px;
-	min-height: 72px;
+	min-height: 93px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 25px;
+	line-height: 31px;
 	color: #F5F5F5;
-	font-size: 18px;
+	font-size: 22px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: bold;
 	margin-right: -10000px;
@@ -1003,7 +1003,7 @@
 	font-size: 18px;
 }
 
-#u26645-2,#u26642-2,#u26639-2,#u26625-2,#u26658-2
+#u26645-2,#u26642-2,#u34204-2,#u26639-2,#u26625-2,#u26658-2
 {
 	padding-right: 10px;
 	padding-left: 10px;

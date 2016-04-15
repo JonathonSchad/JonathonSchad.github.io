@@ -1,3 +1,8 @@
+#u1157_align_to_page
+{
+	max-width: 960px;
+}
+
 #menuu1160,#u1164
 {
 	border-width: 0px;
@@ -127,6 +132,12 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u32886
+{
+	background: transparent url("../images/heraldlogo-small.png") no-repeat left top;
+	background-size: contain;
 }
 
 #u29955,#u29957,#u29959
@@ -287,11 +298,6 @@
 	background-color: #002C73;
 }
 
-#u1157_align_to_page,#u1009_align_to_page
-{
-	max-width: 960px;
-}
-
 #u1010-4
 {
 	background-color: transparent;
@@ -299,7 +305,12 @@
 	color: #F5F5F5;
 	font-size: 18px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
+}
+
+#u1010-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 #menuu1011
@@ -309,7 +320,7 @@
 	background-color: transparent;
 }
 
-#u8219,#u1161,#u1168,#u1205,#u1226,#u4106,#u1247,#u1268,#u29954,#u29956,#u29958,#u1040,#u1043
+#u1161,#u1168,#u1205,#u1226,#u4106,#u1247,#u1268,#u29954,#u29956,#u29958,#u1040,#u1043
 {
 	background-color: transparent;
 }
@@ -325,6 +336,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u1046-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 #u1047,#u1048
@@ -345,6 +362,12 @@
 	font-weight: 400;
 }
 
+#u1050-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
 #u1033,#u1036
 {
 	background-color: transparent;
@@ -361,6 +384,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u1038-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 #u1012,#u1015
@@ -381,6 +410,12 @@
 	font-weight: 400;
 }
 
+#u1016-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
 #u4085,#u4086
 {
 	background-color: transparent;
@@ -399,6 +434,12 @@
 	font-weight: 400;
 }
 
+#u4089-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
 #u1019,#u1020
 {
 	background-color: transparent;
@@ -415,6 +456,12 @@
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
+}
+
+#u1022-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 #u1026,#u1027
@@ -441,11 +488,23 @@
 	visibility: inherit;
 }
 
+#u1029-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
 #u1056-4
 {
 	background-color: transparent;
+	text-align: center;
 	color: #F5F5F5;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#u1056-2
+{
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 
