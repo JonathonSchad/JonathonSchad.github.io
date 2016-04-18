@@ -1,7 +1,7 @@
 .version.professors_spotlight_susan_sharfstein /* version checker */
 {
-	color: #00000A;
-	background-color: #CF67E8;
+	color: #0000EC;
+	background-color: #FB94BB;
 }
 
 #muse_css_mq
@@ -797,5 +797,7 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
+
 
 

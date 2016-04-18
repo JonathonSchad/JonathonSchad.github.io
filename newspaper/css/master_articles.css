@@ -1,4 +1,10 @@
-#u1157_align_to_page
+#u32886
+{
+	background: transparent url("../images/heraldlogo-small.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u32886_align_to_page
 {
 	max-width: 960px;
 }
@@ -134,163 +140,66 @@
 	cursor: pointer;
 }
 
-#u32886
-{
-	background: transparent url("../images/heraldlogo-small.png") no-repeat left top;
-	background-size: contain;
-}
-
 #u29955,#u29957,#u29959
 {
 	display: block;
 }
 
-#u13045-4
-{
-	background-color: transparent;
-	line-height: 20px;
-	color: #002C73;
-	text-align: center;
-	font-size: 17px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-}
-
-#u13046,#u13047
+#u36959
 {
 	border-style: solid;
-	border-color: #EDA900;
-	background-color: transparent;
-	border-width: 3px 0px 0px;
+	border-color: #002C73;
+	background-color: #FFFFFF;
+	border-width: 4px 0px 0px;
 }
 
-#u13158-4,#u13161-4,#u13164-4,#u13167-4
+#u36960-4
 {
 	background-color: transparent;
-	line-height: 19px;
-	color: #002C73;
-	font-size: 16px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-	font-style: italic;
-}
-
-#u13066
-{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-}
-
-#u13066:hover
-{
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-}
-
-#u13074
-{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-}
-
-#u13074:hover
-{
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-}
-
-#u13082
-{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: transparent;
-}
-
-#u13082:hover
-{
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-}
-
-#u13066.MuseLinkActive,#u13074.MuseLinkActive,#u13082.MuseLinkActive
-{
-	opacity: 0.51;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=51)";
-	filter: alpha(opacity=51);
-}
-
-#u13126-4
-{
-	background-color: transparent;
-	line-height: 18px;
-}
-
-#u1164.MuseMenuActive #u1167-4 p,#u1171.MuseMenuActive #u1173-4 p,#u1206.MuseMenuActive #u1209-4 p,#u1227.MuseMenuActive #u1229-4 p,#u4109.MuseMenuActive #u4112-4 p,#u1250.MuseMenuActive #u1253-4 p,#u1271.MuseMenuActive #u1274-4 p,#u13126-4:hover p
-{
-	color: #EDA900;
-	visibility: inherit;
-}
-
-#u13126-2
-{
-	font-size: 15px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
-#u13112-4
-{
-	background-color: transparent;
-	line-height: 17px;
-}
-
-#u13112-4:hover p
-{
-	color: #EDA900;
-	visibility: inherit;
-}
-
-#u13120-4
-{
-	background-color: transparent;
-	line-height: 17px;
-}
-
-#u13120-4:hover p
-{
-	color: #EDA900;
-	visibility: inherit;
-}
-
-#u13123-4
-{
-	background-color: transparent;
-	line-height: 17px;
-}
-
-#u13123-4:hover p
-{
-	color: #EDA900;
-	visibility: inherit;
-}
-
-#u13126-4.MuseLinkActive p,#u13112-4.MuseLinkActive p,#u13120-4.MuseLinkActive p,#u13123-4.MuseLinkActive p
-{
 	color: #000000;
-	visibility: inherit;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
 }
 
-#u13112-2,#u13120-2,#u13123-2
+#u36961-4
 {
-	font-size: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u36962-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u36963-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u36964-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u36961,#u36962,#u36963,#u36964
+{
+	font-size: 18px;
 }
 
 #u1157,#u1009
@@ -482,7 +391,7 @@
 	font-weight: 400;
 }
 
-#u1043.MuseMenuActive #u1046-4 p,#u1048.MuseMenuActive #u1050-4 p,#u1036.MuseMenuActive #u1038-4 p,#u1015.MuseMenuActive #u1016-4 p,#u4086.MuseMenuActive #u4089-4 p,#u1020.MuseMenuActive #u1022-4 p,#u1027.MuseMenuActive #u1029-4 p
+#u1164.MuseMenuActive #u1167-4 p,#u1171.MuseMenuActive #u1173-4 p,#u1206.MuseMenuActive #u1209-4 p,#u1227.MuseMenuActive #u1229-4 p,#u4109.MuseMenuActive #u4112-4 p,#u1250.MuseMenuActive #u1253-4 p,#u1271.MuseMenuActive #u1274-4 p,#u36961-4:hover p,#u36961-4:hover span,#u36962-4:hover p,#u36962-4:hover span,#u36963-4:hover p,#u36963-4:hover span,#u36964-4:hover p,#u36964-4:hover span,#u1043.MuseMenuActive #u1046-4 p,#u1048.MuseMenuActive #u1050-4 p,#u1036.MuseMenuActive #u1038-4 p,#u1015.MuseMenuActive #u1016-4 p,#u4086.MuseMenuActive #u4089-4 p,#u1020.MuseMenuActive #u1022-4 p,#u1027.MuseMenuActive #u1029-4 p
 {
 	color: #EDA900;
 	visibility: inherit;
@@ -506,5 +415,7 @@
 	padding-right: 30px;
 	padding-left: 30px;
 }
+
+
 
 
