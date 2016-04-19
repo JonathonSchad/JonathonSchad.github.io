@@ -1,0 +1,671 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 584.875px;
+		max-width: 1200px;
+	}
+
+	#menuu676
+	{
+		left: 31%;
+	}
+
+	#slideshowu24475
+	{
+		z-index: 108;
+		width: 0.01px;
+		height: 400px;
+		position: relative;
+	}
+
+	#u24493
+	{
+		position: absolute;
+		width: 349px;
+		height: 399px;
+	}
+
+	#u24493popup
+	{
+		z-index: 109;
+	}
+
+	#u24498
+	{
+		z-index: 110;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24506
+	{
+		z-index: 112;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24496
+	{
+		z-index: 114;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24504
+	{
+		z-index: 116;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24494
+	{
+		z-index: 118;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24500
+	{
+		z-index: 120;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24502
+	{
+		z-index: 122;
+		width: 349px;
+		height: 399px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24498_img,#u24506_img,#u24496_img,#u24504_img,#u24494_img,#u24500_img,#u24502_img
+	{
+		padding-left: 106px;
+	}
+
+	#u24509
+	{
+		position: absolute;
+		width: 221px;
+	}
+
+	#u24509popup
+	{
+		z-index: 124;
+	}
+
+	#u24510-22
+	{
+		z-index: 125;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24515-38
+	{
+		z-index: 147;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24512-23
+	{
+		z-index: 185;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24516-39
+	{
+		z-index: 208;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24511-22
+	{
+		z-index: 247;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24513-38
+	{
+		z-index: 269;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24514-22
+	{
+		z-index: 307;
+		width: 201px;
+		min-height: 379px;
+		padding: 10px;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u24517-4
+	{
+		position: absolute;
+		width: 48px;
+		min-height: 20px;
+		padding: 10px;
+		top: 359px;
+		left: 251px;
+	}
+
+	#u24517-4popup
+	{
+		z-index: 329;
+	}
+
+	#u24476-4
+	{
+		position: absolute;
+		width: 10px;
+		min-height: 20px;
+		padding: 10px;
+		top: 360px;
+		left: 221px;
+	}
+
+	#u24476-4popup
+	{
+		z-index: 333;
+	}
+
+	#u24518-4
+	{
+		position: absolute;
+		width: 10px;
+		min-height: 20px;
+		padding: 10px;
+		top: 359px;
+		left: 319px;
+	}
+
+	#u24518-4popup
+	{
+		z-index: 337;
+	}
+
+	#u38412-4
+	{
+		z-index: 367;
+		top: -394px;
+		margin-bottom: -60px;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#pu40558
+	{
+		margin-top: -330px;
+		width: 100%;
+	}
+
+	#u40558
+	{
+		z-index: 341;
+		margin-top: 358px;
+		width: 29.09%;
+	}
+
+	#u24113
+	{
+		z-index: 342;
+		padding-bottom: 0px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u24113_position_content
+	{
+		margin-bottom: -18px;
+		padding-top: 15px;
+		width: 100%;
+	}
+
+	#u24119-4
+	{
+		z-index: 343;
+		min-height: 28px;
+		position: relative;
+		width: 89.98%;
+		margin-left: 3.73%;
+	}
+
+	#u24131
+	{
+		z-index: 351;
+		margin-top: 16px;
+		position: relative;
+		width: 74.5%;
+		margin-left: 12.61%;
+	}
+
+	#u24131:hover
+	{
+		min-height: 0px;
+		width: 74.5%;
+		margin: 16px 0px 0px 12.607449856733524%;
+	}
+
+	#u24141-4
+	{
+		z-index: 347;
+		min-height: 28px;
+		margin-top: 15px;
+		position: relative;
+		width: 89.98%;
+		margin-left: 3.73%;
+	}
+
+	#u24141-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 28px;
+		width: 89.98%;
+		margin: 15px 0px 0px 3.7249283667621778%;
+	}
+
+	#u24144-10
+	{
+		z-index: 353;
+		min-height: 254px;
+		margin-top: 17px;
+		position: relative;
+		width: 89.98%;
+		margin-left: 3.73%;
+	}
+
+	#u24147-4
+	{
+		z-index: 363;
+		min-height: 49px;
+		margin-top: 21px;
+		position: relative;
+		width: 57.03%;
+		margin-left: 36.68%;
+	}
+
+	#u24147-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 49px;
+		width: 57.03%;
+		margin: 21px 0px 0px 36.67621776504298%;
+	}
+
+	#pu38415
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u38415
+	{
+		z-index: 426;
+		width: 100%;
+	}
+
+	#u38391
+	{
+		z-index: 427;
+	}
+
+	#u38395
+	{
+		z-index: 438;
+		background-image: url("../images/cassidy-panama-papers-american-names-1200-u38395-fr.jpg");
+		width: 95.79%;
+		margin-left: 2.36%;
+	}
+
+	#u38395:hover
+	{
+		width: 95.79%;
+		margin-left: 2.36%;
+	}
+
+	#u38393-4
+	{
+		z-index: 428;
+		width: 95.91%;
+		margin-left: 2.36%;
+	}
+
+	#u38393-4:hover
+	{
+		width: 95.91%;
+		margin-left: 2.36%;
+	}
+
+	#u38394-6
+	{
+		z-index: 432;
+		width: 95.91%;
+		margin-left: 2.36%;
+	}
+
+	#u42245
+	{
+		z-index: 439;
+		width: 100%;
+	}
+
+	#u40197
+	{
+		z-index: 440;
+	}
+
+	#u39821
+	{
+		z-index: 441;
+	}
+
+	#u39823
+	{
+		z-index: 442;
+		height: 209px;
+	}
+
+	#u40126-4
+	{
+		z-index: 443;
+		min-height: 37px;
+		margin-top: 60px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u40126-4:hover
+	{
+		margin-top: 60px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u40143-4
+	{
+		z-index: 447;
+		min-height: 37px;
+		margin-top: 112px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u40143-4:hover
+	{
+		margin-top: 112px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u40160-4
+	{
+		z-index: 451;
+		min-height: 37px;
+		margin-top: 164px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u40160-4:hover
+	{
+		margin-top: 164px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u42241-4
+	{
+		z-index: 455;
+		margin-top: 9px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u38418
+	{
+		z-index: 371;
+		width: 100%;
+	}
+
+	#u38366
+	{
+		z-index: 372;
+		padding-bottom: 25px;
+	}
+
+	#u38370-4
+	{
+		z-index: 374;
+	}
+
+	#u38371-4
+	{
+		z-index: 378;
+		margin-top: 4px;
+	}
+
+	#u38367
+	{
+		z-index: 373;
+		background-image: url("../images/79692_radovan-poster_iff-u38367-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u39578
+	{
+		z-index: 382;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u39580
+	{
+		z-index: 383;
+		padding-bottom: 21px;
+	}
+
+	#u39582-4
+	{
+		z-index: 385;
+	}
+
+	#u39579-4
+	{
+		z-index: 389;
+		margin-top: 38px;
+	}
+
+	#u39583
+	{
+		z-index: 384;
+		background-image: url("../images/750x-1-u39583-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u39609
+	{
+		z-index: 393;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u39610
+	{
+		z-index: 394;
+		padding-bottom: 21px;
+	}
+
+	#u39612-4
+	{
+		z-index: 396;
+	}
+
+	#u39614-4
+	{
+		z-index: 400;
+		margin-top: 38px;
+	}
+
+	#u39613
+	{
+		z-index: 395;
+		background-image: url("../images/download%20_op_3_cp__1458141894329_973815_ver10-u39613-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u39671
+	{
+		z-index: 404;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u39672
+	{
+		z-index: 405;
+		padding-bottom: 5px;
+	}
+
+	#u39675-4
+	{
+		z-index: 407;
+	}
+
+	#u39676-4
+	{
+		z-index: 411;
+		margin-top: 5px;
+	}
+
+	#u39673
+	{
+		z-index: 406;
+		background-image: url("../images/obamacastro-u39673-fr.png");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u40166
+	{
+		z-index: 415;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u40170
+	{
+		z-index: 416;
+		padding-bottom: 21px;
+	}
+
+	#pu38370-4,#pu39582-4,#pu39612-4,#pu39675-4,#pu40167-4
+	{
+		width: 44.92%;
+		margin-left: 1.37%;
+	}
+
+	#u40167-4
+	{
+		z-index: 418;
+	}
+
+	#u40171-4
+	{
+		z-index: 422;
+		margin-top: 11px;
+	}
+
+	#u40169
+	{
+		z-index: 417;
+		background-image: url("../images/706x410q70brooks-romney-vs-trump-u40169-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u38367:hover,#u39583:hover,#u39613:hover,#u39673:hover,#u40169:hover
+	{
+		width: 49.51%;
+	}
+
+	#u29981
+	{
+		width: 5.17%;
+		left: 80.17%;
+	}
+
+	#u29983
+	{
+		width: 5.09%;
+		left: 86.5%;
+	}
+
+	#u29985
+	{
+		width: 5.17%;
+		left: 92.75%;
+	}
+
+	#u24131_img
+	{
+		width: 100%;
+	}
+
+

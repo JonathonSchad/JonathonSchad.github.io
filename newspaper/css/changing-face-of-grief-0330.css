@@ -1,7 +1,7 @@
 .version.changing_face_of_grief_0330 /* version checker */
 {
-	color: #0000F1;
-	background-color: #9A2D26;
+	color: #0000F7;
+	background-color: #C35FF8;
 }
 
 #muse_css_mq
@@ -69,7 +69,7 @@
 	left: 28.75%;
 }
 
-#u1161
+#u43626
 {
 	width: 58px;
 	min-height: 34px;
@@ -77,21 +77,21 @@
 	margin-right: -10000px;
 }
 
-#u1164
+#u43627
 {
 	width: 58px;
 	padding-bottom: 17px;
 	position: relative;
 }
 
-#u1164.MuseMenuActive
+#u43627.MuseMenuActive
 {
 	width: 58px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1167-4
+#u43629-4
 {
 	width: 40px;
 	min-height: 17px;
@@ -101,7 +101,7 @@
 	left: 9px;
 }
 
-#u1164.MuseMenuActive #u1167-4
+#u43627.MuseMenuActive #u43629-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -689,14 +689,14 @@
 	min-height: 131px;
 }
 
-#u1043
+#u43566
 {
 	min-height: 14px;
 	padding-bottom: 3px;
 	position: relative;
 }
 
-#u1046-4
+#u43567-4
 {
 	min-height: 14px;
 	position: relative;
@@ -780,7 +780,7 @@
 	position: relative;
 }
 
-#u1043.MuseMenuActive,#u1048.MuseMenuActive,#u1036.MuseMenuActive,#u1015.MuseMenuActive,#u4086.MuseMenuActive,#u1020.MuseMenuActive,#u1027.MuseMenuActive
+#u43566.MuseMenuActive,#u1048.MuseMenuActive,#u1036.MuseMenuActive,#u1015.MuseMenuActive,#u4086.MuseMenuActive,#u1020.MuseMenuActive,#u1027.MuseMenuActive
 {
 	min-height: 14px;
 	margin: 0px 0px 0px 0%;
@@ -793,7 +793,7 @@
 	top: 1px;
 }
 
-#u1043.MuseMenuActive #u1046-4,#u1048.MuseMenuActive #u1050-4,#u1036.MuseMenuActive #u1038-4,#u1015.MuseMenuActive #u1016-4,#u4086.MuseMenuActive #u4089-4,#u1020.MuseMenuActive #u1022-4,#u1027.MuseMenuActive #u1029-4
+#u43566.MuseMenuActive #u43567-4,#u1048.MuseMenuActive #u1050-4,#u1036.MuseMenuActive #u1038-4,#u1015.MuseMenuActive #u1016-4,#u4086.MuseMenuActive #u4089-4,#u1020.MuseMenuActive #u1022-4,#u1027.MuseMenuActive #u1029-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

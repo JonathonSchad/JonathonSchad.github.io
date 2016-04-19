@@ -1,7 +1,7 @@
 .version.african_drumming_0301 /* version checker */
 {
-	color: #000018;
-	background-color: #72BEBF;
+	color: #0000ED;
+	background-color: #1427E5;
 }
 
 #muse_css_mq
@@ -522,6 +522,8 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
+
 
 
 
