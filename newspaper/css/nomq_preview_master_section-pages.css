@@ -17,70 +17,31 @@
 		background-color: #FFFFFF;
 	}
 
-	#u24510-2
-	{
-		font-family: open-sans, sans-serif;
-		font-weight: 400;
-		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-	}
-
 	#u24510-3,#u24510-5
 	{
+		font-size: 10px;
+		line-height: 14px;
+		color: #323232;
 		font-family: open-sans, sans-serif;
 		font-weight: 700;
-	}
-
-	#u24510-6
-	{
-		font-family: open-sans, sans-serif;
-		font-weight: 400;
 	}
 
 	#u24510-9,#u24510-12,#u24510-15,#u24510-18
 	{
+		font-size: 10px;
 		text-align: left;
+		line-height: 14px;
+		color: #323232;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 	}
 
-	#u24510-20
+	#u24510-2,#u24510-6,#u24510-20
 	{
-		line-height: 20px;
-		color: #999999;
+		font-size: 10px;
+		line-height: 14px;
+		color: #323232;
 		font-family: open-sans, sans-serif;
-		font-weight: 400;
-	}
-
-	#u24515-6
-	{
-		font-size: 11px;
-		line-height: 15px;
-		font-weight: 400;
-	}
-
-	#u24515-5,#u24515-20,#u24515-22
-	{
-		font-size: 11px;
-		line-height: 15px;
-		font-weight: 700;
-	}
-
-	#u24515-9,#u24515-12,#u24515-15,#u24515-18,#u24515-23,#u24515-26,#u24515-29,#u24515-32,#u24515-35
-	{
-		font-size: 11px;
-		text-align: left;
-		line-height: 15px;
-		font-weight: 400;
-	}
-
-	#u24512-17,#u24516-6,#u24516-23,#u24511-6
-	{
-		font-weight: 400;
-	}
-
-	#u24512-6,#u24512-9,#u24512-12,#u24512-15,#u24512-20,#u24516-9,#u24516-12,#u24516-15,#u24516-18,#u24516-26,#u24516-29,#u24516-32,#u24516-35,#u24511-9,#u24511-12,#u24511-15,#u24511-18
-	{
-		text-align: left;
 		font-weight: 400;
 	}
 
@@ -90,59 +51,19 @@
 		font-weight: 700;
 	}
 
-	#u24515-2,#u24512-2,#u24516-2,#u24511-2,#u24513-2
-	{
-		font-weight: 400;
-		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-	}
-
-	#u24510,#u24515,#u24512,#u24516,#u24511,#u24513
-	{
-		font-size: 16px;
-		line-height: 22px;
-	}
-
-	#u24513-5,#u24513-20,#u24513-22
-	{
-		font-size: 9px;
-		line-height: 13px;
-		font-weight: 700;
-	}
-
-	#u24513-6,#u24513-23
-	{
-		font-size: 9px;
-		line-height: 13px;
-		font-weight: 400;
-	}
-
 	#u24515-38,#u24512-23,#u24516-39,#u24511-22,#u24513-38,#u24514-22
 	{
 		border-width: 0px;
 		border-color: transparent;
 		background-color: #FFFFFF;
-		color: #999999;
+		line-height: 14px;
+		color: #323232;
+		font-size: 10px;
 		font-family: open-sans, sans-serif;
 	}
 
-	#u24514-2
+	#u24515-2,#u24515-6,#u24512-2,#u24512-17,#u24516-2,#u24516-6,#u24516-23,#u24511-2,#u24511-6,#u24513-2,#u24513-6,#u24513-23,#u24514-2,#u24514-6
 	{
-		font-size: 16px;
-		line-height: 22px;
-		font-weight: 400;
-	}
-
-	#u24514-3,#u24514-5
-	{
-		font-size: 10px;
-		line-height: 14px;
-		font-weight: 700;
-	}
-
-	#u24514-6
-	{
-		font-size: 10px;
-		line-height: 14px;
 		font-weight: 400;
 	}
 
@@ -152,24 +73,14 @@
 		font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	}
 
-	#u24514-9,#u24514-12,#u24514-15,#u24514-18
-	{
-		font-size: 10px;
-		text-align: left;
-		line-height: 14px;
-		font-weight: 400;
-	}
-
-	#u24510-7,#u24510-10,#u24510-13,#u24510-16,#u24515-3,#u24515-7,#u24515-10,#u24515-13,#u24515-16,#u24515-24,#u24515-27,#u24515-30,#u24515-33,#u24512-3,#u24512-5,#u24512-7,#u24512-10,#u24512-13,#u24516-3,#u24516-5,#u24516-7,#u24516-10,#u24516-13,#u24516-16,#u24516-20,#u24516-22,#u24516-24,#u24516-27,#u24516-30,#u24516-33,#u24511-3,#u24511-5,#u24511-7,#u24511-10,#u24511-13,#u24511-16,#u24513-3,#u24513-7,#u24513-10,#u24513-13,#u24513-16,#u24513-24,#u24513-27,#u24513-30,#u24513-33,#u24514-7,#u24514-10,#u24514-13,#u24514-16
+	#u24510-7,#u24510-10,#u24510-13,#u24510-16,#u24515-3,#u24515-5,#u24515-7,#u24515-10,#u24515-13,#u24515-16,#u24515-20,#u24515-22,#u24515-24,#u24515-27,#u24515-30,#u24515-33,#u24512-3,#u24512-5,#u24512-7,#u24512-10,#u24512-13,#u24516-3,#u24516-5,#u24516-7,#u24516-10,#u24516-13,#u24516-16,#u24516-20,#u24516-22,#u24516-24,#u24516-27,#u24516-30,#u24516-33,#u24511-3,#u24511-5,#u24511-7,#u24511-10,#u24511-13,#u24511-16,#u24513-3,#u24513-5,#u24513-7,#u24513-10,#u24513-13,#u24513-16,#u24513-20,#u24513-22,#u24513-24,#u24513-27,#u24513-30,#u24513-33,#u24514-3,#u24514-5,#u24514-7,#u24514-10,#u24514-13,#u24514-16
 	{
 		font-weight: 700;
 	}
 
-	#u24513-9,#u24513-12,#u24513-15,#u24513-18,#u24513-26,#u24513-29,#u24513-32,#u24513-35,#u24514-20
+	#u24515-9,#u24515-12,#u24515-15,#u24515-18,#u24515-23,#u24515-26,#u24515-29,#u24515-32,#u24515-35,#u24512-6,#u24512-9,#u24512-12,#u24512-15,#u24512-20,#u24516-9,#u24516-12,#u24516-15,#u24516-18,#u24516-26,#u24516-29,#u24516-32,#u24516-35,#u24511-9,#u24511-12,#u24511-15,#u24511-18,#u24513-9,#u24513-12,#u24513-15,#u24513-18,#u24513-26,#u24513-29,#u24513-32,#u24513-35,#u24514-9,#u24514-12,#u24514-15,#u24514-18,#u24514-20
 	{
-		font-size: 9px;
 		text-align: left;
-		line-height: 13px;
 		font-weight: 400;
 	}
 
@@ -178,9 +89,10 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: #FFFFFF;
-		line-height: 20px;
-		color: #999999;
+		color: #323232;
 		text-align: center;
+		font-size: 16px;
+		line-height: 22px;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 	}
@@ -213,8 +125,8 @@
 	#u24119-4
 	{
 		background-color: transparent;
-		line-height: 20px;
 		letter-spacing: 6px;
+		line-height: 20px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 	}
