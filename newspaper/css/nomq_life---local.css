@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 584.9250000000006px;
+		min-height: 585px;
 		max-width: 1200px;
 	}
 
@@ -783,6 +783,7 @@
 	#u41904
 	{
 		z-index: 447;
+		background-image: url("../images/orange-wonder-tulip-u41904-fr.jpg");
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
@@ -796,15 +797,12 @@
 	#u41902-4
 	{
 		z-index: 439;
-		margin-top: 26px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
 
 	#u41902-4:hover
 	{
-		margin-right: 0px;
-		margin-top: 26px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -812,6 +810,7 @@
 	#u41903-4
 	{
 		z-index: 443;
+		margin-top: 40px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -897,6 +896,8 @@
 	#u41876
 	{
 		z-index: 371;
+		margin-right: -10000px;
+		margin-top: 296px;
 		width: 100%;
 	}
 
@@ -921,6 +922,38 @@
 	{
 		z-index: 373;
 		background-image: url("../images/tuitionfreeze-u41877-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u42298
+	{
+		z-index: 426;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u42302
+	{
+		z-index: 427;
+		padding-bottom: 21px;
+	}
+
+	#u42300-4
+	{
+		z-index: 429;
+	}
+
+	#u42301-4
+	{
+		z-index: 433;
+		margin-top: 12px;
+	}
+
+	#u42299
+	{
+		z-index: 428;
+		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr.jpg");
 		width: 49.51%;
 		left: 48.76%;
 	}
@@ -1028,6 +1061,11 @@
 		left: 48.76%;
 	}
 
+	#u41877:hover,#u42299:hover,#u41883:hover,#u41892:hover
+	{
+		width: 49.51%;
+	}
+
 	#u42257
 	{
 		z-index: 468;
@@ -1060,13 +1098,6 @@
 		left: 2.36%;
 	}
 
-	#u42264-4:hover
-	{
-		margin-top: 73px;
-		min-height: 39px;
-		width: 96.03%;
-	}
-
 	#u42261-4
 	{
 		z-index: 476;
@@ -1076,13 +1107,6 @@
 		left: 2.36%;
 	}
 
-	#u42261-4:hover
-	{
-		margin-top: 121px;
-		min-height: 46px;
-		width: 96.53%;
-	}
-
 	#u42260-4
 	{
 		z-index: 480;
@@ -1090,13 +1114,6 @@
 		margin-top: 175px;
 		width: 96.03%;
 		left: 2.36%;
-	}
-
-	#u42260-4:hover
-	{
-		margin-top: 175px;
-		min-height: 39px;
-		width: 96.03%;
 	}
 
 	#u42258-4
@@ -1118,6 +1135,12 @@
 	{
 		z-index: 416;
 		padding-bottom: 21px;
+	}
+
+	#pu41879-4,#pu42300-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4
+	{
+		width: 44.92%;
+		margin-left: 1.37%;
 	}
 
 	#u41899-4
@@ -1147,47 +1170,83 @@
 		width: 49.51%;
 	}
 
-	#u42298
+	#u63501
 	{
-		z-index: 426;
+		z-index: 488;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
 
-	#u42302
+	#u63503
 	{
-		z-index: 427;
-		padding-bottom: 21px;
+		z-index: 489;
 	}
 
-	#pu41879-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4,#pu42300-4
+	#u63505
 	{
-		width: 44.92%;
-		margin-left: 1.37%;
+		z-index: 490;
 	}
 
-	#u42300-4
+	#u63506
 	{
-		z-index: 429;
+		z-index: 491;
+		height: 221px;
 	}
 
-	#u42301-4
+	#u63504-4
 	{
-		z-index: 433;
-		margin-top: 6px;
+		z-index: 492;
+		min-height: 39px;
+		margin-top: 73px;
+		width: 96.03%;
+		left: 2.36%;
 	}
 
-	#u42299
+	#u42264-4:hover,#u63504-4:hover
 	{
-		z-index: 428;
-		background-image: url("../images/img_0549-u42299-fr.jpg");
-		width: 49.51%;
-		left: 48.76%;
+		margin-top: 73px;
+		min-height: 39px;
+		width: 96.03%;
 	}
 
-	#u41877:hover,#u41883:hover,#u41892:hover,#u42299:hover
+	#u63507-3
 	{
-		width: 49.51%;
+		z-index: 496;
+		min-height: 46px;
+		margin-top: 121px;
+		width: 96.53%;
+		left: 2.36%;
+	}
+
+	#u42261-4:hover,#u63507-3:hover
+	{
+		margin-top: 121px;
+		min-height: 46px;
+		width: 96.53%;
+	}
+
+	#u63508-3
+	{
+		z-index: 499;
+		min-height: 39px;
+		margin-top: 175px;
+		width: 96.03%;
+		left: 2.36%;
+	}
+
+	#u42260-4:hover,#u63508-3:hover
+	{
+		margin-top: 175px;
+		min-height: 39px;
+		width: 96.03%;
+	}
+
+	#u63502-4
+	{
+		z-index: 502;
+		margin-top: 15px;
+		width: 96.53%;
+		left: 2.36%;
 	}
 
 	#u814,#u814-bw
@@ -1246,7 +1305,7 @@
 		z-index: 106;
 	}
 
-	#u24131_img
+	#pu41876,#u24131_img
 	{
 		width: 100%;
 	}

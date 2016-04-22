@@ -1,7 +1,7 @@
 .version.world_news /* version checker */
 {
-	color: #0000F8;
-	background-color: #CCF7A2;
+	color: #0000F1;
+	background-color: #339CCA;
 }
 
 .js body
@@ -74,7 +74,6 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
-	height: 418px;
 	position: relative;
 	background-size: cover;
 }
@@ -88,7 +87,6 @@
 	margin-right: 0px;
 	margin-bottom: 0px;
 	opacity: 0.7;
-	height: 418px;
 	margin-top: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -96,25 +94,26 @@
 
 #u38393-4
 {
-	min-height: 60px;
+	top: -1px;
+	font-weight: 800;
 	line-height: 50px;
 	font-family: open-sans, sans-serif;
+	margin-bottom: -1px;
 	background-color: transparent;
-	margin-top: 26px;
-	font-weight: 800;
+	min-height: 60px;
 	position: relative;
 	font-size: 42px;
 }
 
 #u38393-4:hover
 {
-	margin-bottom: 0px;
+	margin-bottom: -1px;
 	opacity: 0.5;
 	margin-right: 0px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	min-height: 60px;
-	margin-top: 26px;
+	margin-top: 0px;
 	padding-bottom: 0px;
 	padding-top: 0px;
 }
@@ -122,6 +121,19 @@
 #u38394-4
 {
 	min-height: 46px;
+	font-family: open-sans, sans-serif;
+	background-color: transparent;
+	font-weight: 300;
+	color: #323232;
+	position: relative;
+	font-size: 14px;
+	text-align: justify;
+}
+
+#u39676-4
+{
+	min-height: 69px;
+	width: 100%;
 	font-family: open-sans, sans-serif;
 	background-color: transparent;
 	font-weight: 300;
@@ -148,6 +160,39 @@
 	font-style: italic;
 }
 
+#u39673,#u40169
+{
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	height: 272px;
+	margin-top: 24px;
+	position: relative;
+	background-size: cover;
+}
+
+#u39673:hover,#u40169:hover
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	background-position: center center;
+	filter: alpha(opacity=70);
+	min-height: 0px;
+	opacity: 0.7;
+	height: 272px;
+	background-repeat: no-repeat;
+	margin: 24px -10000px 0px 0%;
+	background-size: cover;
+}
+
+#pu39675-4,#pu38370-4
+{
+	margin-right: -10000px;
+}
+
 #u38370-4
 {
 	background-color: transparent;
@@ -160,10 +205,68 @@
 	font-size: 28px;
 }
 
+#u38415,#u42245,#u39671,#u40166,#u38418,#u39578,#u39609
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u39672,#u40170,#u38366,#u39580,#u39610
+{
+	width: 100%;
+	background-color: #FFFFFF;
+	margin-right: -10000px;
+	position: relative;
+}
+
 #pu40167-4,#pu39582-4,#pu39612-4
 {
 	margin-top: 40px;
 	margin-right: -10000px;
+}
+
+#u39675-4,#u39582-4,#u39612-4
+{
+	background-color: transparent;
+	line-height: 50px;
+	font-family: open-sans, sans-serif;
+	min-height: 88px;
+	font-weight: 800;
+	width: 100%;
+	position: relative;
+	font-size: 42px;
+}
+
+#u39675-4:hover,#u40167-4:hover,#u38370-4:hover,#u39582-4:hover,#u39612-4:hover
+{
+	opacity: 0.5;
+	padding-bottom: 0px;
+	width: 100%;
+	filter: alpha(opacity=50);
+	min-height: 88px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	padding-top: 0px;
+	margin: 0px 0px 0px 0%;
+}
+
+#u38393-4:hover p,#u39675-4:hover p,#u40167-4:hover p,#u38370-4:hover p,#u39582-4:hover p,#u39612-4:hover p
+{
+	visibility: inherit;
+	color: #EDA900;
+}
+
+#u40171-6,#u38371-4,#u39579-4,#u39614-4
+{
+	min-height: 69px;
+	width: 100%;
+	font-family: open-sans, sans-serif;
+	background-color: transparent;
+	font-weight: 300;
+	color: #323232;
+	position: relative;
+	text-align: justify;
 }
 
 #u38367,#u39583,#u39613
@@ -194,94 +297,12 @@
 	background-size: cover;
 }
 
-#u40170,#u38366,#u39580,#u39610,#u39672
-{
-	width: 100%;
-	background-color: #FFFFFF;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#pu38370-4,#pu39675-4
-{
-	margin-right: -10000px;
-}
-
-#u39582-4,#u39612-4,#u39675-4
-{
-	background-color: transparent;
-	line-height: 50px;
-	font-family: open-sans, sans-serif;
-	min-height: 88px;
-	font-weight: 800;
-	width: 100%;
-	position: relative;
-	font-size: 42px;
-}
-
-#u40167-4:hover,#u38370-4:hover,#u39582-4:hover,#u39612-4:hover,#u39675-4:hover
-{
-	opacity: 0.5;
-	padding-bottom: 0px;
-	width: 100%;
-	filter: alpha(opacity=50);
-	min-height: 88px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	padding-top: 0px;
-	margin: 0px 0px 0px 0%;
-}
-
-#u38393-4:hover p,#u40167-4:hover p,#u38370-4:hover p,#u39582-4:hover p,#u39612-4:hover p,#u39675-4:hover p
-{
-	visibility: inherit;
-	color: #EDA900;
-}
-
-#u40171-6,#u38371-4,#u39579-4,#u39614-4,#u39676-4
-{
-	min-height: 69px;
-	width: 100%;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	font-weight: 300;
-	color: #323232;
-	position: relative;
-	text-align: justify;
-}
-
-#u40169,#u39673
-{
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-color: transparent;
-	margin-right: -10000px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	height: 272px;
-	margin-top: 24px;
-	position: relative;
-	background-size: cover;
-}
-
-#u40169:hover,#u39673:hover
-{
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	background-position: center center;
-	filter: alpha(opacity=70);
-	min-height: 0px;
-	opacity: 0.7;
-	height: 272px;
-	background-repeat: no-repeat;
-	margin: 24px -10000px 0px 0%;
-	background-size: cover;
-}
-
-#u38415,#u42245,#u40166,#u38418,#u39578,#u39609,#u39671,#u52890
+#u52890
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
 	position: relative;
 }
 
@@ -303,36 +324,6 @@
 	position: relative;
 }
 
-#u40126-4,#u40143-4,#u40160-4,#u52896-4
-{
-	color: #7F7F7F;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	margin-right: -10000px;
-	line-height: 22px;
-	font-weight: 700;
-	position: relative;
-	font-size: 18px;
-}
-
-#u40126-4:hover,#u40143-4:hover,#u40160-4:hover,#u52896-4:hover
-{
-	margin-bottom: 0px;
-	opacity: 0.5;
-	margin-right: -10000px;
-	filter: alpha(opacity=50);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	padding-bottom: 0px;
-	margin-left: 0%;
-	padding-top: 0px;
-}
-
-#u40126-4:hover p,#u40143-4:hover p,#u40160-4:hover p,#u52896-4:hover p
-{
-	visibility: inherit;
-	color: #002C73;
-}
-
 #u42241-4,#u52897-4
 {
 	background-color: transparent;
@@ -349,6 +340,36 @@
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
+}
+
+#u40126-4,#u40143-4,#u40160-4,#u52896-4,#u63088-4
+{
+	color: #7F7F7F;
+	font-family: open-sans, sans-serif;
+	background-color: transparent;
+	margin-right: -10000px;
+	line-height: 22px;
+	font-weight: 700;
+	position: relative;
+	font-size: 18px;
+}
+
+#u40126-4:hover,#u40143-4:hover,#u40160-4:hover,#u52896-4:hover,#u63088-4:hover
+{
+	margin-bottom: 0px;
+	opacity: 0.5;
+	margin-right: -10000px;
+	filter: alpha(opacity=50);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	padding-bottom: 0px;
+	margin-left: 0%;
+	padding-top: 0px;
+}
+
+#u40126-4:hover p,#u40143-4:hover p,#u40160-4:hover p,#u52896-4:hover p,#u63088-4:hover p
+{
+	visibility: inherit;
+	color: #002C73;
 }
 
 #u814,#u814-bw
@@ -436,7 +457,7 @@
 	position: relative;
 }
 
-#pu176,#pu1492-3,#pu814,#u29982,#u29984,#u29986
+#pu176,#pu1492-3,#pu52890,#pu814,#u29982,#u29984,#u29986
 {
 	width: 100%;
 }
@@ -1238,13 +1259,15 @@
 	#u38395
 	{
 		z-index: 438;
-		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u38395-fr.jpg");
+		height: 405px;
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u38395-fr.jpg");
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
 
 	#u38395:hover
 	{
+		height: 405px;
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
@@ -1347,10 +1370,50 @@
 		left: 2.36%;
 	}
 
+	#u39671
+	{
+		z-index: 404;
+		width: 100%;
+	}
+
+	#u39672
+	{
+		z-index: 405;
+		padding-bottom: 21px;
+	}
+
+	#pu39675-4
+	{
+		padding-bottom: 0px;
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
+	}
+
+	#u39675-4
+	{
+		z-index: 407;
+	}
+
+	#u39676-4
+	{
+		z-index: 411;
+		margin-top: 19px;
+	}
+
+	#u39673
+	{
+		z-index: 406;
+		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
 	#u40166
 	{
 		z-index: 415;
-		width: 100%;
+		width: 67.17%;
+		margin-left: 31.17%;
 	}
 
 	#u40170
@@ -1396,6 +1459,13 @@
 	{
 		z-index: 372;
 		padding-bottom: 25px;
+	}
+
+	#pu38370-4
+	{
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
 	}
 
 	#u38370-4
@@ -1487,46 +1557,7 @@
 		left: 48.76%;
 	}
 
-	#u39671
-	{
-		z-index: 404;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u39672
-	{
-		z-index: 405;
-		padding-bottom: 5px;
-	}
-
-	#pu38370-4,#pu39675-4
-	{
-		margin-top: 40px;
-		width: 44.92%;
-		margin-left: 1.37%;
-	}
-
-	#u39675-4
-	{
-		z-index: 407;
-	}
-
-	#u39676-4
-	{
-		z-index: 411;
-		margin-top: 5px;
-	}
-
-	#u39673
-	{
-		z-index: 406;
-		background-image: url("../images/obamacastro-u39673-fr.png");
-		width: 49.51%;
-		left: 48.76%;
-	}
-
-	#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover,#u39673:hover
+	#u39673:hover,#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover
 	{
 		width: 49.51%;
 	}
@@ -1535,7 +1566,7 @@
 	{
 		z-index: 459;
 		width: 67.17%;
-		margin-left: 31.17%;
+		left: 31.17%;
 	}
 
 	#u52891
@@ -1551,21 +1582,21 @@
 	#u52893
 	{
 		z-index: 462;
-		height: 110px;
+		height: 176px;
 	}
 
 	#u52896-4
 	{
 		z-index: 463;
 		min-height: 37px;
-		margin-top: 61px;
+		margin-top: 123px;
 		width: 81.39%;
 		left: 2.36%;
 	}
 
 	#u52896-4:hover
 	{
-		margin-top: 61px;
+		margin-top: 123px;
 		min-height: 37px;
 		width: 81.39%;
 	}
@@ -1576,6 +1607,22 @@
 		margin-top: 9px;
 		width: 81.39%;
 		left: 2.36%;
+	}
+
+	#u63088-4
+	{
+		z-index: 471;
+		min-height: 37px;
+		margin-top: 70px;
+		width: 54.67%;
+		left: 32.67%;
+	}
+
+	#u63088-4:hover
+	{
+		margin-top: 70px;
+		min-height: 37px;
+		width: 54.67%;
 	}
 
 	#u814,#u814-bw
@@ -1659,16 +1706,10 @@
 		max-width: 1120px;
 	}
 
-	#u32889,#u32889-bw
-	{
-		z-index: 107;
-	}
-
 	#u40558
 	{
 		z-index: 108;
 		height: 0px;
-		margin-right: -10000px;
 		margin-top: 116px;
 		width: 0%;
 	}
@@ -1679,6 +1720,16 @@
 		opacity: 0.01;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 		filter: alpha(opacity=1);
+	}
+
+	#pu176
+	{
+		margin-top: -116px;
+	}
+
+	#u32889,#u32889-bw
+	{
+		z-index: 107;
 	}
 
 	#pu1492-3
@@ -2120,19 +2171,21 @@
 	#u38391
 	{
 		z-index: 171;
-		padding-bottom: 29.000000000000455px;
+		padding-bottom: 16px;
 	}
 
 	#u38395
 	{
 		z-index: 180;
-		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u38395-fr2.jpg");
+		height: 418px;
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800.jpg");
 		width: 95.84%;
 		margin-left: 2.32%;
 	}
 
 	#u38395:hover
 	{
+		height: 418px;
 		width: 95.84%;
 		margin-left: 2.32%;
 	}
@@ -2234,6 +2287,45 @@
 		margin-top: 19px;
 		width: 95.84%;
 		left: 1.3%;
+	}
+
+	#u39671
+	{
+		z-index: 146;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u39672
+	{
+		z-index: 147;
+		padding-bottom: 24px;
+	}
+
+	#pu39675-4
+	{
+		margin-top: 40px;
+		width: 44.96%;
+		margin-left: 1.39%;
+	}
+
+	#u39675-4
+	{
+		z-index: 149;
+	}
+
+	#u39676-4
+	{
+		z-index: 153;
+		margin-top: 48px;
+	}
+
+	#u39673
+	{
+		z-index: 148;
+		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr2.jpg");
+		width: 49.59%;
+		left: 48.85%;
 	}
 
 	#u40166
@@ -2378,46 +2470,7 @@
 		left: 48.85%;
 	}
 
-	#u39671
-	{
-		z-index: 146;
-		width: 96.52%;
-		margin-left: 1.79%;
-	}
-
-	#u39672
-	{
-		z-index: 147;
-		padding-bottom: 24px;
-	}
-
-	#pu39675-4
-	{
-		margin-top: 40px;
-		width: 44.96%;
-		margin-left: 1.39%;
-	}
-
-	#u39675-4
-	{
-		z-index: 149;
-	}
-
-	#u39676-4
-	{
-		z-index: 153;
-		margin-top: 36px;
-	}
-
-	#u39673
-	{
-		z-index: 148;
-		background-image: url("../images/obamacastro-u39673-fr2.png");
-		width: 49.59%;
-		left: 48.85%;
-	}
-
-	#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover,#u39673:hover
+	#u39673:hover,#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover
 	{
 		width: 49.59%;
 	}
@@ -2426,7 +2479,7 @@
 	{
 		z-index: 201;
 		width: 96.52%;
-		margin-left: 1.79%;
+		left: 1.79%;
 	}
 
 	#u52891
@@ -2442,22 +2495,22 @@
 	#u52893
 	{
 		z-index: 204;
-		height: 138px;
+		height: 198px;
 	}
 
 	#u52896-4
 	{
 		z-index: 205;
-		min-height: 42px;
-		margin-top: 78px;
+		min-height: 31px;
+		margin-top: 130px;
 		width: 96.03%;
 		left: 1.39%;
 	}
 
 	#u52896-4:hover
 	{
-		margin-top: 78px;
-		min-height: 42px;
+		margin-top: 130px;
+		min-height: 31px;
 		width: 96.03%;
 	}
 
@@ -2467,6 +2520,22 @@
 		margin-top: 19px;
 		width: 95.84%;
 		left: 1.3%;
+	}
+
+	#u63088-4
+	{
+		z-index: 213;
+		min-height: 42px;
+		margin-top: 78px;
+		width: 92.68%;
+		left: 3.04%;
+	}
+
+	#u63088-4:hover
+	{
+		margin-top: 78px;
+		min-height: 42px;
+		width: 92.68%;
 	}
 
 	#u814,#u814-bw
@@ -2541,7 +2610,7 @@
 
 	#page
 	{
-		min-height: 584.8499999999999px;
+		min-height: 584.8499999999995px;
 		max-width: 900px;
 	}
 
@@ -2964,19 +3033,21 @@
 	#u38391
 	{
 		z-index: 178;
-		padding-bottom: 24.000000000000455px;
+		padding-bottom: 11px;
 	}
 
 	#u38395
 	{
 		z-index: 187;
-		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u38395-fr3.jpg");
+		height: 418px;
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u38395-fr2.jpg");
 		width: 95.75%;
 		margin-left: 2.31%;
 	}
 
 	#u38395:hover
 	{
+		height: 418px;
 		width: 95.75%;
 		margin-left: 2.31%;
 	}
@@ -3078,6 +3149,45 @@
 		margin-top: 19px;
 		width: 95.86%;
 		left: 1.27%;
+	}
+
+	#u39671
+	{
+		z-index: 153;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u39672
+	{
+		z-index: 154;
+		padding-bottom: 24px;
+	}
+
+	#pu39675-4
+	{
+		margin-top: 24px;
+		width: 44.88%;
+		margin-left: 1.39%;
+	}
+
+	#u39675-4
+	{
+		z-index: 156;
+	}
+
+	#u39676-4
+	{
+		z-index: 160;
+		margin-top: 93px;
+	}
+
+	#u39673
+	{
+		z-index: 155;
+		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr.jpg");
+		width: 49.49%;
+		left: 48.8%;
 	}
 
 	#u40166
@@ -3222,46 +3332,7 @@
 		left: 48.8%;
 	}
 
-	#u39671
-	{
-		z-index: 153;
-		width: 96.56%;
-		margin-left: 1.78%;
-	}
-
-	#u39672
-	{
-		z-index: 154;
-		padding-bottom: 15px;
-	}
-
-	#pu39675-4
-	{
-		margin-top: 24px;
-		width: 44.88%;
-		margin-left: 1.39%;
-	}
-
-	#u39675-4
-	{
-		z-index: 156;
-	}
-
-	#u39676-4
-	{
-		z-index: 160;
-		margin-top: 31px;
-	}
-
-	#u39673
-	{
-		z-index: 155;
-		background-image: url("../images/obamacastro-u39673-fr.png");
-		width: 49.49%;
-		left: 48.8%;
-	}
-
-	#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover,#u39673:hover
+	#u39673:hover,#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover
 	{
 		width: 49.49%;
 	}
@@ -3270,7 +3341,7 @@
 	{
 		z-index: 208;
 		width: 96.56%;
-		margin-left: 1.78%;
+		left: 1.78%;
 	}
 
 	#u52891
@@ -3286,22 +3357,22 @@
 	#u52893
 	{
 		z-index: 211;
-		height: 138px;
+		height: 214px;
 	}
 
 	#u52896-4
 	{
 		z-index: 212;
-		min-height: 42px;
-		margin-top: 78px;
+		min-height: 36px;
+		margin-top: 144px;
 		width: 95.98%;
 		left: 1.39%;
 	}
 
 	#u52896-4:hover
 	{
-		margin-top: 78px;
-		min-height: 42px;
+		margin-top: 144px;
+		min-height: 36px;
 		width: 95.98%;
 	}
 
@@ -3311,6 +3382,22 @@
 		margin-top: 19px;
 		width: 95.86%;
 		left: 1.27%;
+	}
+
+	#u63088-4
+	{
+		z-index: 220;
+		min-height: 42px;
+		margin-top: 82px;
+		width: 92.67%;
+		left: 3%;
+	}
+
+	#u63088-4:hover
+	{
+		margin-top: 82px;
+		min-height: 42px;
+		width: 92.67%;
 	}
 
 	#u814,#u814-bw

@@ -22,7 +22,7 @@
 
 	#slideshowu35875
 	{
-		z-index: 125;
+		z-index: 124;
 		width: 0.01px;
 		height: 441px;
 		position: fixed;
@@ -40,12 +40,12 @@
 
 	#u35902popup
 	{
-		z-index: 126;
+		z-index: 125;
 	}
 
 	#u35909
 	{
-		z-index: 127;
+		z-index: 126;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -57,7 +57,7 @@
 
 	#u35905
 	{
-		z-index: 129;
+		z-index: 128;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -69,7 +69,7 @@
 
 	#u35915
 	{
-		z-index: 131;
+		z-index: 130;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -81,7 +81,7 @@
 
 	#u35911
 	{
-		z-index: 133;
+		z-index: 132;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -93,7 +93,7 @@
 
 	#u35913
 	{
-		z-index: 135;
+		z-index: 134;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -105,7 +105,7 @@
 
 	#u35903
 	{
-		z-index: 137;
+		z-index: 136;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -117,7 +117,7 @@
 
 	#u35907
 	{
-		z-index: 139;
+		z-index: 138;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -141,12 +141,12 @@
 
 	#u35876popup
 	{
-		z-index: 141;
+		z-index: 140;
 	}
 
 	#u35877-22
 	{
-		z-index: 142;
+		z-index: 141;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -197,7 +197,7 @@
 
 	#u35881-38
 	{
-		z-index: 164;
+		z-index: 163;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -234,7 +234,7 @@
 
 	#u35883-23
 	{
-		z-index: 202;
+		z-index: 201;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -249,7 +249,7 @@
 
 	#u35878-39
 	{
-		z-index: 225;
+		z-index: 224;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -264,7 +264,7 @@
 
 	#u35882-22
 	{
-		z-index: 264;
+		z-index: 263;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -296,7 +296,7 @@
 
 	#u35880-38
 	{
-		z-index: 286;
+		z-index: 285;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -337,7 +337,7 @@
 
 	#u35879-22
 	{
-		z-index: 324;
+		z-index: 323;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -418,7 +418,7 @@
 
 	#u35917-4popup
 	{
-		z-index: 346;
+		z-index: 345;
 	}
 
 	#u35918-4
@@ -441,7 +441,7 @@
 
 	#u35918-4popup
 	{
-		z-index: 350;
+		z-index: 349;
 	}
 
 	#u35885-4
@@ -464,7 +464,7 @@
 
 	#u35885-4popup
 	{
-		z-index: 354;
+		z-index: 353;
 	}
 
 	.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -479,23 +479,23 @@
 
 	#u35530,#u35530-bw
 	{
-		z-index: 559;
+		z-index: 558;
 	}
 
 	#u35531-3,#u35531-3-bw
 	{
-		z-index: 560;
+		z-index: 559;
 	}
 
 	#menuu35532
 	{
-		z-index: 563;
+		z-index: 562;
 		width: 1097px;
 	}
 
 	#u35641,#u35641-bw
 	{
-		z-index: 606;
+		z-index: 605;
 	}
 
 	#u36027
@@ -509,7 +509,6 @@
 
 	#pu36036-4
 	{
-		padding-bottom: 0px;
 		margin-top: 12px;
 		width: 44.9%;
 		margin-left: 1.35%;
@@ -535,6 +534,7 @@
 
 	#u36040-4:hover
 	{
+		margin-right: 0px;
 		margin-top: 13px;
 		min-height: 132px;
 	}
@@ -542,7 +542,7 @@
 	#u36044-4
 	{
 		min-height: 123px;
-		margin-top: 31px;
+		margin-top: 32px;
 	}
 
 	#pu36030
@@ -555,7 +555,7 @@
 	#u36030
 	{
 		height: 359px;
-		background-image: url("../images/birds-bald-eagle-usa-flag-f1-celebration-independence-day-fireworks-photography-4th-july-photo-wide-screen-occasion-hd-pictures-u36030-fr.jpg");
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr.jpg");
 		width: 99.71%;
 	}
 
@@ -661,100 +661,140 @@
 
 	#u36635-4
 	{
-		z-index: 358;
+		z-index: 357;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u36638-4
-	{
-		z-index: 366;
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#ppu36649-4
-	{
-		margin-top: 18px;
-		width: 95.91%;
-		margin-left: 2.39%;
-	}
-
-	#u36649-4
-	{
-		z-index: 374;
-		width: 100%;
-	}
-
-	#u36652-4
-	{
-		z-index: 382;
-		width: 100%;
-	}
-
-	#u36655-4
-	{
-		z-index: 390;
-		width: 100%;
-		margin-left: 0.12%;
-	}
-
-	#u37360
-	{
-		z-index: 497;
-		margin-top: 7px;
-		width: 27.33%;
-		left: 72.68%;
-	}
-
-	#u37364-4
-	{
-		z-index: 498;
-	}
-
-	#u37362-4
-	{
-		z-index: 502;
-		margin-top: 12px;
-	}
-
-	#u37365-4
-	{
-		z-index: 506;
-		margin-top: 11px;
-	}
-
-	#u37361-4
-	{
-		z-index: 510;
-		margin-top: 12px;
-	}
-
-	#u37363-4
-	{
-		z-index: 514;
-		margin-top: 12px;
-	}
-
 	#u36658-4
 	{
-		z-index: 398;
-		top: -1px;
-		margin-bottom: -1px;
+		z-index: 397;
+		margin-top: 20px;
 		width: 67.54%;
 		margin-left: 2.46%;
 	}
 
 	#u36658-4:hover
 	{
-		margin-bottom: -1px;
+		margin-bottom: 0px;
+		margin-top: 20px;
 		width: 67.54%;
 		margin-left: 2.46%;
 	}
 
+	#ppu36655-4
+	{
+		margin-top: 15px;
+		width: 95.91%;
+		margin-left: 2.39%;
+	}
+
+	#pu36655-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 4px;
+		width: 70.5%;
+	}
+
+	#u36655-4
+	{
+		z-index: 389;
+		width: 99.89%;
+		margin-left: 0.12%;
+	}
+
+	#u36655-4:hover
+	{
+		margin-top: 0px;
+		width: 99.89%;
+		margin-left: 0.12%;
+	}
+
+	#u36638-4
+	{
+		z-index: 365;
+		margin-top: 19px;
+		width: 99.89%;
+	}
+
+	#u36638-4:hover
+	{
+		margin-top: 19px;
+		width: 99.89%;
+		margin-left: 0%;
+	}
+
+	#u36649-4
+	{
+		z-index: 373;
+		margin-top: 18px;
+		width: 99.89%;
+	}
+
+	#u36649-4:hover
+	{
+		margin-top: 18px;
+		width: 99.89%;
+	}
+
+	#u37360
+	{
+		z-index: 496;
+		width: 27.33%;
+		left: 72.68%;
+	}
+
+	#u37364-4
+	{
+		z-index: 497;
+	}
+
+	#u37362-4
+	{
+		z-index: 501;
+		margin-top: 12px;
+	}
+
+	#u37365-4
+	{
+		z-index: 505;
+		margin-top: 11px;
+	}
+
+	#u37361-4
+	{
+		z-index: 509;
+		margin-top: 12px;
+	}
+
+	#u37363-4
+	{
+		z-index: 513;
+		margin-top: 12px;
+	}
+
+	#u36652-4
+	{
+		z-index: 381;
+		top: -2px;
+		margin-bottom: -2px;
+		width: 67.54%;
+		margin-left: 2.39%;
+	}
+
 	#u36661-4
 	{
-		z-index: 406;
+		z-index: 405;
+		margin-top: 10px;
+		width: 17.65%;
+		margin-left: 4.92%;
+	}
+
+	#u36661-4:hover
+	{
+		margin-bottom: 0px;
+		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
@@ -770,7 +810,7 @@
 
 	#u36670
 	{
-		z-index: 414;
+		z-index: 413;
 		height: 565px;
 		width: 95.84%;
 		margin-left: 2.31%;
@@ -823,7 +863,7 @@
 	#u36682
 	{
 		padding-top: 12px;
-		padding-bottom: 24.20453730887533px;
+		padding-bottom: 71.27996309962964px;
 		margin-top: 62px;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -859,9 +899,9 @@
 		margin-left: 1.35%;
 	}
 
-	#u36691-5
+	#u36691-4
 	{
-		min-height: 107px;
+		min-height: 60px;
 		margin-top: 42px;
 		width: 96.95%;
 		margin-left: 1.35%;
@@ -876,121 +916,134 @@
 
 	#u36700-4
 	{
-		z-index: 362;
+		z-index: 361;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u36718-4
+	#u36712-4
 	{
-		z-index: 370;
+		z-index: 401;
+		margin-top: 34px;
 		width: 67.54%;
-		margin-left: 2.39%;
+		margin-left: 2.46%;
 	}
 
-	#ppu36706-4
+	#u36712-4:hover
 	{
+		margin-top: 34px;
+		width: 67.54%;
+		margin-left: 2.46%;
+	}
+
+	#ppu36718-4
+	{
+		margin-top: 4px;
 		width: 95.91%;
 		margin-left: 2.39%;
 	}
 
-	#pu36649-4,#pu36706-4
+	#pu36718-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 14px;
 		width: 70.42%;
+	}
+
+	#u36718-4
+	{
+		z-index: 369;
+		width: 100%;
+	}
+
+	#u36718-4:hover
+	{
+		margin-top: 0px;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u36706-4
 	{
-		z-index: 378;
+		z-index: 377;
+		margin-top: 18px;
 		width: 100%;
 	}
 
 	#u36709-4
 	{
-		z-index: 386;
+		z-index: 385;
 		width: 100%;
 	}
 
-	#u36715-4
-	{
-		z-index: 394;
-		width: 100%;
-		margin-left: 0.12%;
-	}
-
-	#u36655-4:hover,#u36715-4:hover
+	#u36709-4:hover
 	{
 		width: 100%;
-		margin-left: 0.12%;
 	}
 
 	#u37329
 	{
-		z-index: 476;
+		z-index: 475;
 		width: 27.33%;
 		left: 72.68%;
 	}
 
 	#u37334-4
 	{
-		z-index: 477;
+		z-index: 476;
 	}
 
 	#u37333-4
 	{
-		z-index: 481;
+		z-index: 480;
 		margin-top: 12px;
 	}
 
 	#u37330-4
 	{
-		z-index: 485;
+		z-index: 484;
 		margin-top: 11px;
 	}
 
 	#u37332-4
 	{
-		z-index: 489;
+		z-index: 488;
 		margin-top: 12px;
 	}
 
 	#u37331-4
 	{
-		z-index: 493;
+		z-index: 492;
 		margin-top: 12px;
 	}
 
-	#u36712-4
+	#u36715-4
 	{
-		z-index: 402;
-		margin-top: 8px;
+		z-index: 393;
+		margin-top: 7px;
 		width: 67.54%;
-		margin-left: 2.61%;
+		margin-left: 2.46%;
 	}
 
-	#u36712-4:hover
+	#u36715-4:hover
 	{
-		margin-top: 8px;
+		margin-top: 7px;
 		width: 67.54%;
-		margin-left: 2.61%;
+		margin-left: 2.46%;
 	}
 
 	#u36721-4
 	{
-		z-index: 410;
-		width: 17.65%;
-		margin-left: 4.92%;
-	}
-
-	#u36661-4:hover,#u36721-4:hover
-	{
+		z-index: 409;
+		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
 
 	#u37147
 	{
-		z-index: 415;
+		z-index: 414;
 		padding-bottom: 55px;
 		margin-top: 62px;
 		width: 67.15%;
@@ -999,7 +1052,6 @@
 
 	#pu37173-4
 	{
-		margin-right: -10000px;
 		margin-top: 13px;
 		width: 44.9%;
 		margin-left: 1.35%;
@@ -1007,7 +1059,7 @@
 
 	#u37173-4
 	{
-		z-index: 423;
+		z-index: 422;
 		min-height: 31px;
 		width: 78.28%;
 	}
@@ -1016,12 +1068,11 @@
 	{
 		min-height: 31px;
 		width: 78.28%;
-		margin-left: 0%;
 	}
 
 	#u37168-4
 	{
-		z-index: 431;
+		z-index: 430;
 		min-height: 185px;
 		margin-top: 14px;
 	}
@@ -1034,14 +1085,13 @@
 
 	#u37158-4
 	{
-		z-index: 439;
+		z-index: 438;
 		min-height: 101px;
 		margin-top: 28px;
 	}
 
 	#pu37163
 	{
-		margin-right: -10000px;
 		margin-top: 35px;
 		width: 49.74%;
 		margin-left: 48.78%;
@@ -1049,22 +1099,21 @@
 
 	#u37163
 	{
-		z-index: 418;
+		z-index: 417;
 		height: 397px;
-		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg");
+		background-image: url("../images/7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr.jpg");
 		width: 99.71%;
 	}
 
 	#u37163:hover
 	{
-		margin-right: 0px;
 		height: 397px;
 		width: 99.71%;
 	}
 
 	#u37153-4
 	{
-		z-index: 419;
+		z-index: 418;
 		min-height: 28px;
 		margin-top: 7px;
 		width: 99.86%;
@@ -1072,7 +1121,7 @@
 
 	#u37204
 	{
-		z-index: 417;
+		z-index: 416;
 		padding-bottom: 14.099999999999454px;
 		margin-top: 60px;
 		width: 67.15%;
@@ -1088,97 +1137,102 @@
 
 	#u37210-4
 	{
-		z-index: 447;
+		z-index: 446;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u37215-4
-	{
-		z-index: 451;
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#u36638-4:hover,#u36718-4:hover,#u37215-4:hover
-	{
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#ppu37220-4
-	{
-		margin-top: 13px;
-		width: 95.84%;
-		margin-left: 2.39%;
-	}
-
-	#pu37220-4
-	{
-		margin-top: 5px;
-		width: 70.48%;
-	}
-
-	#u37220-4
-	{
-		z-index: 518;
-		width: 100%;
-	}
-
-	#u36649-4:hover,#u36652-4:hover,#u36706-4:hover,#u36709-4:hover,#u37220-4:hover
-	{
-		width: 100%;
-	}
-
-	#u37225-4
-	{
-		z-index: 522;
-		margin-top: 18px;
-		width: 100%;
-	}
-
-	#u37225-4:hover
-	{
-		margin-top: 18px;
-		width: 100%;
-	}
-
 	#u37230-4
 	{
-		z-index: 526;
-		margin-top: 18px;
-		width: 100%;
-		margin-left: 0.12%;
+		z-index: 525;
+		margin-top: 14px;
+		width: 67.54%;
+		margin-left: 2.39%;
 	}
 
 	#u37230-4:hover
 	{
+		margin-top: 14px;
+		width: 67.54%;
+		margin-left: 2.39%;
+	}
+
+	#ppu37235-4
+	{
+		margin-top: 9px;
+		width: 95.84%;
+		margin-left: 2.39%;
+	}
+
+	#pu37235-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 9px;
+		width: 70.48%;
+	}
+
+	#u37235-4
+	{
+		z-index: 529;
+		width: 100%;
+	}
+
+	#u37235-4:hover
+	{
+		margin-bottom: 0px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u37215-4
+	{
+		z-index: 450;
+		margin-top: 14px;
+		width: 100%;
+	}
+
+	#u37215-4:hover
+	{
+		margin-top: 14px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u37220-4
+	{
+		z-index: 517;
 		margin-top: 18px;
 		width: 100%;
-		margin-left: 0.12%;
+	}
+
+	#u36706-4:hover,#u37220-4:hover
+	{
+		margin-top: 18px;
+		width: 100%;
 	}
 
 	#u37319
 	{
-		z-index: 455;
+		z-index: 454;
 		width: 27.36%;
 		left: 72.73%;
 	}
 
 	#u37277-4
 	{
-		z-index: 456;
+		z-index: 455;
 	}
 
 	#u37283-4
 	{
-		z-index: 460;
+		z-index: 459;
 		margin-top: 12px;
 	}
 
 	#u37301-4
 	{
-		z-index: 464;
+		z-index: 463;
 		margin-top: 11px;
 	}
 
@@ -1189,13 +1243,13 @@
 
 	#u37307-4
 	{
-		z-index: 468;
+		z-index: 467;
 		margin-top: 12px;
 	}
 
 	#u37313-4
 	{
-		z-index: 472;
+		z-index: 471;
 		margin-top: 12px;
 	}
 
@@ -1204,31 +1258,32 @@
 		margin-top: 12px;
 	}
 
-	#u37235-4
+	#u37225-4
 	{
-		z-index: 530;
+		z-index: 521;
 		top: -2px;
 		margin-bottom: -2px;
 		width: 67.54%;
-		margin-left: 2.46%;
+		margin-left: 2.39%;
 	}
 
-	#u37235-4:hover
+	#u36652-4:hover,#u37225-4:hover
 	{
 		margin-bottom: -2px;
+		margin-top: 0px;
 		width: 67.54%;
-		margin-left: 2.46%;
+		margin-left: 2.39%;
 	}
 
 	#u37240-4
 	{
-		z-index: 534;
+		z-index: 533;
 		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
 
-	#u37240-4:hover
+	#u36721-4:hover,#u37240-4:hover
 	{
 		margin-top: 10px;
 		width: 17.65%;
@@ -1237,7 +1292,7 @@
 
 	#u37178
 	{
-		z-index: 416;
+		z-index: 415;
 		padding-top: 30px;
 		padding-bottom: 38px;
 		margin-top: 62px;
@@ -1247,7 +1302,7 @@
 
 	#u37184
 	{
-		z-index: 554;
+		z-index: 553;
 		height: 545px;
 		background-image: url("../images/2014-07-15-10-39-33-pride-flag.jpg");
 		width: 95.84%;
@@ -1263,7 +1318,7 @@
 
 	#u37194-4
 	{
-		z-index: 427;
+		z-index: 426;
 		min-height: 27px;
 		margin-top: 7px;
 		width: 35.15%;
@@ -1280,7 +1335,7 @@
 
 	#u37189-4
 	{
-		z-index: 435;
+		z-index: 434;
 		min-height: 78px;
 		margin-top: 1px;
 		width: 95.91%;
@@ -1297,7 +1352,7 @@
 
 	#u37199-4
 	{
-		z-index: 443;
+		z-index: 442;
 		min-height: 60px;
 		width: 95.91%;
 		margin-left: 2.31%;
@@ -1305,7 +1360,7 @@
 
 	#u37251-4
 	{
-		z-index: 555;
+		z-index: 554;
 		margin-top: 46px;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -1318,21 +1373,21 @@
 
 	#u37267-4
 	{
-		z-index: 550;
+		z-index: 549;
 		width: 11.85%;
 		left: 32.7%;
 	}
 
 	#u37261-4
 	{
-		z-index: 546;
+		z-index: 545;
 		width: 11.85%;
 		left: 47.6%;
 	}
 
 	#u37255-4
 	{
-		z-index: 542;
+		z-index: 541;
 		width: 18.15%;
 		left: 62.45%;
 	}
@@ -1344,7 +1399,7 @@
 
 	#u37245-4
 	{
-		z-index: 538;
+		z-index: 537;
 		width: 11.85%;
 		left: 83.65%;
 	}

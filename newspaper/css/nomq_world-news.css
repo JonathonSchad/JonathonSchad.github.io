@@ -783,13 +783,15 @@
 	#u38395
 	{
 		z-index: 438;
-		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u38395-fr.jpg");
+		height: 405px;
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u38395-fr.jpg");
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
 
 	#u38395:hover
 	{
+		height: 405px;
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
@@ -892,10 +894,50 @@
 		left: 2.36%;
 	}
 
+	#u39671
+	{
+		z-index: 404;
+		width: 100%;
+	}
+
+	#u39672
+	{
+		z-index: 405;
+		padding-bottom: 21px;
+	}
+
+	#pu39675-4
+	{
+		padding-bottom: 0px;
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
+	}
+
+	#u39675-4
+	{
+		z-index: 407;
+	}
+
+	#u39676-4
+	{
+		z-index: 411;
+		margin-top: 19px;
+	}
+
+	#u39673
+	{
+		z-index: 406;
+		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
 	#u40166
 	{
 		z-index: 415;
-		width: 100%;
+		width: 67.17%;
+		margin-left: 31.17%;
 	}
 
 	#u40170
@@ -941,6 +983,13 @@
 	{
 		z-index: 372;
 		padding-bottom: 25px;
+	}
+
+	#pu38370-4
+	{
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
 	}
 
 	#u38370-4
@@ -1032,46 +1081,7 @@
 		left: 48.76%;
 	}
 
-	#u39671
-	{
-		z-index: 404;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u39672
-	{
-		z-index: 405;
-		padding-bottom: 5px;
-	}
-
-	#pu38370-4,#pu39675-4
-	{
-		margin-top: 40px;
-		width: 44.92%;
-		margin-left: 1.37%;
-	}
-
-	#u39675-4
-	{
-		z-index: 407;
-	}
-
-	#u39676-4
-	{
-		z-index: 411;
-		margin-top: 5px;
-	}
-
-	#u39673
-	{
-		z-index: 406;
-		background-image: url("../images/obamacastro-u39673-fr.png");
-		width: 49.51%;
-		left: 48.76%;
-	}
-
-	#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover,#u39673:hover
+	#u39673:hover,#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover
 	{
 		width: 49.51%;
 	}
@@ -1080,7 +1090,7 @@
 	{
 		z-index: 459;
 		width: 67.17%;
-		margin-left: 31.17%;
+		left: 31.17%;
 	}
 
 	#u52891
@@ -1096,21 +1106,21 @@
 	#u52893
 	{
 		z-index: 462;
-		height: 110px;
+		height: 176px;
 	}
 
 	#u52896-4
 	{
 		z-index: 463;
 		min-height: 37px;
-		margin-top: 61px;
+		margin-top: 123px;
 		width: 81.39%;
 		left: 2.36%;
 	}
 
 	#u52896-4:hover
 	{
-		margin-top: 61px;
+		margin-top: 123px;
 		min-height: 37px;
 		width: 81.39%;
 	}
@@ -1121,6 +1131,22 @@
 		margin-top: 9px;
 		width: 81.39%;
 		left: 2.36%;
+	}
+
+	#u63088-4
+	{
+		z-index: 471;
+		min-height: 37px;
+		margin-top: 70px;
+		width: 54.67%;
+		left: 32.67%;
+	}
+
+	#u63088-4:hover
+	{
+		margin-top: 70px;
+		min-height: 37px;
+		width: 54.67%;
 	}
 
 	#u814,#u814-bw

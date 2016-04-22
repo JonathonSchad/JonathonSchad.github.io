@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #F5879B;
+	color: #0000EA;
+	background-color: #7F0415;
 }
 
 .js body
@@ -453,23 +453,28 @@
 	z-index: 76;
 }
 
-#u36036-4:hover
-{
-	padding-bottom: 0px;
-	padding-top: 0px;
-	margin: 0px 0px 0px 0%;
-}
-
 #u36040-4
 {
+	font-weight: 800;
 	line-height: 55px;
 	font-family: open-sans, sans-serif;
 	background-color: transparent;
-	font-weight: 800;
 	width: 100%;
 	position: relative;
 	font-size: 46px;
 	z-index: 92;
+}
+
+#u36040-4:hover
+{
+	margin-bottom: 0px;
+	opacity: 0.5;
+	width: 100%;
+	filter: alpha(opacity=50);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	padding-bottom: 0px;
+	margin-left: 0%;
+	padding-top: 0px;
 }
 
 #u36044-4
@@ -486,11 +491,6 @@
 	font-size: 16px;
 }
 
-#pu36036-4,#pu36030
-{
-	margin-right: -10000px;
-}
-
 #u36030
 {
 	background-position: left top;
@@ -501,18 +501,6 @@
 	border-width: 1px;
 	border-color: #000000;
 	position: relative;
-	background-size: cover;
-}
-
-#u36030:hover
-{
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	background-position: left top;
-	filter: alpha(opacity=70);
-	min-height: 0px;
-	opacity: 0.7;
-	background-repeat: no-repeat;
-	margin: 0px 0px 0px 0%;
 	background-size: cover;
 }
 
@@ -650,6 +638,15 @@
 	position: relative;
 }
 
+#u36661-4:hover
+{
+	margin-right: 0px;
+	min-height: 42px;
+	background-color: #002C73;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
 #u36667
 {
 	background-color: #FFFFFF;
@@ -708,7 +705,7 @@
 	background-color: transparent;
 	text-align: justify;
 	line-height: 19px;
-	z-index: 121;
+	z-index: 120;
 	font-weight: 300;
 	position: relative;
 	font-size: 16px;
@@ -732,6 +729,15 @@
 	z-index: 84;
 }
 
+#u36629-4.MuseLinkActive,#u36697-4:hover
+{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+}
+
 #u36694-4
 {
 	line-height: 55px;
@@ -743,7 +749,7 @@
 	z-index: 100;
 }
 
-#u36691-5
+#u36691-4
 {
 	color: #323232;
 	font-family: open-sans, sans-serif;
@@ -768,23 +774,7 @@
 	border-width: 4px 0px 0px;
 }
 
-#ppu36706-4
-{
-	margin-top: 18px;
-}
-
-#u36652-4:hover,#u36709-4:hover
-{
-	opacity: 0.5;
-	padding-bottom: 0px;
-	filter: alpha(opacity=50);
-	min-height: 32px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	padding-top: 0px;
-	margin: 18px 0px 0px 0%;
-}
-
-#u36652-4,#u36655-4,#u36709-4,#u36715-4
+#u36709-4
 {
 	background-color: transparent;
 	line-height: 22px;
@@ -796,74 +786,36 @@
 	font-size: 18px;
 }
 
-#u36655-4:hover,#u36715-4:hover
+#u36709-4:hover
 {
-	margin-bottom: 0px;
 	opacity: 0.5;
 	padding-bottom: 0px;
-	margin-top: 18px;
 	filter: alpha(opacity=50);
 	min-height: 32px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	margin-right: 0px;
 	padding-top: 0px;
+	margin: 18px 0px 0px 0%;
 }
 
-#u37329
+#u36036-4:hover,#u37173-4:hover
 {
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 10px;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u36661-4,#u36721-4
-{
-	color: #7F7F7F;
-	font-family: open-sans, sans-serif;
-	border-radius: 10px;
-	background-color: #DBDBDB;
-	min-height: 42px;
-	text-align: center;
-	margin-top: 10px;
-	font-weight: 400;
-	position: relative;
-}
-
-#u36661-4:hover,#u36721-4:hover
-{
-	margin-bottom: 0px;
-	margin-right: 0px;
-	min-height: 42px;
-	background-color: #002C73;
-	margin-top: 10px;
 	padding-bottom: 0px;
 	padding-top: 0px;
-}
-
-#u36629-4.MuseLinkActive,#u36697-4:hover,#u37173-4:hover
-{
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	padding-top: 0px;
+	margin: 0px 0px 0px 0%;
 }
 
 #u37168-4
 {
-	background-color: transparent;
 	line-height: 55px;
 	font-family: open-sans, sans-serif;
+	background-color: transparent;
 	font-weight: 800;
 	width: 100%;
 	position: relative;
 	font-size: 46px;
 }
 
-#u36040-4:hover,#u36626-4:hover,#u37168-4:hover
+#u36626-4:hover,#u37168-4:hover
 {
 	margin-bottom: 0px;
 	opacity: 0.5;
@@ -889,6 +841,11 @@
 	font-size: 16px;
 }
 
+#pu36036-4,#pu36030,#pu37173-4,#pu37163
+{
+	margin-right: -10000px;
+}
+
 #u37163
 {
 	background-position: left top;
@@ -901,17 +858,15 @@
 	background-size: cover;
 }
 
-#u37163:hover
+#u36030:hover,#u37163:hover
 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	background-position: left top;
-	margin-left: 0%;
 	filter: alpha(opacity=70);
 	min-height: 0px;
-	margin-bottom: 0px;
 	opacity: 0.7;
-	margin-top: 0px;
 	background-repeat: no-repeat;
+	margin: 0px 0px 0px 0%;
 	background-size: cover;
 }
 
@@ -1045,62 +1000,31 @@
 	position: relative;
 }
 
-#u36638-4,#u36718-4,#u37215-4
-{
-	min-height: 32px;
-	line-height: 22px;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	margin-top: 10px;
-	font-weight: 700;
-	position: relative;
-	font-size: 18px;
-}
-
-#u36638-4:hover,#u36718-4:hover,#u37215-4:hover
-{
-	margin-bottom: 0px;
-	opacity: 0.5;
-	margin-right: 0px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	min-height: 32px;
-	margin-top: 10px;
-	padding-bottom: 0px;
-	padding-top: 0px;
-}
-
-#pu36649-4,#pu36706-4,#pu37220-4
-{
-	padding-bottom: 0px;
-	margin-right: -10000px;
-}
-
 #u36649-4:hover,#u36706-4:hover,#u37220-4:hover
 {
-	opacity: 0.5;
-	padding-bottom: 0px;
-	filter: alpha(opacity=50);
-	min-height: 32px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	padding-top: 0px;
-	margin: 0px 0px 0px 0%;
-}
-
-#u37225-4:hover
-{
 	margin-bottom: 0px;
 	opacity: 0.5;
-	padding-bottom: 0px;
+	margin-right: 0px;
 	filter: alpha(opacity=50);
 	min-height: 32px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	margin-right: 0px;
+	padding-bottom: 0px;
 	margin-left: 0%;
 	padding-top: 0px;
 }
 
-#u36712-4:hover,#u37230-4:hover
+#u36652-4:hover,#u36658-4:hover,#u37225-4:hover
+{
+	opacity: 0.5;
+	margin-right: 0px;
+	filter: alpha(opacity=50);
+	min-height: 32px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+#u36638-4:hover,#u36655-4:hover,#u36718-4:hover,#u36715-4:hover,#u36712-4:hover,#u37215-4:hover,#u37230-4:hover
 {
 	margin-bottom: 0px;
 	opacity: 0.5;
@@ -1112,7 +1036,7 @@
 	padding-top: 0px;
 }
 
-#u37360,#u37319
+#u37360,#u37329,#u37319
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -1157,18 +1081,18 @@
 	padding-top: 0px;
 }
 
-#u36649-4,#u36658-4,#u36706-4,#u36712-4,#u37220-4,#u37225-4,#u37230-4,#u37235-4
+#u36638-4,#u36649-4,#u36652-4,#u36655-4,#u36658-4,#u36718-4,#u36706-4,#u36715-4,#u36712-4,#u37215-4,#u37220-4,#u37225-4,#u37230-4,#u37235-4
 {
-	background-color: transparent;
+	min-height: 32px;
 	line-height: 22px;
 	font-family: open-sans, sans-serif;
-	min-height: 32px;
+	background-color: transparent;
 	font-weight: 700;
 	position: relative;
 	font-size: 18px;
 }
 
-#u36658-4:hover,#u37235-4:hover
+#u37235-4:hover
 {
 	opacity: 0.5;
 	margin-right: 0px;
@@ -1185,7 +1109,7 @@
 	font-size: 18px;
 }
 
-#u37240-4
+#u36661-4,#u36721-4,#u37240-4
 {
 	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
@@ -1197,7 +1121,7 @@
 	position: relative;
 }
 
-#u37240-4:hover
+#u36721-4:hover,#u37240-4:hover
 {
 	margin-bottom: 0px;
 	margin-right: 0px;
@@ -1497,7 +1421,7 @@ body
 
 	#slideshowu35875
 	{
-		z-index: 125;
+		z-index: 124;
 		width: 0.01px;
 		height: 441px;
 		position: fixed;
@@ -1515,12 +1439,12 @@ body
 
 	#u35902popup
 	{
-		z-index: 126;
+		z-index: 125;
 	}
 
 	#u35909
 	{
-		z-index: 127;
+		z-index: 126;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1532,7 +1456,7 @@ body
 
 	#u35905
 	{
-		z-index: 129;
+		z-index: 128;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1544,7 +1468,7 @@ body
 
 	#u35915
 	{
-		z-index: 131;
+		z-index: 130;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1556,7 +1480,7 @@ body
 
 	#u35911
 	{
-		z-index: 133;
+		z-index: 132;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1568,7 +1492,7 @@ body
 
 	#u35913
 	{
-		z-index: 135;
+		z-index: 134;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1580,7 +1504,7 @@ body
 
 	#u35903
 	{
-		z-index: 137;
+		z-index: 136;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1592,7 +1516,7 @@ body
 
 	#u35907
 	{
-		z-index: 139;
+		z-index: 138;
 		width: 440px;
 		height: 441px;
 		border-width: 0px;
@@ -1616,12 +1540,12 @@ body
 
 	#u35876popup
 	{
-		z-index: 141;
+		z-index: 140;
 	}
 
 	#u35877-22
 	{
-		z-index: 142;
+		z-index: 141;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1672,7 +1596,7 @@ body
 
 	#u35881-38
 	{
-		z-index: 164;
+		z-index: 163;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1709,7 +1633,7 @@ body
 
 	#u35883-23
 	{
-		z-index: 202;
+		z-index: 201;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1724,7 +1648,7 @@ body
 
 	#u35878-39
 	{
-		z-index: 225;
+		z-index: 224;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1739,7 +1663,7 @@ body
 
 	#u35882-22
 	{
-		z-index: 264;
+		z-index: 263;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1771,7 +1695,7 @@ body
 
 	#u35880-38
 	{
-		z-index: 286;
+		z-index: 285;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1812,7 +1736,7 @@ body
 
 	#u35879-22
 	{
-		z-index: 324;
+		z-index: 323;
 		width: 292px;
 		min-height: 421px;
 		border-width: 0px;
@@ -1893,7 +1817,7 @@ body
 
 	#u35917-4popup
 	{
-		z-index: 346;
+		z-index: 345;
 	}
 
 	#u35918-4
@@ -1916,7 +1840,7 @@ body
 
 	#u35918-4popup
 	{
-		z-index: 350;
+		z-index: 349;
 	}
 
 	#u35885-4
@@ -1939,7 +1863,7 @@ body
 
 	#u35885-4popup
 	{
-		z-index: 354;
+		z-index: 353;
 	}
 
 	.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -1954,23 +1878,23 @@ body
 
 	#u35530,#u35530-bw
 	{
-		z-index: 559;
+		z-index: 558;
 	}
 
 	#u35531-3,#u35531-3-bw
 	{
-		z-index: 560;
+		z-index: 559;
 	}
 
 	#menuu35532
 	{
-		z-index: 563;
+		z-index: 562;
 		width: 1097px;
 	}
 
 	#u35641,#u35641-bw
 	{
-		z-index: 606;
+		z-index: 605;
 	}
 
 	#u36027
@@ -1984,7 +1908,6 @@ body
 
 	#pu36036-4
 	{
-		padding-bottom: 0px;
 		margin-top: 12px;
 		width: 44.9%;
 		margin-left: 1.35%;
@@ -2010,6 +1933,7 @@ body
 
 	#u36040-4:hover
 	{
+		margin-right: 0px;
 		margin-top: 13px;
 		min-height: 132px;
 	}
@@ -2017,7 +1941,7 @@ body
 	#u36044-4
 	{
 		min-height: 123px;
-		margin-top: 31px;
+		margin-top: 32px;
 	}
 
 	#pu36030
@@ -2030,7 +1954,7 @@ body
 	#u36030
 	{
 		height: 359px;
-		background-image: url("../images/birds-bald-eagle-usa-flag-f1-celebration-independence-day-fireworks-photography-4th-july-photo-wide-screen-occasion-hd-pictures-u36030-fr.jpg");
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr.jpg");
 		width: 99.71%;
 	}
 
@@ -2136,100 +2060,140 @@ body
 
 	#u36635-4
 	{
-		z-index: 358;
+		z-index: 357;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u36638-4
-	{
-		z-index: 366;
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#ppu36649-4
-	{
-		margin-top: 18px;
-		width: 95.91%;
-		margin-left: 2.39%;
-	}
-
-	#u36649-4
-	{
-		z-index: 374;
-		width: 100%;
-	}
-
-	#u36652-4
-	{
-		z-index: 382;
-		width: 100%;
-	}
-
-	#u36655-4
-	{
-		z-index: 390;
-		width: 100%;
-		margin-left: 0.12%;
-	}
-
-	#u37360
-	{
-		z-index: 497;
-		margin-top: 7px;
-		width: 27.33%;
-		left: 72.68%;
-	}
-
-	#u37364-4
-	{
-		z-index: 498;
-	}
-
-	#u37362-4
-	{
-		z-index: 502;
-		margin-top: 12px;
-	}
-
-	#u37365-4
-	{
-		z-index: 506;
-		margin-top: 11px;
-	}
-
-	#u37361-4
-	{
-		z-index: 510;
-		margin-top: 12px;
-	}
-
-	#u37363-4
-	{
-		z-index: 514;
-		margin-top: 12px;
-	}
-
 	#u36658-4
 	{
-		z-index: 398;
-		top: -1px;
-		margin-bottom: -1px;
+		z-index: 397;
+		margin-top: 20px;
 		width: 67.54%;
 		margin-left: 2.46%;
 	}
 
 	#u36658-4:hover
 	{
-		margin-bottom: -1px;
+		margin-bottom: 0px;
+		margin-top: 20px;
 		width: 67.54%;
 		margin-left: 2.46%;
 	}
 
+	#ppu36655-4
+	{
+		margin-top: 15px;
+		width: 95.91%;
+		margin-left: 2.39%;
+	}
+
+	#pu36655-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 4px;
+		width: 70.5%;
+	}
+
+	#u36655-4
+	{
+		z-index: 389;
+		width: 99.89%;
+		margin-left: 0.12%;
+	}
+
+	#u36655-4:hover
+	{
+		margin-top: 0px;
+		width: 99.89%;
+		margin-left: 0.12%;
+	}
+
+	#u36638-4
+	{
+		z-index: 365;
+		margin-top: 19px;
+		width: 99.89%;
+	}
+
+	#u36638-4:hover
+	{
+		margin-top: 19px;
+		width: 99.89%;
+		margin-left: 0%;
+	}
+
+	#u36649-4
+	{
+		z-index: 373;
+		margin-top: 18px;
+		width: 99.89%;
+	}
+
+	#u36649-4:hover
+	{
+		margin-top: 18px;
+		width: 99.89%;
+	}
+
+	#u37360
+	{
+		z-index: 496;
+		width: 27.33%;
+		left: 72.68%;
+	}
+
+	#u37364-4
+	{
+		z-index: 497;
+	}
+
+	#u37362-4
+	{
+		z-index: 501;
+		margin-top: 12px;
+	}
+
+	#u37365-4
+	{
+		z-index: 505;
+		margin-top: 11px;
+	}
+
+	#u37361-4
+	{
+		z-index: 509;
+		margin-top: 12px;
+	}
+
+	#u37363-4
+	{
+		z-index: 513;
+		margin-top: 12px;
+	}
+
+	#u36652-4
+	{
+		z-index: 381;
+		top: -2px;
+		margin-bottom: -2px;
+		width: 67.54%;
+		margin-left: 2.39%;
+	}
+
 	#u36661-4
 	{
-		z-index: 406;
+		z-index: 405;
+		margin-top: 10px;
+		width: 17.65%;
+		margin-left: 4.92%;
+	}
+
+	#u36661-4:hover
+	{
+		margin-bottom: 0px;
+		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
@@ -2245,7 +2209,7 @@ body
 
 	#u36670
 	{
-		z-index: 414;
+		z-index: 413;
 		height: 565px;
 		width: 95.84%;
 		margin-left: 2.31%;
@@ -2298,7 +2262,7 @@ body
 	#u36682
 	{
 		padding-top: 12px;
-		padding-bottom: 24.20453730887533px;
+		padding-bottom: 71.27996309962964px;
 		margin-top: 62px;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -2334,9 +2298,9 @@ body
 		margin-left: 1.35%;
 	}
 
-	#u36691-5
+	#u36691-4
 	{
-		min-height: 107px;
+		min-height: 60px;
 		margin-top: 42px;
 		width: 96.95%;
 		margin-left: 1.35%;
@@ -2351,121 +2315,134 @@ body
 
 	#u36700-4
 	{
-		z-index: 362;
+		z-index: 361;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u36718-4
+	#u36712-4
 	{
-		z-index: 370;
+		z-index: 401;
+		margin-top: 34px;
 		width: 67.54%;
-		margin-left: 2.39%;
+		margin-left: 2.46%;
 	}
 
-	#ppu36706-4
+	#u36712-4:hover
 	{
+		margin-top: 34px;
+		width: 67.54%;
+		margin-left: 2.46%;
+	}
+
+	#ppu36718-4
+	{
+		margin-top: 4px;
 		width: 95.91%;
 		margin-left: 2.39%;
 	}
 
-	#pu36649-4,#pu36706-4
+	#pu36718-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 14px;
 		width: 70.42%;
+	}
+
+	#u36718-4
+	{
+		z-index: 369;
+		width: 100%;
+	}
+
+	#u36718-4:hover
+	{
+		margin-top: 0px;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u36706-4
 	{
-		z-index: 378;
+		z-index: 377;
+		margin-top: 18px;
 		width: 100%;
 	}
 
 	#u36709-4
 	{
-		z-index: 386;
+		z-index: 385;
 		width: 100%;
 	}
 
-	#u36715-4
-	{
-		z-index: 394;
-		width: 100%;
-		margin-left: 0.12%;
-	}
-
-	#u36655-4:hover,#u36715-4:hover
+	#u36709-4:hover
 	{
 		width: 100%;
-		margin-left: 0.12%;
 	}
 
 	#u37329
 	{
-		z-index: 476;
+		z-index: 475;
 		width: 27.33%;
 		left: 72.68%;
 	}
 
 	#u37334-4
 	{
-		z-index: 477;
+		z-index: 476;
 	}
 
 	#u37333-4
 	{
-		z-index: 481;
+		z-index: 480;
 		margin-top: 12px;
 	}
 
 	#u37330-4
 	{
-		z-index: 485;
+		z-index: 484;
 		margin-top: 11px;
 	}
 
 	#u37332-4
 	{
-		z-index: 489;
+		z-index: 488;
 		margin-top: 12px;
 	}
 
 	#u37331-4
 	{
-		z-index: 493;
+		z-index: 492;
 		margin-top: 12px;
 	}
 
-	#u36712-4
+	#u36715-4
 	{
-		z-index: 402;
-		margin-top: 8px;
+		z-index: 393;
+		margin-top: 7px;
 		width: 67.54%;
-		margin-left: 2.61%;
+		margin-left: 2.46%;
 	}
 
-	#u36712-4:hover
+	#u36715-4:hover
 	{
-		margin-top: 8px;
+		margin-top: 7px;
 		width: 67.54%;
-		margin-left: 2.61%;
+		margin-left: 2.46%;
 	}
 
 	#u36721-4
 	{
-		z-index: 410;
-		width: 17.65%;
-		margin-left: 4.92%;
-	}
-
-	#u36661-4:hover,#u36721-4:hover
-	{
+		z-index: 409;
+		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
 
 	#u37147
 	{
-		z-index: 415;
+		z-index: 414;
 		padding-bottom: 55px;
 		margin-top: 62px;
 		width: 67.15%;
@@ -2474,7 +2451,6 @@ body
 
 	#pu37173-4
 	{
-		margin-right: -10000px;
 		margin-top: 13px;
 		width: 44.9%;
 		margin-left: 1.35%;
@@ -2482,7 +2458,7 @@ body
 
 	#u37173-4
 	{
-		z-index: 423;
+		z-index: 422;
 		min-height: 31px;
 		width: 78.28%;
 	}
@@ -2491,12 +2467,11 @@ body
 	{
 		min-height: 31px;
 		width: 78.28%;
-		margin-left: 0%;
 	}
 
 	#u37168-4
 	{
-		z-index: 431;
+		z-index: 430;
 		min-height: 185px;
 		margin-top: 14px;
 	}
@@ -2509,14 +2484,13 @@ body
 
 	#u37158-4
 	{
-		z-index: 439;
+		z-index: 438;
 		min-height: 101px;
 		margin-top: 28px;
 	}
 
 	#pu37163
 	{
-		margin-right: -10000px;
 		margin-top: 35px;
 		width: 49.74%;
 		margin-left: 48.78%;
@@ -2524,22 +2498,21 @@ body
 
 	#u37163
 	{
-		z-index: 418;
+		z-index: 417;
 		height: 397px;
-		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg");
+		background-image: url("../images/7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr.jpg");
 		width: 99.71%;
 	}
 
 	#u37163:hover
 	{
-		margin-right: 0px;
 		height: 397px;
 		width: 99.71%;
 	}
 
 	#u37153-4
 	{
-		z-index: 419;
+		z-index: 418;
 		min-height: 28px;
 		margin-top: 7px;
 		width: 99.86%;
@@ -2547,7 +2520,7 @@ body
 
 	#u37204
 	{
-		z-index: 417;
+		z-index: 416;
 		padding-bottom: 14.099999999999454px;
 		margin-top: 60px;
 		width: 67.15%;
@@ -2563,97 +2536,102 @@ body
 
 	#u37210-4
 	{
-		z-index: 447;
+		z-index: 446;
 		width: 35%;
 		margin-left: 2.39%;
 	}
 
-	#u37215-4
-	{
-		z-index: 451;
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#u36638-4:hover,#u36718-4:hover,#u37215-4:hover
-	{
-		width: 67.54%;
-		margin-left: 2.39%;
-	}
-
-	#ppu37220-4
-	{
-		margin-top: 13px;
-		width: 95.84%;
-		margin-left: 2.39%;
-	}
-
-	#pu37220-4
-	{
-		margin-top: 5px;
-		width: 70.48%;
-	}
-
-	#u37220-4
-	{
-		z-index: 518;
-		width: 100%;
-	}
-
-	#u36649-4:hover,#u36652-4:hover,#u36706-4:hover,#u36709-4:hover,#u37220-4:hover
-	{
-		width: 100%;
-	}
-
-	#u37225-4
-	{
-		z-index: 522;
-		margin-top: 18px;
-		width: 100%;
-	}
-
-	#u37225-4:hover
-	{
-		margin-top: 18px;
-		width: 100%;
-	}
-
 	#u37230-4
 	{
-		z-index: 526;
-		margin-top: 18px;
-		width: 100%;
-		margin-left: 0.12%;
+		z-index: 525;
+		margin-top: 14px;
+		width: 67.54%;
+		margin-left: 2.39%;
 	}
 
 	#u37230-4:hover
 	{
+		margin-top: 14px;
+		width: 67.54%;
+		margin-left: 2.39%;
+	}
+
+	#ppu37235-4
+	{
+		margin-top: 9px;
+		width: 95.84%;
+		margin-left: 2.39%;
+	}
+
+	#pu37235-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 9px;
+		width: 70.48%;
+	}
+
+	#u37235-4
+	{
+		z-index: 529;
+		width: 100%;
+	}
+
+	#u37235-4:hover
+	{
+		margin-bottom: 0px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u37215-4
+	{
+		z-index: 450;
+		margin-top: 14px;
+		width: 100%;
+	}
+
+	#u37215-4:hover
+	{
+		margin-top: 14px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u37220-4
+	{
+		z-index: 517;
 		margin-top: 18px;
 		width: 100%;
-		margin-left: 0.12%;
+	}
+
+	#u36706-4:hover,#u37220-4:hover
+	{
+		margin-top: 18px;
+		width: 100%;
 	}
 
 	#u37319
 	{
-		z-index: 455;
+		z-index: 454;
 		width: 27.36%;
 		left: 72.73%;
 	}
 
 	#u37277-4
 	{
-		z-index: 456;
+		z-index: 455;
 	}
 
 	#u37283-4
 	{
-		z-index: 460;
+		z-index: 459;
 		margin-top: 12px;
 	}
 
 	#u37301-4
 	{
-		z-index: 464;
+		z-index: 463;
 		margin-top: 11px;
 	}
 
@@ -2664,13 +2642,13 @@ body
 
 	#u37307-4
 	{
-		z-index: 468;
+		z-index: 467;
 		margin-top: 12px;
 	}
 
 	#u37313-4
 	{
-		z-index: 472;
+		z-index: 471;
 		margin-top: 12px;
 	}
 
@@ -2679,31 +2657,32 @@ body
 		margin-top: 12px;
 	}
 
-	#u37235-4
+	#u37225-4
 	{
-		z-index: 530;
+		z-index: 521;
 		top: -2px;
 		margin-bottom: -2px;
 		width: 67.54%;
-		margin-left: 2.46%;
+		margin-left: 2.39%;
 	}
 
-	#u37235-4:hover
+	#u36652-4:hover,#u37225-4:hover
 	{
 		margin-bottom: -2px;
+		margin-top: 0px;
 		width: 67.54%;
-		margin-left: 2.46%;
+		margin-left: 2.39%;
 	}
 
 	#u37240-4
 	{
-		z-index: 534;
+		z-index: 533;
 		margin-top: 10px;
 		width: 17.65%;
 		margin-left: 4.92%;
 	}
 
-	#u37240-4:hover
+	#u36721-4:hover,#u37240-4:hover
 	{
 		margin-top: 10px;
 		width: 17.65%;
@@ -2712,7 +2691,7 @@ body
 
 	#u37178
 	{
-		z-index: 416;
+		z-index: 415;
 		padding-top: 30px;
 		padding-bottom: 38px;
 		margin-top: 62px;
@@ -2722,7 +2701,7 @@ body
 
 	#u37184
 	{
-		z-index: 554;
+		z-index: 553;
 		height: 545px;
 		background-image: url("../images/2014-07-15-10-39-33-pride-flag.jpg");
 		width: 95.84%;
@@ -2738,7 +2717,7 @@ body
 
 	#u37194-4
 	{
-		z-index: 427;
+		z-index: 426;
 		min-height: 27px;
 		margin-top: 7px;
 		width: 35.15%;
@@ -2755,7 +2734,7 @@ body
 
 	#u37189-4
 	{
-		z-index: 435;
+		z-index: 434;
 		min-height: 78px;
 		margin-top: 1px;
 		width: 95.91%;
@@ -2772,7 +2751,7 @@ body
 
 	#u37199-4
 	{
-		z-index: 443;
+		z-index: 442;
 		min-height: 60px;
 		width: 95.91%;
 		margin-left: 2.31%;
@@ -2780,7 +2759,7 @@ body
 
 	#u37251-4
 	{
-		z-index: 555;
+		z-index: 554;
 		margin-top: 46px;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -2793,21 +2772,21 @@ body
 
 	#u37267-4
 	{
-		z-index: 550;
+		z-index: 549;
 		width: 11.85%;
 		left: 32.7%;
 	}
 
 	#u37261-4
 	{
-		z-index: 546;
+		z-index: 545;
 		width: 11.85%;
 		left: 47.6%;
 	}
 
 	#u37255-4
 	{
-		z-index: 542;
+		z-index: 541;
 		width: 18.15%;
 		left: 62.45%;
 	}
@@ -2819,7 +2798,7 @@ body
 
 	#u37245-4
 	{
-		z-index: 538;
+		z-index: 537;
 		width: 11.85%;
 		left: 83.65%;
 	}
@@ -2878,7 +2857,7 @@ body
 
 	#slideshowu35875
 	{
-		z-index: 125;
+		z-index: 124;
 		width: 0.01px;
 		height: 389px;
 		position: fixed;
@@ -2896,12 +2875,12 @@ body
 
 	#u35902popup
 	{
-		z-index: 126;
+		z-index: 125;
 	}
 
 	#u35909
 	{
-		z-index: 127;
+		z-index: 126;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2913,7 +2892,7 @@ body
 
 	#u35905
 	{
-		z-index: 129;
+		z-index: 128;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2925,7 +2904,7 @@ body
 
 	#u35915
 	{
-		z-index: 131;
+		z-index: 130;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2937,7 +2916,7 @@ body
 
 	#u35911
 	{
-		z-index: 133;
+		z-index: 132;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2949,7 +2928,7 @@ body
 
 	#u35913
 	{
-		z-index: 135;
+		z-index: 134;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2961,7 +2940,7 @@ body
 
 	#u35903
 	{
-		z-index: 137;
+		z-index: 136;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2973,7 +2952,7 @@ body
 
 	#u35907
 	{
-		z-index: 139;
+		z-index: 138;
 		width: 344px;
 		height: 389px;
 		border-width: 0px;
@@ -2997,12 +2976,12 @@ body
 
 	#u35876popup
 	{
-		z-index: 141;
+		z-index: 140;
 	}
 
 	#u35877-22
 	{
-		z-index: 142;
+		z-index: 141;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3053,7 +3032,7 @@ body
 
 	#u35881-38
 	{
-		z-index: 164;
+		z-index: 163;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3090,7 +3069,7 @@ body
 
 	#u35883-23
 	{
-		z-index: 202;
+		z-index: 201;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3105,7 +3084,7 @@ body
 
 	#u35878-39
 	{
-		z-index: 225;
+		z-index: 224;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3120,7 +3099,7 @@ body
 
 	#u35882-22
 	{
-		z-index: 264;
+		z-index: 263;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3152,7 +3131,7 @@ body
 
 	#u35880-38
 	{
-		z-index: 286;
+		z-index: 285;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3193,7 +3172,7 @@ body
 
 	#u35879-22
 	{
-		z-index: 324;
+		z-index: 323;
 		width: 198px;
 		min-height: 369px;
 		border-width: 0px;
@@ -3274,7 +3253,7 @@ body
 
 	#u35917-4popup
 	{
-		z-index: 346;
+		z-index: 345;
 	}
 
 	#u35918-4
@@ -3297,7 +3276,7 @@ body
 
 	#u35918-4popup
 	{
-		z-index: 350;
+		z-index: 349;
 	}
 
 	#u35885-4
@@ -3320,7 +3299,7 @@ body
 
 	#u35885-4popup
 	{
-		z-index: 354;
+		z-index: 353;
 	}
 
 	.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -3335,39 +3314,32 @@ body
 
 	#u35530,#u35530-bw
 	{
-		z-index: 559;
+		z-index: 558;
 	}
 
 	#u35531-3,#u35531-3-bw
 	{
-		z-index: 560;
+		z-index: 559;
 	}
 
 	#menuu35532
 	{
-		z-index: 563;
+		z-index: 562;
 		width: 658px;
 	}
 
 	#u35641,#u35641-bw
 	{
-		z-index: 606;
+		z-index: 605;
 	}
 
 	#u36027
 	{
-		padding-bottom: 14px;
+		padding-bottom: 9px;
 		top: -369px;
 		margin-bottom: -337px;
 		width: 67.15%;
 		margin-left: 31.15%;
-	}
-
-	#pu36036-4
-	{
-		margin-top: 9px;
-		width: 44.9%;
-		margin-left: 1.39%;
 	}
 
 	#u36036-4
@@ -3376,48 +3348,36 @@ body
 		width: 78.2%;
 	}
 
-	#u36036-4:hover
+	#pu36040-4
 	{
-		min-height: 21px;
-		width: 78.2%;
+		margin-top: 10px;
+		width: 100%;
 	}
 
 	#u36040-4
 	{
 		min-height: 88px;
-		margin-top: 10px;
+		margin-right: -10000px;
 	}
 
 	#u36040-4:hover
 	{
-		margin-top: 10px;
+		margin-right: -10000px;
+		margin-top: 0px;
 		min-height: 88px;
 	}
 
 	#u36044-4
 	{
 		min-height: 93px;
-		margin-top: 14px;
-	}
-
-	#pu36030
-	{
-		padding-bottom: 0px;
-		margin-top: 24px;
-		width: 49.79%;
-		margin-left: 48.83%;
+		margin-right: -10000px;
+		margin-top: 124px;
 	}
 
 	#u36030
 	{
 		height: 272px;
-		background-image: url("../images/birds-bald-eagle-usa-flag-f1-celebration-independence-day-fireworks-photography-4th-july-photo-wide-screen-occasion-hd-pictures-u36030-fr2.jpg");
-		width: 99.58%;
-	}
-
-	#u36030:hover
-	{
-		height: 272px;
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr2.jpg");
 		width: 99.58%;
 	}
 
@@ -3446,6 +3406,13 @@ body
 		margin-left: 1.39%;
 	}
 
+	#ppu36626-4
+	{
+		margin-top: -6px;
+		width: 97.13%;
+		margin-left: 1.39%;
+	}
+
 	#pu36626-4
 	{
 		padding-bottom: 0px;
@@ -3456,6 +3423,12 @@ body
 
 	#u36626-4
 	{
+		min-height: 88px;
+	}
+
+	#u36626-4:hover
+	{
+		margin-top: 0px;
 		min-height: 88px;
 	}
 
@@ -3502,47 +3475,43 @@ body
 
 	#u36635-4
 	{
-		z-index: 358;
+		z-index: 357;
 		width: 35%;
 		margin-left: 2.45%;
 	}
 
 	#u36638-4
 	{
-		z-index: 366;
+		z-index: 365;
+		margin-top: 10px;
 		width: 67.56%;
-		margin-left: 2.45%;
-	}
-
-	#ppu36649-4
-	{
-		margin-top: 18px;
-		width: 95.86%;
 		margin-left: 2.45%;
 	}
 
 	#u36649-4
 	{
-		z-index: 374;
+		z-index: 373;
 		width: 100%;
 	}
 
 	#u36652-4
 	{
-		z-index: 382;
+		z-index: 381;
+		margin-top: 18px;
 		width: 100%;
 	}
 
 	#u36655-4
 	{
-		z-index: 390;
+		z-index: 389;
+		margin-top: 18px;
 		width: 100%;
 		margin-left: 0.16%;
 	}
 
 	#u37360
 	{
-		z-index: 497;
+		z-index: 496;
 		margin-top: 7px;
 		width: 27.31%;
 		left: 72.7%;
@@ -3550,36 +3519,36 @@ body
 
 	#u37364-4
 	{
-		z-index: 498;
+		z-index: 497;
 	}
 
 	#u37362-4
 	{
-		z-index: 502;
+		z-index: 501;
 		margin-top: 12px;
 	}
 
 	#u37365-4
 	{
-		z-index: 506;
+		z-index: 505;
 		margin-top: 11px;
 	}
 
 	#u37361-4
 	{
-		z-index: 510;
+		z-index: 509;
 		margin-top: 12px;
 	}
 
 	#u37363-4
 	{
-		z-index: 514;
+		z-index: 513;
 		margin-top: 12px;
 	}
 
 	#u36658-4
 	{
-		z-index: 398;
+		z-index: 397;
 		top: -1px;
 		margin-bottom: -1px;
 		width: 67.56%;
@@ -3589,13 +3558,23 @@ body
 	#u36658-4:hover
 	{
 		margin-bottom: -1px;
+		margin-top: 0px;
 		width: 67.56%;
 		margin-left: 2.45%;
 	}
 
 	#u36661-4
 	{
-		z-index: 406;
+		z-index: 405;
+		margin-top: 10px;
+		width: 17.66%;
+		margin-left: 4.9%;
+	}
+
+	#u36661-4:hover
+	{
+		margin-bottom: 0px;
+		margin-top: 10px;
 		width: 17.66%;
 		margin-left: 4.9%;
 	}
@@ -3611,7 +3590,7 @@ body
 
 	#u36670
 	{
-		z-index: 414;
+		z-index: 413;
 		height: 418px;
 		width: 95.86%;
 		margin-left: 2.35%;
@@ -3649,13 +3628,20 @@ body
 	#u36682
 	{
 		padding-top: 9px;
-		padding-bottom: 8.099999999999682px;
+		padding-bottom: 22.09999999999968px;
 		margin-top: 40px;
 		width: 67.15%;
 		margin-left: 31.15%;
 	}
 
 	#u36629-4.MuseLinkActive,#u36697-4
+	{
+		min-height: 21px;
+		width: 35.11%;
+		margin-left: 1.39%;
+	}
+
+	#u36697-4:hover
 	{
 		min-height: 21px;
 		width: 35.11%;
@@ -3678,10 +3664,10 @@ body
 		margin-left: 1.39%;
 	}
 
-	#u36691-5
+	#u36691-4
 	{
 		min-height: 81px;
-		margin-top: 22px;
+		margin-top: 44px;
 		width: 96.92%;
 		margin-left: 1.39%;
 	}
@@ -3702,93 +3688,98 @@ body
 
 	#u36700-4
 	{
-		z-index: 362;
+		z-index: 361;
 		width: 35%;
 		margin-left: 2.45%;
 	}
 
 	#u36718-4
 	{
-		z-index: 370;
+		z-index: 369;
+		margin-top: 10px;
 		width: 67.56%;
 		margin-left: 2.45%;
 	}
 
-	#ppu36706-4
+	#ppu36649-4,#ppu36706-4
 	{
+		margin-top: 18px;
 		width: 95.86%;
 		margin-left: 2.45%;
 	}
 
 	#pu36649-4,#pu36706-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
 		width: 70.48%;
 	}
 
 	#u36706-4
 	{
-		z-index: 378;
+		z-index: 377;
 		width: 100%;
 	}
 
 	#u36709-4
 	{
-		z-index: 386;
+		z-index: 385;
+		width: 100%;
+	}
+
+	#u36709-4:hover
+	{
 		width: 100%;
 	}
 
 	#u36715-4
 	{
-		z-index: 394;
-		width: 100%;
-		margin-left: 0.16%;
-	}
-
-	#u36655-4:hover,#u36715-4:hover
-	{
+		z-index: 393;
+		margin-top: 18px;
 		width: 100%;
 		margin-left: 0.16%;
 	}
 
 	#u37329
 	{
-		z-index: 476;
+		z-index: 475;
+		margin-top: 10px;
 		width: 27.31%;
 		left: 72.7%;
 	}
 
 	#u37334-4
 	{
-		z-index: 477;
+		z-index: 476;
 	}
 
 	#u37333-4
 	{
-		z-index: 481;
+		z-index: 480;
 		margin-top: 12px;
 	}
 
 	#u37330-4
 	{
-		z-index: 485;
+		z-index: 484;
 		margin-top: 11px;
 	}
 
 	#u37332-4
 	{
-		z-index: 489;
+		z-index: 488;
 		margin-top: 12px;
 	}
 
 	#u37331-4
 	{
-		z-index: 493;
+		z-index: 492;
 		margin-top: 12px;
 	}
 
 	#u36712-4
 	{
-		z-index: 402;
+		z-index: 401;
 		margin-top: 8px;
 		width: 67.56%;
 		margin-left: 2.56%;
@@ -3803,105 +3794,94 @@ body
 
 	#u36721-4
 	{
-		z-index: 410;
-		width: 17.66%;
-		margin-left: 4.9%;
-	}
-
-	#u36661-4:hover,#u36721-4:hover
-	{
+		z-index: 409;
+		margin-top: 10px;
 		width: 17.66%;
 		margin-left: 4.9%;
 	}
 
 	#u37147
 	{
-		z-index: 415;
-		padding-top: 9px;
-		padding-bottom: 38.149999999999636px;
+		z-index: 414;
+		padding-bottom: 32px;
 		margin-top: 40px;
 		width: 67.15%;
 		margin-left: 31.15%;
 	}
 
+	#pu36036-4,#pu37173-4
+	{
+		margin-top: 9px;
+		width: 44.9%;
+		margin-left: 1.39%;
+	}
+
 	#u37173-4
 	{
-		z-index: 423;
+		z-index: 422;
 		min-height: 21px;
-		width: 35.11%;
-		margin-left: 1.39%;
+		width: 78.2%;
 	}
 
-	#u36697-4:hover,#u37173-4:hover
+	#u36036-4:hover,#u37173-4:hover
 	{
 		min-height: 21px;
-		width: 35.11%;
-		margin-left: 1.39%;
-	}
-
-	#ppu36626-4,#ppu37168-4
-	{
-		margin-top: -6px;
-		width: 97.13%;
-		margin-left: 1.39%;
-	}
-
-	#pu37168-4
-	{
-		margin-right: -10000px;
-		margin-top: 16px;
-		width: 46.23%;
+		width: 78.2%;
 	}
 
 	#u37168-4
 	{
-		z-index: 431;
+		z-index: 430;
 		min-height: 88px;
+		margin-top: 10px;
 	}
 
-	#u36626-4:hover,#u37168-4:hover
+	#u37168-4:hover
 	{
-		margin-top: 0px;
+		margin-top: 10px;
 		min-height: 88px;
 	}
 
 	#u37158-4
 	{
-		z-index: 439;
+		z-index: 438;
 		min-height: 69px;
 		margin-top: 9px;
 	}
 
-	#u37163
+	#pu36030,#pu37163
 	{
-		z-index: 418;
-		height: 272px;
-		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg");
-		margin-right: -10000px;
-		width: 51.05%;
-		left: 48.85%;
+		padding-bottom: 0px;
+		margin-top: 24px;
+		width: 49.79%;
+		margin-left: 48.83%;
 	}
 
-	#u37163:hover
+	#u37163
 	{
-		margin-right: -10000px;
+		z-index: 417;
 		height: 272px;
-		width: 51.05%;
+		background-image: url("../images/7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr2.jpg");
+		width: 99.58%;
+	}
+
+	#u36030:hover,#u37163:hover
+	{
+		height: 272px;
+		width: 99.58%;
 	}
 
 	#u37153-4
 	{
-		z-index: 419;
+		z-index: 418;
 		min-height: 19px;
-		top: -6px;
-		margin-bottom: -6px;
-		width: 49.69%;
-		margin-left: 48.83%;
+		margin-top: 5px;
+		width: 99.79%;
 	}
 
 	#u37204
 	{
-		z-index: 417;
+		z-index: 416;
 		padding-bottom: 14.099999999999909px;
 		margin-top: 39px;
 		width: 67.15%;
@@ -3917,20 +3897,22 @@ body
 
 	#u37210-4
 	{
-		z-index: 447;
+		z-index: 446;
 		width: 35%;
 		margin-left: 2.45%;
 	}
 
 	#u37215-4
 	{
-		z-index: 451;
+		z-index: 450;
+		margin-top: 10px;
 		width: 67.56%;
 		margin-left: 2.45%;
 	}
 
 	#u36638-4:hover,#u36718-4:hover,#u37215-4:hover
 	{
+		margin-top: 10px;
 		width: 67.56%;
 		margin-left: 2.45%;
 	}
@@ -3944,43 +3926,48 @@ body
 
 	#pu37220-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 5px;
 		width: 70.48%;
 	}
 
 	#u37220-4
 	{
-		z-index: 518;
+		z-index: 517;
 		width: 100%;
 	}
 
-	#u36649-4:hover,#u36652-4:hover,#u36706-4:hover,#u36709-4:hover,#u37220-4:hover
+	#u36649-4:hover,#u36706-4:hover,#u37220-4:hover
 	{
+		margin-top: 0px;
 		width: 100%;
 	}
 
 	#u37225-4
 	{
-		z-index: 522;
+		z-index: 521;
 		margin-top: 18px;
 		width: 100%;
 	}
 
-	#u37225-4:hover
+	#u36652-4:hover,#u37225-4:hover
 	{
+		margin-bottom: 0px;
 		margin-top: 18px;
 		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u37230-4
 	{
-		z-index: 526;
+		z-index: 525;
 		margin-top: 18px;
 		width: 100%;
 		margin-left: 0.16%;
 	}
 
-	#u37230-4:hover
+	#u36655-4:hover,#u36715-4:hover,#u37230-4:hover
 	{
 		margin-top: 18px;
 		width: 100%;
@@ -3989,25 +3976,25 @@ body
 
 	#u37319
 	{
-		z-index: 455;
+		z-index: 454;
 		width: 27.31%;
 		left: 72.7%;
 	}
 
 	#u37277-4
 	{
-		z-index: 456;
+		z-index: 455;
 	}
 
 	#u37283-4
 	{
-		z-index: 460;
+		z-index: 459;
 		margin-top: 12px;
 	}
 
 	#u37301-4
 	{
-		z-index: 464;
+		z-index: 463;
 		margin-top: 11px;
 	}
 
@@ -4018,13 +4005,13 @@ body
 
 	#u37307-4
 	{
-		z-index: 468;
+		z-index: 467;
 		margin-top: 12px;
 	}
 
 	#u37313-4
 	{
-		z-index: 472;
+		z-index: 471;
 		margin-top: 12px;
 	}
 
@@ -4035,7 +4022,7 @@ body
 
 	#u37235-4
 	{
-		z-index: 530;
+		z-index: 529;
 		top: -2px;
 		margin-bottom: -2px;
 		width: 67.56%;
@@ -4051,13 +4038,13 @@ body
 
 	#u37240-4
 	{
-		z-index: 534;
+		z-index: 533;
 		margin-top: 10px;
 		width: 17.66%;
 		margin-left: 4.9%;
 	}
 
-	#u37240-4:hover
+	#u36721-4:hover,#u37240-4:hover
 	{
 		margin-top: 10px;
 		width: 17.66%;
@@ -4066,7 +4053,7 @@ body
 
 	#u37178
 	{
-		z-index: 416;
+		z-index: 415;
 		padding-top: 23px;
 		padding-bottom: 15px;
 		margin-top: 39px;
@@ -4076,7 +4063,7 @@ body
 
 	#u37184
 	{
-		z-index: 554;
+		z-index: 553;
 		height: 418px;
 		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u37184-fr.jpg");
 		width: 95.86%;
@@ -4092,7 +4079,7 @@ body
 
 	#u37194-4
 	{
-		z-index: 427;
+		z-index: 426;
 		min-height: 21px;
 		margin-top: 5px;
 		width: 35.11%;
@@ -4109,7 +4096,7 @@ body
 
 	#u37189-4
 	{
-		z-index: 435;
+		z-index: 434;
 		min-height: 60px;
 		width: 95.96%;
 		margin-left: 2.35%;
@@ -4125,7 +4112,7 @@ body
 
 	#u37199-4
 	{
-		z-index: 443;
+		z-index: 442;
 		min-height: 46px;
 		width: 95.96%;
 		margin-left: 2.35%;
@@ -4133,7 +4120,7 @@ body
 
 	#u37251-4
 	{
-		z-index: 555;
+		z-index: 554;
 		margin-top: 52px;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -4146,21 +4133,21 @@ body
 
 	#u37267-4
 	{
-		z-index: 550;
+		z-index: 549;
 		width: 11.86%;
 		left: 32.72%;
 	}
 
 	#u37261-4
 	{
-		z-index: 546;
+		z-index: 545;
 		width: 11.86%;
 		left: 47.58%;
 	}
 
 	#u37255-4
 	{
-		z-index: 542;
+		z-index: 541;
 		width: 18.15%;
 		left: 62.43%;
 	}
@@ -4172,7 +4159,7 @@ body
 
 	#u37245-4
 	{
-		z-index: 538;
+		z-index: 537;
 		width: 11.86%;
 		left: 83.65%;
 	}
@@ -4231,28 +4218,28 @@ body
 
 	#u35530,#u35530-bw
 	{
-		z-index: 326;
+		z-index: 325;
 	}
 
 	#u35531-3,#u35531-3-bw
 	{
-		z-index: 327;
+		z-index: 326;
 	}
 
 	#menuu35532
 	{
-		z-index: 330;
+		z-index: 329;
 		width: 658px;
 	}
 
 	#u35641,#u35641-bw
 	{
-		z-index: 373;
+		z-index: 372;
 	}
 
 	#u36027
 	{
-		padding-bottom: 14px;
+		padding-bottom: 9px;
 		margin-top: 20px;
 		width: 87.32%;
 		margin-left: 6.35%;
@@ -4260,7 +4247,6 @@ body
 
 	#pu36036-4
 	{
-		padding-bottom: 0px;
 		margin-top: 14px;
 		width: 44.82%;
 		margin-left: 2.29%;
@@ -4272,35 +4258,36 @@ body
 		width: 60.19%;
 	}
 
+	#pu36040-4
+	{
+		margin-top: 6px;
+		width: 100%;
+	}
+
 	#u36040-4
 	{
 		min-height: 88px;
-		margin-top: 6px;
+		margin-right: -10000px;
 	}
 
 	#u36040-4:hover
 	{
-		margin-top: 6px;
+		margin-right: -10000px;
+		margin-top: 0px;
 		min-height: 88px;
 	}
 
 	#u36044-4
 	{
 		min-height: 150px;
-		margin-top: 16px;
-	}
-
-	#pu36030
-	{
-		margin-top: 24px;
-		width: 46.69%;
-		margin-left: 49.07%;
+		margin-right: -10000px;
+		margin-top: 127px;
 	}
 
 	#u36030
 	{
 		height: 303px;
-		background-image: url("../images/birds-bald-eagle-usa-flag-f1-celebration-independence-day-fireworks-photography-4th-july-photo-wide-screen-occasion-hd-pictures-u36030-fr3.jpg");
+		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr3.jpg");
 		width: 99.56%;
 	}
 
@@ -4341,6 +4328,13 @@ body
 		width: 60.19%;
 	}
 
+	#u36629-4.MuseLinkActive
+	{
+		min-height: 21px;
+		width: 60.19%;
+		margin-left: 0%;
+	}
+
 	#u36626-4
 	{
 		min-height: 88px;
@@ -4351,6 +4345,14 @@ body
 	{
 		min-height: 91px;
 		margin-top: 29px;
+	}
+
+	#pu36620
+	{
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 46.69%;
+		margin-left: 49.07%;
 	}
 
 	#u36620
@@ -4387,20 +4389,22 @@ body
 
 	#u36635-4
 	{
-		z-index: 125;
+		z-index: 124;
 		width: 26.87%;
 		margin-left: 2.29%;
 	}
 
 	#u36638-4
 	{
-		z-index: 133;
+		z-index: 132;
+		margin-top: 10px;
 		width: 51.87%;
 		margin-left: 2.29%;
 	}
 
 	#u36638-4:hover
 	{
+		margin-top: 10px;
 		width: 51.87%;
 		margin-left: 2.29%;
 	}
@@ -4414,31 +4418,43 @@ body
 
 	#pu36649-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 14px;
 		width: 56.23%;
 	}
 
 	#u36649-4
 	{
-		z-index: 141;
+		z-index: 140;
 		width: 99.81%;
 	}
 
 	#u36652-4
 	{
-		z-index: 149;
+		z-index: 148;
+		margin-top: 18px;
 		width: 99.81%;
+	}
+
+	#u36652-4:hover
+	{
+		margin-bottom: 0px;
+		margin-top: 18px;
+		width: 99.81%;
+		margin-left: 0%;
 	}
 
 	#u36655-4
 	{
-		z-index: 157;
+		z-index: 156;
+		margin-top: 18px;
 		width: 99.81%;
 	}
 
 	#u37360
 	{
-		z-index: 264;
+		z-index: 263;
 		padding-bottom: 0px;
 		width: 29.3%;
 		left: 70.82%;
@@ -4446,36 +4462,36 @@ body
 
 	#u37364-4
 	{
-		z-index: 265;
+		z-index: 264;
 	}
 
 	#u37362-4
 	{
-		z-index: 269;
+		z-index: 268;
 		margin-top: 17px;
 	}
 
 	#u37365-4
 	{
-		z-index: 273;
+		z-index: 272;
 		margin-top: 16px;
 	}
 
 	#u37361-4
 	{
-		z-index: 277;
+		z-index: 276;
 		margin-top: 17px;
 	}
 
 	#u37363-4
 	{
-		z-index: 281;
+		z-index: 280;
 		margin-top: 16px;
 	}
 
 	#u36658-4
 	{
-		z-index: 165;
+		z-index: 164;
 		width: 51.87%;
 		margin-left: 2.39%;
 	}
@@ -4483,19 +4499,24 @@ body
 	#u36658-4:hover
 	{
 		margin-bottom: 0px;
+		margin-top: 0px;
 		width: 51.87%;
 		margin-left: 2.39%;
 	}
 
 	#u36661-4
 	{
-		z-index: 173;
+		z-index: 172;
+		top: -2px;
+		margin-bottom: -2px;
 		width: 17.02%;
 		margin-left: 3.95%;
 	}
 
 	#u36661-4:hover
 	{
+		margin-bottom: -2px;
+		margin-top: 0px;
 		width: 17.02%;
 		margin-left: 3.95%;
 	}
@@ -4511,7 +4532,7 @@ body
 
 	#u36670
 	{
-		z-index: 181;
+		z-index: 180;
 		height: 418px;
 		width: 92.12%;
 		margin-left: 3.95%;
@@ -4550,7 +4571,7 @@ body
 	#u36682
 	{
 		padding-top: 5px;
-		padding-bottom: 32px;
+		padding-bottom: 46px;
 		margin-top: 40px;
 		width: 87.32%;
 		margin-left: 6.35%;
@@ -4586,10 +4607,10 @@ body
 		margin-left: 3.95%;
 	}
 
-	#u36691-5
+	#u36691-4
 	{
 		min-height: 81px;
-		margin-top: 23px;
+		margin-top: 45px;
 		width: 92.22%;
 		margin-left: 3.95%;
 	}
@@ -4603,88 +4624,98 @@ body
 
 	#u36700-4
 	{
-		z-index: 129;
+		z-index: 128;
 		width: 26.87%;
 		margin-left: 1.87%;
 	}
 
 	#u36718-4
 	{
-		z-index: 137;
+		z-index: 136;
+		margin-top: 10px;
 		width: 51.87%;
 		margin-left: 1.87%;
 	}
 
 	#ppu36706-4
 	{
+		margin-top: 18px;
 		width: 92.95%;
 		margin-left: 1.87%;
 	}
 
 	#u36706-4
 	{
-		z-index: 145;
+		z-index: 144;
 		width: 99.81%;
 	}
 
 	#u36709-4
 	{
-		z-index: 153;
+		z-index: 152;
+		width: 99.81%;
+	}
+
+	#u36709-4:hover
+	{
 		width: 99.81%;
 	}
 
 	#u36715-4
 	{
-		z-index: 161;
+		z-index: 160;
+		margin-top: 18px;
 		width: 99.81%;
 	}
 
 	#u36655-4:hover,#u36715-4:hover
 	{
+		margin-top: 18px;
 		width: 99.81%;
 		margin-left: 0%;
 	}
 
 	#u37329
 	{
-		z-index: 243;
+		z-index: 242;
 		padding-bottom: 0px;
+		margin-top: 10px;
 		width: 29.13%;
 		left: 70.88%;
 	}
 
 	#u37334-4
 	{
-		z-index: 244;
+		z-index: 243;
 	}
 
 	#u37333-4
 	{
-		z-index: 248;
+		z-index: 247;
 		margin-top: 17px;
 	}
 
 	#u37330-4
 	{
-		z-index: 252;
+		z-index: 251;
 		margin-top: 16px;
 	}
 
 	#u37332-4
 	{
-		z-index: 256;
+		z-index: 255;
 		margin-top: 17px;
 	}
 
 	#u37331-4
 	{
-		z-index: 260;
+		z-index: 259;
 		margin-top: 16px;
 	}
 
 	#u36712-4
 	{
-		z-index: 169;
+		z-index: 168;
 		width: 51.87%;
 		margin-left: 1.87%;
 	}
@@ -4698,20 +4729,22 @@ body
 
 	#u36721-4
 	{
-		z-index: 177;
+		z-index: 176;
+		margin-top: 22px;
 		width: 16.08%;
 		margin-left: 3.74%;
 	}
 
 	#u36721-4:hover
 	{
+		margin-top: 22px;
 		width: 16.08%;
 		margin-left: 3.74%;
 	}
 
 	#u37147
 	{
-		z-index: 182;
+		z-index: 181;
 		padding-bottom: 19px;
 		margin-top: 40px;
 		width: 87.32%;
@@ -4720,7 +4753,6 @@ body
 
 	#pu37173-4
 	{
-		margin-right: -10000px;
 		margin-top: 11px;
 		width: 44.82%;
 		margin-left: 2.29%;
@@ -4728,21 +4760,20 @@ body
 
 	#u37173-4
 	{
-		z-index: 190;
+		z-index: 189;
 		min-height: 21px;
 		width: 60.19%;
 	}
 
-	#u36629-4.MuseLinkActive,#u37173-4:hover
+	#u37173-4:hover
 	{
 		min-height: 21px;
 		width: 60.19%;
-		margin-left: 0%;
 	}
 
 	#u37168-4
 	{
-		z-index: 198;
+		z-index: 197;
 		min-height: 88px;
 		margin-top: 8px;
 	}
@@ -4755,14 +4786,13 @@ body
 
 	#u37158-4
 	{
-		z-index: 206;
+		z-index: 205;
 		min-height: 129px;
 		margin-top: 8px;
 	}
 
-	#pu36620,#pu37163
+	#pu36030,#pu37163
 	{
-		margin-right: -10000px;
 		margin-top: 24px;
 		width: 46.69%;
 		margin-left: 49.07%;
@@ -4770,22 +4800,21 @@ body
 
 	#u37163
 	{
-		z-index: 185;
+		z-index: 184;
 		height: 293px;
-		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u37163-fr.jpg");
+		background-image: url("../images/7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr3.jpg");
 		width: 99.56%;
 	}
 
 	#u37163:hover
 	{
-		margin-right: 0px;
 		height: 293px;
 		width: 99.56%;
 	}
 
 	#u37153-4
 	{
-		z-index: 186;
+		z-index: 185;
 		min-height: 19px;
 		margin-top: 14px;
 		width: 99.78%;
@@ -4793,7 +4822,7 @@ body
 
 	#u37178
 	{
-		z-index: 183;
+		z-index: 182;
 		padding-top: 23px;
 		padding-bottom: 39px;
 		margin-top: 40px;
@@ -4803,7 +4832,7 @@ body
 
 	#u37184
 	{
-		z-index: 321;
+		z-index: 320;
 		height: 418px;
 		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u37184-fr2.jpg");
 		width: 92.12%;
@@ -4819,7 +4848,7 @@ body
 
 	#u37194-4
 	{
-		z-index: 194;
+		z-index: 193;
 		min-height: 21px;
 		margin-top: 5px;
 		width: 26.98%;
@@ -4836,7 +4865,7 @@ body
 
 	#u37189-4
 	{
-		z-index: 202;
+		z-index: 201;
 		min-height: 60px;
 		width: 92.22%;
 		margin-left: 3.95%;
@@ -4852,7 +4881,7 @@ body
 
 	#u37199-4
 	{
-		z-index: 210;
+		z-index: 209;
 		min-height: 46px;
 		margin-top: 19px;
 		width: 92.22%;
@@ -4861,7 +4890,7 @@ body
 
 	#u37204
 	{
-		z-index: 184;
+		z-index: 183;
 		padding-bottom: 15px;
 		margin-top: 38px;
 		width: 87.32%;
@@ -4877,20 +4906,22 @@ body
 
 	#u37210-4
 	{
-		z-index: 214;
+		z-index: 213;
 		width: 26.87%;
 		margin-left: 1.87%;
 	}
 
 	#u37215-4
 	{
-		z-index: 218;
+		z-index: 217;
+		margin-top: 10px;
 		width: 51.87%;
 		margin-left: 1.87%;
 	}
 
 	#u36718-4:hover,#u37215-4:hover
 	{
+		margin-top: 10px;
 		width: 51.87%;
 		margin-left: 1.87%;
 	}
@@ -4904,36 +4935,41 @@ body
 
 	#pu36706-4,#pu37220-4
 	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
 		width: 55.92%;
 	}
 
 	#u37220-4
 	{
-		z-index: 285;
+		z-index: 284;
 		width: 99.81%;
 	}
 
-	#u36649-4:hover,#u36652-4:hover,#u36706-4:hover,#u36709-4:hover,#u37220-4:hover
+	#u36649-4:hover,#u36706-4:hover,#u37220-4:hover
 	{
+		margin-top: 0px;
 		width: 99.81%;
 	}
 
 	#u37225-4
 	{
-		z-index: 289;
+		z-index: 288;
 		margin-top: 30px;
 		width: 99.81%;
 	}
 
 	#u37225-4:hover
 	{
+		margin-bottom: 0px;
 		margin-top: 30px;
 		width: 99.81%;
+		margin-left: 0%;
 	}
 
 	#u37230-4
 	{
-		z-index: 293;
+		z-index: 292;
 		margin-top: 30px;
 		width: 99.81%;
 	}
@@ -4947,7 +4983,7 @@ body
 
 	#u37319
 	{
-		z-index: 222;
+		z-index: 221;
 		padding-bottom: 0px;
 		margin-top: 10px;
 		width: 29.13%;
@@ -4956,24 +4992,24 @@ body
 
 	#u37277-4
 	{
-		z-index: 223;
+		z-index: 222;
 	}
 
 	#u37283-4
 	{
-		z-index: 227;
+		z-index: 226;
 		margin-top: 17px;
 	}
 
 	#u37301-4
 	{
-		z-index: 231;
+		z-index: 230;
 		margin-top: 16px;
 	}
 
 	#u37307-4
 	{
-		z-index: 235;
+		z-index: 234;
 		margin-top: 17px;
 	}
 
@@ -4984,7 +5020,7 @@ body
 
 	#u37313-4
 	{
-		z-index: 239;
+		z-index: 238;
 		margin-top: 16px;
 	}
 
@@ -4995,7 +5031,7 @@ body
 
 	#u37235-4
 	{
-		z-index: 297;
+		z-index: 296;
 		width: 51.87%;
 		margin-left: 1.87%;
 	}
@@ -5009,7 +5045,7 @@ body
 
 	#u37240-4
 	{
-		z-index: 301;
+		z-index: 300;
 		margin-top: 21px;
 		width: 16.08%;
 		margin-left: 1.87%;
@@ -5024,7 +5060,7 @@ body
 
 	#u37251-4
 	{
-		z-index: 322;
+		z-index: 321;
 		margin-top: 111px;
 		width: 23.1%;
 		margin-left: 38.41%;
@@ -5037,21 +5073,21 @@ body
 
 	#u37267-4
 	{
-		z-index: 317;
+		z-index: 316;
 		width: 14.04%;
 		left: 6.35%;
 	}
 
 	#u37261-4
 	{
-		z-index: 313;
+		z-index: 312;
 		width: 14.04%;
 		left: 28.18%;
 	}
 
 	#u37255-4
 	{
-		z-index: 309;
+		z-index: 308;
 		width: 21.47%;
 		left: 49.46%;
 	}
@@ -5063,7 +5099,7 @@ body
 
 	#u37245-4
 	{
-		z-index: 305;
+		z-index: 304;
 		width: 14.04%;
 		left: 78.18%;
 	}

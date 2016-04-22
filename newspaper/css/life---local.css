@@ -1,7 +1,7 @@
 .version.life___local /* version checker */
 {
-	color: #0000E6;
-	background-color: #AA24E8;
+	color: #00001F;
+	background-color: #B2A7DE;
 }
 
 .js body
@@ -16,12 +16,11 @@
 
 #page
 {
-	padding-bottom: 0px;
+	margin-right: auto;
 	width: 100%;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	margin-right: auto;
 	background-image: none;
 	margin-left: auto;
 	z-index: 1;
@@ -68,12 +67,14 @@
 
 #u41904
 {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: transparent;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
 	height: 418px;
 	position: relative;
-	background: transparent url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -98,6 +99,7 @@
 	line-height: 50px;
 	font-family: open-sans, sans-serif;
 	background-color: transparent;
+	margin-top: 26px;
 	font-weight: 800;
 	position: relative;
 	font-size: 42px;
@@ -107,22 +109,26 @@
 {
 	margin-bottom: 0px;
 	opacity: 0.5;
+	margin-right: 0px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	min-height: 60px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	margin-top: 26px;
 	padding-bottom: 0px;
 	padding-top: 0px;
 }
 
 #u41903-4
 {
-	min-height: 46px;
-	font-weight: 300;
+	color: #323232;
 	font-family: open-sans, sans-serif;
 	background-color: transparent;
-	color: #7F7F7F;
-	position: relative;
 	text-align: justify;
+	min-height: 46px;
+	line-height: 19px;
+	font-weight: 300;
+	position: relative;
+	font-size: 16px;
 }
 
 #u41879-4
@@ -218,69 +224,88 @@
 	font-size: 42px;
 }
 
-#u41906,#u41910,#u42259,#u42262
+#u42299,#u41892
 {
-	width: 100%;
-	border-width: 0px;
-	border-color: transparent;
+	background-position: center center;
+	background-repeat: no-repeat;
 	background-color: transparent;
 	margin-right: -10000px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	height: 272px;
+	margin-top: 24px;
 	position: relative;
+	background-size: cover;
 }
 
-#u41911,#u42263
+#u42299:hover,#u41892:hover
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	background-position: center center;
+	filter: alpha(opacity=70);
+	min-height: 0px;
+	opacity: 0.7;
+	height: 272px;
+	background-repeat: no-repeat;
+	margin: 24px -10000px 0px 0%;
+	background-size: cover;
+}
+
+#u42302,#u41880,#u41885,#u41889,#u41895,#u41900
 {
 	width: 100%;
-	background-color: #DBDBDB;
+	background-color: #FFFFFF;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u41909-4,#u41908-4,#u41907-4,#u42264-4,#u42261-4,#u42260-4
+#pu42300-4,#pu41879-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4
 {
-	color: #7F7F7F;
+	margin-top: 40px;
+	margin-right: -10000px;
+}
+
+#u42300-4,#u41884-4,#u41899-4
+{
+	background-color: transparent;
+	line-height: 36px;
 	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	margin-right: -10000px;
-	line-height: 22px;
-	font-weight: 700;
+	min-height: 88px;
+	font-weight: 800;
+	width: 100%;
 	position: relative;
-	font-size: 18px;
+	font-size: 30px;
 }
 
-#u41909-4:hover,#u41908-4:hover,#u41907-4:hover,#u42264-4:hover,#u42261-4:hover,#u42260-4:hover
+#u42300-4:hover,#u41879-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover,#u41899-4:hover
 {
-	margin-bottom: 0px;
 	opacity: 0.5;
-	margin-right: -10000px;
-	filter: alpha(opacity=50);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	padding-bottom: 0px;
-	margin-left: 0%;
+	width: 100%;
+	filter: alpha(opacity=50);
+	min-height: 88px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	padding-top: 0px;
+	margin: 0px 0px 0px 0%;
 }
 
-#u41909-4:hover p,#u41908-4:hover p,#u41907-4:hover p,#u42264-4:hover p,#u42261-4:hover p,#u42260-4:hover p
+#u41902-4:hover p,#u42300-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p,#u41899-4:hover p
 {
 	visibility: inherit;
-	color: #002C73;
+	color: #EDA900;
 }
 
-#u42249-4,#u42258-4
+#u42301-4,#u41878-4,#u41882-4,#u41890-4,#u41894-4,#u41898-4
 {
-	background-color: transparent;
-	margin-right: -10000px;
-	line-height: 22px;
+	min-height: 69px;
+	width: 100%;
 	font-family: open-sans, sans-serif;
-	min-height: 37px;
+	background-color: transparent;
 	font-weight: 300;
+	color: #323232;
 	position: relative;
-	font-size: 18px;
-}
-
-#u42249,#u42258
-{
-	font-size: 18px;
+	text-align: justify;
 }
 
 #u41897
@@ -308,7 +333,7 @@
 	background-size: cover;
 }
 
-#u41901,#u42253,#u41876,#u41881,#u41886,#u41891,#u42257,#u41896,#u42298
+#u41901,#u42253,#u42298,#u41876,#u41881,#u41886,#u41891,#u42257,#u41896,#u63501
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -316,88 +341,69 @@
 	position: relative;
 }
 
-#u41880,#u41885,#u41889,#u41895,#u41900,#u42302
+#u41906,#u41910,#u42259,#u42262,#u63503,#u63505
 {
 	width: 100%;
-	background-color: #FFFFFF;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#pu41879-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4,#pu42300-4
-{
-	margin-top: 40px;
-	margin-right: -10000px;
-}
-
-#u41884-4,#u41899-4,#u42300-4
-{
+	border-width: 0px;
+	border-color: transparent;
 	background-color: transparent;
-	line-height: 36px;
-	font-family: open-sans, sans-serif;
-	min-height: 88px;
-	font-weight: 800;
-	width: 100%;
+	margin-right: -10000px;
 	position: relative;
-	font-size: 30px;
 }
 
-#u41879-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover,#u41899-4:hover,#u42300-4:hover
+#u41911,#u42263,#u63506
 {
-	opacity: 0.5;
-	padding-bottom: 0px;
 	width: 100%;
-	filter: alpha(opacity=50);
-	min-height: 88px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	padding-top: 0px;
-	margin: 0px 0px 0px 0%;
+	background-color: #DBDBDB;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u41902-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p,#u41899-4:hover p,#u42300-4:hover p
+#u41909-4,#u41908-4,#u41907-4,#u42264-4,#u42261-4,#u42260-4,#u63504-4,#u63507-3,#u63508-3
+{
+	color: #7F7F7F;
+	font-family: open-sans, sans-serif;
+	background-color: transparent;
+	margin-right: -10000px;
+	line-height: 22px;
+	font-weight: 700;
+	position: relative;
+	font-size: 18px;
+}
+
+#u41909-4:hover,#u41908-4:hover,#u41907-4:hover,#u42264-4:hover,#u42261-4:hover,#u42260-4:hover,#u63504-4:hover,#u63507-3:hover,#u63508-3:hover
+{
+	margin-bottom: 0px;
+	opacity: 0.5;
+	margin-right: -10000px;
+	filter: alpha(opacity=50);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	padding-bottom: 0px;
+	margin-left: 0%;
+	padding-top: 0px;
+}
+
+#u41909-4:hover p,#u41908-4:hover p,#u41907-4:hover p,#u42264-4:hover p,#u42261-4:hover p,#u42260-4:hover p,#u63504-4:hover p,#u63507-3:hover p,#u63508-3:hover p
 {
 	visibility: inherit;
-	color: #EDA900;
+	color: #002C73;
 }
 
-#u41878-4,#u41882-4,#u41890-4,#u41894-4,#u41898-4,#u42301-4
+#u42249-4,#u42258-4,#u63502-4
 {
-	min-height: 69px;
-	width: 100%;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	font-weight: 300;
-	color: #7F7F7F;
-	position: relative;
-	text-align: justify;
-}
-
-#u41892,#u42299
-{
-	background-position: center center;
-	background-repeat: no-repeat;
 	background-color: transparent;
 	margin-right: -10000px;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	height: 272px;
-	margin-top: 24px;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	min-height: 37px;
+	font-weight: 300;
 	position: relative;
-	background-size: cover;
+	font-size: 18px;
 }
 
-#u41892:hover,#u42299:hover
+#u42249,#u42258,#u63502
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	background-position: center center;
-	filter: alpha(opacity=70);
-	min-height: 0px;
-	opacity: 0.7;
-	height: 272px;
-	background-repeat: no-repeat;
-	margin: 24px -10000px 0px 0%;
-	background-size: cover;
+	font-size: 18px;
 }
 
 #u814,#u814-bw
@@ -514,7 +520,7 @@
 
 	#page
 	{
-		min-height: 584.9250000000006px;
+		min-height: 585px;
 		max-width: 1200px;
 	}
 
@@ -1287,6 +1293,7 @@
 	#u41904
 	{
 		z-index: 447;
+		background-image: url("../images/orange-wonder-tulip-u41904-fr.jpg");
 		width: 95.79%;
 		margin-left: 2.36%;
 	}
@@ -1300,15 +1307,12 @@
 	#u41902-4
 	{
 		z-index: 439;
-		margin-top: 26px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
 
 	#u41902-4:hover
 	{
-		margin-right: 0px;
-		margin-top: 26px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -1316,6 +1320,7 @@
 	#u41903-4
 	{
 		z-index: 443;
+		margin-top: 40px;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -1401,6 +1406,8 @@
 	#u41876
 	{
 		z-index: 371;
+		margin-right: -10000px;
+		margin-top: 296px;
 		width: 100%;
 	}
 
@@ -1425,6 +1432,38 @@
 	{
 		z-index: 373;
 		background-image: url("../images/tuitionfreeze-u41877-fr.jpg");
+		width: 49.51%;
+		left: 48.76%;
+	}
+
+	#u42298
+	{
+		z-index: 426;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u42302
+	{
+		z-index: 427;
+		padding-bottom: 21px;
+	}
+
+	#u42300-4
+	{
+		z-index: 429;
+	}
+
+	#u42301-4
+	{
+		z-index: 433;
+		margin-top: 12px;
+	}
+
+	#u42299
+	{
+		z-index: 428;
+		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr.jpg");
 		width: 49.51%;
 		left: 48.76%;
 	}
@@ -1532,6 +1571,11 @@
 		left: 48.76%;
 	}
 
+	#u41877:hover,#u42299:hover,#u41883:hover,#u41892:hover
+	{
+		width: 49.51%;
+	}
+
 	#u42257
 	{
 		z-index: 468;
@@ -1564,13 +1608,6 @@
 		left: 2.36%;
 	}
 
-	#u42264-4:hover
-	{
-		margin-top: 73px;
-		min-height: 39px;
-		width: 96.03%;
-	}
-
 	#u42261-4
 	{
 		z-index: 476;
@@ -1580,13 +1617,6 @@
 		left: 2.36%;
 	}
 
-	#u42261-4:hover
-	{
-		margin-top: 121px;
-		min-height: 46px;
-		width: 96.53%;
-	}
-
 	#u42260-4
 	{
 		z-index: 480;
@@ -1594,13 +1624,6 @@
 		margin-top: 175px;
 		width: 96.03%;
 		left: 2.36%;
-	}
-
-	#u42260-4:hover
-	{
-		margin-top: 175px;
-		min-height: 39px;
-		width: 96.03%;
 	}
 
 	#u42258-4
@@ -1622,6 +1645,12 @@
 	{
 		z-index: 416;
 		padding-bottom: 21px;
+	}
+
+	#pu41879-4,#pu42300-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4
+	{
+		width: 44.92%;
+		margin-left: 1.37%;
 	}
 
 	#u41899-4
@@ -1651,47 +1680,83 @@
 		width: 49.51%;
 	}
 
-	#u42298
+	#u63501
 	{
-		z-index: 426;
+		z-index: 488;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
 
-	#u42302
+	#u63503
 	{
-		z-index: 427;
-		padding-bottom: 21px;
+		z-index: 489;
 	}
 
-	#pu41879-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4,#pu42300-4
+	#u63505
 	{
-		width: 44.92%;
-		margin-left: 1.37%;
+		z-index: 490;
 	}
 
-	#u42300-4
+	#u63506
 	{
-		z-index: 429;
+		z-index: 491;
+		height: 221px;
 	}
 
-	#u42301-4
+	#u63504-4
 	{
-		z-index: 433;
-		margin-top: 6px;
+		z-index: 492;
+		min-height: 39px;
+		margin-top: 73px;
+		width: 96.03%;
+		left: 2.36%;
 	}
 
-	#u42299
+	#u42264-4:hover,#u63504-4:hover
 	{
-		z-index: 428;
-		background-image: url("../images/img_0549-u42299-fr.jpg");
-		width: 49.51%;
-		left: 48.76%;
+		margin-top: 73px;
+		min-height: 39px;
+		width: 96.03%;
 	}
 
-	#u41877:hover,#u41883:hover,#u41892:hover,#u42299:hover
+	#u63507-3
 	{
-		width: 49.51%;
+		z-index: 496;
+		min-height: 46px;
+		margin-top: 121px;
+		width: 96.53%;
+		left: 2.36%;
+	}
+
+	#u42261-4:hover,#u63507-3:hover
+	{
+		margin-top: 121px;
+		min-height: 46px;
+		width: 96.53%;
+	}
+
+	#u63508-3
+	{
+		z-index: 499;
+		min-height: 39px;
+		margin-top: 175px;
+		width: 96.03%;
+		left: 2.36%;
+	}
+
+	#u42260-4:hover,#u63508-3:hover
+	{
+		margin-top: 175px;
+		min-height: 39px;
+		width: 96.03%;
+	}
+
+	#u63502-4
+	{
+		z-index: 502;
+		margin-top: 15px;
+		width: 96.53%;
+		left: 2.36%;
 	}
 
 	#u814,#u814-bw
@@ -1750,7 +1815,7 @@
 		z-index: 106;
 	}
 
-	#u24131_img
+	#pu41876,#u24131_img
 	{
 		width: 100%;
 	}
@@ -1771,7 +1836,8 @@
 
 	#page
 	{
-		min-height: 584.8250000000007px;
+		min-height: 584.6999999999998px;
+		padding-bottom: 0px;
 		max-width: 1120px;
 	}
 
@@ -2246,6 +2312,7 @@
 	#u41904
 	{
 		z-index: 189;
+		background-image: url("../images/orange-wonder-tulip.jpg");
 		width: 95.84%;
 		margin-left: 2.32%;
 	}
@@ -2259,15 +2326,12 @@
 	#u41902-4
 	{
 		z-index: 181;
-		margin-top: 26px;
 		width: 95.93%;
 		margin-left: 2.32%;
 	}
 
 	#u41902-4:hover
 	{
-		margin-right: 0px;
-		margin-top: 26px;
 		width: 95.93%;
 		margin-left: 2.32%;
 	}
@@ -2335,6 +2399,38 @@
 		margin-top: 9px;
 		width: 96.03%;
 		left: 1.21%;
+	}
+
+	#u42298
+	{
+		z-index: 168;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u42302
+	{
+		z-index: 169;
+		padding-bottom: 41px;
+	}
+
+	#u42300-4
+	{
+		z-index: 171;
+	}
+
+	#u42301-4
+	{
+		z-index: 175;
+		margin-top: 48px;
+	}
+
+	#u42299
+	{
+		z-index: 170;
+		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg");
+		width: 49.59%;
+		left: 48.85%;
 	}
 
 	#u41876
@@ -2479,6 +2575,11 @@
 		left: 48.85%;
 	}
 
+	#u42299:hover,#u41877:hover,#u41883:hover,#u41892:hover
+	{
+		width: 49.59%;
+	}
+
 	#u42257
 	{
 		z-index: 210;
@@ -2511,13 +2612,6 @@
 		left: 1.39%;
 	}
 
-	#u41909-4:hover,#u42264-4:hover
-	{
-		margin-top: 75px;
-		min-height: 35px;
-		width: 96.03%;
-	}
-
 	#u42261-4
 	{
 		z-index: 218;
@@ -2527,13 +2621,6 @@
 		left: 1.39%;
 	}
 
-	#u41908-4:hover,#u42261-4:hover
-	{
-		margin-top: 144px;
-		min-height: 34px;
-		width: 96.03%;
-	}
-
 	#u42260-4
 	{
 		z-index: 222;
@@ -2541,13 +2628,6 @@
 		margin-top: 212px;
 		width: 96.03%;
 		left: 1.39%;
-	}
-
-	#u41907-4:hover,#u42260-4:hover
-	{
-		margin-top: 212px;
-		min-height: 42px;
-		width: 96.03%;
 	}
 
 	#u42258-4
@@ -2569,6 +2649,12 @@
 	{
 		z-index: 158;
 		padding-bottom: 12px;
+	}
+
+	#pu42300-4,#pu41879-4,#pu41884-4,#pu41893-4,#pu41899-4
+	{
+		width: 44.96%;
+		margin-left: 1.39%;
 	}
 
 	#u41899-4
@@ -2598,47 +2684,83 @@
 		width: 34.97%;
 	}
 
-	#u42298
+	#u63501
 	{
-		z-index: 168;
+		z-index: 230;
 		width: 96.52%;
-		margin-left: 1.79%;
+		margin-left: 1.88%;
 	}
 
-	#u42302
+	#u63503
 	{
-		z-index: 169;
-		padding-bottom: 41px;
+		z-index: 231;
 	}
 
-	#pu41879-4,#pu41884-4,#pu41893-4,#pu41899-4,#pu42300-4
+	#u63505
 	{
-		width: 44.96%;
-		margin-left: 1.39%;
+		z-index: 232;
 	}
 
-	#u42300-4
+	#u63506
 	{
-		z-index: 171;
+		z-index: 233;
+		height: 276px;
 	}
 
-	#u42301-4
+	#u63504-4
 	{
-		z-index: 175;
-		margin-top: 48px;
+		z-index: 234;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 96.03%;
+		left: 1.39%;
 	}
 
-	#u42299
+	#u41909-4:hover,#u42264-4:hover,#u63504-4:hover
 	{
-		z-index: 170;
-		background-image: url("../images/img_0549-u42299-fr2.jpg");
-		width: 49.59%;
-		left: 48.85%;
+		margin-top: 75px;
+		min-height: 35px;
+		width: 96.03%;
 	}
 
-	#u41877:hover,#u41883:hover,#u41892:hover,#u42299:hover
+	#u63507-3
 	{
-		width: 49.59%;
+		z-index: 238;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u41908-4:hover,#u42261-4:hover,#u63507-3:hover
+	{
+		margin-top: 144px;
+		min-height: 34px;
+		width: 96.03%;
+	}
+
+	#u63508-3
+	{
+		z-index: 241;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u41907-4:hover,#u42260-4:hover,#u63508-3:hover
+	{
+		margin-top: 212px;
+		min-height: 42px;
+		width: 96.03%;
+	}
+
+	#u63502-4
+	{
+		z-index: 244;
+		margin-top: 9px;
+		width: 96.03%;
+		left: 1.21%;
 	}
 
 	#u814,#u814-bw
@@ -2713,7 +2835,8 @@
 
 	#page
 	{
-		min-height: 584.8250000000007px;
+		min-height: 584.6999999999998px;
+		padding-bottom: 0px;
 		max-width: 900px;
 	}
 
@@ -3142,6 +3265,7 @@
 	#u41904
 	{
 		z-index: 196;
+		background-image: url("../images/orange-wonder-tulip.jpg");
 		width: 95.75%;
 		margin-left: 2.31%;
 	}
@@ -3152,34 +3276,24 @@
 		margin-left: 2.31%;
 	}
 
-	#pu41902-4
+	#u41902-4
 	{
-		margin-top: 26px;
+		z-index: 188;
 		width: 95.86%;
 		margin-left: 2.31%;
 	}
 
-	#u41902-4
-	{
-		z-index: 188;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
 	#u41902-4:hover
 	{
-		margin-right: -10000px;
-		margin-top: 0px;
-		width: 100%;
-		margin-left: 0%;
+		width: 95.86%;
+		margin-left: 2.31%;
 	}
 
 	#u41903-4
 	{
 		z-index: 192;
-		margin-right: -10000px;
-		margin-top: 60px;
-		width: 100%;
+		width: 95.86%;
+		margin-left: 2.31%;
 	}
 
 	#u42253
@@ -3238,6 +3352,38 @@
 		margin-top: 9px;
 		width: 95.98%;
 		left: 1.16%;
+	}
+
+	#u42298
+	{
+		z-index: 175;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u42302
+	{
+		z-index: 176;
+		padding-bottom: 41px;
+	}
+
+	#u42300-4
+	{
+		z-index: 178;
+	}
+
+	#u42301-4
+	{
+		z-index: 182;
+		margin-top: 28px;
+	}
+
+	#u42299
+	{
+		z-index: 177;
+		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr2.jpg");
+		width: 49.49%;
+		left: 48.8%;
 	}
 
 	#u41876
@@ -3382,6 +3528,11 @@
 		left: 48.8%;
 	}
 
+	#u42299:hover,#u41877:hover,#u41883:hover,#u41892:hover
+	{
+		width: 49.49%;
+	}
+
 	#u42257
 	{
 		z-index: 217;
@@ -3414,13 +3565,6 @@
 		left: 1.39%;
 	}
 
-	#u41909-4:hover,#u42264-4:hover
-	{
-		margin-top: 75px;
-		min-height: 35px;
-		width: 95.98%;
-	}
-
 	#u42261-4
 	{
 		z-index: 225;
@@ -3430,13 +3574,6 @@
 		left: 1.39%;
 	}
 
-	#u41908-4:hover,#u42261-4:hover
-	{
-		margin-top: 144px;
-		min-height: 34px;
-		width: 95.98%;
-	}
-
 	#u42260-4
 	{
 		z-index: 229;
@@ -3444,13 +3581,6 @@
 		margin-top: 212px;
 		width: 95.98%;
 		left: 1.39%;
-	}
-
-	#u41907-4:hover,#u42260-4:hover
-	{
-		margin-top: 212px;
-		min-height: 42px;
-		width: 95.98%;
 	}
 
 	#u42258-4
@@ -3472,6 +3602,12 @@
 	{
 		z-index: 165;
 		padding-bottom: 12px;
+	}
+
+	#pu42300-4,#pu41879-4,#pu41884-4,#pu41893-4,#pu41899-4
+	{
+		width: 44.88%;
+		margin-left: 1.39%;
 	}
 
 	#u41899-4
@@ -3501,47 +3637,83 @@
 		width: 34.99%;
 	}
 
-	#u42298
+	#u63501
 	{
-		z-index: 175;
+		z-index: 237;
 		width: 96.56%;
-		margin-left: 1.78%;
+		margin-left: 1.89%;
 	}
 
-	#u42302
+	#u63503
 	{
-		z-index: 176;
-		padding-bottom: 41px;
+		z-index: 238;
 	}
 
-	#pu41879-4,#pu41884-4,#pu41893-4,#pu41899-4,#pu42300-4
+	#u63505
 	{
-		width: 44.88%;
-		margin-left: 1.39%;
+		z-index: 239;
 	}
 
-	#u42300-4
+	#u63506
 	{
-		z-index: 178;
+		z-index: 240;
+		height: 276px;
 	}
 
-	#u42301-4
+	#u63504-4
 	{
-		z-index: 182;
-		margin-top: 48px;
+		z-index: 241;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 95.98%;
+		left: 1.39%;
 	}
 
-	#u42299
+	#u41909-4:hover,#u42264-4:hover,#u63504-4:hover
 	{
-		z-index: 177;
-		background-image: url("../images/img_0549-u42299-fr3.jpg");
-		width: 49.49%;
-		left: 48.8%;
+		margin-top: 75px;
+		min-height: 35px;
+		width: 95.98%;
 	}
 
-	#u41877:hover,#u41883:hover,#u41892:hover,#u42299:hover
+	#u63507-3
 	{
-		width: 49.49%;
+		z-index: 245;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u41908-4:hover,#u42261-4:hover,#u63507-3:hover
+	{
+		margin-top: 144px;
+		min-height: 34px;
+		width: 95.98%;
+	}
+
+	#u63508-3
+	{
+		z-index: 248;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u41907-4:hover,#u42260-4:hover,#u63508-3:hover
+	{
+		margin-top: 212px;
+		min-height: 42px;
+		width: 95.98%;
+	}
+
+	#u63502-4
+	{
+		z-index: 251;
+		margin-top: 9px;
+		width: 95.98%;
+		left: 1.16%;
 	}
 
 	#u814,#u814-bw
