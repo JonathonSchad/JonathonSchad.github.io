@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cnseugsa.com/newspaper.html,www.cnseugsa.com/newspaper/index.html" resolutions="1x" timestamp="1461354492826">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cnseugsa.com/newspaper.html,www.cnseugsa.com/newspaper/index.html" resolutions="1x" timestamp="1461607932138">
   <folder name="assets">
     <file name="laser-tag-3.png" crc="411729802" seo="true" mt="1460576850000"/>
     <file name="laser-tag-2.png" crc="290511382" seo="true" mt="1460575716000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="520727923"/>
-    <file name="master_articles.css" crc="4190983133" ref="samsung-virtual-reality-0306:apple-vs.-the-fbi-0323:boaty-mcboatface-0401:middle-states-accreditation-0301:super-tuesday-0308:presidential-profiles-0306:mythbusters-comes-to-an-end-0323:middle-states-0401:hb2-vote-0301:entering-cnse-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:noodles---company-review-0306:uaceas-0311:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:introducing-the-cnse-herald-0301:female-libido-drug-0308:zika-0311:oscarssowhite-0306:bloody-bloody-andrew-jackson-0315:brussels-bombing-0401:women-s-history-month-0308:student-space-opens-0330:kuwait-dna-testing-0401:brokered-convention-0323:merrick-garland-0401:african-drumming-0301:why-do-gen-eds-matter-0311:restaurant-week-0401:college-of-arts-and-science-0401:radovan-karadzic-0406:laser-tag-event-0413:panama-papers-0413:3d-printed-drug-0413:opiod-problems-in-the-united-states-0406:great-barrier-reef-bleaching-0406:beyond-the-buzzwords-0406:suny-tuition-freeze-0415:suny-poly-student-space-0415:battle-of-the-bans-0420:zika-more-deadly-0420:government-for-the-people-0420:albany-spring-events-0422:rape-is-not-a-plot-device-0422:first-nations-state-of-emergency-0422"/>
-    <file name="master_section-pages.css" crc="340344955" ref="world-news:opinions:science---technology:life---local"/>
-    <file name="master_other-pages.css" crc="3982253398" ref="world-news:contact-us:opinions:science---technology:about-us:life---local:professors-spotlight-susan-sharfstein"/>
+    <file name="master_articles.css" crc="4069996097" ref="samsung-virtual-reality-0306:apple-vs.-the-fbi-0323:boaty-mcboatface-0401:middle-states-accreditation-0301:super-tuesday-0308:presidential-profiles-0306:mythbusters-comes-to-an-end-0323:middle-states-0401:hb2-vote-0301:entering-cnse-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:noodles---company-review-0306:uaceas-0311:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:introducing-the-cnse-herald-0301:female-libido-drug-0308:zika-0311:oscarssowhite-0306:bloody-bloody-andrew-jackson-0315:brussels-bombing-0401:women-s-history-month-0308:student-space-opens-0330:kuwait-dna-testing-0401:brokered-convention-0323:merrick-garland-0401:african-drumming-0301:why-do-gen-eds-matter-0311:restaurant-week-0401:college-of-arts-and-science-0401:radovan-karadzic-0406:laser-tag-event-0413:panama-papers-0413:3d-printed-drug-0413:opiod-problems-in-the-united-states-0406:great-barrier-reef-bleaching-0406:beyond-the-buzzwords-0406:suny-tuition-freeze-0415:suny-poly-student-space-0415:battle-of-the-bans-0420:zika-more-deadly-0420:government-for-the-people-0420:albany-spring-events-0422:rape-is-not-a-plot-device-0422:first-nations-state-of-emergency-0422"/>
+    <file name="master_section-pages.css" crc="490116326" ref="world-news:opinions:science---technology:life---local"/>
+    <file name="master_other-pages.css" crc="23076192" ref="world-news:contact-us:opinions:science---technology:about-us:life---local:professors-spotlight-susan-sharfstein"/>
     <file name="samsung-virtual-reality-0306.css" crc="134281033" ref="samsung-virtual-reality-0306"/>
     <file name="apple-vs_-the-fbi-0323.css" crc="3928693309" ref="apple-vs.-the-fbi-0323"/>
     <file name="world-news.css" crc="4046691530" ref="world-news"/>
@@ -44,8 +44,8 @@
     <file name="brokered-convention-0323.css" crc="18493970" ref="brokered-convention-0323"/>
     <file name="about-us.css" crc="146993630" ref="about-us"/>
     <file name="merrick-garland-0401.css" crc="313633580" ref="merrick-garland-0401"/>
-    <file name="african-drumming-0301.css" crc="417272403" ref="african-drumming-0301"/>
-    <file name="life---local.css" crc="531802078" ref="life---local"/>
+    <file name="african-drumming-0301.css" crc="168536082" ref="african-drumming-0301"/>
+    <file name="life---local.css" crc="4061098273" ref="life---local"/>
     <file name="why-do-gen-eds-matter-0311.css" crc="466341546" ref="why-do-gen-eds-matter-0311"/>
     <file name="restaurant-week-0401.css" crc="109988358" ref="restaurant-week-0401"/>
     <file name="college-of-arts-and-science-0401.css" crc="113328261" ref="college-of-arts-and-science-0401"/>
@@ -61,7 +61,7 @@
     <file name="suny-poly-student-space-0415.css" crc="300666971" ref="suny-poly-student-space-0415"/>
     <file name="nomq_preview_master_section-pages.css" crc="59583833" ref="world-news:opinions:science---technology:life---local"/>
     <file name="nomq_preview_master_other-pages.css" crc="166731023" ref="world-news:contact-us:professors-spotlight-susan-sharfstein:opinions:science---technology:about-us:life---local"/>
-    <file name="nomq_preview_master_articles.css" crc="423522919" ref="samsung-virtual-reality-0306:beyond-the-buzzwords-0406:mythbusters-comes-to-an-end-0323:presidential-profiles-0306:entering-cnse-0301:radovan-karadzic-0406:middle-states-accreditation-0301:college-of-arts-and-science-0401:middle-states-0401:hb2-vote-0301:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:laser-tag-event-0413:female-libido-drug-0308:noodles---company-review-0306:brussels-bombing-0401:suny-poly-student-space-0415:political-insights-from-political-websites-0330:introducing-the-cnse-herald-0301:obama-goes-to-cuba-0330:boaty-mcboatface-0401:panama-papers-0413:bloody-bloody-andrew-jackson-0315:zika-0311:oscarssowhite-0306:merrick-garland-0401:suny-tuition-freeze-0415:women-s-history-month-0308:opiod-problems-in-the-united-states-0406:student-space-opens-0330:kuwait-dna-testing-0401:brokered-convention-0323:why-do-gen-eds-matter-0311:uaceas-0311:3d-printed-drug-0413:african-drumming-0301:great-barrier-reef-bleaching-0406:apple-vs.-the-fbi-0323:restaurant-week-0401:super-tuesday-0308:battle-of-the-bans-0420:zika-more-deadly-0420:government-for-the-people-0420:albany-spring-events-0422:rape-is-not-a-plot-device-0422:first-nations-state-of-emergency-0422"/>
+    <file name="nomq_preview_master_articles.css" crc="316266245" ref="samsung-virtual-reality-0306:beyond-the-buzzwords-0406:mythbusters-comes-to-an-end-0323:presidential-profiles-0306:entering-cnse-0301:radovan-karadzic-0406:middle-states-accreditation-0301:college-of-arts-and-science-0401:middle-states-0401:hb2-vote-0301:your-life-in-graduate-school-0301:laser-guided-interstellar-travel-0301:mooplans-0306:changing-face-of-grief-0330:things-to-do-around-albany-0326:laser-tag-event-0413:female-libido-drug-0308:noodles---company-review-0306:brussels-bombing-0401:suny-poly-student-space-0415:political-insights-from-political-websites-0330:introducing-the-cnse-herald-0301:obama-goes-to-cuba-0330:boaty-mcboatface-0401:panama-papers-0413:bloody-bloody-andrew-jackson-0315:zika-0311:oscarssowhite-0306:merrick-garland-0401:suny-tuition-freeze-0415:women-s-history-month-0308:opiod-problems-in-the-united-states-0406:student-space-opens-0330:kuwait-dna-testing-0401:brokered-convention-0323:why-do-gen-eds-matter-0311:uaceas-0311:3d-printed-drug-0413:african-drumming-0301:great-barrier-reef-bleaching-0406:apple-vs.-the-fbi-0323:restaurant-week-0401:super-tuesday-0308:battle-of-the-bans-0420:zika-more-deadly-0420:government-for-the-people-0420:albany-spring-events-0422:rape-is-not-a-plot-device-0422:first-nations-state-of-emergency-0422"/>
     <file name="nomq_professors-spotlight-susan-sharfstein.css" crc="4161482242" ref="professors-spotlight-susan-sharfstein"/>
     <file name="nomq_opinions.css" crc="402882111" ref="opinions"/>
     <file name="nomq_suny-tuition-freeze-0415.css" crc="3964091371" ref="suny-tuition-freeze-0415"/>
@@ -69,7 +69,7 @@
     <file name="nomq_science---technology.css" crc="230414957" ref="science---technology"/>
     <file name="nomq_brokered-convention-0323.css" crc="347124790" ref="brokered-convention-0323"/>
     <file name="nomq_index.css" crc="3941030156" ref="index"/>
-    <file name="nomq_life---local.css" crc="297051093" ref="life---local"/>
+    <file name="nomq_life---local.css" crc="19002429" ref="life---local"/>
     <file name="nomq_contact-us.css" crc="4249434290" ref="contact-us"/>
     <file name="nomq_political-insights-from-political-websites-0330.css" crc="312259870" ref="political-insights-from-political-websites-0330"/>
     <file name="nomq_mythbusters-comes-to-an-end-0323.css" crc="4156670132" ref="mythbusters-comes-to-an-end-0323"/>
@@ -87,7 +87,7 @@
     <file name="nomq_restaurant-week-0401.css" crc="385690947" ref="restaurant-week-0401"/>
     <file name="nomq_noodles---company-review-0306.css" crc="339839835" ref="noodles---company-review-0306"/>
     <file name="nomq_kuwait-dna-testing-0401.css" crc="4138840642" ref="kuwait-dna-testing-0401"/>
-    <file name="nomq_african-drumming-0301.css" crc="3843511670" ref="african-drumming-0301"/>
+    <file name="nomq_african-drumming-0301.css" crc="3780549339" ref="african-drumming-0301"/>
     <file name="battle-of-the-bans-0420.css" crc="218193891" ref="battle-of-the-bans-0420"/>
     <file name="nomq_battle-of-the-bans-0420.css" crc="4160688169" ref="battle-of-the-bans-0420"/>
     <file name="nomq_middle-states-0401.css" crc="332211394" ref="middle-states-0401"/>
@@ -119,7 +119,7 @@
     <file name="nomq_bloody-bloody-andrew-jackson-0315.css" crc="444579639" ref="bloody-bloody-andrew-jackson-0315"/>
     <file name="nomq_about-us.css" crc="449216176" ref="about-us"/>
     <file name="nomq_apple-vs_-the-fbi-0323.css" crc="515204362" ref="apple-vs.-the-fbi-0323"/>
-    <file name="albany-spring-events-0422.css" crc="390392965" ref="albany-spring-events-0422"/>
+    <file name="albany-spring-events-0422.css" crc="3889233484" ref="albany-spring-events-0422"/>
     <file name="nomq_albany-spring-events-0422.css" crc="516728089" ref="albany-spring-events-0422"/>
     <file name="rape-is-not-a-plot-device-0422.css" crc="4015640344" ref="rape-is-not-a-plot-device-0422"/>
     <file name="nomq_rape-is-not-a-plot-device-0422.css" crc="4129669684" ref="rape-is-not-a-plot-device-0422"/>
@@ -150,8 +150,8 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>opinions:index:things-to-do-around-albany-0326:phone>student-space-opens-0330:phone>things-to-do-around-albany-0326:world-news:life---local:science---technology:opinions:phone>index:about-us:contact-us:brokered-convention-0323:super-tuesday-0308:presidential-profiles-0306:hb2-vote-0301:uaceas-0311:mooplans-0306:noodles---company-review-0306:african-drumming-0301:middle-states-accreditation-0301:laser-guided-interstellar-travel-0301:female-libido-drug-0308:zika-0311:changing-face-of-grief-0330:samsung-virtual-reality-0306:introducing-the-cnse-herald-0301:your-life-in-graduate-school-0301:entering-cnse-0301:oscarssowhite-0306:women-s-history-month-0308:why-do-gen-eds-matter-0311:bloody-bloody-andrew-jackson-0315:apple-vs.-the-fbi-0323:mythbusters-comes-to-an-end-0323:political-insights-from-political-websites-0330:obama-goes-to-cuba-0330:student-space-opens-0330:brussels-bombing-0401:merrick-garland-0401:boaty-mcboatface-0401:restaurant-week-0401:kuwait-dna-testing-0401:middle-states-0401:college-of-arts-and-science-0401:radovan-karadzic-0406:great-barrier-reef-bleaching-0406:opiod-problems-in-the-united-states-0406:beyond-the-buzzwords-0406:professors-spotlight-susan-sharfstein:panama-papers-0413:laser-tag-event-0413:3d-printed-drug-0413:suny-poly-student-space-0415:suny-tuition-freeze-0415:battle-of-the-bans-0420:government-for-the-people-0420:zika-more-deadly-0420:first-nations-state-of-emergency-0422:albany-spring-events-0422:rape-is-not-a-plot-device-0422"/>
-    <file name="loading.gif" crc="3815509949" ref="index:things-to-do-around-albany-0326:phone>things-to-do-around-albany-0326:world-news:phone>index"/>
-    <file name="heraldlogo.png" crc="486542303" ref="index:world-news:about-us"/>
+    <file name="loading.gif" crc="3815509949" ref="index:things-to-do-around-albany-0326:phone>things-to-do-around-albany-0326:world-news:phone>index:life---local"/>
+    <file name="heraldlogo.png" crc="486542303" ref="index:world-news:about-us:life---local"/>
     <file name="donuts.jpg" crc="30550059" seo="true" ref="things-to-do-around-albany-0326:phone>things-to-do-around-albany-0326"/>
     <file name="u1770-17.png" crc="3904437901" ref="contact-us"/>
     <file name="u1770-17-r.png" crc="174039896" ref="contact-us"/>
@@ -236,7 +236,7 @@
     <file name="cnsezen-crop-u35903.jpg" crc="253832130" ref="index"/>
     <file name="cnsezen-crop-u35907.jpg" crc="253832130" ref="index"/>
     <file name="nanohigh class visit - 5-u36620-fr.jpg" crc="62857638" ref="index"/>
-    <file name="nanohigh class visit - 5260x173.jpg" crc="147488948" seo="true" ref="world-news"/>
+    <file name="nanohigh class visit - 5260x173.jpg" crc="147488948" seo="true" ref="world-news:life---local"/>
     <file name="79692_radovan-poster_iff-u38367-fr.jpg" crc="41700966" ref="world-news"/>
     <file name="750x-1-u39583-fr.jpg" crc="195826280" ref="world-news"/>
     <file name="download _op_3_cp__1458141894329_973815_ver10-u39613-fr.jpg" crc="36380359" ref="world-news"/>
@@ -298,9 +298,7 @@
     <file name="160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800.jpg" crc="4261319266" ref="world-news:first-nations-state-of-emergency-0422"/>
     <file name="2014-07-15-10-39-33-pride-flag-u39673-fr2.jpg" crc="41687894" ref="world-news"/>
     <file name="160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u38395-fr2.jpg" crc="4053186159" ref="world-news"/>
-    <file name="orange-wonder-tulip-u41904-fr.jpg" crc="494388042" ref="life---local"/>
     <file name="suny poly opens new student center - 8-u42299-fr.jpg" crc="450126641" ref="life---local"/>
-    <file name="orange-wonder-tulip.jpg" crc="108832246" ref="life---local"/>
     <file name="suny poly opens new student center - 8-u42299-fr2.jpg" crc="3863684481" ref="life---local"/>
     <file name="7315bac0-e0b0-0132-cee9-0e01949ad350-u56756-fr.jpg" crc="377246404" ref="opinions"/>
     <file name="birds-bald-eagle-usa-flag-f1-celebration-independence-day-fireworks-photography-4th-july-photo-wide-screen-occasion-hd-pictures-u63719-fr.jpg" crc="4112419944" ref="opinions"/>
@@ -313,22 +311,23 @@
     <file name="7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr2.jpg" crc="3805872020" ref="index"/>
     <file name="160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr3.jpg" crc="4143157748" ref="index"/>
     <file name="7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr3.jpg" crc="4059615924" ref="index"/>
-    <file name="orange-wonder-tulip-u62912-fr.jpg" crc="352666637" ref="albany-spring-events-0422"/>
     <file name="alive at five - riverfront 06 019.jpg" crc="420137691" ref="albany-spring-events-0422"/>
     <file name="alton_brown_banner.jpg" crc="4198000361" ref="albany-spring-events-0422"/>
     <file name="screen shot 2016-04-22 at 31201 pm.jpg" crc="4143544483" ref="albany-spring-events-0422"/>
     <file name="7315bac0-e0b0-0132-cee9-0e01949ad350.jpg" crc="428793969" ref="rape-is-not-a-plot-device-0422"/>
+    <file name="screen shot 2016-04-25 at 20832 pm.jpg" crc="264845003" ref="life---local"/>
+    <file name="screen shot 2016-04-25 at 20832 pm-u62912-fr.jpg" crc="80340603" ref="albany-spring-events-0422"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_other-pages.css" crc="104043197" ref="phone>contact-us:phone>world-news:phone>about-us:phone>science---technology:phone>life---local:phone>index:phone>opinions:phone>professors-spotlight-susan-sharfstein"/>
       <file name="nomq_preview_master_other-pages.css" crc="369555767" ref="phone>contact-us:phone>world-news:phone>about-us:phone>science---technology:phone>life---local:phone>opinions:phone>professors-spotlight-susan-sharfstein:phone>index"/>
-      <file name="master_articles.css" crc="3844423559" ref="phone>boaty-mcboatface-0401:phone>student-space-opens-0330:phone>presidential-profiles-0306:phone>african-drumming-0301:phone>women-s-history-month-0308:phone>brokered-convention-0323:phone>super-tuesday-0308:phone>political-insights-from-political-websites-0330:phone>laser-guided-interstellar-travel-0301:phone>middle-states-0401:phone>kuwait-dna-testing-0401:phone>samsung-virtual-reality-0306:phone>middle-states-accreditation-0301:phone>restaurant-week-0401:phone>introducing-the-cnse-herald-0301:phone>entering-cnse-0301:phone>female-libido-drug-0308:phone>oscarssowhite-0306:phone>why-do-gen-eds-matter-0311:phone>hb2-vote-0301:phone>mythbusters-comes-to-an-end-0323:phone>things-to-do-around-albany-0326:phone>brussels-bombing-0401:phone>apple-vs.-the-fbi-0323:phone>zika-0311:phone>obama-goes-to-cuba-0330:phone>uaceas-0311:phone>merrick-garland-0401:phone>your-life-in-graduate-school-0301:phone>bloody-bloody-andrew-jackson-0315:phone>moo-plans-0306:phone>noodles---company-0306:phone>college-of-arts---sciences-0401:phone>radovan-karadzic-0404:phone>changing-face-of-grief-0330:phone>panama-papers-0413:phone>3d-printed-drug-0413:phone>laser-tag-event-0413:phone>opiod-problems-in-the-united-states-0406:phone>great-barrier-reef-bleaching-0406:phone>beyond-the-buzzword-0406:phone>suny-poly-student-space-0415:phone>suny-tuition-freeze-0415:phone>battle-of-the-bans-0420:phone>government-for-the-people-0420:phone>zika-more-deadly-0420"/>
+      <file name="master_articles.css" crc="439515928" ref="phone>boaty-mcboatface-0401:phone>student-space-opens-0330:phone>presidential-profiles-0306:phone>african-drumming-0301:phone>women-s-history-month-0308:phone>brokered-convention-0323:phone>super-tuesday-0308:phone>political-insights-from-political-websites-0330:phone>laser-guided-interstellar-travel-0301:phone>middle-states-0401:phone>kuwait-dna-testing-0401:phone>samsung-virtual-reality-0306:phone>middle-states-accreditation-0301:phone>restaurant-week-0401:phone>introducing-the-cnse-herald-0301:phone>entering-cnse-0301:phone>female-libido-drug-0308:phone>oscarssowhite-0306:phone>why-do-gen-eds-matter-0311:phone>hb2-vote-0301:phone>mythbusters-comes-to-an-end-0323:phone>things-to-do-around-albany-0326:phone>brussels-bombing-0401:phone>apple-vs.-the-fbi-0323:phone>zika-0311:phone>obama-goes-to-cuba-0330:phone>uaceas-0311:phone>merrick-garland-0401:phone>your-life-in-graduate-school-0301:phone>bloody-bloody-andrew-jackson-0315:phone>moo-plans-0306:phone>noodles---company-0306:phone>college-of-arts---sciences-0401:phone>radovan-karadzic-0404:phone>changing-face-of-grief-0330:phone>panama-papers-0413:phone>3d-printed-drug-0413:phone>laser-tag-event-0413:phone>opiod-problems-in-the-united-states-0406:phone>great-barrier-reef-bleaching-0406:phone>beyond-the-buzzword-0406:phone>suny-poly-student-space-0415:phone>suny-tuition-freeze-0415:phone>battle-of-the-bans-0420:phone>government-for-the-people-0420:phone>zika-more-deadly-0420"/>
       <file name="nomq_preview_master_articles.css" crc="321525473" ref="phone>boaty-mcboatface-0401:phone>student-space-opens-0330:phone>presidential-profiles-0306:phone>women-s-history-month-0308:phone>brokered-convention-0323:phone>super-tuesday-0308:phone>political-insights-from-political-websites-0330:phone>laser-guided-interstellar-travel-0301:phone>middle-states-0401:phone>kuwait-dna-testing-0401:phone>samsung-virtual-reality-0306:phone>middle-states-accreditation-0301:phone>restaurant-week-0401:phone>introducing-the-cnse-herald-0301:phone>entering-cnse-0301:phone>female-libido-drug-0308:phone>oscarssowhite-0306:phone>why-do-gen-eds-matter-0311:phone>hb2-vote-0301:phone>mythbusters-comes-to-an-end-0323:phone>things-to-do-around-albany-0326:phone>brussels-bombing-0401:phone>apple-vs.-the-fbi-0323:phone>zika-0311:phone>obama-goes-to-cuba-0330:phone>uaceas-0311:phone>merrick-garland-0401:phone>your-life-in-graduate-school-0301:phone>bloody-bloody-andrew-jackson-0315:phone>noodles---company-0306:phone>college-of-arts---sciences-0401:phone>changing-face-of-grief-0330:phone>opiod-problems-in-the-united-states-0406:phone>great-barrier-reef-bleaching-0406:phone>beyond-the-buzzword-0406:phone>radovan-karadzic-0404:phone>panama-papers-0413:phone>african-drumming-0301:phone>3d-printed-drug-0413:phone>moo-plans-0306:phone>laser-tag-event-0413:phone>suny-poly-student-space-0415:phone>suny-tuition-freeze-0415:phone>battle-of-the-bans-0420:phone>government-for-the-people-0420:phone>zika-more-deadly-0420"/>
       <file name="boaty-mcboatface-0401.css" crc="4052881843" ref="phone>boaty-mcboatface-0401"/>
       <file name="student-space-opens-0330.css" crc="92580376" ref="phone>student-space-opens-0330"/>
       <file name="presidential-profiles-0306.css" crc="243180037" ref="phone>presidential-profiles-0306"/>
-      <file name="african-drumming-0301.css" crc="3895497059" ref="phone>african-drumming-0301"/>
+      <file name="african-drumming-0301.css" crc="39453763" ref="phone>african-drumming-0301"/>
       <file name="women-s-history-month-0308.css" crc="3847100531" ref="phone>women-s-history-month-0308"/>
       <file name="brokered-convention-0323.css" crc="267903559" ref="phone>brokered-convention-0323"/>
       <file name="super-tuesday-0308.css" crc="4046730023" ref="phone>super-tuesday-0308"/>
@@ -398,7 +397,7 @@
     <file name="life---local.html" crc="100610220" seo="true" mt="1460747497307" redirect="true"/>
     <file name="things-to-do-around-albany-0326.html" crc="4004220268" seo="true" mt="1460653357383" redirect="true"/>
     <file name="uaceas-0311.html" crc="423531688" seo="true" mt="1460653357383" redirect="true"/>
-    <file name="african-drumming-0301.html" crc="3954909177" seo="true" mt="1461354362514" redirect="true"/>
+    <file name="african-drumming-0301.html" crc="3954909177" seo="true" mt="1461607891760" redirect="true"/>
     <file name="middle-states-accreditation-0301.html" crc="3996240129" seo="true" mt="1460653357383" redirect="true"/>
     <file name="student-space-opens-0330.html" crc="228277222" seo="true" mt="1460653357383" redirect="true"/>
     <file name="restaurant-week-0401.html" crc="214018168" seo="true" mt="1460653357383" redirect="true"/>
@@ -443,7 +442,7 @@
   </folder>
   <file name="index.html" crc="415970759" seo="true" mt="1461353805412" redirect="true"/>
   <file name="world-news.html" crc="494511916" seo="true" mt="1461353667215" redirect="true"/>
-  <file name="life---local.html" crc="355671349" seo="true" mt="1461354363041" redirect="true"/>
+  <file name="life---local.html" crc="518493522" seo="true" mt="1461607794570" redirect="true"/>
   <file name="science---technology.html" crc="4115654487" seo="true" mt="1461183124727" redirect="true"/>
   <file name="about-us.html" crc="462344833" seo="true" mt="1461183705418" redirect="true"/>
   <file name="contact-us.html" crc="510150490" seo="true" mt="1461183711168" redirect="true"/>
@@ -456,7 +455,7 @@
   <file name="uaceas-0311.html" crc="3806798675" seo="true" mt="1461187675506" redirect="true"/>
   <file name="mooplans-0306.html" crc="21230369" seo="true" mt="1461187675506" redirect="true"/>
   <file name="noodles---company-review-0306.html" crc="4121750075" seo="true" mt="1461187675506" redirect="true"/>
-  <file name="african-drumming-0301.html" crc="4247371777" seo="true" mt="1461354362509" redirect="true"/>
+  <file name="african-drumming-0301.html" crc="95717551" seo="true" mt="1461607891757" redirect="true"/>
   <file name="middle-states-accreditation-0301.html" crc="4032080088" seo="true" mt="1461187675506" redirect="true"/>
   <file name="laser-guided-interstellar-travel-0301.html" crc="502537812" seo="true" mt="1461187675506" redirect="true"/>
   <file name="female-libido-drug-0308.html" crc="19448949" seo="true" mt="1461187675506" redirect="true"/>
@@ -496,6 +495,6 @@
   <file name="government-for-the-people-0420.html" crc="460651403" seo="true" mt="1461187675506" redirect="true"/>
   <file name="zika-more-deadly-0420.html" crc="4042367226" seo="true" mt="1461187675506" redirect="true"/>
   <file name="first-nations-state-of-emergency-0422.html" crc="508465213" seo="true" mt="1461354461197" redirect="true"/>
-  <file name="albany-spring-events-0422.html" crc="225598534" seo="true" mt="1461354363253" redirect="true"/>
+  <file name="albany-spring-events-0422.html" crc="4281572486" seo="true" mt="1461607764768" redirect="true"/>
   <file name="rape-is-not-a-plot-device-0422.html" crc="4061914839" seo="true" mt="1461352771222" redirect="true"/>
 </manifest>

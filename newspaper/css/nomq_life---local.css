@@ -10,13 +10,34 @@
 
 	#page
 	{
+		z-index: 1;
 		min-height: 585px;
+		background-image: none;
+		border-width: 0px;
+		border-color: #000000;
+		background-color: transparent;
+		width: 100%;
 		max-width: 1200px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#u176,#u176-bw
+	{
+		z-index: 2;
+		height: 81px;
 	}
 
 	#u32889,#u32889-bw
 	{
 		z-index: 107;
+		height: 81px;
+	}
+
+	#u1492-3,#u1492-3-bw
+	{
+		z-index: 3;
+		min-height: 33px;
 	}
 
 	#menuu676
@@ -651,8 +672,17 @@
 	#u41875-4
 	{
 		z-index: 367;
+		min-height: 60px;
+		background-color: transparent;
+		color: #002C73;
+		text-align: right;
+		font-size: 42px;
+		line-height: 50px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
 		top: -390px;
 		margin-bottom: -60px;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -666,6 +696,7 @@
 	#u40558
 	{
 		z-index: 341;
+		position: relative;
 		margin-right: -10000px;
 		margin-top: 352px;
 		width: 29.09%;
@@ -771,46 +802,92 @@
 	#u41901
 	{
 		z-index: 437;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 100%;
 	}
 
 	#u41905
 	{
 		z-index: 438;
+		background-color: #FFFFFF;
+		padding-top: 23px;
 		padding-bottom: 14px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41904
 	{
 		z-index: 447;
-		background-image: url("../images/orange-wonder-tulip-u41904-fr.jpg");
+		height: 418px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
 		width: 95.79%;
 		margin-left: 2.36%;
+		background: transparent url("../images/screen%20shot%202016-04-25%20at%2020832%20pm.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
 	#u41904:hover
 	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 418px;
+		min-height: 0px;
 		width: 95.79%;
-		margin-left: 2.36%;
+		margin: 0px 0px 0px 2.357320099255583%;
+		background-size: cover;
 	}
 
 	#u41902-4
 	{
 		z-index: 439;
+		min-height: 60px;
+		background-color: transparent;
+		line-height: 50px;
+		font-size: 42px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		margin-top: 26px;
+		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
 
 	#u41902-4:hover
 	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 60px;
 		width: 95.91%;
-		margin-left: 2.36%;
+		margin: 26px 0px 0px 2.357320099255583%;
 	}
 
 	#u41903-4
 	{
 		z-index: 443;
+		min-height: 46px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-size: 16px;
+		line-height: 19px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 40px;
+		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -818,29 +895,57 @@
 	#u42253
 	{
 		z-index: 448;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 100%;
 	}
 
 	#u41906
 	{
 		z-index: 449;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41910
 	{
 		z-index: 450;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41911
 	{
 		z-index: 451;
 		height: 209px;
+		background-color: #DBDBDB;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41909-4
 	{
 		z-index: 452;
 		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 69px;
 		width: 81.39%;
 		left: 2.36%;
@@ -848,15 +953,28 @@
 
 	#u41909-4:hover
 	{
-		margin-top: 69px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 37px;
 		width: 81.39%;
+		margin: 69px -10000px 0px 0%;
 	}
 
 	#u41908-4
 	{
 		z-index: 456;
 		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 114px;
 		width: 81.39%;
 		left: 2.36%;
@@ -864,15 +982,28 @@
 
 	#u41908-4:hover
 	{
-		margin-top: 114px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 37px;
 		width: 81.39%;
+		margin: 114px -10000px 0px 0%;
 	}
 
 	#u41907-4
 	{
 		z-index: 460;
 		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 159px;
 		width: 81.39%;
 		left: 2.36%;
@@ -880,14 +1011,27 @@
 
 	#u41907-4:hover
 	{
-		margin-top: 159px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 37px;
 		width: 81.39%;
+		margin: 159px -10000px 0px 0%;
 	}
 
 	#u42249-4
 	{
 		z-index: 464;
+		min-height: 37px;
+		background-color: transparent;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 15px;
 		width: 96.53%;
 		left: 2.36%;
@@ -896,6 +1040,10 @@
 	#u41876
 	{
 		z-index: 371;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		margin-right: -10000px;
 		margin-top: 296px;
 		width: 100%;
@@ -904,31 +1052,63 @@
 	#u41880
 	{
 		z-index: 372;
+		background-color: #FFFFFF;
 		padding-bottom: 59px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41879-4
 	{
 		z-index: 374;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 42px;
+		font-size: 35px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41878-4
 	{
 		z-index: 378;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 6px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41877
 	{
 		z-index: 373;
-		background-image: url("../images/tuitionfreeze-u41877-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/tuitionfreeze-u41877-fr.jpg") no-repeat left center;
+		background-size: cover;
 	}
 
 	#u42298
 	{
 		z-index: 426;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		margin-right: -10000px;
 		width: 100%;
 	}
@@ -936,31 +1116,63 @@
 	#u42302
 	{
 		z-index: 427;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u42300-4
 	{
 		z-index: 429;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u42301-4
 	{
 		z-index: 433;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 12px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u42299
 	{
 		z-index: 428;
-		background-image: url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
 	#u41881
 	{
 		z-index: 382;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -968,31 +1180,77 @@
 	#u41885
 	{
 		z-index: 383;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41884-4
 	{
 		z-index: 385;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41882-4
 	{
 		z-index: 389;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 30px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41883
 	{
 		z-index: 384;
-		background-image: url("../images/laser%20tag%202-u41883-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/laser%20tag%202-u41883-fr.jpg") no-repeat left center;
+		background-size: cover;
+	}
+
+	#u41877:hover,#u41883:hover
+	{
+		background-repeat: no-repeat;
+		background-position: left center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.51%;
+		margin: 24px -10000px 0px 0%;
+		background-size: cover;
 	}
 
 	#u41886
 	{
 		z-index: 393;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1000,38 +1258,77 @@
 	#u41889
 	{
 		z-index: 394;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41887-4
 	{
 		z-index: 396;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 34px;
+		font-size: 28px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41890-4
 	{
 		z-index: 400;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 36px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41888
 	{
 		z-index: 395;
-		background-image: url("../images/sunypi_cas_seal_2882-u41888-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 24px;
 		width: 33.88%;
 		left: 58.07%;
+		background: transparent url("../images/sunypi_cas_seal_2882-u41888-fr.jpg") no-repeat left center;
+		background-size: contain;
 	}
 
 	#u41888:hover
 	{
-		margin-top: 24px;
+		background-repeat: no-repeat;
+		background-position: left center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
 		width: 33.88%;
+		margin: 24px -10000px 0px 0%;
+		background-size: contain;
 	}
 
 	#u41891
 	{
 		z-index: 404;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1039,36 +1336,63 @@
 	#u41895
 	{
 		z-index: 405;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u41893-4
 	{
 		z-index: 407;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 50px;
+		font-size: 42px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41894-4
 	{
 		z-index: 411;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 55px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41892
 	{
 		z-index: 406;
-		background-image: url("../images/the-new-york-state-museum-u41892-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
-	}
-
-	#u41877:hover,#u42299:hover,#u41883:hover,#u41892:hover
-	{
-		width: 49.51%;
+		background: transparent url("../images/the-new-york-state-museum-u41892-fr.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
 	#u42257
 	{
 		z-index: 468;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1076,23 +1400,47 @@
 	#u42259
 	{
 		z-index: 469;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u42262
 	{
 		z-index: 470;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u42263
 	{
 		z-index: 471;
 		height: 221px;
+		background-color: #DBDBDB;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u42264-4
 	{
 		z-index: 472;
 		min-height: 39px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 73px;
 		width: 96.03%;
 		left: 2.36%;
@@ -1102,6 +1450,14 @@
 	{
 		z-index: 476;
 		min-height: 46px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 121px;
 		width: 96.53%;
 		left: 2.36%;
@@ -1111,6 +1467,14 @@
 	{
 		z-index: 480;
 		min-height: 39px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 175px;
 		width: 96.03%;
 		left: 2.36%;
@@ -1119,6 +1483,14 @@
 	#u42258-4
 	{
 		z-index: 484;
+		min-height: 37px;
+		background-color: transparent;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 15px;
 		width: 96.53%;
 		left: 2.36%;
@@ -1127,6 +1499,10 @@
 	#u41896
 	{
 		z-index: 415;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1134,11 +1510,17 @@
 	#u41900
 	{
 		z-index: 416;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#pu41879-4,#pu42300-4,#pu41884-4,#pu41887-4,#pu41893-4,#pu41899-4
 	{
+		margin-right: -10000px;
+		margin-top: 40px;
 		width: 44.92%;
 		margin-left: 1.37%;
 	}
@@ -1146,33 +1528,85 @@
 	#u41899-4
 	{
 		z-index: 418;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41879-4:hover,#u42300-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover,#u41899-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u41902-4:hover p,#u41879-4:hover p,#u42300-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p,#u41899-4:hover p
+	{
+		color: #EDA900;
+		visibility: inherit;
 	}
 
 	#u41898-4
 	{
 		z-index: 422;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 11px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u41897
 	{
 		z-index: 417;
 		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/mooplans.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
-	#u41897:hover
+	#u42299:hover,#u41892:hover,#u41897:hover
 	{
-		margin-top: 24px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
 		height: 272px;
+		min-height: 0px;
 		width: 49.51%;
+		margin: 24px -10000px 0px 0%;
+		background-size: cover;
 	}
 
 	#u63501
 	{
 		z-index: 488;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1180,23 +1614,47 @@
 	#u63503
 	{
 		z-index: 489;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u63505
 	{
 		z-index: 490;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u63506
 	{
 		z-index: 491;
 		height: 221px;
+		background-color: #DBDBDB;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u63504-4
 	{
 		z-index: 492;
 		min-height: 39px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 73px;
 		width: 96.03%;
 		left: 2.36%;
@@ -1204,15 +1662,28 @@
 
 	#u42264-4:hover,#u63504-4:hover
 	{
-		margin-top: 73px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 39px;
 		width: 96.03%;
+		margin: 73px -10000px 0px 0%;
 	}
 
 	#u63507-3
 	{
 		z-index: 496;
 		min-height: 46px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 121px;
 		width: 96.53%;
 		left: 2.36%;
@@ -1220,15 +1691,28 @@
 
 	#u42261-4:hover,#u63507-3:hover
 	{
-		margin-top: 121px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 46px;
 		width: 96.53%;
+		margin: 121px -10000px 0px 0%;
 	}
 
 	#u63508-3
 	{
 		z-index: 499;
 		min-height: 39px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 175px;
 		width: 96.03%;
 		left: 2.36%;
@@ -1236,42 +1720,211 @@
 
 	#u42260-4:hover,#u63508-3:hover
 	{
-		margin-top: 175px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 39px;
 		width: 96.03%;
+		margin: 175px -10000px 0px 0%;
+	}
+
+	#u41909-4:hover p,#u41908-4:hover p,#u41907-4:hover p,#u42264-4:hover p,#u42261-4:hover p,#u42260-4:hover p,#u63504-4:hover p,#u63507-3:hover p,#u63508-3:hover p
+	{
+		color: #002C73;
+		visibility: inherit;
 	}
 
 	#u63502-4
 	{
 		z-index: 502;
+		min-height: 37px;
+		background-color: transparent;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		position: relative;
+		margin-right: -10000px;
 		margin-top: 15px;
 		width: 96.53%;
 		left: 2.36%;
 	}
 
+	#u42249,#u42258,#u63502
+	{
+		font-size: 18px;
+	}
+
 	#u814,#u814-bw
 	{
 		z-index: 49;
+		height: 215px;
 	}
 
-	#u815-4,#u815-4-bw
+	#u815-4
 	{
 		z-index: 50;
+		min-height: 26px;
 	}
 
-	#menuu816,#menuu816-bw
+	#u815-4-bw
+	{
+		z-index: 50;
+		min-height: 26px;
+		margin-top: 6px;
+	}
+
+	#menuu816
 	{
 		z-index: 54;
+		min-height: 131px;
 	}
 
-	#u1693-4,#u1693-4-bw
+	#u43587
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u43589-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u853
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u855-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u841
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u843-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u820
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u821-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u4067
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u4070-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u825
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u827-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u832
+	{
+		min-height: 14px;
+		padding-bottom: 3px;
+		position: relative;
+	}
+
+	#u43587.MuseMenuActive,#u853.MuseMenuActive,#u841.MuseMenuActive,#u820.MuseMenuActive,#u4067.MuseMenuActive,#u825.MuseMenuActive,#u832.MuseMenuActive
+	{
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u834-4
+	{
+		min-height: 14px;
+		position: relative;
+		top: 1px;
+	}
+
+	#u43587.MuseMenuActive #u43589-4,#u853.MuseMenuActive #u855-4,#u841.MuseMenuActive #u843-4,#u820.MuseMenuActive #u821-4,#u4067.MuseMenuActive #u4070-4,#u825.MuseMenuActive #u827-4,#u832.MuseMenuActive #u834-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u852,#u838,#u817,#u4064,#u824,#u831
+	{
+		margin-top: 2px;
+	}
+
+	#menuu816-bw
+	{
+		z-index: 54;
+		min-height: 131px;
+		margin-top: 32px;
+	}
+
+	#u1693-4
 	{
 		z-index: 97;
+		min-height: 21px;
+	}
+
+	#u1693-4-bw
+	{
+		z-index: 97;
+		min-height: 21px;
+		margin-top: 174px;
 	}
 
 	#u29981
 	{
 		z-index: 101;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 145px;
 		width: 5.17%;
 		left: 80.17%;
 	}
@@ -1279,11 +1932,15 @@
 	#u29982
 	{
 		z-index: 102;
+		width: 100%;
 	}
 
 	#u29983
 	{
 		z-index: 103;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 146px;
 		width: 5.09%;
 		left: 86.5%;
 	}
@@ -1291,11 +1948,15 @@
 	#u29984
 	{
 		z-index: 104;
+		width: 100%;
 	}
 
 	#u29985
 	{
 		z-index: 105;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 145px;
 		width: 5.17%;
 		left: 92.75%;
 	}
@@ -1303,9 +1964,20 @@
 	#u29986
 	{
 		z-index: 106;
+		width: 100%;
 	}
 
-	#pu41876,#u24131_img
+	.html
+	{
+		background-color: #F5F5F5;
+	}
+
+	body
+	{
+		position: relative;
+	}
+
+	#pu176,#pu1492-3,#pu41876,#pu814,#u24131_img
 	{
 		width: 100%;
 	}
