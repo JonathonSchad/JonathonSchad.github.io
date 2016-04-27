@@ -11,12 +11,11 @@
 	#page
 	{
 		z-index: 1;
-		min-height: 776.9611464968152px;
+		min-height: 777px;
 		background-image: none;
 		border-width: 0px;
 		border-color: #000000;
 		background-color: transparent;
-		padding-bottom: 0px;
 		width: 100%;
 		max-width: 1200px;
 		margin-left: auto;
@@ -25,7 +24,7 @@
 
 	#page_position_content
 	{
-		margin-bottom: -29px;
+		margin-bottom: -30px;
 		width: 100%;
 	}
 
@@ -367,7 +366,7 @@
 	{
 		z-index: 126;
 		height: 496px;
-		background: transparent url("../images/706x410q70brooks-romney-vs-trump.jpg") no-repeat center top;
+		background: transparent url("../images/706x410q70brooks-romney-vs-trump.jpg") no-repeat right center;
 		background-size: cover;
 	}
 
@@ -498,7 +497,7 @@
 	#u2772-28
 	{
 		z-index: 133;
-		min-height: 982px;
+		min-height: 651px;
 		background-color: transparent;
 		line-height: 17px;
 		font-family: open-sans, sans-serif;
@@ -507,20 +506,20 @@
 
 	#u2772-2,#u2772-3,#u2772-5,#u2772-6,#u2772-8,#u2772-9,#u2772-11,#u2772-12,#u2772-14,#u2772-15,#u2772-17,#u2772-18,#u2772-20,#u2772-21,#u2772-23,#u2772-24,#u2772-26
 	{
-		padding-right: 110px;
-		padding-left: 110px;
+		padding-right: 30px;
+		padding-left: 30px;
 	}
 
 	#u2772-28-bw
 	{
 		z-index: 133;
-		min-height: 982px;
-		margin-top: 55px;
+		min-height: 651px;
+		margin-top: 27px;
 	}
 
 	#pu29954
 	{
-		margin-top: 28px;
+		margin-top: 29px;
 		width: 100%;
 	}
 
@@ -686,7 +685,7 @@
 	{
 		z-index: 6;
 		min-height: 26px;
-		margin-top: 20px;
+		margin-top: 19px;
 	}
 
 	#menuu1011
@@ -816,7 +815,7 @@
 	{
 		z-index: 10;
 		min-height: 131px;
-		margin-top: 46px;
+		margin-top: 45px;
 	}
 
 	#u1056-4
@@ -829,7 +828,7 @@
 	{
 		z-index: 53;
 		min-height: 21px;
-		margin-top: 194px;
+		margin-top: 193px;
 	}
 
 	.html

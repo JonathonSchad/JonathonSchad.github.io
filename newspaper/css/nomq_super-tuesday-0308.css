@@ -373,10 +373,17 @@
 		margin-top: 2px;
 	}
 
-	#u6282-25,#u6282-25-bw
+	#u6282-25
 	{
 		z-index: 132;
 		min-height: 529px;
+	}
+
+	#u6282-25-bw
+	{
+		z-index: 132;
+		min-height: 529px;
+		margin-top: 27px;
 	}
 
 	#pu29954
@@ -445,12 +452,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
@@ -480,6 +489,11 @@
 	{
 		width: 88.35%;
 		margin-left: 4.96%;
+	}
+
+	#pu1009
+	{
+		margin-top: 51px;
 	}
 
 	#u1010-4-bw

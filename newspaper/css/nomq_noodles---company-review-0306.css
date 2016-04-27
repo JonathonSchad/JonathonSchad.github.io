@@ -351,9 +351,18 @@
 		z-index: 149;
 	}
 
+	#pu30643
+	{
+		margin-top: 22px;
+		width: 100%;
+	}
+
 	#u30643
 	{
 		z-index: 160;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 42.92%;
 	}
@@ -361,12 +370,16 @@
 	#u30644
 	{
 		z-index: 161;
+		display: block;
 		width: 100%;
 	}
 
 	#u30645
 	{
 		z-index: 162;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.09%;
 		left: 48%;
 	}
@@ -374,12 +387,16 @@
 	#u30646
 	{
 		z-index: 163;
+		display: block;
 		width: 100%;
 	}
 
 	#u30647
 	{
 		z-index: 164;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 52.92%;
 	}
@@ -387,6 +404,7 @@
 	#u30648
 	{
 		z-index: 165;
+		display: block;
 		width: 100%;
 	}
 
@@ -471,12 +489,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

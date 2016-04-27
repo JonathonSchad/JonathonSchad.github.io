@@ -350,9 +350,18 @@
 		z-index: 160;
 	}
 
+	#pu30879
+	{
+		margin-top: 24px;
+		width: 100%;
+	}
+
 	#u30879
 	{
 		z-index: 171;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 42.92%;
 	}
@@ -360,12 +369,17 @@
 	#u30880
 	{
 		z-index: 172;
+		display: block;
 		width: 100%;
 	}
 
 	#u30881
 	{
 		z-index: 173;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 1px;
 		width: 4.09%;
 		left: 48%;
 	}
@@ -373,12 +387,16 @@
 	#u30882
 	{
 		z-index: 174;
+		display: block;
 		width: 100%;
 	}
 
 	#u30883
 	{
 		z-index: 175;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 52.92%;
 	}
@@ -386,6 +404,7 @@
 	#u30884
 	{
 		z-index: 176;
+		display: block;
 		width: 100%;
 	}
 
@@ -405,38 +424,53 @@
 		z-index: 126;
 	}
 
-	#u30912,#u30912-bw
+	#u30912
 	{
 		z-index: 177;
+		background-image: url("../images/zuckwalks-u30912-fr.jpg");
+	}
+
+	#u30912-bw
+	{
+		z-index: 177;
+		margin-top: 45px;
 	}
 
 	#u7058-6
 	{
 		z-index: 143;
+		min-height: 26px;
 	}
 
 	#u7058-6-bw
 	{
 		z-index: 143;
+		min-height: 26px;
 		margin-top: 7px;
 	}
 
 	#u7055-7
 	{
 		z-index: 136;
-		min-height: 204px;
+		min-height: 187px;
 	}
 
 	#u7055-7-bw
 	{
 		z-index: 136;
-		min-height: 204px;
+		min-height: 187px;
 		margin-top: 31px;
 	}
 
-	#u30915,#u30915-bw
+	#u30915
 	{
 		z-index: 178;
+	}
+
+	#u30915-bw
+	{
+		z-index: 178;
+		margin-top: 43px;
 	}
 
 	#u7071-6,#u7071-6-bw
@@ -509,12 +543,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

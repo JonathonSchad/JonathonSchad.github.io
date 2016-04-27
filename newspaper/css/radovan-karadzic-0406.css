@@ -1,7 +1,7 @@
 .version.radovan_karadzic_0406 /* version checker */
 {
-	color: #000004;
-	background-color: #D8D5CB;
+	color: #0000F6;
+	background-color: #34E39B;
 }
 
 .js body
@@ -16,11 +16,11 @@
 
 #page
 {
+	margin-right: auto;
 	width: 100%;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	margin-right: auto;
 	background-image: none;
 	margin-left: auto;
 	z-index: 1;
@@ -43,7 +43,7 @@
 	line-height: 34px;
 	font-family: open-sans, sans-serif;
 	min-height: 46px;
-	font-weight: 300;
+	font-weight: 400;
 	color: #323232;
 	font-size: 28px;
 }
@@ -119,21 +119,7 @@
 	margin-top: 24px;
 }
 
-#pu30171
-{
-	margin-top: 24px;
-	width: 100%;
-}
-
-#u30173
-{
-	background-color: transparent;
-	margin-top: 1px;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u30171,#u30175
+#u30171,#u30173,#u30175
 {
 	background-color: transparent;
 	margin-right: -10000px;
@@ -158,113 +144,6 @@
 #u17656-bw
 {
 	height: 19px;
-	margin-top: 25px;
-}
-
-#u30219-57
-{
-	background-color: transparent;
-	line-height: 17px;
-	font-family: open-sans, sans-serif;
-	min-height: 221px;
-	font-weight: 400;
-}
-
-#u30219-32
-{
-	font-style: italic;
-}
-
-#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
-{
-	padding-left: 110px;
-	padding-right: 375px;
-}
-
-#u30219-55
-{
-	padding-left: 110px;
-	padding-right: 110px;
-}
-
-#u30219-57-bw
-{
-	min-height: 221px;
-}
-
-#u17704-6
-{
-	background-color: transparent;
-	line-height: 13px;
-	font-family: open-sans, sans-serif;
-	text-align: right;
-	min-height: 26px;
-	font-weight: 400;
-}
-
-#u17704-2
-{
-	padding-left: 310px;
-	padding-right: 20px;
-}
-
-#u17704-4
-{
-	font-style: italic;
-	padding-right: 20px;
-	padding-left: 310px;
-}
-
-#u17704-6-bw
-{
-	min-height: 26px;
-	margin-top: 402px;
-}
-
-#u17707-10
-{
-	background-color: transparent;
-	line-height: 13px;
-	font-family: open-sans, sans-serif;
-	text-align: right;
-	font-weight: 400;
-}
-
-#u17707-2,#u17707-4,#u17707-6,#u17707-8
-{
-	padding-left: 640px;
-	padding-right: 20px;
-}
-
-#u17707-10-bw
-{
-	margin-top: 922px;
-}
-
-#u30202
-{
-	height: 402px;
-	background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
-	background-size: contain;
-}
-
-#u30202-bw
-{
-	height: 402px;
-}
-
-#u30210
-{
-	border-width: 0px;
-	border-color: transparent;
-	height: 468px;
-	background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
-	background-size: contain;
-}
-
-#u30210-bw
-{
-	height: 468px;
 }
 
 #u29954,#u29956,#u29958
@@ -273,7 +152,7 @@
 	position: relative;
 }
 
-#page_position_content,#pu1157,#pu30219-57,#pu29954,#u29955,#u29957,#u29959
+#page_position_content,#pu1157,#pu30171,#pu29954,#u29955,#u29957,#u29959
 {
 	width: 100%;
 }
@@ -299,6 +178,21 @@
 	position: relative;
 }
 
+#u36961-4
+{
+	min-height: 32px;
+	position: relative;
+}
+
+#u36961-4:hover
+{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	min-height: 32px;
+	margin-right: 0px;
+	padding-top: 0px;
+}
+
 #u36962-4,#u36963-4
 {
 	min-height: 32px;
@@ -316,14 +210,14 @@
 	padding-top: 0px;
 }
 
-#u36961-4,#u36964-4
+#u36964-4
 {
 	min-height: 32px;
 	margin-top: 10px;
 	position: relative;
 }
 
-#u36961-4:hover,#u36964-4:hover
+#u36964-4:hover
 {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
@@ -761,11 +655,16 @@ body
 		z-index: 200;
 	}
 
+	#pu30171
+	{
+		margin-top: 24px;
+	}
+
 	#u30171
 	{
 		z-index: 211;
 		width: 4.17%;
-		left: 32.92%;
+		left: 42.92%;
 	}
 
 	#u30172
@@ -776,8 +675,9 @@ body
 	#u30173
 	{
 		z-index: 213;
+		margin-top: 1px;
 		width: 4.09%;
-		left: 38%;
+		left: 48%;
 	}
 
 	#u30174
@@ -789,7 +689,7 @@ body
 	{
 		z-index: 215;
 		width: 4.17%;
-		left: 42.92%;
+		left: 52.92%;
 	}
 
 	#u30176
@@ -797,41 +697,139 @@ body
 		z-index: 216;
 	}
 
-	#u17656,#u17656-bw
+	#u17656
 	{
 		z-index: 183;
 	}
 
-	#u30219-57,#u30219-57-bw
+	#u17656-bw
+	{
+		z-index: 183;
+		margin-top: 25px;
+	}
+
+	#pu30219-57
+	{
+		width: 100%;
+	}
+
+	#u30219-57
 	{
 		z-index: 126;
+		min-height: 1123px;
+		background-color: transparent;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17704-6,#u17704-6-bw
+	#u30219-32
+	{
+		font-style: italic;
+	}
+
+	#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
+	{
+		padding-right: 375px;
+		padding-left: 30px;
+	}
+
+	#u30219-55
+	{
+		padding-right: 110px;
+		padding-left: 110px;
+	}
+
+	#u30219-57-bw
+	{
+		z-index: 126;
+		min-height: 1123px;
+	}
+
+	#u17704-6
 	{
 		z-index: 184;
+		min-height: 26px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17707-10,#u17707-10-bw
+	#u17704-2
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+	}
+
+	#u17704-4
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+		font-style: italic;
+	}
+
+	#u17704-6-bw
+	{
+		z-index: 184;
+		min-height: 26px;
+		margin-top: 402px;
+	}
+
+	#u17707-10
 	{
 		z-index: 190;
 		min-height: 52px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u30202,#u30202-bw
+	#u17707-2,#u17707-4,#u17707-6,#u17707-8
+	{
+		padding-right: 20px;
+		padding-left: 640px;
+	}
+
+	#u17707-10-bw
+	{
+		z-index: 190;
+		min-height: 52px;
+		margin-top: 922px;
+	}
+
+	#u30202
 	{
 		z-index: 217;
+		height: 402px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30202-bw
+	{
+		z-index: 217;
+		height: 402px;
 	}
 
 	#u30210
 	{
 		z-index: 218;
+		height: 468px;
+		border-width: 0px;
+		border-color: transparent;
+		background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
+		background-size: contain;
 	}
 
 	#u30210-bw
 	{
 		z-index: 218;
 		margin-top: 454px;
+		height: 468px;
 	}
 
 	#pu29954
@@ -899,12 +897,14 @@ body
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
@@ -1308,11 +1308,16 @@ body
 		z-index: 200;
 	}
 
+	#pu30171
+	{
+		margin-top: 24px;
+	}
+
 	#u30171
 	{
 		z-index: 211;
 		width: 4.17%;
-		left: 32.92%;
+		left: 42.92%;
 	}
 
 	#u30172
@@ -1323,8 +1328,9 @@ body
 	#u30173
 	{
 		z-index: 213;
+		margin-top: 1px;
 		width: 4.07%;
-		left: 38.03%;
+		left: 48.03%;
 	}
 
 	#u30174
@@ -1336,7 +1342,7 @@ body
 	{
 		z-index: 215;
 		width: 4.17%;
-		left: 42.92%;
+		left: 52.92%;
 	}
 
 	#u30176
@@ -1344,41 +1350,139 @@ body
 		z-index: 216;
 	}
 
-	#u17656,#u17656-bw
+	#u17656
 	{
 		z-index: 183;
 	}
 
-	#u30219-57,#u30219-57-bw
+	#u17656-bw
+	{
+		z-index: 183;
+		margin-top: 25px;
+	}
+
+	#pu30219-57
+	{
+		width: 100%;
+	}
+
+	#u30219-57
 	{
 		z-index: 126;
+		min-height: 1123px;
+		background-color: transparent;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17704-6,#u17704-6-bw
+	#u30219-32
+	{
+		font-style: italic;
+	}
+
+	#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
+	{
+		padding-right: 375px;
+		padding-left: 30px;
+	}
+
+	#u30219-55
+	{
+		padding-right: 110px;
+		padding-left: 110px;
+	}
+
+	#u30219-57-bw
+	{
+		z-index: 126;
+		min-height: 1123px;
+	}
+
+	#u17704-6
 	{
 		z-index: 184;
+		min-height: 26px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17707-10,#u17707-10-bw
+	#u17704-2
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+	}
+
+	#u17704-4
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+		font-style: italic;
+	}
+
+	#u17704-6-bw
+	{
+		z-index: 184;
+		min-height: 26px;
+		margin-top: 402px;
+	}
+
+	#u17707-10
 	{
 		z-index: 190;
 		min-height: 78px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u30202,#u30202-bw
+	#u17707-2,#u17707-4,#u17707-6,#u17707-8
+	{
+		padding-right: 20px;
+		padding-left: 640px;
+	}
+
+	#u17707-10-bw
+	{
+		z-index: 190;
+		min-height: 78px;
+		margin-top: 922px;
+	}
+
+	#u30202
 	{
 		z-index: 217;
+		height: 402px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30202-bw
+	{
+		z-index: 217;
+		height: 402px;
 	}
 
 	#u30210
 	{
 		z-index: 218;
+		height: 468px;
+		border-width: 0px;
+		border-color: transparent;
+		background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
+		background-size: contain;
 	}
 
 	#u30210-bw
 	{
 		z-index: 218;
 		margin-top: 454px;
+		height: 468px;
 	}
 
 	#pu29954
@@ -1446,12 +1550,14 @@ body
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.48%;
 		margin-left: 4.79%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.48%;
 		margin-left: 4.79%;
 	}
@@ -1500,7 +1606,7 @@ body
 
 }
 
-@media (max-width: 900px)
+@media (min-width: 769px) and (max-width: 900px)
 {
 	#muse_css_mq
 	{
@@ -1909,11 +2015,16 @@ body
 		z-index: 207;
 	}
 
+	#pu30171
+	{
+		margin-top: 24px;
+	}
+
 	#u30171
 	{
 		z-index: 218;
-		width: 4.12%;
-		left: 32.89%;
+		width: 5.78%;
+		left: 40.23%;
 	}
 
 	#u30172
@@ -1924,8 +2035,9 @@ body
 	#u30173
 	{
 		z-index: 220;
-		width: 4.12%;
-		left: 38%;
+		margin-top: 1px;
+		width: 5.56%;
+		left: 47.23%;
 	}
 
 	#u30174
@@ -1936,8 +2048,8 @@ body
 	#u30175
 	{
 		z-index: 222;
-		width: 4.12%;
-		left: 42.89%;
+		width: 5.78%;
+		left: 54%;
 	}
 
 	#u30176
@@ -1945,41 +2057,139 @@ body
 		z-index: 223;
 	}
 
-	#u17656,#u17656-bw
+	#u17656
 	{
 		z-index: 190;
 	}
 
-	#u30219-57,#u30219-57-bw
+	#u17656-bw
+	{
+		z-index: 190;
+		margin-top: 10px;
+	}
+
+	#pu30219-57
+	{
+		width: 100%;
+	}
+
+	#u30219-57
 	{
 		z-index: 133;
+		min-height: 221px;
+		background-color: transparent;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17704-6,#u17704-6-bw
+	#u30219-32
+	{
+		font-style: italic;
+	}
+
+	#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
+	{
+		padding-right: 375px;
+		padding-left: 30px;
+	}
+
+	#u30219-55
+	{
+		padding-right: 110px;
+		padding-left: 110px;
+	}
+
+	#u30219-57-bw
+	{
+		z-index: 133;
+		min-height: 221px;
+	}
+
+	#u17704-6
 	{
 		z-index: 191;
+		min-height: 26px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17707-10,#u17707-10-bw
+	#u17704-2
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+	}
+
+	#u17704-4
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+		font-style: italic;
+	}
+
+	#u17704-6-bw
+	{
+		z-index: 191;
+		min-height: 26px;
+		margin-top: 402px;
+	}
+
+	#u17707-10
 	{
 		z-index: 197;
 		min-height: 91px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u30202,#u30202-bw
+	#u17707-2,#u17707-4,#u17707-6,#u17707-8
+	{
+		padding-right: 20px;
+		padding-left: 640px;
+	}
+
+	#u17707-10-bw
+	{
+		z-index: 197;
+		min-height: 91px;
+		margin-top: 922px;
+	}
+
+	#u30202
 	{
 		z-index: 224;
+		height: 402px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30202-bw
+	{
+		z-index: 224;
+		height: 402px;
 	}
 
 	#u30210
 	{
 		z-index: 225;
+		height: 468px;
+		border-width: 0px;
+		border-color: transparent;
+		background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
+		background-size: contain;
 	}
 
 	#u30210-bw
 	{
 		z-index: 225;
 		margin-top: 455px;
+		height: 468px;
 	}
 
 	#pu29954
@@ -2048,12 +2258,14 @@ body
 	#u36961-4
 	{
 		z-index: 67;
+		margin-top: 10px;
 		width: 88.52%;
 		margin-left: 4.88%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.52%;
 		margin-left: 4.88%;
 	}
@@ -2098,6 +2310,1438 @@ body
 	#u1056-4-bw
 	{
 		margin-top: 194px;
+	}
+
+}
+
+@media (min-width: 381px) and (max-width: 768px)
+{
+	#muse_css_mq
+	{
+		background-color: #000300;
+	}
+
+	#bp_768.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 776.5364602324748px;
+		padding-bottom: 0px;
+		max-width: 768px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -202px;
+	}
+
+	#u32886,#u32886-bw
+	{
+		height: 60px;
+	}
+
+	#accordionu49203
+	{
+		z-index: 83;
+	}
+
+	#u49204
+	{
+		z-index: 84;
+	}
+
+	#u49207-4
+	{
+		z-index: 85;
+		min-height: 14px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	#u49207-4:active
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-4.AccordionPanelTabOpen
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-3
+	{
+		margin-left: 10px;
+	}
+
+	#u49205
+	{
+		z-index: 89;
+		padding-bottom: 9px;
+	}
+
+	#u49272
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49273-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272:hover #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272.MuseMenuActive,#u49277:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49280-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272.MuseMenuActive #u49273-4,#u49277:hover #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49277.MuseMenuActive,#u49344:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49345-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49277.MuseMenuActive #u49280-4,#u49344:hover #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49344.MuseMenuActive,#u49397:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49400-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49344.MuseMenuActive #u49345-4,#u49397:hover #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49397.MuseMenuActive,#u49444:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49446-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49397.MuseMenuActive #u49400-4,#u49444:hover #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49444.MuseMenuActive,#u49493:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49496-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49444.MuseMenuActive #u49446-4,#u49493:hover #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49493.MuseMenuActive,#u49542:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49543-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49493.MuseMenuActive #u49496-4,#u49542:hover #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49276,#u49343,#u49394,#u49443,#u49492,#u49541
+	{
+		margin-top: 2px;
+	}
+
+	#menuu49268,#menuu49268-bw
+	{
+		z-index: 90;
+		min-height: 178px;
+	}
+
+	#accordionu49203-bw
+	{
+		z-index: 83;
+		margin-top: 25px;
+	}
+
+	#u30756-4,#u30756-4-bw
+	{
+		z-index: 226;
+	}
+
+	#u30170-11,#u30170-11-bw
+	{
+		z-index: 207;
+	}
+
+	#pu30171
+	{
+		margin-top: 24px;
+	}
+
+	#u30171
+	{
+		z-index: 218;
+		width: 5.73%;
+		left: 40.24%;
+	}
+
+	#u30172
+	{
+		z-index: 219;
+	}
+
+	#u30173
+	{
+		z-index: 220;
+		margin-top: 1px;
+		width: 5.6%;
+		left: 47.27%;
+	}
+
+	#u30174
+	{
+		z-index: 221;
+	}
+
+	#u30175
+	{
+		z-index: 222;
+		width: 5.73%;
+		left: 54.04%;
+	}
+
+	#u30176
+	{
+		z-index: 223;
+	}
+
+	#u17656
+	{
+		z-index: 190;
+	}
+
+	#u17656-bw
+	{
+		z-index: 190;
+		margin-top: 18px;
+	}
+
+	#pu30219-57
+	{
+		width: 100%;
+	}
+
+	#u30219-57
+	{
+		z-index: 133;
+		min-height: 221px;
+		background-color: transparent;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u30219-32
+	{
+		font-style: italic;
+	}
+
+	#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
+	{
+		padding-right: 375px;
+		padding-left: 30px;
+	}
+
+	#u30219-55
+	{
+		padding-right: 110px;
+		padding-left: 110px;
+	}
+
+	#u30219-57-bw
+	{
+		z-index: 133;
+		min-height: 221px;
+	}
+
+	#u17704-6
+	{
+		z-index: 191;
+		min-height: 26px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u17704-2
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+	}
+
+	#u17704-4
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+		font-style: italic;
+	}
+
+	#u17704-6-bw
+	{
+		z-index: 191;
+		min-height: 26px;
+		margin-top: 402px;
+	}
+
+	#u17707-10
+	{
+		z-index: 197;
+		min-height: 156px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u17707-2,#u17707-4,#u17707-6,#u17707-8
+	{
+		padding-right: 20px;
+		padding-left: 640px;
+	}
+
+	#u17707-10-bw
+	{
+		z-index: 197;
+		min-height: 156px;
+		margin-top: 922px;
+	}
+
+	#u30202
+	{
+		z-index: 224;
+		height: 402px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30202-bw
+	{
+		z-index: 224;
+		height: 402px;
+	}
+
+	#u30210
+	{
+		z-index: 225;
+		height: 468px;
+		border-width: 0px;
+		border-color: transparent;
+		background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30210-bw
+	{
+		z-index: 225;
+		margin-top: 455px;
+		height: 468px;
+	}
+
+	#pu29954
+	{
+		margin-top: 16px;
+	}
+
+	#u29954
+	{
+		z-index: 57;
+		width: 5.21%;
+		left: 41.15%;
+	}
+
+	#u29955
+	{
+		z-index: 58;
+	}
+
+	#u29956
+	{
+		z-index: 59;
+		margin-top: 1px;
+		width: 5.08%;
+		left: 47.53%;
+	}
+
+	#u29957
+	{
+		z-index: 60;
+	}
+
+	#u29958
+	{
+		z-index: 61;
+		width: 5.21%;
+		left: 53.65%;
+	}
+
+	#u29959
+	{
+		z-index: 62;
+	}
+
+	#u36959
+	{
+		margin-top: 42px;
+		width: 95.84%;
+		margin-left: 2.09%;
+	}
+
+	#u36959:hover
+	{
+		margin-top: 42px;
+		width: 95.84%;
+		margin-left: 2.09%;
+	}
+
+	#u36960-4
+	{
+		z-index: 63;
+		width: 28.27%;
+		margin-left: 2.45%;
+	}
+
+	#u36961-4
+	{
+		z-index: 67;
+		margin-top: 10px;
+		width: 88.46%;
+		margin-left: 4.9%;
+	}
+
+	#u36961-4:hover
+	{
+		margin-top: 10px;
+		width: 88.46%;
+		margin-left: 4.9%;
+	}
+
+	#u36962-4
+	{
+		z-index: 71;
+		width: 88.32%;
+		margin-left: 4.9%;
+	}
+
+	#u36963-4
+	{
+		z-index: 75;
+		width: 88.32%;
+		margin-left: 4.9%;
+	}
+
+	#u36964-4
+	{
+		z-index: 79;
+		width: 88.32%;
+		margin-left: 4.9%;
+	}
+
+	#u36962-4:hover,#u36963-4:hover,#u36964-4:hover
+	{
+		width: 88.32%;
+		margin-left: 4.9%;
+	}
+
+	#u1010-4-bw
+	{
+		margin-top: 20px;
+	}
+
+	#menuu1011-bw
+	{
+		margin-top: 46px;
+	}
+
+	#u1056-4-bw
+	{
+		margin-top: 194px;
+	}
+
+}
+
+@media (max-width: 380px)
+{
+	#muse_css_mq
+	{
+		background-color: #00017c;
+	}
+
+	#bp_380.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 777px;
+		max-width: 380px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -218px;
+	}
+
+	#u32886,#u32886-bw
+	{
+		height: 60px;
+	}
+
+	#accordionu49203
+	{
+		z-index: 83;
+	}
+
+	#u49204
+	{
+		z-index: 84;
+	}
+
+	#u49207-4
+	{
+		z-index: 85;
+		min-height: 14px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	#u49207-4:active
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-4.AccordionPanelTabOpen
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-3
+	{
+		margin-left: 10px;
+	}
+
+	#u49205
+	{
+		z-index: 89;
+		padding-bottom: 9px;
+	}
+
+	#u49272
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49273-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272:hover #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272.MuseMenuActive,#u49277:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49280-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272.MuseMenuActive #u49273-4,#u49277:hover #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49277.MuseMenuActive,#u49344:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49345-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49277.MuseMenuActive #u49280-4,#u49344:hover #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49344.MuseMenuActive,#u49397:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49400-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49344.MuseMenuActive #u49345-4,#u49397:hover #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49397.MuseMenuActive,#u49444:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49446-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49397.MuseMenuActive #u49400-4,#u49444:hover #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49444.MuseMenuActive,#u49493:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49496-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49444.MuseMenuActive #u49446-4,#u49493:hover #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49493.MuseMenuActive,#u49542:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49543-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49493.MuseMenuActive #u49496-4,#u49542:hover #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49276,#u49343,#u49394,#u49443,#u49492,#u49541
+	{
+		margin-top: 2px;
+	}
+
+	#menuu49268,#menuu49268-bw
+	{
+		z-index: 90;
+		min-height: 178px;
+	}
+
+	#accordionu49203-bw
+	{
+		z-index: 83;
+		margin-top: 25px;
+	}
+
+	#u30756-4,#u30756-4-bw
+	{
+		z-index: 151;
+	}
+
+	#u30170-11,#u30170-11-bw
+	{
+		z-index: 134;
+	}
+
+	#pu30171
+	{
+		margin-top: 6px;
+	}
+
+	#u30171
+	{
+		z-index: 145;
+		width: 11.58%;
+		left: 32.9%;
+	}
+
+	#u30172
+	{
+		z-index: 146;
+	}
+
+	#u30173
+	{
+		z-index: 147;
+		margin-top: 2px;
+		width: 11.32%;
+		left: 47.11%;
+	}
+
+	#u30174
+	{
+		z-index: 148;
+	}
+
+	#u30175
+	{
+		z-index: 149;
+		width: 11.58%;
+		left: 60.79%;
+	}
+
+	#u30176
+	{
+		z-index: 150;
+	}
+
+	#u17656
+	{
+		z-index: 133;
+	}
+
+	#u17656-bw
+	{
+		z-index: 133;
+		margin-top: 6px;
+	}
+
+	#u67931-7
+	{
+		z-index: 155;
+		min-height: 222px;
+		background-color: transparent;
+		line-height: 14px;
+		font-size: 12px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u67931-7-bw
+	{
+		z-index: 155;
+		min-height: 222px;
+	}
+
+	#u67936
+	{
+		z-index: 223;
+		height: 401px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat center bottom;
+		background-size: contain;
+	}
+
+	#u67936-bw
+	{
+		z-index: 223;
+		height: 401px;
+	}
+
+	#u67934-6
+	{
+		z-index: 211;
+		min-height: 24px;
+		background-color: transparent;
+		line-height: 12px;
+		font-size: 10px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u67934-6-bw
+	{
+		z-index: 211;
+		min-height: 24px;
+	}
+
+	#u67932-30
+	{
+		z-index: 162;
+		min-height: 712px;
+		background-color: transparent;
+		line-height: 14px;
+		font-size: 12px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u67932-26
+	{
+		font-style: italic;
+	}
+
+	#u67932-30-bw
+	{
+		z-index: 162;
+		min-height: 712px;
+		margin-top: 11px;
+	}
+
+	#u67937
+	{
+		z-index: 224;
+		height: 447px;
+		background: transparent url("../images/79692_radovan-poster_iff-u67937-fr.jpg") no-repeat center bottom;
+		background-size: contain;
+	}
+
+	#u67937-bw
+	{
+		z-index: 224;
+		margin-top: 7px;
+		height: 447px;
+	}
+
+	#u67935-6
+	{
+		z-index: 217;
+		min-height: 48px;
+		background-color: transparent;
+		line-height: 12px;
+		font-size: 10px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u67934-2,#u67935-2
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#u67934-4,#u67935-4
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+		font-style: italic;
+	}
+
+	#u67935-6-bw
+	{
+		z-index: 217;
+		min-height: 48px;
+		margin-top: 8px;
+	}
+
+	#u67933-19
+	{
+		z-index: 192;
+		min-height: 542px;
+		background-color: transparent;
+		line-height: 14px;
+		font-size: 12px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+	}
+
+	#u67931-2,#u67931-3,#u67931-5,#u67932-2,#u67932-3,#u67932-5,#u67932-6,#u67932-8,#u67932-9,#u67932-11,#u67932-12,#u67932-14,#u67932-15,#u67932-17,#u67932-18,#u67932-20,#u67932-21,#u67932-23,#u67932-24,#u67932-28,#u67933-2,#u67933-3,#u67933-5,#u67933-6,#u67933-8,#u67933-9,#u67933-11,#u67933-12,#u67933-14,#u67933-15,#u67933-17
+	{
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#u67933-19-bw
+	{
+		z-index: 192;
+		min-height: 542px;
+		margin-top: 11px;
+	}
+
+	#pu29954
+	{
+		margin-top: 16px;
+	}
+
+	#u29954
+	{
+		z-index: 57;
+		width: 11.85%;
+		left: 27.11%;
+	}
+
+	#u29955
+	{
+		z-index: 58;
+	}
+
+	#u29956
+	{
+		z-index: 59;
+		margin-top: 1px;
+		width: 11.58%;
+		left: 41.58%;
+	}
+
+	#u29957
+	{
+		z-index: 60;
+	}
+
+	#u29958
+	{
+		z-index: 61;
+		width: 11.85%;
+		left: 55.79%;
+	}
+
+	#u29959
+	{
+		z-index: 62;
+	}
+
+	#u36959
+	{
+		margin-top: 17px;
+		width: 95.79%;
+		margin-left: 2.11%;
+	}
+
+	#u36959:hover
+	{
+		margin-top: 17px;
+		width: 95.79%;
+		margin-left: 2.11%;
+	}
+
+	#u36960-4
+	{
+		z-index: 63;
+		width: 94.24%;
+		margin-left: 2.48%;
+	}
+
+	#u36961-4
+	{
+		z-index: 67;
+		margin-top: 22px;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36961-4:hover
+	{
+		margin-top: 22px;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36962-4
+	{
+		z-index: 71;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36963-4
+	{
+		z-index: 75;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36964-4
+	{
+		z-index: 79;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36962-4:hover,#u36963-4:hover,#u36964-4:hover
+	{
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u1010-4-bw
+	{
+		margin-top: 19px;
+	}
+
+	#menuu1011-bw
+	{
+		margin-top: 45px;
+	}
+
+	#u1056-4-bw
+	{
+		margin-top: 193px;
 	}
 
 	body

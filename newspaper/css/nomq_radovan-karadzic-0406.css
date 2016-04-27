@@ -351,11 +351,16 @@
 		z-index: 200;
 	}
 
+	#pu30171
+	{
+		margin-top: 24px;
+	}
+
 	#u30171
 	{
 		z-index: 211;
 		width: 4.17%;
-		left: 32.92%;
+		left: 42.92%;
 	}
 
 	#u30172
@@ -366,8 +371,9 @@
 	#u30173
 	{
 		z-index: 213;
+		margin-top: 1px;
 		width: 4.09%;
-		left: 38%;
+		left: 48%;
 	}
 
 	#u30174
@@ -379,7 +385,7 @@
 	{
 		z-index: 215;
 		width: 4.17%;
-		left: 42.92%;
+		left: 52.92%;
 	}
 
 	#u30176
@@ -387,41 +393,139 @@
 		z-index: 216;
 	}
 
-	#u17656,#u17656-bw
+	#u17656
 	{
 		z-index: 183;
 	}
 
-	#u30219-57,#u30219-57-bw
+	#u17656-bw
+	{
+		z-index: 183;
+		margin-top: 25px;
+	}
+
+	#pu30219-57
+	{
+		width: 100%;
+	}
+
+	#u30219-57
 	{
 		z-index: 126;
+		min-height: 1123px;
+		background-color: transparent;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17704-6,#u17704-6-bw
+	#u30219-32
+	{
+		font-style: italic;
+	}
+
+	#u30219-2,#u30219-3,#u30219-5,#u30219-6,#u30219-8,#u30219-9,#u30219-11,#u30219-12,#u30219-14,#u30219-15,#u30219-17,#u30219-18,#u30219-20,#u30219-21,#u30219-23,#u30219-24,#u30219-26,#u30219-27,#u30219-29,#u30219-30,#u30219-34,#u30219-35,#u30219-37,#u30219-38,#u30219-40,#u30219-41,#u30219-43,#u30219-44,#u30219-46,#u30219-47,#u30219-49,#u30219-50,#u30219-52,#u30219-53,#u30219-54
+	{
+		padding-right: 375px;
+		padding-left: 30px;
+	}
+
+	#u30219-55
+	{
+		padding-right: 110px;
+		padding-left: 110px;
+	}
+
+	#u30219-57-bw
+	{
+		z-index: 126;
+		min-height: 1123px;
+	}
+
+	#u17704-6
 	{
 		z-index: 184;
+		min-height: 26px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u17707-10,#u17707-10-bw
+	#u17704-2
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+	}
+
+	#u17704-4
+	{
+		padding-right: 20px;
+		padding-left: 310px;
+		font-style: italic;
+	}
+
+	#u17704-6-bw
+	{
+		z-index: 184;
+		min-height: 26px;
+		margin-top: 402px;
+	}
+
+	#u17707-10
 	{
 		z-index: 190;
 		min-height: 52px;
+		background-color: transparent;
+		text-align: right;
+		line-height: 13px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
-	#u30202,#u30202-bw
+	#u17707-2,#u17707-4,#u17707-6,#u17707-8
+	{
+		padding-right: 20px;
+		padding-left: 640px;
+	}
+
+	#u17707-10-bw
+	{
+		z-index: 190;
+		min-height: 52px;
+		margin-top: 922px;
+	}
+
+	#u30202
 	{
 		z-index: 217;
+		height: 402px;
+		background: transparent url("../images/balkan-wars.jpg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u30202-bw
+	{
+		z-index: 217;
+		height: 402px;
 	}
 
 	#u30210
 	{
 		z-index: 218;
+		height: 468px;
+		border-width: 0px;
+		border-color: transparent;
+		background: transparent url("../images/79692_radovan-poster_iff-u30210-fr.jpg") no-repeat right center;
+		background-size: contain;
 	}
 
 	#u30210-bw
 	{
 		z-index: 218;
 		margin-top: 454px;
+		height: 468px;
 	}
 
 	#pu29954
@@ -489,12 +593,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

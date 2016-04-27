@@ -11,6 +11,7 @@
 	#page
 	{
 		min-height: 776.511146496815px;
+		padding-bottom: 0px;
 		max-width: 1200px;
 	}
 
@@ -345,9 +346,15 @@
 		z-index: 152;
 	}
 
-	#u30823-11,#u30823-11-bw
+	#u30823-11
 	{
 		z-index: 153;
+	}
+
+	#u30823-11-bw
+	{
+		z-index: 153;
+		margin-top: 387px;
 	}
 
 	#u30824-4,#u30824-4-bw
@@ -355,14 +362,26 @@
 		z-index: 164;
 	}
 
-	#u17758-4,#u17758-4-bw
+	#u17758-4
 	{
 		z-index: 126;
 	}
 
-	#u17756-22,#u17756-22-bw
+	#u17758-4-bw
+	{
+		z-index: 126;
+		margin-top: 8px;
+	}
+
+	#u17756-22
 	{
 		z-index: 130;
+	}
+
+	#u17756-22-bw
+	{
+		z-index: 130;
+		margin-top: 16px;
 	}
 
 	#pu29954
@@ -430,12 +449,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
@@ -465,6 +486,21 @@
 	{
 		width: 88.35%;
 		margin-left: 4.96%;
+	}
+
+	#u1010-4-bw
+	{
+		margin-top: 20px;
+	}
+
+	#menuu1011-bw
+	{
+		margin-top: 46px;
+	}
+
+	#u1056-4-bw
+	{
+		margin-top: 194px;
 	}
 
 

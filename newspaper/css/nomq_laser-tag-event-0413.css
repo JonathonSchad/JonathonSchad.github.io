@@ -369,11 +369,21 @@
 	#u30291-17,#u30291-17-bw
 	{
 		z-index: 134;
+		min-height: 348px;
 	}
 
-	#u30325,#u30325-bw
+	#u30325
 	{
 		z-index: 163;
+		height: 439px;
+		background-image: url("../images/laser%20tag.jpg");
+	}
+
+	#u30325-bw
+	{
+		z-index: 163;
+		margin-top: 44px;
+		height: 439px;
 	}
 
 	#u30339-4,#u30339-4-bw
@@ -446,12 +456,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

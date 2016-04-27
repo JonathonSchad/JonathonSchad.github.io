@@ -361,15 +361,28 @@
 		z-index: 172;
 	}
 
-	#u6740-6,#u6740-6-bw
+	#u6740-6
 	{
 		z-index: 126;
 	}
 
-	#u6743-28,#u6743-28-bw
+	#u6740-6-bw
+	{
+		z-index: 126;
+		margin-top: 12px;
+	}
+
+	#u6743-28
 	{
 		z-index: 132;
 		min-height: 542px;
+	}
+
+	#u6743-28-bw
+	{
+		z-index: 132;
+		min-height: 542px;
+		margin-top: 20px;
 	}
 
 	#pu29954
@@ -437,12 +450,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

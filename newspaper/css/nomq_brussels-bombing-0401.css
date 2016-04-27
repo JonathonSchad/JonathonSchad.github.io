@@ -365,9 +365,15 @@
 		z-index: 132;
 	}
 
-	#u12378,#u12378-bw
+	#u12378
 	{
 		z-index: 177;
+	}
+
+	#u12378-bw
+	{
+		z-index: 177;
+		margin-top: 136px;
 	}
 
 	#pu29954
@@ -435,12 +441,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

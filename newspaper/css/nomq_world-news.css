@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 584.75px;
+		min-height: 584.7499999999995px;
 		max-width: 1200px;
 	}
 
@@ -771,47 +771,90 @@
 	#u38415
 	{
 		z-index: 428;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 100%;
 	}
 
 	#u38391
 	{
 		z-index: 429;
-		padding-bottom: 24.000000000000455px;
+		background-color: #FFFFFF;
+		padding-top: 24px;
+		padding-bottom: 14px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u38395
 	{
 		z-index: 438;
-		height: 405px;
-		background-image: url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u38395-fr.jpg");
+		height: 423px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
 		width: 95.79%;
 		margin-left: 2.36%;
+		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u38395-fr.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
 	#u38395:hover
 	{
-		height: 405px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 423px;
+		min-height: 0px;
 		width: 95.79%;
-		margin-left: 2.36%;
+		margin: 0px 0px 0px 2.357320099255583%;
+		background-size: cover;
 	}
 
 	#u38393-4
 	{
 		z-index: 430;
+		min-height: 63px;
+		background-color: transparent;
+		line-height: 50px;
+		font-size: 42px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		top: -1px;
+		margin-bottom: -1px;
+		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
 
 	#u38393-4:hover
 	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 63px;
 		width: 95.91%;
-		margin-left: 2.36%;
+		margin: 0px 0px -1px 2.357320099255583%;
 	}
 
 	#u38394-4
 	{
 		z-index: 434;
+		min-height: 107px;
+		background-color: transparent;
+		color: #323232;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
+		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
@@ -894,48 +937,142 @@
 		left: 2.36%;
 	}
 
+	#u39609
+	{
+		z-index: 393;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 100%;
+	}
+
+	#u39610
+	{
+		z-index: 394;
+		background-color: #FFFFFF;
+		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u39612-4
+	{
+		z-index: 396;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 32px;
+		font-size: 27px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u39614-4
+	{
+		z-index: 400;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-size: 14px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 42px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u39613
+	{
+		z-index: 395;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u39613-fr.jpg") no-repeat left center;
+		background-size: cover;
+	}
+
 	#u39671
 	{
 		z-index: 404;
-		width: 100%;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 67.17%;
+		margin-left: 31.17%;
 	}
 
 	#u39672
 	{
 		z-index: 405;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
-	}
-
-	#pu39675-4
-	{
-		padding-bottom: 0px;
-		margin-top: 40px;
-		width: 44.92%;
-		margin-left: 1.37%;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u39675-4
 	{
 		z-index: 407;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 50px;
+		font-size: 42px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u39676-4
 	{
 		z-index: 411;
-		margin-top: 19px;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-size: 14px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 20px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u39673
 	{
 		z-index: 406;
-		background-image: url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/2014-07-15-10-39-33-pride-flag-u39673-fr.jpg") no-repeat center center;
+		background-size: cover;
 	}
 
 	#u40166
 	{
 		z-index: 415;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -943,12 +1080,18 @@
 	#u40170
 	{
 		z-index: 416;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#pu40167-4
 	{
 		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 40px;
 		width: 44.92%;
 		margin-left: 1.37%;
 	}
@@ -956,25 +1099,72 @@
 	#u40167-4
 	{
 		z-index: 418;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u40171-6
 	{
 		z-index: 422;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 21px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u40171-2
+	{
+		font-style: italic;
 	}
 
 	#u40169
 	{
 		z-index: 417;
-		background-image: url("../images/cassidy-panama-papers-american-names-1200-u40169-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/cassidy-panama-papers-american-names-1200-u40169-fr.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u39673:hover,#u40169:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.51%;
+		margin: 24px -10000px 0px 0%;
+		background-size: cover;
 	}
 
 	#u38418
 	{
 		z-index: 371;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -982,38 +1172,63 @@
 	#u38366
 	{
 		z-index: 372;
+		background-color: #FFFFFF;
 		padding-bottom: 25px;
-	}
-
-	#pu38370-4
-	{
-		margin-top: 40px;
-		width: 44.92%;
-		margin-left: 1.37%;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
 	#u38370-4
 	{
 		z-index: 374;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 34px;
+		font-size: 28px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
 	}
 
 	#u38371-4
 	{
 		z-index: 378;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 4px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u38367
 	{
 		z-index: 373;
-		background-image: url("../images/79692_radovan-poster_iff-u38367-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/79692_radovan-poster_iff-u38367-fr.jpg") no-repeat left center;
+		background-size: cover;
 	}
 
 	#u39578
 	{
 		z-index: 382;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
@@ -1021,74 +1236,100 @@
 	#u39580
 	{
 		z-index: 383;
+		background-color: #FFFFFF;
 		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#pu39612-4,#pu39675-4,#pu38370-4,#pu39582-4
+	{
+		margin-right: -10000px;
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
 	}
 
 	#u39582-4
 	{
 		z-index: 385;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 50px;
+		font-size: 42px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u39612-4:hover,#u39675-4:hover,#u40167-4:hover,#u38370-4:hover,#u39582-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u38393-4:hover p,#u39612-4:hover p,#u39675-4:hover p,#u40167-4:hover p,#u38370-4:hover p,#u39582-4:hover p
+	{
+		color: #EDA900;
+		visibility: inherit;
 	}
 
 	#u39579-4
 	{
 		z-index: 389;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
 		margin-top: 38px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u39583
 	{
 		z-index: 384;
-		background-image: url("../images/750x-1-u39583-fr.jpg");
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
+		background: transparent url("../images/750x-1-u39583-fr.jpg") no-repeat left center;
+		background-size: cover;
 	}
 
-	#u39609
+	#u39613:hover,#u38367:hover,#u39583:hover
 	{
-		z-index: 393;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u39610
-	{
-		z-index: 394;
-		padding-bottom: 21px;
-	}
-
-	#pu39582-4,#pu39612-4
-	{
-		width: 44.92%;
-		margin-left: 1.37%;
-	}
-
-	#u39612-4
-	{
-		z-index: 396;
-	}
-
-	#u39614-4
-	{
-		z-index: 400;
-		margin-top: 38px;
-	}
-
-	#u39613
-	{
-		z-index: 395;
-		background-image: url("../images/download%20_op_3_cp__1458141894329_973815_ver10-u39613-fr.jpg");
+		background-repeat: no-repeat;
+		background-position: left center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
 		width: 49.51%;
-		left: 48.76%;
-	}
-
-	#u39673:hover,#u40169:hover,#u38367:hover,#u39583:hover,#u39613:hover
-	{
-		width: 49.51%;
+		margin: 24px -10000px 0px 0%;
+		background-size: cover;
 	}
 
 	#u52890
 	{
 		z-index: 459;
+		margin-right: -10000px;
 		width: 67.17%;
 		left: 31.17%;
 	}
@@ -1137,16 +1378,35 @@
 	{
 		z-index: 471;
 		min-height: 37px;
-		margin-top: 70px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 43px;
 		width: 54.67%;
 		left: 32.67%;
 	}
 
 	#u63088-4:hover
 	{
-		margin-top: 70px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
 		min-height: 37px;
 		width: 54.67%;
+		margin: 43px -10000px 0px 0%;
+	}
+
+	#u63088-4:hover p
+	{
+		color: #002C73;
+		visibility: inherit;
 	}
 
 	#u814,#u814-bw
@@ -1172,6 +1432,7 @@
 	#u29981
 	{
 		z-index: 101;
+		margin-top: 145px;
 		width: 5.17%;
 		left: 80.17%;
 	}
@@ -1179,11 +1440,13 @@
 	#u29982
 	{
 		z-index: 102;
+		width: 100%;
 	}
 
 	#u29983
 	{
 		z-index: 103;
+		margin-top: 146px;
 		width: 5.09%;
 		left: 86.5%;
 	}
@@ -1191,11 +1454,13 @@
 	#u29984
 	{
 		z-index: 104;
+		width: 100%;
 	}
 
 	#u29985
 	{
 		z-index: 105;
+		margin-top: 145px;
 		width: 5.17%;
 		left: 92.75%;
 	}
@@ -1203,9 +1468,10 @@
 	#u29986
 	{
 		z-index: 106;
+		width: 100%;
 	}
 
-	#u24131_img
+	#pu52890,#u24131_img
 	{
 		width: 100%;
 	}

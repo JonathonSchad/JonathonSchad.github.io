@@ -363,6 +363,7 @@
 	#u6801-24,#u6801-24-bw
 	{
 		z-index: 132;
+		min-height: 497px;
 	}
 
 	#pu29954
@@ -430,12 +431,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

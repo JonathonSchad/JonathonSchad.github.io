@@ -346,9 +346,15 @@
 		z-index: 213;
 	}
 
-	#u31279-11,#u31279-11-bw
+	#u31279-11
 	{
 		z-index: 214;
+	}
+
+	#u31279-11-bw
+	{
+		z-index: 214;
+		margin-top: 358px;
 	}
 
 	#u31280-4,#u31280-4-bw
@@ -431,12 +437,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

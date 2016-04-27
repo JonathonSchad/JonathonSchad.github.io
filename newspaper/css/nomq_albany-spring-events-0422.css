@@ -350,9 +350,18 @@
 		z-index: 196;
 	}
 
+	#pu62881
+	{
+		margin-top: 24px;
+		width: 100%;
+	}
+
 	#u62881
 	{
 		z-index: 207;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 42.92%;
 	}
@@ -360,12 +369,17 @@
 	#u62882
 	{
 		z-index: 208;
+		display: block;
 		width: 100%;
 	}
 
 	#u62879
 	{
 		z-index: 209;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 1px;
 		width: 4.09%;
 		left: 48%;
 	}
@@ -373,12 +387,16 @@
 	#u62880
 	{
 		z-index: 210;
+		display: block;
 		width: 100%;
 	}
 
 	#u62877
 	{
 		z-index: 211;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 52.92%;
 	}
@@ -386,6 +404,7 @@
 	#u62878
 	{
 		z-index: 212;
+		display: block;
 		width: 100%;
 	}
 
@@ -405,7 +424,13 @@
 		z-index: 175;
 	}
 
-	#u62912,#u62912-bw
+	#u62912
+	{
+		z-index: 217;
+		background-image: url("../images/screen%20shot%202016-04-25%20at%2020832%20pm-u62912-fr.jpg");
+	}
+
+	#u62912-bw
 	{
 		z-index: 217;
 	}
@@ -415,9 +440,15 @@
 		z-index: 126;
 	}
 
-	#u62923-5,#u62923-5-bw
+	#u62923-5
 	{
 		z-index: 180;
+	}
+
+	#u62923-5-bw
+	{
+		z-index: 180;
+		margin-top: 69px;
 	}
 
 	#u62926,#u62926-bw
@@ -538,12 +569,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

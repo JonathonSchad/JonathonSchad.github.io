@@ -346,9 +346,15 @@
 		z-index: 153;
 	}
 
-	#u31313-11,#u31313-11-bw
+	#u31313-11
 	{
 		z-index: 154;
+	}
+
+	#u31313-11-bw
+	{
+		z-index: 154;
+		margin-top: 388px;
 	}
 
 	#u31314-4,#u31314-4-bw
@@ -356,9 +362,15 @@
 		z-index: 165;
 	}
 
-	#u17791-4,#u17791-4-bw
+	#u17791-4
 	{
 		z-index: 126;
+	}
+
+	#u17791-4-bw
+	{
+		z-index: 126;
+		margin-top: 14px;
 	}
 
 	#u17794-23,#u17794-23-bw
@@ -431,12 +443,14 @@
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}

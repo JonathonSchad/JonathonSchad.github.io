@@ -423,8 +423,8 @@
 
 	#u31244-9
 	{
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 14px;
+		line-height: 17px;
 		padding-right: 30px;
 		padding-left: 30px;
 	}
@@ -444,7 +444,7 @@
 
 	#pu31245
 	{
-		margin-top: 22px;
+		margin-top: 23px;
 		width: 100%;
 	}
 
@@ -528,14 +528,14 @@
 
 	#u17841-2,#u17841-3,#u17841-5,#u17841-6,#u17841-8,#u17841-9,#u17841-11,#u17841-12,#u17841-14,#u17841-15,#u17841-17,#u17841-18,#u17841-20,#u17841-21,#u17841-23
 	{
-		padding-right: 110px;
-		padding-left: 110px;
+		padding-right: 30px;
+		padding-left: 30px;
 	}
 
 	#u17841-24,#u17841-26
 	{
-		padding-right: 110px;
-		padding-left: 110px;
+		padding-right: 30px;
+		padding-left: 30px;
 		font-style: italic;
 	}
 

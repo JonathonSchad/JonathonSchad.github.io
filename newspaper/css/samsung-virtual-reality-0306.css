@@ -1,7 +1,7 @@
 .version.samsung_virtual_reality_0306 /* version checker */
 {
-	color: #000008;
-	background-color: #00F749;
+	color: #000011;
+	background-color: #81B31D;
 }
 
 .js body
@@ -62,11 +62,6 @@
 	color: #002C73;
 }
 
-#u30877-2
-{
-	padding-left: 10px;
-}
-
 #u30877-4-bw
 {
 	min-height: 46px;
@@ -119,32 +114,6 @@
 	margin-top: 24px;
 }
 
-#pu30879
-{
-	margin-top: 24px;
-	width: 100%;
-}
-
-#u30881
-{
-	background-color: transparent;
-	margin-top: 1px;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u30879,#u30883
-{
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u30880,#u30882,#u30884
-{
-	display: block;
-}
-
 #u30876
 {
 	background-color: transparent;
@@ -168,18 +137,18 @@
 
 #u7027-2,#u7027-3,#u7027-5,#u7027-6
 {
-	padding-right: 110px;
+	padding-right: 30px;
 	font-family: open-sans, sans-serif;
 	text-align: justify;
-	padding-left: 110px;
+	padding-left: 30px;
 }
 
 #u7027-8
 {
-	padding-right: 110px;
+	padding-right: 30px;
 	line-height: 17px;
 	font-family: open-sans, sans-serif;
-	padding-left: 110px;
+	padding-left: 30px;
 }
 
 #u7027-10-bw
@@ -190,15 +159,16 @@
 
 #u30912
 {
+	background-color: transparent;
+	background-position: center top;
 	height: 307px;
-	background: transparent url("../images/zuckwalks-u30912-fr.jpg") no-repeat center top;
+	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 #u30912-bw
 {
 	height: 307px;
-	margin-top: 28px;
 }
 
 #u7058-6
@@ -207,26 +177,7 @@
 	line-height: 13px;
 	font-family: open-sans, sans-serif;
 	text-align: center;
-	min-height: 26px;
 	font-weight: 400;
-}
-
-#u7058-2
-{
-	padding-left: 20px;
-	padding-right: 20px;
-}
-
-#u7058-4
-{
-	font-style: italic;
-	padding-right: 20px;
-	padding-left: 20px;
-}
-
-#u7058-6-bw
-{
-	min-height: 26px;
 }
 
 #u7055-7
@@ -235,12 +186,6 @@
 	line-height: 17px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
-}
-
-#u7055-2,#u7055-3,#u7055-5
-{
-	padding-left: 110px;
-	padding-right: 110px;
 }
 
 #u30915
@@ -253,7 +198,6 @@
 #u30915-bw
 {
 	height: 335px;
-	margin-top: 26px;
 }
 
 #u7071-6
@@ -266,9 +210,17 @@
 	font-weight: 400;
 }
 
-#u7071-4
+#u30877-2,#u7058-2,#u7055-2,#u7055-3,#u7055-5,#u7071-2
+{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#u7058-4,#u7071-4
 {
 	font-style: italic;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 #u7071-6-bw
@@ -304,6 +256,21 @@
 	position: relative;
 }
 
+#u36961-4
+{
+	min-height: 32px;
+	position: relative;
+}
+
+#u36961-4:hover
+{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	min-height: 32px;
+	margin-right: 0px;
+	padding-top: 0px;
+}
+
 #u36962-4,#u36963-4
 {
 	min-height: 32px;
@@ -321,14 +288,14 @@
 	padding-top: 0px;
 }
 
-#u36961-4,#u36964-4
+#u36964-4
 {
 	min-height: 32px;
 	margin-top: 10px;
 	position: relative;
 }
 
-#u36961-4:hover,#u36964-4:hover
+#u36964-4:hover
 {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
@@ -764,9 +731,18 @@ body
 		z-index: 160;
 	}
 
+	#pu30879
+	{
+		margin-top: 24px;
+		width: 100%;
+	}
+
 	#u30879
 	{
 		z-index: 171;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 42.92%;
 	}
@@ -774,12 +750,17 @@ body
 	#u30880
 	{
 		z-index: 172;
+		display: block;
 		width: 100%;
 	}
 
 	#u30881
 	{
 		z-index: 173;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 1px;
 		width: 4.09%;
 		left: 48%;
 	}
@@ -787,12 +768,16 @@ body
 	#u30882
 	{
 		z-index: 174;
+		display: block;
 		width: 100%;
 	}
 
 	#u30883
 	{
 		z-index: 175;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 52.92%;
 	}
@@ -800,6 +785,7 @@ body
 	#u30884
 	{
 		z-index: 176;
+		display: block;
 		width: 100%;
 	}
 
@@ -819,38 +805,53 @@ body
 		z-index: 126;
 	}
 
-	#u30912,#u30912-bw
+	#u30912
 	{
 		z-index: 177;
+		background-image: url("../images/zuckwalks-u30912-fr.jpg");
+	}
+
+	#u30912-bw
+	{
+		z-index: 177;
+		margin-top: 45px;
 	}
 
 	#u7058-6
 	{
 		z-index: 143;
+		min-height: 26px;
 	}
 
 	#u7058-6-bw
 	{
 		z-index: 143;
+		min-height: 26px;
 		margin-top: 7px;
 	}
 
 	#u7055-7
 	{
 		z-index: 136;
-		min-height: 204px;
+		min-height: 187px;
 	}
 
 	#u7055-7-bw
 	{
 		z-index: 136;
-		min-height: 204px;
+		min-height: 187px;
 		margin-top: 31px;
 	}
 
-	#u30915,#u30915-bw
+	#u30915
 	{
 		z-index: 178;
+	}
+
+	#u30915-bw
+	{
+		z-index: 178;
+		margin-top: 43px;
 	}
 
 	#u7071-6,#u7071-6-bw
@@ -923,12 +924,14 @@ body
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.53%;
 		margin-left: 4.87%;
 	}
@@ -1338,9 +1341,18 @@ body
 		z-index: 160;
 	}
 
+	#pu30879
+	{
+		margin-top: 24px;
+		width: 100%;
+	}
+
 	#u30879
 	{
 		z-index: 171;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 42.92%;
 	}
@@ -1348,12 +1360,17 @@ body
 	#u30880
 	{
 		z-index: 172;
+		display: block;
 		width: 100%;
 	}
 
 	#u30881
 	{
 		z-index: 173;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 1px;
 		width: 4.07%;
 		left: 48.03%;
 	}
@@ -1361,12 +1378,16 @@ body
 	#u30882
 	{
 		z-index: 174;
+		display: block;
 		width: 100%;
 	}
 
 	#u30883
 	{
 		z-index: 175;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.17%;
 		left: 52.92%;
 	}
@@ -1374,6 +1395,7 @@ body
 	#u30884
 	{
 		z-index: 176;
+		display: block;
 		width: 100%;
 	}
 
@@ -1393,38 +1415,53 @@ body
 		z-index: 126;
 	}
 
-	#u30912,#u30912-bw
+	#u30912
 	{
 		z-index: 177;
+		background-image: url("../images/zuckwalks-u30912-fr.jpg");
+	}
+
+	#u30912-bw
+	{
+		z-index: 177;
+		margin-top: 45px;
 	}
 
 	#u7058-6
 	{
 		z-index: 143;
+		min-height: 26px;
 	}
 
 	#u7058-6-bw
 	{
 		z-index: 143;
+		min-height: 26px;
 		margin-top: 7px;
 	}
 
 	#u7055-7
 	{
 		z-index: 136;
-		min-height: 255px;
+		min-height: 221px;
 	}
 
 	#u7055-7-bw
 	{
 		z-index: 136;
-		min-height: 255px;
+		min-height: 221px;
 		margin-top: 31px;
 	}
 
-	#u30915,#u30915-bw
+	#u30915
 	{
 		z-index: 178;
+	}
+
+	#u30915-bw
+	{
+		z-index: 178;
+		margin-top: 43px;
 	}
 
 	#u7071-6,#u7071-6-bw
@@ -1497,12 +1534,14 @@ body
 	#u36961-4
 	{
 		z-index: 110;
+		margin-top: 10px;
 		width: 88.48%;
 		margin-left: 4.79%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.48%;
 		margin-left: 4.79%;
 	}
@@ -1556,7 +1595,7 @@ body
 
 }
 
-@media (max-width: 900px)
+@media (min-width: 381px) and (max-width: 900px)
 {
 	#muse_css_mq
 	{
@@ -1964,9 +2003,18 @@ body
 		z-index: 167;
 	}
 
+	#pu30879
+	{
+		margin-top: 24px;
+		width: 100%;
+	}
+
 	#u30879
 	{
 		z-index: 178;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.12%;
 		left: 42.89%;
 	}
@@ -1974,6 +2022,7 @@ body
 	#u30880
 	{
 		z-index: 179;
+		display: block;
 		margin-bottom: 18.91891891891892%;
 		width: 81.09%;
 	}
@@ -1981,6 +2030,10 @@ body
 	#u30881
 	{
 		z-index: 180;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 1px;
 		width: 4.12%;
 		left: 48%;
 	}
@@ -1988,6 +2041,7 @@ body
 	#u30882
 	{
 		z-index: 181;
+		display: block;
 		margin-bottom: 18.91891891891892%;
 		width: 78.38%;
 	}
@@ -1995,6 +2049,9 @@ body
 	#u30883
 	{
 		z-index: 182;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
 		width: 4.12%;
 		left: 52.89%;
 	}
@@ -2002,6 +2059,7 @@ body
 	#u30884
 	{
 		z-index: 183;
+		display: block;
 		margin-bottom: 18.91891891891892%;
 		width: 81.09%;
 	}
@@ -2022,38 +2080,53 @@ body
 		z-index: 133;
 	}
 
-	#u30912,#u30912-bw
+	#u30912
 	{
 		z-index: 184;
+		background-image: url("../images/zuckwalks-u30912-fr.jpg");
+	}
+
+	#u30912-bw
+	{
+		z-index: 184;
+		margin-top: 45px;
 	}
 
 	#u7058-6
 	{
 		z-index: 150;
+		min-height: 26px;
 	}
 
 	#u7058-6-bw
 	{
 		z-index: 150;
+		min-height: 26px;
 		margin-top: 6px;
 	}
 
 	#u7055-7
 	{
 		z-index: 143;
-		min-height: 272px;
+		min-height: 238px;
 	}
 
 	#u7055-7-bw
 	{
 		z-index: 143;
-		min-height: 272px;
+		min-height: 238px;
 		margin-top: 32px;
 	}
 
-	#u30915,#u30915-bw
+	#u30915
 	{
 		z-index: 185;
+	}
+
+	#u30915-bw
+	{
+		z-index: 185;
+		margin-top: 43px;
 	}
 
 	#u7071-6,#u7071-6-bw
@@ -2127,12 +2200,14 @@ body
 	#u36961-4
 	{
 		z-index: 67;
+		margin-top: 10px;
 		width: 88.52%;
 		margin-left: 4.88%;
 	}
 
 	#u36961-4:hover
 	{
+		margin-top: 10px;
 		width: 88.52%;
 		margin-left: 4.88%;
 	}
@@ -2182,6 +2257,612 @@ body
 	#u1056-4-bw
 	{
 		margin-top: 193px;
+	}
+
+}
+
+@media (max-width: 380px)
+{
+	#muse_css_mq
+	{
+		background-color: #00017c;
+	}
+
+	#bp_380.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 776.9067396910823px;
+		padding-bottom: 0px;
+		max-width: 380px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -218px;
+	}
+
+	#u32886,#u32886-bw
+	{
+		height: 60px;
+	}
+
+	#accordionu49203
+	{
+		z-index: 83;
+	}
+
+	#u49204
+	{
+		z-index: 84;
+	}
+
+	#u49207-4
+	{
+		z-index: 85;
+		min-height: 14px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	#u49207-4:active
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-4.AccordionPanelTabOpen
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 14px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49207-3
+	{
+		margin-left: 10px;
+	}
+
+	#u49205
+	{
+		z-index: 89;
+		padding-bottom: 9px;
+	}
+
+	#u49272
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49273-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272:hover #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49272:active #u49273-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277
+	{
+		min-height: 17px;
+		padding-bottom: 6px;
+		position: relative;
+	}
+
+	#u49272.MuseMenuActive,#u49277:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49280-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49272.MuseMenuActive #u49273-4,#u49277:hover #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49277:active #u49280-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49277.MuseMenuActive,#u49344:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49345-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49277.MuseMenuActive #u49280-4,#u49344:hover #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49344:active #u49345-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49344.MuseMenuActive,#u49397:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49400-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49344.MuseMenuActive #u49345-4,#u49397:hover #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49397:active #u49400-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49397.MuseMenuActive,#u49444:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49446-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49397.MuseMenuActive #u49400-4,#u49444:hover #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49444:active #u49446-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49444.MuseMenuActive,#u49493:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49496-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49444.MuseMenuActive #u49446-4,#u49493:hover #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49493:active #u49496-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542
+	{
+		min-height: 17px;
+		padding-bottom: 7px;
+		position: relative;
+	}
+
+	#u49493.MuseMenuActive,#u49542:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49543-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 3px;
+	}
+
+	#u49493.MuseMenuActive #u49496-4,#u49542:hover #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542:active #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49542.MuseMenuActive #u49543-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u49276,#u49343,#u49394,#u49443,#u49492,#u49541
+	{
+		margin-top: 2px;
+	}
+
+	#menuu49268,#menuu49268-bw
+	{
+		z-index: 90;
+		min-height: 178px;
+	}
+
+	#accordionu49203-bw
+	{
+		z-index: 83;
+		margin-top: 25px;
+	}
+
+	#u30877-4,#u30877-4-bw
+	{
+		z-index: 163;
+	}
+
+	#u30878-11,#u30878-11-bw
+	{
+		z-index: 167;
+	}
+
+	#u30876
+	{
+		z-index: 162;
+	}
+
+	#u30876-bw
+	{
+		z-index: 162;
+		margin-top: 24px;
+	}
+
+	#u7027-10,#u7027-10-bw
+	{
+		z-index: 133;
+	}
+
+	#u30912
+	{
+		z-index: 178;
+		background-image: url("../images/zuckwalks-u30912-fr2.jpg");
+	}
+
+	#u30912-bw
+	{
+		z-index: 178;
+		margin-top: 18px;
+	}
+
+	#u7058-6
+	{
+		z-index: 150;
+		min-height: 52px;
+	}
+
+	#u7058-6-bw
+	{
+		z-index: 150;
+		min-height: 52px;
+		margin-top: 7px;
+	}
+
+	#u7055-7
+	{
+		z-index: 143;
+		min-height: 578px;
+	}
+
+	#u7055-7-bw
+	{
+		z-index: 143;
+		min-height: 578px;
+		margin-top: 31px;
+	}
+
+	#u30915
+	{
+		z-index: 179;
+	}
+
+	#u30915-bw
+	{
+		z-index: 179;
+		margin-top: 5px;
+	}
+
+	#u7071-6,#u7071-6-bw
+	{
+		z-index: 156;
+	}
+
+	#pu29954
+	{
+		margin-top: 16px;
+	}
+
+	#u29954
+	{
+		z-index: 57;
+		width: 11.85%;
+		left: 27.11%;
+	}
+
+	#u29955
+	{
+		z-index: 58;
+	}
+
+	#u29956
+	{
+		z-index: 59;
+		margin-top: 1px;
+		width: 11.58%;
+		left: 41.58%;
+	}
+
+	#u29957
+	{
+		z-index: 60;
+	}
+
+	#u29958
+	{
+		z-index: 61;
+		width: 11.85%;
+		left: 55.79%;
+	}
+
+	#u29959
+	{
+		z-index: 62;
+	}
+
+	#u36959
+	{
+		margin-top: 17px;
+		width: 95.79%;
+		margin-left: 2.11%;
+	}
+
+	#u36959:hover
+	{
+		margin-top: 17px;
+		width: 95.79%;
+		margin-left: 2.11%;
+	}
+
+	#u36960-4
+	{
+		z-index: 63;
+		width: 94.24%;
+		margin-left: 2.48%;
+	}
+
+	#u36961-4
+	{
+		z-index: 67;
+		margin-top: 22px;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36961-4:hover
+	{
+		margin-top: 22px;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36962-4
+	{
+		z-index: 71;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36963-4
+	{
+		z-index: 75;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36964-4
+	{
+		z-index: 79;
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#u36962-4:hover,#u36963-4:hover,#u36964-4:hover
+	{
+		width: 88.47%;
+		margin-left: 4.95%;
+	}
+
+	#pu1009
+	{
+		margin-top: 51px;
+	}
+
+	#u1010-4-bw
+	{
+		margin-top: 20px;
+	}
+
+	#menuu1011-bw
+	{
+		margin-top: 46px;
+	}
+
+	#u1056-4-bw
+	{
+		margin-top: 194px;
 	}
 
 	body
