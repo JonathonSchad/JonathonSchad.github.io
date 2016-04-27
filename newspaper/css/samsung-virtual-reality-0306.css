@@ -1,7 +1,7 @@
 .version.samsung_virtual_reality_0306 /* version checker */
 {
-	color: #000011;
-	background-color: #81B31D;
+	color: #0000F2;
+	background-color: #9B0C1F;
 }
 
 .js body
@@ -159,10 +159,8 @@
 
 #u30912
 {
-	background-color: transparent;
-	background-position: center top;
 	height: 307px;
-	background-repeat: no-repeat;
+	background: transparent url("../images/zuckwalks.jpg") no-repeat center top;
 	background-size: contain;
 }
 
@@ -808,7 +806,6 @@ body
 	#u30912
 	{
 		z-index: 177;
-		background-image: url("../images/zuckwalks-u30912-fr.jpg");
 	}
 
 	#u30912-bw
@@ -1418,7 +1415,6 @@ body
 	#u30912
 	{
 		z-index: 177;
-		background-image: url("../images/zuckwalks-u30912-fr.jpg");
 	}
 
 	#u30912-bw
@@ -2083,7 +2079,6 @@ body
 	#u30912
 	{
 		z-index: 184;
-		background-image: url("../images/zuckwalks-u30912-fr.jpg");
 	}
 
 	#u30912-bw
@@ -2689,7 +2684,6 @@ body
 	#u30912
 	{
 		z-index: 178;
-		background-image: url("../images/zuckwalks-u30912-fr2.jpg");
 	}
 
 	#u30912-bw

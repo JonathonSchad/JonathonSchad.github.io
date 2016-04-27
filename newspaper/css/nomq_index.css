@@ -942,6 +942,15 @@
 		margin-left: 31.15%;
 	}
 
+	#pu36036-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 12px;
+		width: 44.9%;
+		margin-left: 1.35%;
+	}
+
 	#u36036-4
 	{
 		z-index: 76;
@@ -967,7 +976,7 @@
 	#u36040-4
 	{
 		z-index: 92;
-		min-height: 132px;
+		min-height: 62px;
 		background-color: transparent;
 		line-height: 38px;
 		font-size: 32px;
@@ -985,7 +994,7 @@
 		filter: alpha(opacity=50);
 		padding-top: 0px;
 		padding-bottom: 0px;
-		min-height: 132px;
+		min-height: 62px;
 		width: 100%;
 		margin: 13px 0px 0px 0%;
 	}
@@ -997,11 +1006,10 @@
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 65px;
+		margin-top: 33px;
 		position: relative;
 		width: 100%;
 	}
@@ -1023,7 +1031,7 @@
 		border-color: #000000;
 		position: relative;
 		width: 99.71%;
-		background: transparent url("../images/160416-attawapiskat-first-nation-ef-1713_9955daabec34cb7f4f9bb48872b29afdnbcnews-fp-1200-800-u36030-fr.jpg") no-repeat left top;
+		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u36030-fr.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -1069,7 +1077,7 @@
 		margin-left: 31.15%;
 	}
 
-	#pu36036-4,#pu36629-4
+	#pu36629-4
 	{
 		margin-right: -10000px;
 		margin-top: 12px;
@@ -2296,7 +2304,7 @@
 		margin: 0px 0px -2px 2.3827252419955323%;
 	}
 
-	#u36658,#u36655,#u36638,#u36649,#u36652,#u36712,#u36718,#u36706,#u36709,#u36715,#u37230,#u37235,#u37215,#u37220,#u37225
+	#u36658,#u36655,#u36638,#u36649,#u36712,#u36718,#u36706,#u36709,#u36715,#u37230,#u37235,#u37215,#u37220,#u37225
 	{
 		font-size: 18px;
 	}
@@ -2349,14 +2357,14 @@
 		position: relative;
 		width: 95.84%;
 		margin-left: 2.31%;
-		background: transparent url("../images/2014-07-15-10-39-33-pride-flag.jpg") no-repeat center center;
+		background: transparent url("../images/rtx1wwsv.jpg") no-repeat right bottom;
 		background-size: cover;
 	}
 
 	#u37184:hover
 	{
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: right bottom;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 		filter: alpha(opacity=70);
@@ -2426,7 +2434,7 @@
 		margin: 1px 0px 0px 2.308265078183172%;
 	}
 
-	#u36040-4:hover p,#u36626-4:hover p,#u36658-4:hover p,#u36658-4:hover span,#u36655-4:hover p,#u36655-4:hover span,#u36638-4:hover p,#u36638-4:hover span,#u36649-4:hover p,#u36649-4:hover span,#u36652-4:hover p,#u36652-4:hover span,#u36676-4:hover p,#u36694-4:hover p,#u36712-4:hover p,#u36712-4:hover span,#u36718-4:hover p,#u36718-4:hover span,#u36706-4:hover p,#u36706-4:hover span,#u36709-4:hover p,#u36709-4:hover span,#u36715-4:hover p,#u36715-4:hover span,#u37168-4:hover p,#u37230-4:hover p,#u37230-4:hover span,#u37235-4:hover p,#u37235-4:hover span,#u37215-4:hover p,#u37215-4:hover span,#u37220-4:hover p,#u37220-4:hover span,#u37225-4:hover p,#u37225-4:hover span,#u37189-4:hover p
+	#u36040-4:hover p,#u36626-4:hover p,#u36658-4:hover p,#u36658-4:hover span,#u36655-4:hover p,#u36655-4:hover span,#u36638-4:hover p,#u36638-4:hover span,#u36649-4:hover p,#u36649-4:hover span,#u36652-4:hover p,#u36676-4:hover p,#u36694-4:hover p,#u36712-4:hover p,#u36712-4:hover span,#u36718-4:hover p,#u36718-4:hover span,#u36706-4:hover p,#u36706-4:hover span,#u36709-4:hover p,#u36709-4:hover span,#u36715-4:hover p,#u36715-4:hover span,#u37168-4:hover p,#u37230-4:hover p,#u37230-4:hover span,#u37235-4:hover p,#u37235-4:hover span,#u37215-4:hover p,#u37215-4:hover span,#u37220-4:hover p,#u37220-4:hover span,#u37225-4:hover p,#u37225-4:hover span,#u37189-4:hover p
 	{
 		color: #EDA900;
 		visibility: inherit;
@@ -2437,10 +2445,10 @@
 		z-index: 442;
 		min-height: 60px;
 		background-color: transparent;
-		color: #323232;
 		text-align: justify;
-		font-size: 16px;
 		line-height: 19px;
+		color: #323232;
+		font-size: 16px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		position: relative;
