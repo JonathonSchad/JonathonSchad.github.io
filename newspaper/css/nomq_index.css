@@ -1495,7 +1495,7 @@
 		position: relative;
 		width: 95.84%;
 		margin-left: 2.31%;
-		background: transparent url("../images/zika-virus-microscope.jpg") no-repeat center center;
+		background: transparent url("../images/human%20embryonic%20stem%20cells.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -1584,7 +1584,7 @@
 		z-index: 62;
 		background-color: #FFFFFF;
 		padding-top: 12px;
-		padding-bottom: 71.27996309962964px;
+		padding-bottom: 95.12996309962955px;
 		margin-top: 62px;
 		position: relative;
 		width: 67.15%;
@@ -1619,13 +1619,13 @@
 		z-index: 100;
 		min-height: 132px;
 		background-color: transparent;
-		line-height: 55px;
-		font-size: 46px;
+		line-height: 52px;
+		font-size: 43px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		margin-top: 13px;
 		position: relative;
-		width: 96.95%;
+		width: 96.88%;
 		margin-left: 1.35%;
 	}
 
@@ -1637,7 +1637,7 @@
 		padding-top: 0px;
 		padding-bottom: 0px;
 		min-height: 132px;
-		width: 96.95%;
+		width: 96.88%;
 		margin: 13px 0px 0px 1.340282948622487%;
 	}
 
@@ -1652,9 +1652,9 @@
 		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 42px;
+		margin-top: 20px;
 		position: relative;
-		width: 96.95%;
+		width: 96.88%;
 		margin-left: 1.35%;
 	}
 
@@ -1666,11 +1666,18 @@
 		background-color: #FFFFFF;
 		padding-top: 6px;
 		padding-bottom: 14.099999999999909px;
-		margin-top: 60px;
+		margin-top: 61px;
 		position: relative;
 		width: 67.15%;
 		margin-left: 31.15%;
 		border-width: 4px 0px 0px;
+	}
+
+	#u36703:hover
+	{
+		min-height: 0px;
+		width: 67.15%;
+		margin: 61px 0px 0px 31.15%;
 	}
 
 	#u36700-4
@@ -1934,8 +1941,8 @@
 		z-index: 430;
 		min-height: 185px;
 		background-color: transparent;
-		line-height: 55px;
-		font-size: 46px;
+		line-height: 42px;
+		font-size: 35px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		margin-top: 14px;
@@ -1966,7 +1973,7 @@
 		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 28px;
+		margin-top: 51px;
 		position: relative;
 		width: 100%;
 	}
@@ -1988,7 +1995,7 @@
 		border-color: #000000;
 		position: relative;
 		width: 99.71%;
-		background: transparent url("../images/7315bac0-e0b0-0132-cee9-0e01949ad350-u37163-fr.jpg") no-repeat left top;
+		background: transparent url("../images/img_0635-u37163-fr.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -2029,7 +2036,7 @@
 		border-color: #002C73;
 		background-color: #FFFFFF;
 		padding-top: 6px;
-		padding-bottom: 14.099999999999454px;
+		padding-bottom: 14.099999999999px;
 		margin-top: 60px;
 		position: relative;
 		width: 67.15%;
@@ -2037,7 +2044,7 @@
 		border-width: 4px 0px 0px;
 	}
 
-	#u36632:hover,#u36703:hover,#u37204:hover
+	#u36632:hover,#u37204:hover
 	{
 		min-height: 0px;
 		width: 67.15%;
@@ -2576,7 +2583,7 @@
 
 	#pu35582
 	{
-		margin-top: 243px;
+		margin-top: 240px;
 	}
 
 	#u35635

@@ -10,35 +10,13 @@
 
 	#page
 	{
-		z-index: 1;
-		min-height: 584.5749999999998px;
-		background-image: none;
-		border-width: 0px;
-		border-color: #000000;
-		background-color: transparent;
-		padding-bottom: 0px;
-		width: 100%;
+		min-height: 585px;
 		max-width: 1200px;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	#u176,#u176-bw
-	{
-		z-index: 2;
-		height: 81px;
 	}
 
 	#u32889,#u32889-bw
 	{
 		z-index: 107;
-		height: 81px;
-	}
-
-	#u1492-3,#u1492-3-bw
-	{
-		z-index: 3;
-		min-height: 33px;
 	}
 
 	#menuu676
@@ -456,11 +434,35 @@
 		margin: 0px -10000px 0px 0px;
 	}
 
+	#ppu81378
+	{
+		margin-top: 10px;
+		width: 100%;
+	}
+
+	#pu81378
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 19px;
+		width: 29.09%;
+	}
+
+	#u81378
+	{
+		z-index: 367;
+		min-height: 523px;
+		position: relative;
+		width: 98.86%;
+		margin-left: 1.15%;
+	}
+
 	#slideshowu24475
 	{
 		z-index: 108;
 		width: 0.01px;
 		height: 402px;
+		margin-top: 23px;
 		position: relative;
 	}
 
@@ -670,37 +672,11 @@
 		z-index: 337;
 	}
 
-	#u45699-4
-	{
-		z-index: 367;
-		min-height: 60px;
-		background-color: transparent;
-		color: #002C73;
-		text-align: right;
-		font-size: 42px;
-		line-height: 50px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		top: -392px;
-		margin-bottom: -60px;
-		position: relative;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#pu40558
-	{
-		margin-top: -328px;
-		width: 100%;
-	}
-
 	#u40558
 	{
 		z-index: 341;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 354px;
-		width: 29.09%;
+		margin-top: 26px;
+		width: 100%;
 	}
 
 	#u24113
@@ -792,7 +768,7 @@
 		margin: 21px 0px 0px 36.67621776504298%;
 	}
 
-	#pu56577
+	#pu45699-4
 	{
 		padding-bottom: 0px;
 		margin-right: -10000px;
@@ -800,33 +776,253 @@
 		margin-left: 31.17%;
 	}
 
-	#u56577
+	#u45699-4
 	{
-		z-index: 435;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
+		z-index: 368;
+		min-height: 60px;
 		width: 100%;
 	}
 
-	#u45725
+	#pu45700
 	{
-		z-index: 436;
+		margin-top: 4px;
+		width: 100%;
+	}
+
+	#u45700
+	{
+		z-index: 372;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
 		position: relative;
 		margin-right: -10000px;
+		margin-top: 1133px;
+		width: 100%;
+	}
+
+	#u45704
+	{
+		z-index: 373;
+		background-color: #FFFFFF;
+		padding-bottom: 60px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u45703-4
+	{
+		z-index: 375;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 32px;
+		font-size: 27px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u45702-4
+	{
+		z-index: 379;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-size: 14px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 19px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u45701
+	{
+		z-index: 374;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/zika-virus-microscope-u45701-fr.jpg") no-repeat left center;
+		background-size: cover;
+	}
+
+	#u45715
+	{
+		z-index: 405;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 814px;
+		width: 100%;
+	}
+
+	#u45719
+	{
+		z-index: 406;
+		background-color: #FFFFFF;
+		padding-bottom: 20px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#pu45717-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 14px;
+		width: 44.92%;
+		margin-left: 1.37%;
+	}
+
+	#u45717-4
+	{
+		z-index: 408;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 43px;
+		font-size: 36px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u45718-4
+	{
+		z-index: 412;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-size: 14px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 14px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u45716
+	{
+		z-index: 407;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 25px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/150414-s300-missile-iran-jsw-614a_4cfcb240a5a578c61dbe5b5d65e71629nbcnews-ux-2880-1000-u45716-fr.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u45716:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.51%;
+		margin: 25px -10000px 0px 0%;
+		background-size: cover;
+	}
+
+	#u45730
+	{
+		z-index: 416;
+		margin-right: -10000px;
+		margin-top: 605px;
+		width: 100%;
+	}
+
+	#u45732
+	{
+		z-index: 417;
+	}
+
+	#u45735
+	{
+		z-index: 418;
+	}
+
+	#u45736
+	{
+		z-index: 419;
+	}
+
+	#u45734-4
+	{
+		z-index: 420;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u45733-4
+	{
+		z-index: 424;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u45737-4
+	{
+		z-index: 428;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u45731-4
+	{
+		z-index: 432;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u56577
+	{
+		z-index: 455;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		padding-bottom: 0px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u45725
+	{
+		z-index: 456;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
 		width: 100%;
 	}
 
 	#u45729
 	{
-		z-index: 437;
+		z-index: 457;
 		background-color: #FFFFFF;
 		padding-top: 23px;
-		padding-bottom: 47px;
+		padding-bottom: 52px;
 		position: relative;
 		margin-right: -10000px;
 		width: 100%;
@@ -834,7 +1030,7 @@
 
 	#u45728
 	{
-		z-index: 446;
+		z-index: 466;
 		height: 418px;
 		border-style: solid;
 		border-width: 1px;
@@ -842,7 +1038,7 @@
 		position: relative;
 		width: 95.79%;
 		margin-left: 2.36%;
-		background: transparent url("../images/zika-virus-microscope.jpg") no-repeat center center;
+		background: transparent url("../images/human%20embryonic%20stem%20cells-u45728-fr.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -862,7 +1058,7 @@
 
 	#u45726-4
 	{
-		z-index: 438;
+		z-index: 458;
 		min-height: 60px;
 		background-color: transparent;
 		line-height: 32px;
@@ -889,7 +1085,7 @@
 
 	#u45727-4
 	{
-		z-index: 442;
+		z-index: 462;
 		min-height: 46px;
 		background-color: transparent;
 		color: #323232;
@@ -905,7 +1101,7 @@
 
 	#u56571-4
 	{
-		z-index: 447;
+		z-index: 467;
 		min-height: 31px;
 		background-color: transparent;
 		color: #323232;
@@ -914,11 +1110,10 @@
 		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 700;
+		margin-top: 838px;
 		position: relative;
-		margin-right: -10000px;
-		margin-top: 573px;
 		width: 95.91%;
-		left: 2.36%;
+		margin-left: 2.36%;
 	}
 
 	#u56571-4:hover
@@ -930,332 +1125,30 @@
 		padding-bottom: 0px;
 		min-height: 31px;
 		width: 95.91%;
-		margin: 573px -10000px 0px 0%;
+		margin: 838px 0px 0px 2.357320099255583%;
 	}
 
-	#u45730
-	{
-		z-index: 415;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		margin-top: 1px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45732
-	{
-		z-index: 416;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u45735
-	{
-		z-index: 417;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u45736
-	{
-		z-index: 418;
-		height: 209px;
-		background-color: #DBDBDB;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u45734-4
-	{
-		z-index: 419;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 60px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u45734-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 60px -10000px 0px 0%;
-	}
-
-	#u45733-4
-	{
-		z-index: 423;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 112px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u45733-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 112px -10000px 0px 0%;
-	}
-
-	#u45737-4
-	{
-		z-index: 427;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 164px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u45737-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 164px -10000px 0px 0%;
-	}
-
-	#u56571-4:hover p,#u45734-4:hover p,#u45733-4:hover p,#u45737-4:hover p
+	#u56571-4:hover p
 	{
 		color: #002C73;
 		visibility: inherit;
 	}
 
-	#u45731-4
-	{
-		z-index: 431;
-		min-height: 36px;
-		background-color: transparent;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 9px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u45731
-	{
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-	}
-
-	#u45715
-	{
-		z-index: 404;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45719
-	{
-		z-index: 405;
-		background-color: #FFFFFF;
-		padding-bottom: 8px;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#pu45717-4
-	{
-		margin-right: -10000px;
-		width: 44.92%;
-		margin-left: 1.37%;
-	}
-
-	#u45717-4
-	{
-		z-index: 407;
-		min-height: 88px;
-		background-color: transparent;
-		line-height: 48px;
-		font-size: 40px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45718-4
-	{
-		z-index: 411;
-		min-height: 69px;
-		background-color: transparent;
-		color: #323232;
-		text-align: justify;
-		font-size: 14px;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		margin-top: 14px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45716
-	{
-		z-index: 406;
-		height: 272px;
-		border-style: solid;
-		border-width: 1px;
-		border-color: #000000;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 25px;
-		width: 49.51%;
-		left: 48.76%;
-		background: transparent url("../images/3-d-printing-drug_sham-u45716-fr.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#u45716:hover
-	{
-		background-repeat: no-repeat;
-		background-position: center center;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		height: 272px;
-		min-height: 0px;
-		width: 49.51%;
-		margin: 25px -10000px 0px 0%;
-		background-size: cover;
-	}
-
-	#u45700
-	{
-		z-index: 371;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u45704
-	{
-		z-index: 372;
-		background-color: #FFFFFF;
-		padding-bottom: 60px;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u45703-4
-	{
-		z-index: 374;
-		min-height: 88px;
-		background-color: transparent;
-		line-height: 50px;
-		font-size: 42px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45702-4
-	{
-		z-index: 378;
-		min-height: 69px;
-		background-color: transparent;
-		color: #323232;
-		text-align: justify;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		margin-top: 24px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u45701
-	{
-		z-index: 373;
-		height: 272px;
-		border-style: solid;
-		border-width: 1px;
-		border-color: #000000;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 24px;
-		width: 49.51%;
-		left: 48.76%;
-		background: transparent url("../images/1458651119_great_barrier_reef-u45701-fr.jpg") no-repeat left center;
-		background-size: cover;
-	}
-
 	#u45705
 	{
-		z-index: 382;
+		z-index: 383;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
 		position: relative;
-		width: 67.17%;
-		margin-left: 31.17%;
+		width: 100%;
 	}
 
 	#u45709
 	{
-		z-index: 383;
+		z-index: 384;
 		background-color: #FFFFFF;
-		padding-bottom: 21px;
+		padding-bottom: 15px;
 		position: relative;
 		margin-right: -10000px;
 		width: 100%;
@@ -1263,11 +1156,11 @@
 
 	#u45708-4
 	{
-		z-index: 385;
+		z-index: 386;
 		min-height: 88px;
 		background-color: transparent;
-		line-height: 34px;
-		font-size: 28px;
+		line-height: 43px;
+		font-size: 36px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		position: relative;
@@ -1276,21 +1169,22 @@
 
 	#u45706-4
 	{
-		z-index: 389;
+		z-index: 390;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
+		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 14px;
+		margin-top: 23px;
 		position: relative;
 		width: 100%;
 	}
 
 	#u45707
 	{
-		z-index: 384;
+		z-index: 385;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1300,13 +1194,13 @@
 		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
-		background: transparent url("../images/boaty_wide-1aaa376fdd015039a077cecfe2096e8839599d7e-s900-c85-u45707-fr.jpg") no-repeat left center;
+		background: transparent url("../images/3-d-printing-drug_sham-u45707-fr.jpg") no-repeat left center;
 		background-size: cover;
 	}
 
 	#u45710
 	{
-		z-index: 393;
+		z-index: 394;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -1317,7 +1211,7 @@
 
 	#u45713
 	{
-		z-index: 394;
+		z-index: 395;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1335,7 +1229,7 @@
 
 	#u45711-4
 	{
-		z-index: 396;
+		z-index: 397;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 50px;
@@ -1346,7 +1240,7 @@
 		width: 100%;
 	}
 
-	#u45717-4:hover,#u45703-4:hover,#u45708-4:hover,#u45711-4:hover
+	#u45703-4:hover,#u45717-4:hover,#u45708-4:hover,#u45711-4:hover
 	{
 		opacity: 0.5;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -1358,7 +1252,7 @@
 		margin: 0px 0px 0px 0%;
 	}
 
-	#u45726-4:hover p,#u45717-4:hover p,#u45703-4:hover p,#u45708-4:hover p,#u45711-4:hover p
+	#u45703-4:hover p,#u45717-4:hover p,#u45726-4:hover p,#u45708-4:hover p,#u45711-4:hover p
 	{
 		color: #EDA900;
 		visibility: inherit;
@@ -1366,21 +1260,21 @@
 
 	#u45714-4
 	{
-		z-index: 400;
+		z-index: 401;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 38px;
+		margin-top: 30px;
 		position: relative;
 		width: 100%;
 	}
 
 	#u45712
 	{
-		z-index: 395;
+		z-index: 396;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1390,7 +1284,7 @@
 		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
-		background: transparent url("../images/capture-u45712-fr.jpg") no-repeat left center;
+		background: transparent url("../images/1458651119_great_barrier_reef-u45712-fr.jpg") no-repeat left center;
 		background-size: cover;
 	}
 
@@ -1408,173 +1302,89 @@
 		background-size: cover;
 	}
 
+	#u82590
+	{
+		z-index: 436;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u82592
+	{
+		z-index: 437;
+	}
+
+	#u82594
+	{
+		z-index: 438;
+	}
+
+	#u82595
+	{
+		z-index: 439;
+	}
+
+	#u82597-4
+	{
+		z-index: 440;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u82596-4
+	{
+		z-index: 444;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u82593-3
+	{
+		z-index: 448;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u45734-4:hover,#u45733-4:hover,#u45737-4:hover,#u82597-4:hover,#u82596-4:hover,#u82593-3:hover
+	{
+		width: 81.39%;
+	}
+
+	#u82591-4
+	{
+		z-index: 451;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#pu814
+	{
+		margin-top: 1px;
+	}
+
 	#u814,#u814-bw
 	{
 		z-index: 49;
-		height: 215px;
 	}
 
-	#u815-4
+	#u815-4,#u815-4-bw
 	{
 		z-index: 50;
-		min-height: 26px;
 	}
 
-	#u815-4-bw
-	{
-		z-index: 50;
-		min-height: 26px;
-		margin-top: 6px;
-	}
-
-	#menuu816
+	#menuu816,#menuu816-bw
 	{
 		z-index: 54;
-		min-height: 131px;
 	}
 
-	#u43587
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u43589-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u853
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u855-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u841
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u843-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u820
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u821-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u4067
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u4070-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u825
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u827-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u832
-	{
-		min-height: 14px;
-		padding-bottom: 3px;
-		position: relative;
-	}
-
-	#u43587.MuseMenuActive,#u853.MuseMenuActive,#u841.MuseMenuActive,#u820.MuseMenuActive,#u4067.MuseMenuActive,#u825.MuseMenuActive,#u832.MuseMenuActive
-	{
-		min-height: 14px;
-		margin: 0px 0px 0px 0%;
-	}
-
-	#u834-4
-	{
-		min-height: 14px;
-		position: relative;
-		top: 1px;
-	}
-
-	#u43587.MuseMenuActive #u43589-4,#u853.MuseMenuActive #u855-4,#u841.MuseMenuActive #u843-4,#u820.MuseMenuActive #u821-4,#u4067.MuseMenuActive #u4070-4,#u825.MuseMenuActive #u827-4,#u832.MuseMenuActive #u834-4
-	{
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 14px;
-		margin: 0px 0px 0px 0%;
-	}
-
-	#u852,#u838,#u817,#u4064,#u824,#u831
-	{
-		margin-top: 2px;
-	}
-
-	#menuu816-bw
-	{
-		z-index: 54;
-		min-height: 131px;
-		margin-top: 32px;
-	}
-
-	#u1693-4
+	#u1693-4,#u1693-4-bw
 	{
 		z-index: 97;
-		min-height: 21px;
-	}
-
-	#u1693-4-bw
-	{
-		z-index: 97;
-		min-height: 21px;
-		margin-top: 174px;
 	}
 
 	#u29981
 	{
 		z-index: 101;
-		position: relative;
-		margin-right: -10000px;
 		margin-top: 145px;
 		width: 5.17%;
 		left: 80.17%;
@@ -1589,9 +1399,7 @@
 	#u29983
 	{
 		z-index: 103;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 146px;
+		margin-top: 145px;
 		width: 5.09%;
 		left: 86.5%;
 	}
@@ -1605,8 +1413,6 @@
 	#u29985
 	{
 		z-index: 105;
-		position: relative;
-		margin-right: -10000px;
 		margin-top: 145px;
 		width: 5.17%;
 		left: 92.75%;
@@ -1618,17 +1424,7 @@
 		width: 100%;
 	}
 
-	.html
-	{
-		background-color: #F5F5F5;
-	}
-
-	body
-	{
-		position: relative;
-	}
-
-	#pu176,#pu1492-3,#pu814,#u24131_img
+	#u24131_img
 	{
 		width: 100%;
 	}
