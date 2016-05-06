@@ -1,7 +1,7 @@
 .version.life___local /* version checker */
 {
-	color: #00001F;
-	background-color: #8F91F6;
+	color: #00001E;
+	background-color: #4E5A6F;
 }
 
 .js body
@@ -16,14 +16,14 @@
 
 #page
 {
+	border-color: #000000;
+	margin-left: auto;
+	background-color: transparent;
 	margin-right: auto;
 	width: 100%;
-	border-width: 0px;
-	border-color: #000000;
-	background-color: transparent;
-	background-image: none;
-	margin-left: auto;
 	z-index: 1;
+	border-width: 0px;
+	background-image: none;
 }
 
 #u176,#u176-bw
@@ -45,68 +45,68 @@
 
 #u41875-4
 {
-	color: #002C73;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
 	min-height: 60px;
+	font-family: open-sans, sans-serif;
 	line-height: 50px;
-	text-align: right;
+	background-color: transparent;
 	font-weight: 800;
-	position: relative;
 	font-size: 42px;
+	text-align: right;
+	color: #002C73;
+	position: relative;
 }
 
 #u42253,#u42257,#u63501
 {
-	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+	border-width: 0px;
 }
 
 #u41906,#u41910,#u42259,#u42262,#u63503,#u63505
 {
-	width: 100%;
-	border-width: 0px;
 	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+	background-color: transparent;
+	border-width: 0px;
 }
 
 #u41911,#u42263,#u63506
 {
+	margin-right: -10000px;
 	width: 100%;
 	background-color: #DBDBDB;
-	margin-right: -10000px;
 	position: relative;
 }
 
-#u41909-4,#u41908-4,#u41907-4,#u42264-4,#u42261-4,#u42260-4,#u63504-4,#u63507-4,#u63508-3
+#u41909-4,#u41908-4,#u41907-4,#u42264-4,#u42261-4,#u42260-4,#u63504-4,#u63507-4,#u63508-4
 {
-	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	margin-right: -10000px;
 	line-height: 22px;
+	background-color: transparent;
+	color: #7F7F7F;
 	font-weight: 700;
-	position: relative;
 	font-size: 18px;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u41909-4:hover,#u41908-4:hover,#u41907-4:hover,#u42264-4:hover,#u42261-4:hover,#u42260-4:hover,#u63504-4:hover,#u63507-4:hover,#u63508-3:hover
+#u41909-4:hover,#u41908-4:hover,#u41907-4:hover,#u42264-4:hover,#u42261-4:hover,#u42260-4:hover,#u63504-4:hover,#u63507-4:hover,#u63508-4:hover
 {
 	margin-bottom: 0px;
 	opacity: 0.5;
+	padding-top: 0px;
 	margin-right: -10000px;
-	filter: alpha(opacity=50);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	padding-bottom: 0px;
 	margin-left: 0%;
-	padding-top: 0px;
+	filter: alpha(opacity=50);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
 
-#u41909-4:hover p,#u41908-4:hover p,#u41907-4:hover p,#u42264-4:hover p,#u42261-4:hover p,#u42260-4:hover p,#u63504-4:hover p,#u63507-4:hover p,#u63508-3:hover p
+#u41909-4:hover p,#u41908-4:hover p,#u41907-4:hover p,#u42264-4:hover p,#u42261-4:hover p,#u42260-4:hover p,#u63504-4:hover p,#u63507-4:hover p,#u63508-4:hover p
 {
 	visibility: inherit;
 	color: #002C73;
@@ -115,12 +115,12 @@
 #u42249-4,#u42258-4,#u63502-4
 {
 	min-height: 37px;
-	font-weight: 300;
-	line-height: 22px;
-	font-family: open-sans, sans-serif;
 	background-color: transparent;
 	margin-right: -10000px;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
 	position: relative;
+	font-weight: 300;
 	font-size: 18px;
 }
 
@@ -177,9 +177,9 @@
 
 #u43587.MuseMenuActive #u43589-4,#u853.MuseMenuActive #u855-4,#u841.MuseMenuActive #u843-4,#u820.MuseMenuActive #u821-4,#u4067.MuseMenuActive #u4070-4,#u825.MuseMenuActive #u827-4,#u832.MuseMenuActive #u834-4
 {
-	padding-bottom: 0px;
 	min-height: 14px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	margin: 0px 0px 0px 0%;
 }
 
@@ -205,7 +205,7 @@
 	margin-top: 174px;
 }
 
-#u29981,#u29983,#u29985
+#u40558,#u29981,#u29983,#u29985
 {
 	margin-right: -10000px;
 	position: relative;
@@ -216,7 +216,7 @@
 	background-color: #F5F5F5;
 }
 
-#u40558,body
+body
 {
 	position: relative;
 }
@@ -897,14 +897,6 @@
 		z-index: 337;
 	}
 
-	#pu41875-4
-	{
-		padding-bottom: 0px;
-		margin-right: -10000px;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
 	#u41875-4
 	{
 		z-index: 368;
@@ -913,7 +905,7 @@
 
 	#u41901
 	{
-		z-index: 438;
+		z-index: 448;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -924,10 +916,10 @@
 
 	#u41905
 	{
-		z-index: 439;
+		z-index: 449;
 		background-color: #FFFFFF;
 		padding-top: 23px;
-		padding-bottom: 14px;
+		padding-bottom: 11px;
 		position: relative;
 		margin-right: -10000px;
 		width: 100%;
@@ -935,7 +927,7 @@
 
 	#u41904
 	{
-		z-index: 448;
+		z-index: 458;
 		height: 418px;
 		border-style: solid;
 		border-width: 1px;
@@ -943,7 +935,7 @@
 		position: relative;
 		width: 95.79%;
 		margin-left: 2.36%;
-		background: transparent url("../images/img_0635-u41904-fr.jpg") no-repeat center center;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u41904-fr.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -963,7 +955,7 @@
 
 	#u41902-4
 	{
-		z-index: 440;
+		z-index: 450;
 		min-height: 60px;
 		background-color: transparent;
 		line-height: 42px;
@@ -990,113 +982,96 @@
 
 	#u41903-4
 	{
-		z-index: 444;
+		z-index: 454;
 		min-height: 46px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 16px;
+		margin-top: 8px;
 		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
 	}
 
-	#u42253
+	#u89484
 	{
-		z-index: 449;
+		z-index: 416;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
 		top: -333px;
-		margin-bottom: -209px;
+		margin-bottom: -272px;
+		position: relative;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
 
-	#u41906
+	#u89487
 	{
-		z-index: 450;
+		z-index: 417;
+		background-color: #FFFFFF;
+		padding-top: 40px;
+		padding-bottom: 35px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
 	}
 
-	#u41910
+	#u89486-4
 	{
-		z-index: 451;
+		z-index: 418;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 40px;
+		font-size: 33px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 96.78%;
+		margin-left: 1.37%;
 	}
 
-	#u41911
+	#u89486-4:hover
 	{
-		z-index: 452;
-		height: 209px;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 96.78%;
+		margin: 0px 0px 0px 1.3647642679900744%;
 	}
 
-	#u41909-4
+	#u89488-4
 	{
-		z-index: 453;
-		min-height: 37px;
-		margin-top: 69px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u41909-4:hover
-	{
-		margin-top: 69px;
-		min-height: 37px;
-		width: 81.39%;
-	}
-
-	#u41908-4
-	{
-		z-index: 457;
-		min-height: 37px;
-		margin-top: 114px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u41908-4:hover
-	{
-		margin-top: 114px;
-		min-height: 37px;
-		width: 81.39%;
-	}
-
-	#u41907-4
-	{
-		z-index: 461;
-		min-height: 37px;
-		margin-top: 159px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u41907-4:hover
-	{
-		margin-top: 159px;
-		min-height: 37px;
-		width: 81.39%;
-	}
-
-	#u42249-4
-	{
-		z-index: 465;
-		margin-top: 15px;
-		width: 96.53%;
-		left: 2.36%;
+		z-index: 422;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 40px;
+		position: relative;
+		width: 96.78%;
+		margin-left: 1.37%;
 	}
 
 	#pu40558
 	{
-		margin-top: -124px;
+		margin-top: -61px;
 		width: 100%;
 	}
 
 	#u40558
 	{
 		z-index: 341;
-		margin-right: -10000px;
-		margin-top: 150px;
+		margin-top: 87px;
 		width: 29.09%;
 	}
 
@@ -1189,16 +1164,158 @@
 		margin: 21px 0px 0px 36.67621776504298%;
 	}
 
-	#pu41896
+	#pu41875-4,#pu42253
 	{
+		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
 
+	#u42253
+	{
+		z-index: 459;
+		width: 100%;
+	}
+
+	#u41906
+	{
+		z-index: 460;
+	}
+
+	#u41910
+	{
+		z-index: 461;
+	}
+
+	#u41911
+	{
+		z-index: 462;
+		height: 209px;
+	}
+
+	#u41909-4
+	{
+		z-index: 463;
+		min-height: 37px;
+		margin-top: 69px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u41909-4:hover
+	{
+		margin-top: 69px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u41908-4
+	{
+		z-index: 467;
+		min-height: 37px;
+		margin-top: 114px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u41908-4:hover
+	{
+		margin-top: 114px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u41907-4
+	{
+		z-index: 471;
+		min-height: 37px;
+		margin-top: 159px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u41907-4:hover
+	{
+		margin-top: 159px;
+		min-height: 37px;
+		width: 81.39%;
+	}
+
+	#u42249-4
+	{
+		z-index: 475;
+		margin-top: 15px;
+		width: 96.53%;
+		left: 2.36%;
+	}
+
+	#u41891
+	{
+		z-index: 405;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41895
+	{
+		z-index: 406;
+		background-color: #FFFFFF;
+		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u41893-4
+	{
+		z-index: 408;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 29px;
+		font-size: 24px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41894-4
+	{
+		z-index: 412;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 67px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41892
+	{
+		z-index: 407;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/img_0635-u41892-fr.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
 	#u41896
 	{
-		z-index: 416;
+		z-index: 426;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -1208,7 +1325,7 @@
 
 	#u41900
 	{
-		z-index: 417;
+		z-index: 427;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1218,7 +1335,7 @@
 
 	#u41899-4
 	{
-		z-index: 419;
+		z-index: 429;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -1231,7 +1348,7 @@
 
 	#u41898-4
 	{
-		z-index: 423;
+		z-index: 433;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -1245,7 +1362,7 @@
 
 	#u41897
 	{
-		z-index: 418;
+		z-index: 428;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1268,7 +1385,8 @@
 		position: relative;
 		margin-right: -10000px;
 		margin-top: 296px;
-		width: 100%;
+		width: 67.17%;
+		left: 31.17%;
 	}
 
 	#u41880
@@ -1326,18 +1444,19 @@
 
 	#u42298
 	{
-		z-index: 427;
+		z-index: 437;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
 		position: relative;
 		margin-right: -10000px;
-		width: 100%;
+		width: 67.17%;
+		left: 31.17%;
 	}
 
 	#u42302
 	{
-		z-index: 428;
+		z-index: 438;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1347,7 +1466,7 @@
 
 	#u42300-4
 	{
-		z-index: 430;
+		z-index: 440;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -1360,7 +1479,7 @@
 
 	#u42301-4
 	{
-		z-index: 434;
+		z-index: 444;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -1374,7 +1493,7 @@
 
 	#u42299
 	{
-		z-index: 429;
+		z-index: 439;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1385,6 +1504,20 @@
 		width: 49.51%;
 		left: 48.76%;
 		background: transparent url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u41892:hover,#u41897:hover,#u42299:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.51%;
+		margin: 24px -10000px 0px 0%;
 		background-size: cover;
 	}
 
@@ -1466,6 +1599,64 @@
 		background-size: cover;
 	}
 
+	#u42257
+	{
+		z-index: 479;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u42259
+	{
+		z-index: 480;
+	}
+
+	#u42262
+	{
+		z-index: 481;
+	}
+
+	#u42263
+	{
+		z-index: 482;
+		height: 221px;
+	}
+
+	#u42264-4
+	{
+		z-index: 483;
+		min-height: 39px;
+		margin-top: 73px;
+		width: 96.03%;
+		left: 2.36%;
+	}
+
+	#u42261-4
+	{
+		z-index: 487;
+		min-height: 46px;
+		margin-top: 121px;
+		width: 96.53%;
+		left: 2.36%;
+	}
+
+	#u42260-4
+	{
+		z-index: 491;
+		min-height: 39px;
+		margin-top: 175px;
+		width: 96.03%;
+		left: 2.36%;
+	}
+
+	#u42258-4
+	{
+		z-index: 495;
+		margin-top: 15px;
+		width: 96.53%;
+		left: 2.36%;
+	}
+
 	#u41886
 	{
 		z-index: 394;
@@ -1487,6 +1678,14 @@
 		width: 100%;
 	}
 
+	#pu41893-4,#pu41899-4,#pu41879-4,#pu42300-4,#pu41884-4,#pu41887-4
+	{
+		margin-right: -10000px;
+		margin-top: 40px;
+		width: 44.92%;
+		margin-left: 1.37%;
+	}
+
 	#u41887-4
 	{
 		z-index: 397;
@@ -1498,6 +1697,24 @@
 		font-weight: 800;
 		position: relative;
 		width: 100%;
+	}
+
+	#u41893-4:hover,#u41899-4:hover,#u41879-4:hover,#u42300-4:hover,#u41884-4:hover,#u41887-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u41902-4:hover p,#u89486-4:hover p,#u41893-4:hover p,#u41899-4:hover p,#u41879-4:hover p,#u42300-4:hover p,#u41884-4:hover p,#u41887-4:hover p
+	{
+		color: #EDA900;
+		visibility: inherit;
 	}
 
 	#u41890-4
@@ -1544,194 +1761,32 @@
 		background-size: contain;
 	}
 
-	#u42257
-	{
-		z-index: 469;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u42259
-	{
-		z-index: 470;
-	}
-
-	#u42262
-	{
-		z-index: 471;
-	}
-
-	#u42263
-	{
-		z-index: 472;
-		height: 221px;
-	}
-
-	#u42264-4
-	{
-		z-index: 473;
-		min-height: 39px;
-		margin-top: 73px;
-		width: 96.03%;
-		left: 2.36%;
-	}
-
-	#u42261-4
-	{
-		z-index: 477;
-		min-height: 46px;
-		margin-top: 121px;
-		width: 96.53%;
-		left: 2.36%;
-	}
-
-	#u42260-4
-	{
-		z-index: 481;
-		min-height: 39px;
-		margin-top: 175px;
-		width: 96.03%;
-		left: 2.36%;
-	}
-
-	#u42258-4
-	{
-		z-index: 485;
-		margin-top: 15px;
-		width: 96.53%;
-		left: 2.36%;
-	}
-
-	#u41891
-	{
-		z-index: 405;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u41895
-	{
-		z-index: 406;
-		background-color: #FFFFFF;
-		padding-bottom: 21px;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#pu41899-4,#pu41879-4,#pu42300-4,#pu41884-4,#pu41887-4,#pu41893-4
-	{
-		margin-right: -10000px;
-		margin-top: 40px;
-		width: 44.92%;
-		margin-left: 1.37%;
-	}
-
-	#u41893-4
-	{
-		z-index: 408;
-		min-height: 88px;
-		background-color: transparent;
-		line-height: 50px;
-		font-size: 42px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41899-4:hover,#u41879-4:hover,#u42300-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 88px;
-		width: 100%;
-		margin: 0px 0px 0px 0%;
-	}
-
-	#u41902-4:hover p,#u41899-4:hover p,#u41879-4:hover p,#u42300-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p
-	{
-		color: #EDA900;
-		visibility: inherit;
-	}
-
-	#u41894-4
-	{
-		z-index: 412;
-		min-height: 69px;
-		background-color: transparent;
-		color: #323232;
-		text-align: justify;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		margin-top: 55px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41892
-	{
-		z-index: 407;
-		height: 272px;
-		border-style: solid;
-		border-width: 1px;
-		border-color: #000000;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 24px;
-		width: 49.51%;
-		left: 48.76%;
-		background: transparent url("../images/the-new-york-state-museum-u41892-fr.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#u41897:hover,#u42299:hover,#u41892:hover
-	{
-		background-repeat: no-repeat;
-		background-position: center center;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		height: 272px;
-		min-height: 0px;
-		width: 49.51%;
-		margin: 24px -10000px 0px 0%;
-		background-size: cover;
-	}
-
 	#u63501
 	{
-		z-index: 489;
+		z-index: 499;
 		width: 67.17%;
 		margin-left: 31.17%;
 	}
 
 	#u63503
 	{
-		z-index: 490;
+		z-index: 500;
 	}
 
 	#u63505
 	{
-		z-index: 491;
+		z-index: 501;
 	}
 
 	#u63506
 	{
-		z-index: 492;
+		z-index: 502;
 		height: 221px;
 	}
 
 	#u63504-4
 	{
-		z-index: 493;
+		z-index: 503;
 		min-height: 39px;
 		margin-top: 73px;
 		width: 96.03%;
@@ -1747,7 +1802,7 @@
 
 	#u63507-4
 	{
-		z-index: 497;
+		z-index: 507;
 		min-height: 46px;
 		margin-top: 121px;
 		width: 96.53%;
@@ -1761,16 +1816,16 @@
 		width: 96.53%;
 	}
 
-	#u63508-3
+	#u63508-4
 	{
-		z-index: 501;
+		z-index: 511;
 		min-height: 39px;
 		margin-top: 175px;
 		width: 96.03%;
 		left: 2.36%;
 	}
 
-	#u42260-4:hover,#u63508-3:hover
+	#u42260-4:hover,#u63508-4:hover
 	{
 		margin-top: 175px;
 		min-height: 39px;
@@ -1779,7 +1834,7 @@
 
 	#u63502-4
 	{
-		z-index: 504;
+		z-index: 515;
 		margin-top: 15px;
 		width: 96.53%;
 		left: 2.36%;
@@ -1868,9 +1923,14 @@
 
 	#page
 	{
-		min-height: 584.75px;
+		min-height: 584.7999999999993px;
 		padding-bottom: 0px;
 		max-width: 1120px;
+	}
+
+	#u32889,#u32889-bw
+	{
+		z-index: 107;
 	}
 
 	#u40558
@@ -1887,16 +1947,6 @@
 		opacity: 0.01;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 		filter: alpha(opacity=1);
-	}
-
-	#pu176
-	{
-		margin-top: -116px;
-	}
-
-	#u32889,#u32889-bw
-	{
-		z-index: 107;
 	}
 
 	#pu1492-3
@@ -2329,7 +2379,7 @@
 
 	#u41901
 	{
-		z-index: 179;
+		z-index: 189;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -2341,7 +2391,7 @@
 
 	#u41905
 	{
-		z-index: 180;
+		z-index: 190;
 		background-color: #FFFFFF;
 		padding-top: 23px;
 		padding-bottom: 12px;
@@ -2352,7 +2402,7 @@
 
 	#u41904
 	{
-		z-index: 189;
+		z-index: 199;
 		height: 418px;
 		border-style: solid;
 		border-width: 1px;
@@ -2360,7 +2410,7 @@
 		position: relative;
 		width: 95.84%;
 		margin-left: 2.32%;
-		background: transparent url("../images/img_0635-u41904-fr2.jpg") no-repeat center center;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u41904-fr2.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -2380,7 +2430,7 @@
 
 	#u41902-4
 	{
-		z-index: 181;
+		z-index: 191;
 		min-height: 60px;
 		background-color: transparent;
 		line-height: 42px;
@@ -2407,13 +2457,13 @@
 
 	#u41903-4
 	{
-		z-index: 185;
+		z-index: 195;
 		min-height: 46px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 12px;
@@ -2422,65 +2472,7 @@
 		margin-left: 2.32%;
 	}
 
-	#u42253
-	{
-		z-index: 190;
-		width: 96.52%;
-		margin-left: 1.79%;
-	}
-
-	#u41906
-	{
-		z-index: 191;
-	}
-
-	#u41910
-	{
-		z-index: 192;
-	}
-
-	#u41911
-	{
-		z-index: 193;
-		height: 276px;
-	}
-
-	#u41909-4
-	{
-		z-index: 194;
-		min-height: 35px;
-		margin-top: 75px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u41908-4
-	{
-		z-index: 198;
-		min-height: 34px;
-		margin-top: 144px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u41907-4
-	{
-		z-index: 202;
-		min-height: 42px;
-		margin-top: 212px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u42249-4
-	{
-		z-index: 206;
-		margin-top: 9px;
-		width: 96.03%;
-		left: 1.21%;
-	}
-
-	#u41896
+	#u89484
 	{
 		z-index: 157;
 		border-width: 0px;
@@ -2491,9 +2483,194 @@
 		margin-left: 1.79%;
 	}
 
-	#u41900
+	#u89487
 	{
 		z-index: 158;
+		background-color: #FFFFFF;
+		padding-top: 40px;
+		padding-bottom: 98.10000000000002px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u89486-4
+	{
+		z-index: 159;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 40px;
+		font-size: 33px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 96.03%;
+		margin-left: 1.39%;
+	}
+
+	#u89486-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 96.03%;
+		margin: 0px 0px 0px 1.3876040703052728%;
+	}
+
+	#u89488-4
+	{
+		z-index: 163;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 27px;
+		position: relative;
+		width: 96.77%;
+		margin-left: 1.39%;
+	}
+
+	#u42253
+	{
+		z-index: 200;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u41906
+	{
+		z-index: 201;
+	}
+
+	#u41910
+	{
+		z-index: 202;
+	}
+
+	#u41911
+	{
+		z-index: 203;
+		height: 276px;
+	}
+
+	#u41909-4
+	{
+		z-index: 204;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u41908-4
+	{
+		z-index: 208;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u41907-4
+	{
+		z-index: 212;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u42249-4
+	{
+		z-index: 216;
+		margin-top: 9px;
+		width: 96.03%;
+		left: 1.21%;
+	}
+
+	#u41891
+	{
+		z-index: 146;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u41895
+	{
+		z-index: 147;
+		background-color: #FFFFFF;
+		padding-bottom: 24px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u41893-4
+	{
+		z-index: 149;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 29px;
+		font-size: 24px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41894-4
+	{
+		z-index: 153;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 48px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41892
+	{
+		z-index: 148;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.59%;
+		left: 48.85%;
+		background: transparent url("../images/img_0635-u41892-fr2.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u41896
+	{
+		z-index: 167;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u41900
+	{
+		z-index: 168;
 		background-color: #FFFFFF;
 		padding-bottom: 10px;
 		position: relative;
@@ -2503,7 +2680,7 @@
 
 	#u41899-4
 	{
-		z-index: 160;
+		z-index: 170;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -2516,7 +2693,7 @@
 
 	#u41898-4
 	{
-		z-index: 164;
+		z-index: 174;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -2530,7 +2707,7 @@
 
 	#u41897
 	{
-		z-index: 159;
+		z-index: 169;
 		height: 299px;
 		border-style: solid;
 		border-width: 1px;
@@ -2560,7 +2737,7 @@
 
 	#u42298
 	{
-		z-index: 168;
+		z-index: 178;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -2571,7 +2748,7 @@
 
 	#u42302
 	{
-		z-index: 169;
+		z-index: 179;
 		background-color: #FFFFFF;
 		padding-bottom: 41px;
 		position: relative;
@@ -2581,7 +2758,7 @@
 
 	#u42300-4
 	{
-		z-index: 171;
+		z-index: 181;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -2594,7 +2771,7 @@
 
 	#u42301-4
 	{
-		z-index: 175;
+		z-index: 185;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -2608,7 +2785,7 @@
 
 	#u42299
 	{
-		z-index: 170;
+		z-index: 180;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -2619,6 +2796,20 @@
 		width: 49.59%;
 		left: 48.85%;
 		background: transparent url("../images/suny%20poly%20opens%20new%20student%20center%20-%208.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u41892:hover,#u42299:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.59%;
+		margin: 24px -10000px 0px 0%;
 		background-size: cover;
 	}
 
@@ -2707,6 +2898,14 @@
 		width: 100%;
 	}
 
+	#pu41893-4,#pu41899-4,#pu42300-4,#pu41879-4,#pu41884-4
+	{
+		margin-right: -10000px;
+		margin-top: 40px;
+		width: 44.96%;
+		margin-left: 1.39%;
+	}
+
 	#u41884-4
 	{
 		z-index: 127;
@@ -2764,6 +2963,64 @@
 		background-size: cover;
 	}
 
+	#u42257
+	{
+		z-index: 220;
+		width: 96.52%;
+		margin-left: 1.79%;
+	}
+
+	#u42259
+	{
+		z-index: 221;
+	}
+
+	#u42262
+	{
+		z-index: 222;
+	}
+
+	#u42263
+	{
+		z-index: 223;
+		height: 276px;
+	}
+
+	#u42264-4
+	{
+		z-index: 224;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u42261-4
+	{
+		z-index: 228;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u42260-4
+	{
+		z-index: 232;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 96.03%;
+		left: 1.39%;
+	}
+
+	#u42258-4
+	{
+		z-index: 236;
+		margin-top: 9px;
+		width: 96.03%;
+		left: 1.21%;
+	}
+
 	#u41886
 	{
 		z-index: 135;
@@ -2805,6 +3062,24 @@
 		font-weight: 800;
 		position: relative;
 		width: 100%;
+	}
+
+	#u41893-4:hover,#u41899-4:hover,#u42300-4:hover,#u41879-4:hover,#u41884-4:hover,#u41887-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u41902-4:hover p,#u89486-4:hover p,#u41893-4:hover p,#u41899-4:hover p,#u42300-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p
+	{
+		color: #EDA900;
+		visibility: inherit;
 	}
 
 	#u41890-4
@@ -2851,194 +3126,32 @@
 		background-size: contain;
 	}
 
-	#u42257
-	{
-		z-index: 210;
-		width: 96.52%;
-		margin-left: 1.79%;
-	}
-
-	#u42259
-	{
-		z-index: 211;
-	}
-
-	#u42262
-	{
-		z-index: 212;
-	}
-
-	#u42263
-	{
-		z-index: 213;
-		height: 276px;
-	}
-
-	#u42264-4
-	{
-		z-index: 214;
-		min-height: 35px;
-		margin-top: 75px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u42261-4
-	{
-		z-index: 218;
-		min-height: 34px;
-		margin-top: 144px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u42260-4
-	{
-		z-index: 222;
-		min-height: 42px;
-		margin-top: 212px;
-		width: 96.03%;
-		left: 1.39%;
-	}
-
-	#u42258-4
-	{
-		z-index: 226;
-		margin-top: 9px;
-		width: 96.03%;
-		left: 1.21%;
-	}
-
-	#u41891
-	{
-		z-index: 146;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 96.52%;
-		margin-left: 1.79%;
-	}
-
-	#u41895
-	{
-		z-index: 147;
-		background-color: #FFFFFF;
-		padding-bottom: 24px;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#pu41899-4,#pu42300-4,#pu41879-4,#pu41884-4,#pu41893-4
-	{
-		margin-right: -10000px;
-		margin-top: 40px;
-		width: 44.96%;
-		margin-left: 1.39%;
-	}
-
-	#u41893-4
-	{
-		z-index: 149;
-		min-height: 88px;
-		background-color: transparent;
-		line-height: 50px;
-		font-size: 42px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41899-4:hover,#u42300-4:hover,#u41879-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 88px;
-		width: 100%;
-		margin: 0px 0px 0px 0%;
-	}
-
-	#u41902-4:hover p,#u41899-4:hover p,#u42300-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p
-	{
-		color: #EDA900;
-		visibility: inherit;
-	}
-
-	#u41894-4
-	{
-		z-index: 153;
-		min-height: 69px;
-		background-color: transparent;
-		color: #323232;
-		text-align: justify;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		margin-top: 36px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41892
-	{
-		z-index: 148;
-		height: 272px;
-		border-style: solid;
-		border-width: 1px;
-		border-color: #000000;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 24px;
-		width: 49.59%;
-		left: 48.85%;
-		background: transparent url("../images/the-new-york-state-museum.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#u42299:hover,#u41892:hover
-	{
-		background-repeat: no-repeat;
-		background-position: center center;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		height: 272px;
-		min-height: 0px;
-		width: 49.59%;
-		margin: 24px -10000px 0px 0%;
-		background-size: cover;
-	}
-
 	#u63501
 	{
-		z-index: 230;
+		z-index: 240;
 		width: 96.52%;
 		margin-left: 1.79%;
 	}
 
 	#u63503
 	{
-		z-index: 231;
+		z-index: 241;
 	}
 
 	#u63505
 	{
-		z-index: 232;
+		z-index: 242;
 	}
 
 	#u63506
 	{
-		z-index: 233;
+		z-index: 243;
 		height: 276px;
 	}
 
 	#u63504-4
 	{
-		z-index: 234;
+		z-index: 244;
 		min-height: 35px;
 		margin-top: 75px;
 		width: 96.03%;
@@ -3054,7 +3167,7 @@
 
 	#u63507-4
 	{
-		z-index: 238;
+		z-index: 248;
 		min-height: 34px;
 		margin-top: 144px;
 		width: 96.03%;
@@ -3068,16 +3181,16 @@
 		width: 96.03%;
 	}
 
-	#u63508-3
+	#u63508-4
 	{
-		z-index: 242;
+		z-index: 252;
 		min-height: 42px;
 		margin-top: 212px;
 		width: 96.03%;
 		left: 1.39%;
 	}
 
-	#u41907-4:hover,#u42260-4:hover,#u63508-3:hover
+	#u41907-4:hover,#u42260-4:hover,#u63508-4:hover
 	{
 		margin-top: 212px;
 		min-height: 42px;
@@ -3086,7 +3199,7 @@
 
 	#u63502-4
 	{
-		z-index: 245;
+		z-index: 256;
 		margin-top: 9px;
 		width: 96.03%;
 		left: 1.21%;
@@ -3170,9 +3283,14 @@
 
 	#page
 	{
-		min-height: 584.75px;
+		min-height: 584.7999999999993px;
 		padding-bottom: 0px;
 		max-width: 900px;
+	}
+
+	#u32889,#u32889-bw
+	{
+		z-index: 64;
 	}
 
 	#u40558
@@ -3189,16 +3307,6 @@
 		opacity: 0.01;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 		filter: alpha(opacity=1);
-	}
-
-	#pu176
-	{
-		margin-top: -116px;
-	}
-
-	#u32889,#u32889-bw
-	{
-		z-index: 64;
 	}
 
 	#pu1492-3
@@ -3585,7 +3693,7 @@
 
 	#u41901
 	{
-		z-index: 186;
+		z-index: 196;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -3597,10 +3705,10 @@
 
 	#u41905
 	{
-		z-index: 187;
+		z-index: 197;
 		background-color: #FFFFFF;
 		padding-top: 23px;
-		padding-bottom: 12px;
+		padding-bottom: 1px;
 		position: relative;
 		margin-right: -10000px;
 		width: 100%;
@@ -3608,7 +3716,7 @@
 
 	#u41904
 	{
-		z-index: 196;
+		z-index: 206;
 		height: 418px;
 		border-style: solid;
 		border-width: 1px;
@@ -3616,7 +3724,7 @@
 		position: relative;
 		width: 95.75%;
 		margin-left: 2.31%;
-		background: transparent url("../images/img_0635-u41904-fr3.jpg") no-repeat center center;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u41904-fr3.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -3636,7 +3744,7 @@
 
 	#u41902-4
 	{
-		z-index: 188;
+		z-index: 198;
 		min-height: 60px;
 		background-color: transparent;
 		line-height: 42px;
@@ -3663,13 +3771,13 @@
 
 	#u41903-4
 	{
-		z-index: 192;
+		z-index: 202;
 		min-height: 46px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 12px;
@@ -3678,65 +3786,7 @@
 		margin-left: 2.31%;
 	}
 
-	#u42253
-	{
-		z-index: 197;
-		width: 96.56%;
-		margin-left: 1.78%;
-	}
-
-	#u41906
-	{
-		z-index: 198;
-	}
-
-	#u41910
-	{
-		z-index: 199;
-	}
-
-	#u41911
-	{
-		z-index: 200;
-		height: 276px;
-	}
-
-	#u41909-4
-	{
-		z-index: 201;
-		min-height: 35px;
-		margin-top: 75px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u41908-4
-	{
-		z-index: 205;
-		min-height: 34px;
-		margin-top: 144px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u41907-4
-	{
-		z-index: 209;
-		min-height: 42px;
-		margin-top: 212px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u42249-4
-	{
-		z-index: 213;
-		margin-top: 9px;
-		width: 95.98%;
-		left: 1.16%;
-	}
-
-	#u41896
+	#u89484
 	{
 		z-index: 164;
 		border-width: 0px;
@@ -3747,9 +3797,194 @@
 		margin-left: 1.78%;
 	}
 
-	#u41900
+	#u89487
 	{
 		z-index: 165;
+		background-color: #FFFFFF;
+		padding-top: 40px;
+		padding-bottom: 98.10000000000002px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u89486-4
+	{
+		z-index: 166;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 40px;
+		font-size: 33px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 95.98%;
+		margin-left: 1.39%;
+	}
+
+	#u89486-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 95.98%;
+		margin: 0px 0px 0px 1.380897583429229%;
+	}
+
+	#u89488-4
+	{
+		z-index: 170;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 27px;
+		position: relative;
+		width: 96.78%;
+		margin-left: 1.39%;
+	}
+
+	#u42253
+	{
+		z-index: 207;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u41906
+	{
+		z-index: 208;
+	}
+
+	#u41910
+	{
+		z-index: 209;
+	}
+
+	#u41911
+	{
+		z-index: 210;
+		height: 276px;
+	}
+
+	#u41909-4
+	{
+		z-index: 211;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u41908-4
+	{
+		z-index: 215;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u41907-4
+	{
+		z-index: 219;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u42249-4
+	{
+		z-index: 223;
+		margin-top: 9px;
+		width: 95.98%;
+		left: 1.16%;
+	}
+
+	#u41891
+	{
+		z-index: 153;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u41895
+	{
+		z-index: 154;
+		background-color: #FFFFFF;
+		padding-bottom: 24px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u41893-4
+	{
+		z-index: 156;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 29px;
+		font-size: 24px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41894-4
+	{
+		z-index: 160;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 48px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u41892
+	{
+		z-index: 155;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.49%;
+		left: 48.8%;
+		background: transparent url("../images/img_0635-u41892-fr3.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u41896
+	{
+		z-index: 174;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u41900
+	{
+		z-index: 175;
 		background-color: #FFFFFF;
 		padding-bottom: 10px;
 		position: relative;
@@ -3759,7 +3994,7 @@
 
 	#u41899-4
 	{
-		z-index: 167;
+		z-index: 177;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -3772,7 +4007,7 @@
 
 	#u41898-4
 	{
-		z-index: 171;
+		z-index: 181;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -3786,7 +4021,7 @@
 
 	#u41897
 	{
-		z-index: 166;
+		z-index: 176;
 		height: 299px;
 		border-style: solid;
 		border-width: 1px;
@@ -3816,7 +4051,7 @@
 
 	#u42298
 	{
-		z-index: 175;
+		z-index: 185;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -3827,7 +4062,7 @@
 
 	#u42302
 	{
-		z-index: 176;
+		z-index: 186;
 		background-color: #FFFFFF;
 		padding-bottom: 41px;
 		position: relative;
@@ -3837,7 +4072,7 @@
 
 	#u42300-4
 	{
-		z-index: 178;
+		z-index: 188;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -3850,7 +4085,7 @@
 
 	#u42301-4
 	{
-		z-index: 182;
+		z-index: 192;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -3864,7 +4099,7 @@
 
 	#u42299
 	{
-		z-index: 177;
+		z-index: 187;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -3875,6 +4110,20 @@
 		width: 49.49%;
 		left: 48.8%;
 		background: transparent url("../images/suny%20poly%20opens%20new%20student%20center%20-%208-u42299-fr2.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u41892:hover,#u42299:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		height: 272px;
+		min-height: 0px;
+		width: 49.49%;
+		margin: 24px -10000px 0px 0%;
 		background-size: cover;
 	}
 
@@ -3963,6 +4212,14 @@
 		width: 100%;
 	}
 
+	#pu41893-4,#pu41899-4,#pu42300-4,#pu41879-4,#pu41884-4
+	{
+		margin-right: -10000px;
+		margin-top: 40px;
+		width: 44.88%;
+		margin-left: 1.39%;
+	}
+
 	#u41884-4
 	{
 		z-index: 134;
@@ -4020,6 +4277,64 @@
 		background-size: cover;
 	}
 
+	#u42257
+	{
+		z-index: 227;
+		width: 96.56%;
+		margin-left: 1.78%;
+	}
+
+	#u42259
+	{
+		z-index: 228;
+	}
+
+	#u42262
+	{
+		z-index: 229;
+	}
+
+	#u42263
+	{
+		z-index: 230;
+		height: 276px;
+	}
+
+	#u42264-4
+	{
+		z-index: 231;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u42261-4
+	{
+		z-index: 235;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u42260-4
+	{
+		z-index: 239;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 95.98%;
+		left: 1.39%;
+	}
+
+	#u42258-4
+	{
+		z-index: 243;
+		margin-top: 9px;
+		width: 95.98%;
+		left: 1.16%;
+	}
+
 	#u41886
 	{
 		z-index: 142;
@@ -4061,6 +4376,24 @@
 		font-weight: 800;
 		position: relative;
 		width: 100%;
+	}
+
+	#u41893-4:hover,#u41899-4:hover,#u42300-4:hover,#u41879-4:hover,#u41884-4:hover,#u41887-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u41902-4:hover p,#u89486-4:hover p,#u41893-4:hover p,#u41899-4:hover p,#u42300-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p
+	{
+		color: #EDA900;
+		visibility: inherit;
 	}
 
 	#u41890-4
@@ -4107,194 +4440,32 @@
 		background-size: contain;
 	}
 
-	#u42257
-	{
-		z-index: 217;
-		width: 96.56%;
-		margin-left: 1.78%;
-	}
-
-	#u42259
-	{
-		z-index: 218;
-	}
-
-	#u42262
-	{
-		z-index: 219;
-	}
-
-	#u42263
-	{
-		z-index: 220;
-		height: 276px;
-	}
-
-	#u42264-4
-	{
-		z-index: 221;
-		min-height: 35px;
-		margin-top: 75px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u42261-4
-	{
-		z-index: 225;
-		min-height: 34px;
-		margin-top: 144px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u42260-4
-	{
-		z-index: 229;
-		min-height: 42px;
-		margin-top: 212px;
-		width: 95.98%;
-		left: 1.39%;
-	}
-
-	#u42258-4
-	{
-		z-index: 233;
-		margin-top: 9px;
-		width: 95.98%;
-		left: 1.16%;
-	}
-
-	#u41891
-	{
-		z-index: 153;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 96.56%;
-		margin-left: 1.78%;
-	}
-
-	#u41895
-	{
-		z-index: 154;
-		background-color: #FFFFFF;
-		padding-bottom: 24px;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#pu41899-4,#pu42300-4,#pu41879-4,#pu41884-4,#pu41893-4
-	{
-		margin-right: -10000px;
-		margin-top: 40px;
-		width: 44.88%;
-		margin-left: 1.39%;
-	}
-
-	#u41893-4
-	{
-		z-index: 156;
-		min-height: 88px;
-		background-color: transparent;
-		line-height: 50px;
-		font-size: 42px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41899-4:hover,#u42300-4:hover,#u41879-4:hover,#u41884-4:hover,#u41887-4:hover,#u41893-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 88px;
-		width: 100%;
-		margin: 0px 0px 0px 0%;
-	}
-
-	#u41902-4:hover p,#u41899-4:hover p,#u42300-4:hover p,#u41879-4:hover p,#u41884-4:hover p,#u41887-4:hover p,#u41893-4:hover p
-	{
-		color: #EDA900;
-		visibility: inherit;
-	}
-
-	#u41894-4
-	{
-		z-index: 160;
-		min-height: 69px;
-		background-color: transparent;
-		color: #323232;
-		text-align: justify;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		margin-top: 36px;
-		position: relative;
-		width: 100%;
-	}
-
-	#u41892
-	{
-		z-index: 155;
-		height: 272px;
-		border-style: solid;
-		border-width: 1px;
-		border-color: #000000;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 24px;
-		width: 49.49%;
-		left: 48.8%;
-		background: transparent url("../images/the-new-york-state-museum-u41892-fr2.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#u42299:hover,#u41892:hover
-	{
-		background-repeat: no-repeat;
-		background-position: center center;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		height: 272px;
-		min-height: 0px;
-		width: 49.49%;
-		margin: 24px -10000px 0px 0%;
-		background-size: cover;
-	}
-
 	#u63501
 	{
-		z-index: 237;
+		z-index: 247;
 		width: 96.56%;
 		margin-left: 1.78%;
 	}
 
 	#u63503
 	{
-		z-index: 238;
+		z-index: 248;
 	}
 
 	#u63505
 	{
-		z-index: 239;
+		z-index: 249;
 	}
 
 	#u63506
 	{
-		z-index: 240;
+		z-index: 250;
 		height: 276px;
 	}
 
 	#u63504-4
 	{
-		z-index: 241;
+		z-index: 251;
 		min-height: 35px;
 		margin-top: 75px;
 		width: 95.98%;
@@ -4310,7 +4481,7 @@
 
 	#u63507-4
 	{
-		z-index: 245;
+		z-index: 255;
 		min-height: 34px;
 		margin-top: 144px;
 		width: 95.98%;
@@ -4324,16 +4495,16 @@
 		width: 95.98%;
 	}
 
-	#u63508-3
+	#u63508-4
 	{
-		z-index: 249;
+		z-index: 259;
 		min-height: 42px;
 		margin-top: 212px;
 		width: 95.98%;
 		left: 1.39%;
 	}
 
-	#u41907-4:hover,#u42260-4:hover,#u63508-3:hover
+	#u41907-4:hover,#u42260-4:hover,#u63508-4:hover
 	{
 		margin-top: 212px;
 		min-height: 42px;
@@ -4342,7 +4513,7 @@
 
 	#u63502-4
 	{
-		z-index: 252;
+		z-index: 263;
 		margin-top: 9px;
 		width: 95.98%;
 		left: 1.16%;
@@ -4426,9 +4597,14 @@
 
 	#page
 	{
-		min-height: 584.8499999999999px;
+		min-height: 584.8999999999996px;
 		padding-bottom: 0px;
 		max-width: 380px;
+	}
+
+	#u32889,#u32889-bw
+	{
+		z-index: 64;
 	}
 
 	#u40558
@@ -4445,16 +4621,6 @@
 		opacity: 0.01;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 		filter: alpha(opacity=1);
-	}
-
-	#pu176
-	{
-		margin-top: -116px;
-	}
-
-	#u32889,#u32889-bw
-	{
-		z-index: 64;
 	}
 
 	#pu1492-3
@@ -4833,15 +4999,128 @@
 
 	#u41875-4
 	{
-		z-index: 116;
+		z-index: 117;
 		margin-top: 6px;
 		width: 67.11%;
 		margin-left: 31.06%;
 	}
 
+	#u89754
+	{
+		z-index: 116;
+		min-height: 174px;
+		background-color: #F9F2F4;
+		padding-bottom: 41px;
+	}
+
+	#u89754_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		max-width: 380px;
+	}
+
+	#u88411-4
+	{
+		z-index: 192;
+		min-height: 111px;
+		background-color: transparent;
+		color: #323232;
+		line-height: 41px;
+		font-size: 34px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 10px;
+		width: 96.58%;
+		left: 1.58%;
+	}
+
+	#u89754-bw
+	{
+		z-index: 116;
+		min-height: 174px;
+	}
+
+	#u88402
+	{
+		z-index: 182;
+		height: 280px;
+		opacity: 0.7;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+		filter: alpha(opacity=70);
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u88402-bw
+	{
+		z-index: 182;
+		height: 280px;
+	}
+
+	#u42253
+	{
+		z-index: 121;
+		width: 100%;
+	}
+
+	#u41906
+	{
+		z-index: 122;
+	}
+
+	#u41910
+	{
+		z-index: 123;
+	}
+
+	#u41911
+	{
+		z-index: 124;
+		height: 276px;
+	}
+
+	#u41909-4
+	{
+		z-index: 125;
+		min-height: 35px;
+		margin-top: 75px;
+		width: 96.06%;
+		left: 1.32%;
+	}
+
+	#u41908-4
+	{
+		z-index: 129;
+		min-height: 34px;
+		margin-top: 144px;
+		width: 96.06%;
+		left: 1.32%;
+	}
+
+	#u41907-4
+	{
+		z-index: 133;
+		min-height: 42px;
+		margin-top: 212px;
+		width: 96.06%;
+		left: 1.32%;
+	}
+
+	#u42249-4
+	{
+		z-index: 137;
+		margin-top: 9px;
+		width: 96.06%;
+		left: 1.32%;
+	}
+
 	#u71170
 	{
-		z-index: 179;
+		z-index: 181;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -4852,13 +5131,13 @@
 
 	#u71170-bw
 	{
-		z-index: 179;
+		z-index: 181;
 		height: 280px;
 	}
 
 	#u71171-4
 	{
-		z-index: 186;
+		z-index: 188;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -4873,66 +5152,9 @@
 		left: 1.85%;
 	}
 
-	#u42253
-	{
-		z-index: 120;
-		width: 100%;
-	}
-
-	#u41906
-	{
-		z-index: 121;
-	}
-
-	#u41910
-	{
-		z-index: 122;
-	}
-
-	#u41911
-	{
-		z-index: 123;
-		height: 276px;
-	}
-
-	#u41909-4
-	{
-		z-index: 124;
-		min-height: 35px;
-		margin-top: 75px;
-		width: 96.06%;
-		left: 1.32%;
-	}
-
-	#u41908-4
-	{
-		z-index: 128;
-		min-height: 34px;
-		margin-top: 144px;
-		width: 96.06%;
-		left: 1.32%;
-	}
-
-	#u41907-4
-	{
-		z-index: 132;
-		min-height: 42px;
-		margin-top: 212px;
-		width: 96.06%;
-		left: 1.32%;
-	}
-
-	#u42249-4
-	{
-		z-index: 136;
-		margin-top: 9px;
-		width: 96.06%;
-		left: 1.32%;
-	}
-
 	#u71205
 	{
-		z-index: 180;
+		z-index: 183;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -4943,13 +5165,13 @@
 
 	#u71205-bw
 	{
-		z-index: 180;
+		z-index: 183;
 		height: 280px;
 	}
 
 	#u71214-4
 	{
-		z-index: 190;
+		z-index: 196;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -4966,7 +5188,7 @@
 
 	#u71237
 	{
-		z-index: 181;
+		z-index: 184;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -4977,13 +5199,13 @@
 
 	#u71237-bw
 	{
-		z-index: 181;
+		z-index: 184;
 		height: 280px;
 	}
 
 	#u71246-4
 	{
-		z-index: 194;
+		z-index: 200;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -5000,7 +5222,7 @@
 
 	#u71269
 	{
-		z-index: 182;
+		z-index: 185;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -5011,13 +5233,13 @@
 
 	#u71269-bw
 	{
-		z-index: 182;
+		z-index: 185;
 		height: 280px;
 	}
 
 	#u71278-4
 	{
-		z-index: 198;
+		z-index: 204;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -5034,7 +5256,7 @@
 
 	#u71301
 	{
-		z-index: 183;
+		z-index: 186;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -5045,47 +5267,13 @@
 
 	#u71301-bw
 	{
-		z-index: 183;
+		z-index: 186;
 		height: 280px;
 	}
 
 	#u71310-4
 	{
-		z-index: 202;
-		min-height: 111px;
-		background-color: transparent;
-		color: #323232;
-		line-height: 34px;
-		font-size: 28px;
-		font-family: open-sans, sans-serif;
-		font-weight: 800;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 4px;
-		width: 96.58%;
-		left: 1.85%;
-	}
-
-	#u71317
-	{
-		z-index: 184;
-		height: 280px;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		background: transparent url("../images/sunypi_cas_seal_2882.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#u71317-bw
-	{
-		z-index: 184;
-		height: 280px;
-	}
-
-	#u71326-4
-	{
-		z-index: 206;
+		z-index: 208;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -5102,29 +5290,29 @@
 
 	#u42257
 	{
-		z-index: 140;
+		z-index: 141;
 		width: 100%;
 	}
 
 	#u42259
 	{
-		z-index: 141;
+		z-index: 142;
 	}
 
 	#u42262
 	{
-		z-index: 142;
+		z-index: 143;
 	}
 
 	#u42263
 	{
-		z-index: 143;
+		z-index: 144;
 		height: 276px;
 	}
 
 	#u42264-4
 	{
-		z-index: 144;
+		z-index: 145;
 		min-height: 35px;
 		margin-top: 75px;
 		width: 96.06%;
@@ -5133,7 +5321,7 @@
 
 	#u42261-4
 	{
-		z-index: 148;
+		z-index: 149;
 		min-height: 34px;
 		margin-top: 144px;
 		width: 96.06%;
@@ -5142,7 +5330,7 @@
 
 	#u42260-4
 	{
-		z-index: 152;
+		z-index: 153;
 		min-height: 42px;
 		margin-top: 212px;
 		width: 96.06%;
@@ -5151,37 +5339,37 @@
 
 	#u42258-4
 	{
-		z-index: 156;
+		z-index: 157;
 		margin-top: 9px;
 		width: 96.06%;
 		left: 1.32%;
 	}
 
-	#page_position_content,#pu71170,#pu71205,#pu71237,#pu71269,#pu71301,#pu71317,#pu71358
+	#page_position_content,#pu71170,#pu71205,#pu71237,#pu71269,#pu71301,#pu71317
 	{
 		width: 100%;
 	}
 
-	#u71358
+	#u71317
 	{
-		z-index: 185;
+		z-index: 187;
 		height: 280px;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 		filter: alpha(opacity=70);
-		background: transparent url("../images/the-new-york-state-museum.jpg") no-repeat center center;
+		background: transparent url("../images/sunypi_cas_seal_2882.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
-	#u71358-bw
+	#u71317-bw
 	{
-		z-index: 185;
+		z-index: 187;
 		height: 280px;
 	}
 
-	#u71349-4
+	#u71326-4
 	{
-		z-index: 210;
+		z-index: 212;
 		min-height: 111px;
 		background-color: transparent;
 		color: #323232;
@@ -5198,29 +5386,29 @@
 
 	#u63501
 	{
-		z-index: 160;
+		z-index: 161;
 		width: 100%;
 	}
 
 	#u63503
 	{
-		z-index: 161;
+		z-index: 162;
 	}
 
 	#u63505
 	{
-		z-index: 162;
+		z-index: 163;
 	}
 
 	#u63506
 	{
-		z-index: 163;
+		z-index: 164;
 		height: 276px;
 	}
 
 	#u63504-4
 	{
-		z-index: 164;
+		z-index: 165;
 		min-height: 35px;
 		margin-top: 75px;
 		width: 96.06%;
@@ -5236,7 +5424,7 @@
 
 	#u63507-4
 	{
-		z-index: 168;
+		z-index: 169;
 		min-height: 34px;
 		margin-top: 144px;
 		width: 96.06%;
@@ -5250,16 +5438,16 @@
 		width: 96.06%;
 	}
 
-	#u63508-3
+	#u63508-4
 	{
-		z-index: 172;
+		z-index: 173;
 		min-height: 42px;
 		margin-top: 212px;
 		width: 96.06%;
 		left: 1.32%;
 	}
 
-	#u41907-4:hover,#u42260-4:hover,#u63508-3:hover
+	#u41907-4:hover,#u42260-4:hover,#u63508-4:hover
 	{
 		margin-top: 212px;
 		min-height: 42px;
@@ -5268,7 +5456,7 @@
 
 	#u63502-4
 	{
-		z-index: 175;
+		z-index: 177;
 		margin-top: 9px;
 		width: 96.06%;
 		left: 1.32%;

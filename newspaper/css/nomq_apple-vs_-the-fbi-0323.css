@@ -468,6 +468,7 @@
 
 	#u36959
 	{
+		padding-bottom: 37px;
 		margin-top: 50px;
 		width: 95.84%;
 		margin-left: 2.09%;
@@ -512,6 +513,14 @@
 	#u36963-4
 	{
 		z-index: 118;
+		margin-top: 18px;
+		width: 88.35%;
+		margin-left: 4.96%;
+	}
+
+	#u36963-4:hover
+	{
+		margin-top: 18px;
 		width: 88.35%;
 		margin-left: 4.96%;
 	}
@@ -523,7 +532,7 @@
 		margin-left: 4.96%;
 	}
 
-	#u36962-4:hover,#u36963-4:hover,#u36964-4:hover
+	#u36962-4:hover,#u36964-4:hover
 	{
 		width: 88.35%;
 		margin-left: 4.96%;

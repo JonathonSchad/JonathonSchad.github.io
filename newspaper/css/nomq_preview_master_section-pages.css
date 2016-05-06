@@ -56,8 +56,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: #FFFFFF;
-		line-height: 14px;
 		color: #323232;
+		line-height: 14px;
 		font-size: 10px;
 		font-family: open-sans, sans-serif;
 	}
@@ -89,10 +89,10 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: #FFFFFF;
+		line-height: 22px;
 		color: #323232;
 		text-align: center;
 		font-size: 16px;
-		line-height: 22px;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 	}
@@ -125,8 +125,8 @@
 	#u24119-4
 	{
 		background-color: transparent;
-		letter-spacing: 6px;
 		line-height: 20px;
+		letter-spacing: 6px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 	}

@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 584.9499999999998px;
+		min-height: 584.9249999999979px;
 		padding-bottom: 0px;
 		max-width: 1200px;
 	}
@@ -673,6 +673,14 @@
 		z-index: 337;
 	}
 
+	#pu38412-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
 	#u38412-4
 	{
 		z-index: 368;
@@ -681,7 +689,7 @@
 
 	#u38415
 	{
-		z-index: 429;
+		z-index: 451;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -692,7 +700,7 @@
 
 	#u38391
 	{
-		z-index: 430;
+		z-index: 452;
 		background-color: #FFFFFF;
 		padding-top: 24px;
 		padding-bottom: 14px;
@@ -703,7 +711,7 @@
 
 	#u38395
 	{
-		z-index: 439;
+		z-index: 461;
 		height: 423px;
 		border-style: solid;
 		border-width: 1px;
@@ -711,14 +719,14 @@
 		position: relative;
 		width: 95.79%;
 		margin-left: 2.36%;
-		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u38395-fr.jpg") no-repeat center center;
+		background: transparent url("../images/277355_l_srgb_s_gl-u38395-fr.jpg") no-repeat center top;
 		background-size: cover;
 	}
 
 	#u38395:hover
 	{
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: center top;
 		opacity: 0.7;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 		filter: alpha(opacity=70);
@@ -731,11 +739,11 @@
 
 	#u38393-4
 	{
-		z-index: 431;
+		z-index: 453;
 		min-height: 63px;
 		background-color: transparent;
-		line-height: 50px;
-		font-size: 42px;
+		line-height: 36px;
+		font-size: 30px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		top: -1px;
@@ -759,13 +767,14 @@
 
 	#u38394-4
 	{
-		z-index: 435;
-		min-height: 107px;
+		z-index: 457;
+		min-height: 75px;
 		background-color: transparent;
 		color: #323232;
 		line-height: 17px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
+		margin-top: 23px;
 		position: relative;
 		width: 95.91%;
 		margin-left: 2.36%;
@@ -773,7 +782,7 @@
 
 	#u42245
 	{
-		z-index: 440;
+		z-index: 462;
 		top: -337px;
 		margin-bottom: -209px;
 		width: 67.17%;
@@ -782,23 +791,23 @@
 
 	#u40197
 	{
-		z-index: 441;
+		z-index: 463;
 	}
 
 	#u39821
 	{
-		z-index: 442;
+		z-index: 464;
 	}
 
 	#u39823
 	{
-		z-index: 443;
+		z-index: 465;
 		height: 209px;
 	}
 
 	#u40126-4
 	{
-		z-index: 444;
+		z-index: 466;
 		min-height: 37px;
 		margin-top: 60px;
 		width: 81.39%;
@@ -814,7 +823,7 @@
 
 	#u40143-4
 	{
-		z-index: 448;
+		z-index: 470;
 		min-height: 37px;
 		margin-top: 112px;
 		width: 81.39%;
@@ -830,7 +839,7 @@
 
 	#u40160-4
 	{
-		z-index: 452;
+		z-index: 474;
 		min-height: 37px;
 		margin-top: 164px;
 		width: 81.39%;
@@ -846,7 +855,7 @@
 
 	#u42241-4
 	{
-		z-index: 456;
+		z-index: 478;
 		margin-top: 9px;
 		width: 81.39%;
 		left: 2.36%;
@@ -955,12 +964,137 @@
 		margin: 21px 0px 0px 36.67621776504298%;
 	}
 
-	#pu38412-4,#pu39578
+	#pu40166
 	{
-		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 67.17%;
 		margin-left: 31.17%;
+	}
+
+	#u40166
+	{
+		z-index: 427;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 100%;
+	}
+
+	#u40170
+	{
+		z-index: 428;
+		background-color: #FFFFFF;
+		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u40167-4
+	{
+		z-index: 430;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 36px;
+		font-size: 30px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u40171-4
+	{
+		z-index: 434;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		text-align: justify;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 1px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u40169
+	{
+		z-index: 429;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/town-centre-pripyat-u40169-fr.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#u87306
+	{
+		z-index: 394;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 100%;
+	}
+
+	#u87310
+	{
+		z-index: 395;
+		background-color: #FFFFFF;
+		padding-bottom: 21px;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u87308-4
+	{
+		z-index: 397;
+		min-height: 88px;
+		background-color: transparent;
+		line-height: 42px;
+		font-size: 35px;
+		font-family: open-sans, sans-serif;
+		font-weight: 800;
+		position: relative;
+		width: 100%;
+	}
+
+	#u87307-4
+	{
+		z-index: 401;
+		min-height: 69px;
+		background-color: transparent;
+		color: #323232;
+		line-height: 17px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		margin-top: 24px;
+		position: relative;
+		width: 100%;
+	}
+
+	#u87309
+	{
+		z-index: 396;
+		height: 272px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 24px;
+		width: 49.51%;
+		left: 48.76%;
+		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u87309-fr.jpg") no-repeat left center;
+		background-size: cover;
 	}
 
 	#u39578
@@ -1028,17 +1162,18 @@
 
 	#u39609
 	{
-		z-index: 394;
+		z-index: 405;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
 		position: relative;
-		width: 100%;
+		width: 67.17%;
+		margin-left: 31.17%;
 	}
 
 	#u39610
 	{
-		z-index: 395;
+		z-index: 406;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1048,7 +1183,7 @@
 
 	#u39612-4
 	{
-		z-index: 397;
+		z-index: 408;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 32px;
@@ -1061,7 +1196,7 @@
 
 	#u39614-4
 	{
-		z-index: 401;
+		z-index: 412;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -1076,7 +1211,7 @@
 
 	#u39613
 	{
-		z-index: 396;
+		z-index: 407;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1092,17 +1227,18 @@
 
 	#u39671
 	{
-		z-index: 405;
+		z-index: 416;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
 		position: relative;
-		width: 100%;
+		width: 67.17%;
+		margin-left: 31.17%;
 	}
 
 	#u39672
 	{
-		z-index: 406;
+		z-index: 417;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1112,7 +1248,7 @@
 
 	#u39675-4
 	{
-		z-index: 408;
+		z-index: 419;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 50px;
@@ -1125,7 +1261,7 @@
 
 	#u39676-4
 	{
-		z-index: 412;
+		z-index: 423;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -1133,14 +1269,14 @@
 		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 20px;
+		margin-top: 19px;
 		position: relative;
 		width: 100%;
 	}
 
 	#u39673
 	{
-		z-index: 407;
+		z-index: 418;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1154,9 +1290,9 @@
 		background-size: cover;
 	}
 
-	#u40166
+	#u83024
 	{
-		z-index: 416;
+		z-index: 482;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -1165,9 +1301,207 @@
 		margin-left: 31.17%;
 	}
 
-	#u40170
+	#u83025
 	{
-		z-index: 417;
+		z-index: 483;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u83027
+	{
+		z-index: 484;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u83028
+	{
+		z-index: 485;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u83029
+	{
+		z-index: 486;
+		height: 261px;
+		background-color: #DBDBDB;
+		position: relative;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u83030-4
+	{
+		z-index: 487;
+		min-height: 36px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 213px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u83030-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 36px;
+		width: 81.39%;
+		margin: 213px -10000px 0px 0%;
+	}
+
+	#u83026-4
+	{
+		z-index: 491;
+		min-height: 53px;
+		background-color: transparent;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 13px;
+		width: 81.39%;
+		left: 2.36%;
+	}
+
+	#u83026
+	{
+		font-family: open-sans, sans-serif;
+		font-weight: 300;
+	}
+
+	#u83032-4
+	{
+		z-index: 495;
+		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 164px;
+		width: 81.39%;
+		left: 2.24%;
+	}
+
+	#u83032-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 37px;
+		width: 81.39%;
+		margin: 164px -10000px 0px 0%;
+	}
+
+	#u83031-4
+	{
+		z-index: 499;
+		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 64px;
+		width: 81.39%;
+		left: 2.24%;
+	}
+
+	#u83031-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 37px;
+		width: 81.39%;
+		margin: 64px -10000px 0px 0%;
+	}
+
+	#u83033-4
+	{
+		z-index: 503;
+		min-height: 37px;
+		background-color: transparent;
+		color: #7F7F7F;
+		line-height: 22px;
+		font-size: 18px;
+		font-family: open-sans, sans-serif;
+		font-weight: 700;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 118px;
+		width: 81.39%;
+		left: 2.24%;
+	}
+
+	#u83033-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 37px;
+		width: 81.39%;
+		margin: 118px -10000px 0px 0%;
+	}
+
+	#u83030-4:hover p,#u83032-4:hover p,#u83031-4:hover p,#u83033-4:hover p
+	{
+		color: #002C73;
+		visibility: inherit;
+	}
+
+	#u89093
+	{
+		z-index: 438;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		position: relative;
+		width: 67.17%;
+		margin-left: 31.17%;
+	}
+
+	#u89095
+	{
+		z-index: 439;
 		background-color: #FFFFFF;
 		padding-bottom: 21px;
 		position: relative;
@@ -1175,7 +1509,7 @@
 		width: 100%;
 	}
 
-	#pu40167-4
+	#pu40167-4,#pu39675-4,#pu89097-4
 	{
 		padding-bottom: 0px;
 		margin-right: -10000px;
@@ -1184,9 +1518,9 @@
 		margin-left: 1.37%;
 	}
 
-	#u40167-4
+	#u89097-4
 	{
-		z-index: 419;
+		z-index: 441;
 		min-height: 88px;
 		background-color: transparent;
 		line-height: 36px;
@@ -1197,9 +1531,9 @@
 		width: 100%;
 	}
 
-	#u40171-6
+	#u89094-6
 	{
-		z-index: 423;
+		z-index: 445;
 		min-height: 69px;
 		background-color: transparent;
 		color: #323232;
@@ -1211,14 +1545,14 @@
 		width: 100%;
 	}
 
-	#u40171-2
+	#u89094-2
 	{
 		font-style: italic;
 	}
 
-	#u40169
+	#u89096
 	{
-		z-index: 418;
+		z-index: 440;
 		height: 272px;
 		border-style: solid;
 		border-width: 1px;
@@ -1228,11 +1562,11 @@
 		margin-top: 24px;
 		width: 49.51%;
 		left: 48.76%;
-		background: transparent url("../images/cassidy-panama-papers-american-names-1200-u40169-fr.jpg") no-repeat center center;
+		background: transparent url("../images/cassidy-panama-papers-american-names-1200-u89096-fr.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
-	#u39673:hover,#u40169:hover
+	#u40169:hover,#u39673:hover,#u89096:hover
 	{
 		background-repeat: no-repeat;
 		background-position: center center;
@@ -1267,7 +1601,7 @@
 		width: 100%;
 	}
 
-	#pu39582-4,#pu39612-4,#pu39675-4,#pu38370-4
+	#pu87308-4,#pu39582-4,#pu39612-4,#pu38370-4
 	{
 		margin-right: -10000px;
 		margin-top: 40px;
@@ -1288,7 +1622,7 @@
 		width: 100%;
 	}
 
-	#u39582-4:hover,#u39612-4:hover,#u39675-4:hover,#u40167-4:hover,#u38370-4:hover
+	#u40167-4:hover,#u87308-4:hover,#u39582-4:hover,#u39612-4:hover,#u39675-4:hover,#u89097-4:hover,#u38370-4:hover
 	{
 		opacity: 0.5;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -1300,7 +1634,7 @@
 		margin: 0px 0px 0px 0%;
 	}
 
-	#u38393-4:hover p,#u39582-4:hover p,#u39612-4:hover p,#u39675-4:hover p,#u40167-4:hover p,#u38370-4:hover p
+	#u38393-4:hover p,#u40167-4:hover p,#u87308-4:hover p,#u39582-4:hover p,#u39612-4:hover p,#u39675-4:hover p,#u89097-4:hover p,#u38370-4:hover p
 	{
 		color: #EDA900;
 		visibility: inherit;
@@ -1336,7 +1670,7 @@
 		background-size: cover;
 	}
 
-	#u39583:hover,#u39613:hover,#u38367:hover
+	#u87309:hover,#u39583:hover,#u39613:hover,#u38367:hover
 	{
 		background-repeat: no-repeat;
 		background-position: left center;
@@ -1348,204 +1682,6 @@
 		width: 49.51%;
 		margin: 24px -10000px 0px 0%;
 		background-size: cover;
-	}
-
-	#u83024
-	{
-		z-index: 460;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		width: 67.17%;
-		margin-left: 31.17%;
-	}
-
-	#u83025
-	{
-		z-index: 461;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u83027
-	{
-		z-index: 462;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u83028
-	{
-		z-index: 463;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u83029
-	{
-		z-index: 464;
-		height: 261px;
-		background-color: #DBDBDB;
-		position: relative;
-		margin-right: -10000px;
-		width: 100%;
-	}
-
-	#u83030-4
-	{
-		z-index: 465;
-		min-height: 36px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 213px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u83030-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 36px;
-		width: 81.39%;
-		margin: 213px -10000px 0px 0%;
-	}
-
-	#u83026-4
-	{
-		z-index: 469;
-		min-height: 53px;
-		background-color: transparent;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 13px;
-		width: 81.39%;
-		left: 2.36%;
-	}
-
-	#u83026
-	{
-		font-family: open-sans, sans-serif;
-		font-weight: 300;
-	}
-
-	#u83032-4
-	{
-		z-index: 473;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 164px;
-		width: 81.39%;
-		left: 2.24%;
-	}
-
-	#u83032-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 164px -10000px 0px 0%;
-	}
-
-	#u83031-4
-	{
-		z-index: 477;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 64px;
-		width: 81.39%;
-		left: 2.24%;
-	}
-
-	#u83031-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 64px -10000px 0px 0%;
-	}
-
-	#u83033-4
-	{
-		z-index: 481;
-		min-height: 37px;
-		background-color: transparent;
-		color: #7F7F7F;
-		line-height: 22px;
-		font-size: 18px;
-		font-family: open-sans, sans-serif;
-		font-weight: 700;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 118px;
-		width: 81.39%;
-		left: 2.24%;
-	}
-
-	#u83033-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 37px;
-		width: 81.39%;
-		margin: 118px -10000px 0px 0%;
-	}
-
-	#u83030-4:hover p,#u83032-4:hover p,#u83031-4:hover p,#u83033-4:hover p
-	{
-		color: #002C73;
-		visibility: inherit;
 	}
 
 	#u814,#u814-bw

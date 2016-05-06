@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000000;
-	background-color: #E9FC62;
+	color: #00000D;
+	background-color: #B96AD5;
 }
 
 .js body
@@ -17,35 +17,35 @@
 #page
 {
 	padding-bottom: 0px;
-	width: 100%;
-	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-right: auto;
-	background-image: none;
-	margin-left: auto;
+	width: 100%;
 	z-index: 1;
+	margin-left: auto;
+	border-width: 0px;
+	background-image: none;
 }
 
 #u35530
 {
-	height: 81px;
-	background-color: #002C73;
 	top: 0px;
+	background-color: #002C73;
 	position: fixed;
+	height: 81px;
 }
 
 #u35531-3
 {
-	background-color: #EDA900;
-	top: 81px;
-	border-style: solid;
-	font-family: open-sans, sans-serif;
-	border-width: 1px;
-	border-color: #EDA900;
 	min-height: 35px;
-	font-weight: 300;
+	border-color: #EDA900;
 	position: fixed;
+	font-family: open-sans, sans-serif;
+	border-style: solid;
+	top: 81px;
+	background-color: #EDA900;
+	border-width: 1px;
+	font-weight: 300;
 }
 
 #u35641
@@ -69,9 +69,9 @@
 
 #u35582
 {
-	height: 215px;
 	background-color: #002C73;
 	z-index: 2;
+	height: 215px;
 }
 
 #u35582-bw
@@ -82,14 +82,14 @@
 
 #u35583-4
 {
-	background-color: transparent;
-	line-height: 22px;
-	font-family: open-sans, sans-serif;
 	min-height: 26px;
-	font-weight: 300;
-	color: #F5F5F5;
-	font-size: 18px;
 	z-index: 3;
+	font-family: open-sans, sans-serif;
+	line-height: 22px;
+	background-color: transparent;
+	color: #F5F5F5;
+	font-weight: 300;
+	font-size: 18px;
 }
 
 #u35583-4-bw
@@ -102,10 +102,10 @@
 #menuu35584
 {
 	min-height: 131px;
-	background-color: transparent;
-	border-color: transparent;
 	z-index: 7;
+	border-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
 }
 
 #u43647
@@ -115,10 +115,10 @@
 
 #u43648
 {
-	background-color: transparent;
-	top: 0px;
 	min-height: 14px;
 	left: 0%;
+	background-color: transparent;
+	top: 0px;
 	padding-bottom: 3px;
 	position: relative;
 }
@@ -131,56 +131,56 @@
 
 #u43651-4
 {
-	top: 1px;
-	left: 0%;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	text-align: left;
 	min-height: 14px;
-	line-height: 14px;
-	border-width: 0px;
-	border-color: transparent;
-	font-weight: 300;
+	left: 0%;
 	color: #FFFFFF;
-	position: relative;
+	top: 1px;
+	background-color: transparent;
+	font-weight: 300;
 	font-size: 12px;
+	text-align: left;
+	line-height: 14px;
+	border-color: transparent;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	border-width: 0px;
 }
 
 #u35599,#u35592,#u35620,#u35627,#u35585,#u35613
 {
-	background-color: transparent;
 	margin-top: 2px;
+	background-color: transparent;
 }
 
 #u35600,#u35595,#u35623,#u35630,#u35588,#u35614
 {
 	min-height: 14px;
-	background-color: transparent;
 	padding-bottom: 3px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u35603-4,#u35597-4,#u35626-4,#u35632-4,#u35589-4,#u35617-4
 {
-	top: 1px;
-	font-family: open-sans, sans-serif;
-	background-color: transparent;
-	text-align: left;
 	min-height: 14px;
-	line-height: 14px;
-	border-width: 0px;
-	border-color: transparent;
-	font-weight: 300;
 	color: #FFFFFF;
-	position: relative;
+	top: 1px;
+	background-color: transparent;
+	font-weight: 300;
 	font-size: 12px;
+	text-align: left;
+	line-height: 14px;
+	border-color: transparent;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	border-width: 0px;
 }
 
 #u43648.MuseMenuActive #u43651-4,#u35600.MuseMenuActive #u35603-4,#u35595.MuseMenuActive #u35597-4,#u35623.MuseMenuActive #u35626-4,#u35630.MuseMenuActive #u35632-4,#u35588.MuseMenuActive #u35589-4,#u35614.MuseMenuActive #u35617-4
 {
-	padding-bottom: 0px;
 	min-height: 14px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	margin: 0px 0px 0px 0%;
 }
 
@@ -199,19 +199,19 @@
 
 #u35634-4
 {
+	min-height: 21px;
+	z-index: 50;
+	color: #F5F5F5;
+	text-align: center;
 	background-color: transparent;
 	font-family: open-sans, sans-serif;
-	text-align: center;
-	min-height: 21px;
 	font-weight: 300;
-	color: #F5F5F5;
-	z-index: 50;
 }
 
 #u35583-2,#u43651-2,#u35603-2,#u35597-2,#u35626-2,#u35632-2,#u35589-2,#u35617-2,#u35634-2
 {
-	padding-left: 30px;
 	padding-right: 25px;
+	padding-left: 30px;
 }
 
 #u35634-4-bw
@@ -223,11 +223,11 @@
 
 #u35635
 {
-	background-color: transparent;
 	margin-top: 5px;
-	margin-right: -10000px;
-	position: relative;
 	z-index: 54;
+	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
 }
 
 #u35636
@@ -239,10 +239,10 @@
 
 #u35637
 {
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
 	z-index: 56;
+	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
 }
 
 #u35638
@@ -254,11 +254,11 @@
 
 #u35639
 {
-	background-color: transparent;
 	margin-top: 5px;
-	margin-right: -10000px;
-	position: relative;
 	z-index: 58;
+	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
 }
 
 #u35640
@@ -1291,7 +1291,7 @@ body
 		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 33px;
+		margin-top: 19px;
 		position: relative;
 		width: 100%;
 	}
@@ -1313,7 +1313,7 @@ body
 		border-color: #000000;
 		position: relative;
 		width: 99.71%;
-		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u36030-fr.jpg") no-repeat left top;
+		background: transparent url("../images/277355_l_srgb_s_gl-u36030-fr.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -1336,9 +1336,9 @@ body
 		z-index: 68;
 		min-height: 25px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -1391,8 +1391,8 @@ body
 	{
 		color: #000000;
 		visibility: inherit;
-		letter-spacing: 0px;
 		font-size: 16px;
+		letter-spacing: 0px;
 	}
 
 	#u36629
@@ -1432,10 +1432,10 @@ body
 		z-index: 112;
 		min-height: 94px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 33px;
@@ -1483,9 +1483,9 @@ body
 		z-index: 72;
 		min-height: 26px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -1506,7 +1506,7 @@ body
 		border-color: #002C73;
 		background-color: #FFFFFF;
 		padding-top: 6px;
-		padding-bottom: 14.100000000000136px;
+		padding-bottom: 14.100000000000591px;
 		margin-top: 60px;
 		position: relative;
 		width: 67.15%;
@@ -1760,7 +1760,7 @@ body
 		z-index: 63;
 		background-color: #FFFFFF;
 		padding-top: 31px;
-		padding-bottom: 39.47417218543035px;
+		padding-bottom: 39.474172185429666px;
 		margin-top: 62px;
 		position: relative;
 		width: 67.15%;
@@ -1777,7 +1777,7 @@ body
 		position: relative;
 		width: 95.84%;
 		margin-left: 2.31%;
-		background: transparent url("../images/human%20embryonic%20stem%20cells.jpg") no-repeat center center;
+		background: transparent url("../images/scientists-believe-that-the-protecting-or-lengthening-of-telomeres-which-make-up-the-end-of-every-chromosome-could-help-slow-down-or-reverse-ageing-image-courtesy-of-adobe.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -1852,8 +1852,7 @@ body
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		position: relative;
@@ -1928,10 +1927,10 @@ body
 		z-index: 116;
 		min-height: 60px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 20px;
@@ -2249,10 +2248,10 @@ body
 		z-index: 438;
 		min-height: 101px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 51px;
@@ -2277,7 +2276,7 @@ body
 		border-color: #000000;
 		position: relative;
 		width: 99.71%;
-		background: transparent url("../images/img_0635-u37163-fr.jpg") no-repeat left top;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u37163-fr.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -2300,9 +2299,9 @@ body
 		z-index: 418;
 		min-height: 28px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -2646,7 +2645,7 @@ body
 		position: relative;
 		width: 95.84%;
 		margin-left: 2.31%;
-		background: transparent url("../images/rtx1wwsv.jpg") no-repeat right bottom;
+		background: transparent url("../images/town-centre-pripyat-u37184-fr.jpg") no-repeat right bottom;
 		background-size: cover;
 	}
 
@@ -2701,8 +2700,8 @@ body
 		z-index: 434;
 		min-height: 78px;
 		background-color: transparent;
-		line-height: 55px;
-		font-size: 46px;
+		line-height: 36px;
+		font-size: 30px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		margin-top: 1px;
@@ -2735,8 +2734,8 @@ body
 		min-height: 60px;
 		background-color: transparent;
 		text-align: justify;
-		line-height: 19px;
 		color: #323232;
+		line-height: 19px;
 		font-size: 16px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
@@ -2750,10 +2749,10 @@ body
 		z-index: 554;
 		min-height: 55px;
 		background-color: transparent;
+		line-height: 48px;
 		color: #7F7F7F;
 		text-align: center;
 		font-size: 40px;
-		line-height: 48px;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 		margin-top: 46px;
@@ -3826,13 +3825,21 @@ body
 	{
 		z-index: 60;
 		background-color: #FFFFFF;
-		padding-top: 9px;
-		padding-bottom: 14.149999999999977px;
+		padding-bottom: 14px;
 		top: -369px;
-		margin-bottom: -337px;
+		margin-bottom: -328px;
 		position: relative;
 		width: 67.15%;
 		margin-left: 31.15%;
+	}
+
+	#pu36036-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 9px;
+		width: 44.9%;
+		margin-left: 1.39%;
 	}
 
 	#u36036-4
@@ -3845,8 +3852,16 @@ body
 		font-family: open-sans-condensed, sans-serif;
 		font-weight: 300;
 		position: relative;
-		width: 35.11%;
-		margin-left: 1.39%;
+		width: 78.2%;
+	}
+
+	#u36036-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 21px;
+		width: 78.2%;
+		margin: 0px 0px 0px 0%;
 	}
 
 	#u36040-4
@@ -3858,8 +3873,21 @@ body
 		font-size: 32px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
+		margin-top: 10px;
 		position: relative;
 		width: 100%;
+	}
+
+	#u36040-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 88px;
+		width: 100%;
+		margin: 10px 0px 0px 0%;
 	}
 
 	#u36044-4
@@ -3877,6 +3905,15 @@ body
 		width: 100%;
 	}
 
+	#pu36030
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 22px;
+		width: 49.79%;
+		margin-left: 48.83%;
+	}
+
 	#u36030
 	{
 		z-index: 66;
@@ -3885,10 +3922,8 @@ body
 		border-width: 1px;
 		border-color: #000000;
 		position: relative;
-		margin-right: -10000px;
-		width: 51.05%;
-		left: 48.85%;
-		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u36030-fr2.jpg") no-repeat left top;
+		width: 99.58%;
+		background: transparent url("../images/277355_l_srgb_s_gl-u36030-fr2.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -3901,8 +3936,8 @@ body
 		filter: alpha(opacity=70);
 		height: 272px;
 		min-height: 0px;
-		width: 51.05%;
-		margin: 0px -10000px 0px 0%;
+		width: 99.58%;
+		margin: 0px 0px 0px 0%;
 		background-size: cover;
 	}
 
@@ -3911,17 +3946,17 @@ body
 		z-index: 68;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
-		top: -3px;
-		margin-bottom: -3px;
+		top: -1px;
+		margin-bottom: -1px;
 		position: relative;
-		width: 35%;
-		margin-left: 63.52%;
+		width: 70.3%;
+		margin-left: 29.49%;
 	}
 
 	#u36614
@@ -3953,29 +3988,14 @@ body
 	{
 		color: #000000;
 		visibility: inherit;
-		letter-spacing: 0px;
 		font-size: 16px;
+		letter-spacing: 0px;
 	}
 
 	#u36629
 	{
 		font-family: open-sans-condensed, sans-serif;
 		font-weight: 300;
-	}
-
-	#ppu36040-4,#ppu36626-4
-	{
-		margin-top: -6px;
-		width: 97.13%;
-		margin-left: 1.39%;
-	}
-
-	#pu36040-4,#pu36626-4
-	{
-		padding-bottom: 0px;
-		margin-right: -10000px;
-		margin-top: 16px;
-		width: 46.23%;
 	}
 
 	#u36626-4
@@ -3991,27 +4011,15 @@ body
 		width: 100%;
 	}
 
-	#u36040-4:hover,#u36626-4:hover
-	{
-		opacity: 0.5;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-		filter: alpha(opacity=50);
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 88px;
-		width: 100%;
-		margin: 0px 0px 0px 0%;
-	}
-
 	#u36623-4
 	{
 		z-index: 112;
 		min-height: 69px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 20px;
@@ -4035,28 +4043,14 @@ body
 		background-size: cover;
 	}
 
-	#u36620:hover
-	{
-		background-repeat: no-repeat;
-		background-position: left top;
-		opacity: 0.7;
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-		filter: alpha(opacity=70);
-		height: 272px;
-		min-height: 0px;
-		width: 51.05%;
-		margin: 0px -10000px -1px 0%;
-		background-size: cover;
-	}
-
 	#u36617-4
 	{
 		z-index: 72;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -4334,7 +4328,7 @@ body
 		position: relative;
 		width: 95.86%;
 		margin-left: 2.35%;
-		background: transparent url("../images/human%20embryonic%20stem%20cells-u36670-fr.jpg") no-repeat center center;
+		background: transparent url("../images/scientists-believe-that-the-protecting-or-lengthening-of-telomeres-which-make-up-the-end-of-every-chromosome-could-help-slow-down-or-reverse-ageing-image-courtesy-of-adobe-u36670-fr.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -4388,8 +4382,7 @@ body
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		position: relative;
@@ -4421,15 +4414,6 @@ body
 		position: relative;
 		width: 35.11%;
 		margin-left: 1.39%;
-	}
-
-	#u36036-4:hover,#u36629-4.MuseLinkActive,#u36697-4:hover
-	{
-		padding-top: 0px;
-		padding-bottom: 0px;
-		min-height: 21px;
-		width: 35.11%;
-		margin: 0px 0px 0px 1.3829787234042552%;
 	}
 
 	#u36694-4
@@ -4464,10 +4448,10 @@ body
 		z-index: 116;
 		min-height: 81px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 28px;
@@ -4489,13 +4473,6 @@ body
 		width: 67.15%;
 		margin-left: 31.15%;
 		border-width: 4px 0px 0px;
-	}
-
-	#u36632:hover,#u36703:hover
-	{
-		min-height: 0px;
-		width: 67.15%;
-		margin: 38px 0px 0px 31.142857142857146%;
 	}
 
 	#u36700-4
@@ -4589,9 +4566,21 @@ body
 		font-size: 18px;
 		font-family: open-sans, sans-serif;
 		font-weight: 700;
-		margin-top: 18px;
+		margin-top: 10px;
 		position: relative;
 		width: 100%;
+	}
+
+	#u36709-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 32px;
+		width: 100%;
+		margin: 10px 0px 0px 0%;
 	}
 
 	#u37329
@@ -4727,19 +4716,12 @@ body
 	{
 		z-index: 414;
 		background-color: #FFFFFF;
+		padding-top: 9px;
 		padding-bottom: 38px;
 		margin-top: 40px;
 		position: relative;
 		width: 67.15%;
 		margin-left: 31.15%;
-	}
-
-	#pu37173-4
-	{
-		margin-right: -10000px;
-		margin-top: 9px;
-		width: 44.9%;
-		margin-left: 1.39%;
 	}
 
 	#u37173-4
@@ -4752,16 +4734,32 @@ body
 		font-family: open-sans-condensed, sans-serif;
 		font-weight: 300;
 		position: relative;
-		width: 78.2%;
+		width: 35.11%;
+		margin-left: 1.39%;
 	}
 
-	#u37173-4:hover
+	#u36629-4.MuseLinkActive,#u36697-4:hover,#u37173-4:hover
 	{
 		padding-top: 0px;
 		padding-bottom: 0px;
 		min-height: 21px;
-		width: 78.2%;
-		margin: 0px 0px 0px 0%;
+		width: 35.11%;
+		margin: 0px 0px 0px 1.3829787234042552%;
+	}
+
+	#ppu36626-4,#ppu37168-4
+	{
+		margin-top: -6px;
+		width: 97.13%;
+		margin-left: 1.39%;
+	}
+
+	#pu36626-4,#pu37168-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 16px;
+		width: 46.23%;
 	}
 
 	#u37168-4
@@ -4773,12 +4771,11 @@ body
 		font-size: 35px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
-		margin-top: 10px;
 		position: relative;
 		width: 100%;
 	}
 
-	#u37168-4:hover
+	#u36626-4:hover,#u37168-4:hover
 	{
 		opacity: 0.5;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -4787,7 +4784,7 @@ body
 		padding-bottom: 0px;
 		min-height: 88px;
 		width: 100%;
-		margin: 10px 0px 0px 0%;
+		margin: 0px 0px 0px 0%;
 	}
 
 	#u37158-4
@@ -4795,24 +4792,15 @@ body
 		z-index: 438;
 		min-height: 69px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 43px;
+		margin-top: 26px;
 		position: relative;
 		width: 100%;
-	}
-
-	#pu37163
-	{
-		padding-bottom: 0px;
-		margin-right: -10000px;
-		margin-top: 24px;
-		width: 49.79%;
-		margin-left: 48.83%;
 	}
 
 	#u37163
@@ -4822,13 +4810,16 @@ body
 		border-style: solid;
 		border-width: 1px;
 		border-color: #000000;
+		margin-bottom: -1px;
 		position: relative;
-		width: 99.58%;
-		background: transparent url("../images/img_0635-u37163-fr2.jpg") no-repeat left top;
+		margin-right: -10000px;
+		width: 51.05%;
+		left: 48.85%;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u37163-fr2.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
-	#u37163:hover
+	#u36620:hover,#u37163:hover
 	{
 		background-repeat: no-repeat;
 		background-position: left top;
@@ -4837,8 +4828,8 @@ body
 		filter: alpha(opacity=70);
 		height: 272px;
 		min-height: 0px;
-		width: 99.58%;
-		margin: 0px 0px 0px 0%;
+		width: 51.05%;
+		margin: 0px -10000px -1px 0%;
 		background-size: cover;
 	}
 
@@ -4847,15 +4838,16 @@ body
 		z-index: 418;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
-		margin-top: 5px;
+		margin-top: 12px;
 		position: relative;
-		width: 99.79%;
+		width: 49.69%;
+		margin-left: 48.83%;
 	}
 
 	#u37204
@@ -4866,18 +4858,18 @@ body
 		background-color: #FFFFFF;
 		padding-top: 6px;
 		padding-bottom: 14.099999999999909px;
-		margin-top: 39px;
+		margin-top: 38px;
 		position: relative;
 		width: 67.15%;
 		margin-left: 31.15%;
 		border-width: 4px 0px 0px;
 	}
 
-	#u37204:hover
+	#u36632:hover,#u36703:hover,#u37204:hover
 	{
 		min-height: 0px;
 		width: 67.15%;
-		margin: 39px 0px 0px 31.142857142857146%;
+		margin: 38px 0px 0px 31.142857142857146%;
 	}
 
 	#u37210-4
@@ -5000,7 +4992,7 @@ body
 		width: 100%;
 	}
 
-	#u36638-4:hover,#u36649-4:hover,#u36706-4:hover,#u36709-4:hover,#u37220-4:hover
+	#u36638-4:hover,#u36649-4:hover,#u36706-4:hover,#u37220-4:hover
 	{
 		opacity: 0.5;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -5177,7 +5169,7 @@ body
 		background-color: #FFFFFF;
 		padding-top: 23px;
 		padding-bottom: 15px;
-		margin-top: 39px;
+		margin-top: 40px;
 		position: relative;
 		width: 67.15%;
 		margin-left: 31.15%;
@@ -5193,7 +5185,7 @@ body
 		position: relative;
 		width: 95.86%;
 		margin-left: 2.35%;
-		background: transparent url("../images/rtx1wwsv-u37184-fr.jpg") no-repeat right bottom;
+		background: transparent url("../images/town-centre-pripyat-u37184-fr2.jpg") no-repeat right bottom;
 		background-size: cover;
 	}
 
@@ -5248,8 +5240,8 @@ body
 		z-index: 434;
 		min-height: 60px;
 		background-color: transparent;
-		line-height: 55px;
-		font-size: 46px;
+		line-height: 36px;
+		font-size: 30px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		position: relative;
@@ -5281,8 +5273,8 @@ body
 		min-height: 46px;
 		background-color: transparent;
 		text-align: justify;
-		line-height: 19px;
 		color: #323232;
+		line-height: 19px;
 		font-size: 16px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
@@ -5296,10 +5288,10 @@ body
 		z-index: 554;
 		min-height: 55px;
 		background-color: transparent;
+		line-height: 48px;
 		color: #7F7F7F;
 		text-align: center;
 		font-size: 40px;
-		line-height: 48px;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 		margin-top: 52px;
@@ -5411,7 +5403,7 @@ body
 
 	#pu35582
 	{
-		margin-top: 249px;
+		margin-top: 261px;
 	}
 
 	#u35635
@@ -5980,7 +5972,8 @@ body
 		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 18px;
+		top: -8px;
+		margin-bottom: -8px;
 		position: relative;
 		width: 100%;
 	}
@@ -5994,7 +5987,7 @@ body
 		border-color: #000000;
 		position: relative;
 		width: 99.56%;
-		background: transparent url("../images/la-na-new-york-primary-pictures-20160419-u36030-fr3.jpg") no-repeat left top;
+		background: transparent url("../images/277355_l_srgb_s_gl-u36030-fr3.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -6017,9 +6010,9 @@ body
 		z-index: 68;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -6064,8 +6057,8 @@ body
 	{
 		color: #000000;
 		visibility: inherit;
-		letter-spacing: 0px;
 		font-size: 16px;
+		letter-spacing: 0px;
 	}
 
 	#u36629
@@ -6093,10 +6086,10 @@ body
 		z-index: 112;
 		min-height: 91px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 29px;
@@ -6122,9 +6115,9 @@ body
 		z-index: 72;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -6257,9 +6250,21 @@ body
 		font-size: 18px;
 		font-family: open-sans, sans-serif;
 		font-weight: 700;
-		margin-top: 18px;
+		margin-top: 30px;
 		position: relative;
 		width: 99.81%;
+	}
+
+	#u36649-4:hover
+	{
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 32px;
+		width: 99.81%;
+		margin: 30px 0px 0px 0%;
 	}
 
 	#u37360
@@ -6377,7 +6382,7 @@ body
 		text-align: center;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
-		margin-top: 20px;
+		margin-top: 8px;
 		position: relative;
 		width: 17.02%;
 		margin-left: 3.95%;
@@ -6390,7 +6395,7 @@ body
 		padding-bottom: 0px;
 		min-height: 42px;
 		width: 17.02%;
-		margin: 20px 0px 0px 3.941908713692946%;
+		margin: 8px 0px 0px 3.941908713692946%;
 	}
 
 	#u36667
@@ -6398,7 +6403,7 @@ body
 		z-index: 63;
 		background-color: #FFFFFF;
 		padding-top: 23px;
-		padding-bottom: 42px;
+		padding-bottom: 37px;
 		margin-top: 40px;
 		position: relative;
 		width: 87.32%;
@@ -6415,7 +6420,7 @@ body
 		position: relative;
 		width: 92.12%;
 		margin-left: 3.95%;
-		background: transparent url("../images/human%20embryonic%20stem%20cells-u36670-fr2.jpg") no-repeat center center;
+		background: transparent url("../images/scientists-believe-that-the-protecting-or-lengthening-of-telomeres-which-make-up-the-end-of-every-chromosome-could-help-slow-down-or-reverse-ageing-image-courtesy-of-adobe-u36670-fr2.jpg") no-repeat center center;
 		background-size: cover;
 	}
 
@@ -6469,8 +6474,7 @@ body
 		background-color: transparent;
 		color: #323232;
 		text-align: justify;
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 14px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 27px;
@@ -6546,10 +6550,10 @@ body
 		z-index: 116;
 		min-height: 81px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		margin-top: 45px;
@@ -6654,7 +6658,7 @@ body
 		font-size: 18px;
 		font-family: open-sans, sans-serif;
 		font-weight: 700;
-		margin-top: 18px;
+		margin-top: 6px;
 		position: relative;
 		width: 100%;
 	}
@@ -6668,7 +6672,7 @@ body
 		padding-bottom: 0px;
 		min-height: 32px;
 		width: 100%;
-		margin: 18px 0px 0px 0%;
+		margin: 6px 0px 0px 0%;
 	}
 
 	#u36709-4
@@ -6900,13 +6904,13 @@ body
 		z-index: 205;
 		min-height: 129px;
 		background-color: transparent;
+		line-height: 19px;
 		color: #323232;
 		text-align: justify;
 		font-size: 16px;
-		line-height: 19px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
-		margin-top: 5px;
+		margin-top: 47px;
 		position: relative;
 		width: 100%;
 	}
@@ -6928,7 +6932,7 @@ body
 		border-color: #000000;
 		position: relative;
 		width: 99.56%;
-		background: transparent url("../images/img_0635-u37163-fr3.jpg") no-repeat left top;
+		background: transparent url("../images/edge%202016-4-8%20whole%20club1-u37163-fr3.jpg") no-repeat left top;
 		background-size: cover;
 	}
 
@@ -6951,9 +6955,9 @@ body
 		z-index: 185;
 		min-height: 19px;
 		background-color: transparent;
+		line-height: 12px;
 		text-align: right;
 		font-size: 10px;
-		line-height: 12px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
 		font-style: italic;
@@ -6967,7 +6971,7 @@ body
 		z-index: 182;
 		background-color: #FFFFFF;
 		padding-top: 23px;
-		padding-bottom: 39px;
+		padding-bottom: 50px;
 		margin-top: 40px;
 		position: relative;
 		width: 87.32%;
@@ -6984,7 +6988,7 @@ body
 		position: relative;
 		width: 92.12%;
 		margin-left: 3.95%;
-		background: transparent url("../images/rtx1wwsv-u37184-fr2.jpg") no-repeat right bottom;
+		background: transparent url("../images/town-centre-pripyat-u37184-fr3.jpg") no-repeat right bottom;
 		background-size: cover;
 	}
 
@@ -7039,8 +7043,8 @@ body
 		z-index: 201;
 		min-height: 60px;
 		background-color: transparent;
-		line-height: 55px;
-		font-size: 46px;
+		line-height: 36px;
+		font-size: 30px;
 		font-family: open-sans, sans-serif;
 		font-weight: 800;
 		position: relative;
@@ -7066,8 +7070,8 @@ body
 		min-height: 46px;
 		background-color: transparent;
 		text-align: justify;
-		line-height: 19px;
 		color: #323232;
+		line-height: 19px;
 		font-size: 16px;
 		font-family: open-sans, sans-serif;
 		font-weight: 300;
@@ -7218,7 +7222,7 @@ body
 		width: 99.81%;
 	}
 
-	#u36649-4:hover,#u37220-4:hover
+	#u37220-4:hover
 	{
 		opacity: 0.5;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -7400,10 +7404,10 @@ body
 		z-index: 321;
 		min-height: 55px;
 		background-color: transparent;
+		line-height: 48px;
 		color: #7F7F7F;
 		text-align: center;
 		font-size: 40px;
-		line-height: 48px;
 		font-family: open-sans, sans-serif;
 		font-weight: 400;
 		margin-top: 111px;
@@ -8091,10 +8095,10 @@ body
 		border-color: transparent;
 		background-color: transparent;
 		text-align: left;
+		letter-spacing: 0px;
+		color: #F5F5F5;
 		line-height: 22px;
 		font-size: 18px;
-		color: #F5F5F5;
-		letter-spacing: 0px;
 	}
 
 	#u66171-4-bw
@@ -8134,7 +8138,7 @@ body
 		position: relative;
 	}
 
-	#u77841
+	#u88033
 	{
 		z-index: 78;
 		width: 380px;
@@ -8149,7 +8153,7 @@ body
 		position: relative;
 	}
 
-	#u77902
+	#u77841
 	{
 		z-index: 80;
 		width: 380px;
@@ -8173,7 +8177,25 @@ body
 	{
 		z-index: 83;
 		width: 360px;
-		min-height: 84px;
+		min-height: 93px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		padding: 10px;
+		color: #F5F5F5;
+		line-height: 31px;
+		font-size: 22px;
+		font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+		font-weight: bold;
+		margin-right: -10000px;
+		position: relative;
+	}
+
+	#u88066-4
+	{
+		z-index: 87;
+		width: 360px;
+		min-height: 93px;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -8189,27 +8211,9 @@ body
 
 	#u77874-4
 	{
-		z-index: 87;
-		width: 360px;
-		min-height: 84px;
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		padding: 10px;
-		color: #F5F5F5;
-		line-height: 31px;
-		font-size: 22px;
-		font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-		font-weight: bold;
-		margin-right: -10000px;
-		position: relative;
-	}
-
-	#u77935-4
-	{
 		z-index: 91;
 		width: 360px;
-		min-height: 84px;
+		min-height: 93px;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -8241,10 +8245,10 @@ body
 		border-color: transparent;
 		background-color: transparent;
 		text-align: left;
+		letter-spacing: 0px;
+		color: #F5F5F5;
 		line-height: 22px;
 		font-size: 18px;
-		color: #F5F5F5;
-		letter-spacing: 0px;
 	}
 
 	#u66172-4-bw
@@ -8427,9 +8431,9 @@ body
 		border-radius: 0px 55px 55px 0px ;
 		padding: 10px;
 		color: #F5F5F5;
+		line-height: 39px;
 		text-align: center;
 		font-size: 28px;
-		line-height: 39px;
 		font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 		top: 99px;
 	}
@@ -8453,9 +8457,9 @@ body
 		border-radius: 55px 0px 0px 55px ;
 		padding: 10px;
 		color: #F5F5F5;
+		line-height: 39px;
 		text-align: center;
 		font-size: 28px;
-		line-height: 39px;
 		font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 		top: 99px;
 		left: 346px;
@@ -8474,10 +8478,10 @@ body
 		border-color: transparent;
 		background-color: transparent;
 		text-align: left;
+		letter-spacing: 0px;
+		color: #F5F5F5;
 		line-height: 22px;
 		font-size: 18px;
-		color: #F5F5F5;
-		letter-spacing: 0px;
 	}
 
 	#u66173-4-bw
@@ -8625,10 +8629,10 @@ body
 		border-color: transparent;
 		background-color: transparent;
 		text-align: left;
+		letter-spacing: 0px;
+		color: #F5F5F5;
 		line-height: 22px;
 		font-size: 18px;
-		color: #F5F5F5;
-		letter-spacing: 0px;
 	}
 
 	#u66169-4-bw
@@ -8786,9 +8790,9 @@ body
 		border-radius: 0px 55px 55px 0px ;
 		padding: 10px;
 		color: #F5F5F5;
+		line-height: 39px;
 		text-align: center;
 		font-size: 28px;
-		line-height: 39px;
 		font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 		top: 97px;
 	}
@@ -8812,9 +8816,9 @@ body
 		border-radius: 55px 0px 0px 55px ;
 		padding: 10px;
 		color: #F5F5F5;
+		line-height: 39px;
 		text-align: center;
 		font-size: 28px;
-		line-height: 39px;
 		font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 		top: 97px;
 		left: 346px;
@@ -8833,10 +8837,10 @@ body
 		border-color: transparent;
 		background-color: transparent;
 		text-align: left;
+		letter-spacing: 0px;
+		color: #F5F5F5;
 		line-height: 22px;
 		font-size: 18px;
-		color: #F5F5F5;
-		letter-spacing: 0px;
 	}
 
 	#u66171-2,#u66172-2,#u66173-2,#u66169-2,#u66170-2
